@@ -1,5 +1,5 @@
 {
-  "name": "googlemap-scraper",
+  "name": "osm-proxy",
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "puppeteer": "^23.4.0"
+    "node-fetch": "^3.3.2"
   }
 }
