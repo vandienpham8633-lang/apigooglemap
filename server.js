@@ -6,7 +6,15 @@ const PORT = process.env.PORT || 3000;
 
 async function getAddress(lat, lng) {
   const url = `https://www.google.com/maps/place/${lat},${lng}`;
-  const res = await fetch(url);
+
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9,vi;q=0.8"
+    }
+  });
+
   const html = await res.text();
 
   const plusMatch = html.match(/"compound_code":"([^"]+)"/);
@@ -20,9 +28,8 @@ async function getAddress(lat, lng) {
 
 app.get("/address", async (req, res) => {
   const { lat, lng } = req.query;
-  if (!lat || !lng) {
-    return res.status(400).json({ error: "Missing lat or lng" });
-  }
+  if (!lat || !lng) return res.status(400).json({ error: "Missing lat or lng" });
+
   try {
     const result = await getAddress(lat, lng);
     res.json(result);
@@ -31,11 +38,4 @@ app.get("/address", async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
-app.get("/", (req, res) => {
-  res.send("Google Maps Address API is running. Try /address?lat=10.762622&lng=106.660172");
-});
-
-
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
