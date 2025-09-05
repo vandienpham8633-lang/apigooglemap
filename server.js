@@ -1,40 +1,66 @@
 import express from "express";
-import puppeteer from "puppeteer";
+import fetch from "node-fetch";
+import fs from "fs";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Load cache từ file
+let cache = {};
+const CACHE_FILE = "./cache.json";
+if (fs.existsSync(CACHE_FILE)) {
+  cache = JSON.parse(fs.readFileSync(CACHE_FILE, "utf8"));
+}
+
+// Hàm lưu cache ra file
+function saveCache() {
+  fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
+}
+
+// Middleware chặn spam: 1 request/giây
+let lastRequest = 0;
+async function callNominatim(lat, lon) {
+  const now = Date.now();
+  if (now - lastRequest < 1100) {
+    // Nếu gọi quá nhanh thì delay
+    await new Promise(r => setTimeout(r, 1100 - (now - lastRequest)));
+  }
+  lastRequest = Date.now();
+
+  const url = `https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json&accept-language=vi`;
+
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": "MyApp/1.0 (your-email@example.com)" // Nominatim yêu cầu có UA
+    }
+  });
+  return res.json();
+}
+
 app.get("/", (req, res) => {
-  res.send("Google Maps Scraper API is running. Try /address?lat=10.762622&lng=106.660172");
+  res.send("OSM Proxy API is running. Try /address?lat=10.762622&lng=106.660172");
 });
 
 app.get("/address", async (req, res) => {
   const { lat, lng } = req.query;
   if (!lat || !lng) return res.status(400).json({ error: "Missing lat or lng" });
 
+  const key = `${lat},${lng}`;
+  if (cache[key]) {
+    return res.json({ source: "cache", ...cache[key] });
+  }
+
   try {
-    const browser = await puppeteer.launch({
-      headless: true,
-      args: ["--no-sandbox", "--disable-setuid-sandbox"]
-    });
-    const page = await browser.newPage();
-    await page.goto(`https://www.google.com/maps/place/${lat},${lng}`, {
-      waitUntil: "networkidle2",
-      timeout: 30000
-    });
-
-    const html = await page.content();
-    await browser.close();
-
-    const plusMatch = html.match(/"compound_code":"([^"]+)"/);
-    const addrMatch = html.match(/"formatted_address":"([^"]+)"/);
-
-    res.json({
-      plusCode: plusMatch ? plusMatch[1] : null,
-      formattedAddress: addrMatch ? addrMatch[1] : null
-    });
-  } catch (e) {
-    res.status(500).json({ error: e.message });
+    const data = await callNominatim(lat, lng);
+    const result = {
+      display_name: data.display_name || null,
+      address: data.address || null
+    };
+    cache[key] = result;
+    saveCache();
+    res.json({ source: "nominatim", ...result });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
   }
 });
 
