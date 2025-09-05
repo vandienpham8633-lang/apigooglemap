@@ -34,3 +34,8 @@ app.get("/address", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+app.get("/", (req, res) => {
+  res.send("Google Maps Address API is running. Try /address?lat=10.762622&lng=106.660172");
+});
+
+
