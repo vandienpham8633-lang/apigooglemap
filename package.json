@@ -1,5 +1,5 @@
 {
-  "name": "osm-proxy",
+  "name": "osm-proxy-sqlite",
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "better-sqlite3": "^9.4.0"
   }
 }
