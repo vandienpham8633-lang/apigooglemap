@@ -5,24 +5,36 @@ import fs from "fs";
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Load cache từ file
-let cache = {};
 const CACHE_FILE = "./cache.json";
+let cache = {};
+
+// Đọc cache từ file (nếu hợp lệ)
 if (fs.existsSync(CACHE_FILE)) {
-  cache = JSON.parse(fs.readFileSync(CACHE_FILE, "utf8"));
+  try {
+    const content = fs.readFileSync(CACHE_FILE, "utf8").trim();
+    cache = content ? JSON.parse(content) : {};
+  } catch (e) {
+    console.error("⚠️ Lỗi khi đọc cache.json:", e.message);
+    cache = {};
+  }
+} else {
+  fs.writeFileSync(CACHE_FILE, "{}"); // Tạo file mặc định
 }
 
 // Hàm lưu cache ra file
 function saveCache() {
-  fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
+  try {
+    fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
+  } catch (e) {
+    console.error("⚠️ Lỗi khi lưu cache.json:", e.message);
+  }
 }
 
-// Middleware chặn spam: 1 request/giây
+// Middleware giới hạn tốc độ: 1 request/giây
 let lastRequest = 0;
 async function callNominatim(lat, lon) {
   const now = Date.now();
   if (now - lastRequest < 1100) {
-    // Nếu gọi quá nhanh thì delay
     await new Promise(r => setTimeout(r, 1100 - (now - lastRequest)));
   }
   lastRequest = Date.now();
@@ -31,7 +43,7 @@ async function callNominatim(lat, lon) {
 
   const res = await fetch(url, {
     headers: {
-      "User-Agent": "MyApp/1.0 (your-email@example.com)" // Nominatim yêu cầu có UA
+      "User-Agent": "MyApp/1.0 (your-email@example.com)" // Bắt buộc
     }
   });
   return res.json();
@@ -64,4 +76,4 @@ app.get("/address", async (req, res) => {
   }
 });
 
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
