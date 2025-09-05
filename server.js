@@ -1,41 +1,22 @@
 import express from "express";
 import fetch from "node-fetch";
-import fs from "fs";
+import Database from "better-sqlite3";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const CACHE_FILE = "./cache.json";
-let cache = {};
+// Khởi tạo SQLite DB (sẽ tạo file cache.db trong container)
+const db = new Database("cache.db");
+db.prepare(
+  "CREATE TABLE IF NOT EXISTS cache (lat REAL, lng REAL, result TEXT, PRIMARY KEY(lat,lng))"
+).run();
 
-// Đọc cache từ file (nếu hợp lệ)
-if (fs.existsSync(CACHE_FILE)) {
-  try {
-    const content = fs.readFileSync(CACHE_FILE, "utf8").trim();
-    cache = content ? JSON.parse(content) : {};
-  } catch (e) {
-    console.error("⚠️ Lỗi khi đọc cache.json:", e.message);
-    cache = {};
-  }
-} else {
-  fs.writeFileSync(CACHE_FILE, "{}"); // Tạo file mặc định
-}
-
-// Hàm lưu cache ra file
-function saveCache() {
-  try {
-    fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
-  } catch (e) {
-    console.error("⚠️ Lỗi khi lưu cache.json:", e.message);
-  }
-}
-
-// Middleware giới hạn tốc độ: 1 request/giây
+// Hàm gọi Nominatim có delay 1 request/giây
 let lastRequest = 0;
 async function callNominatim(lat, lon) {
   const now = Date.now();
   if (now - lastRequest < 1100) {
-    await new Promise(r => setTimeout(r, 1100 - (now - lastRequest)));
+    await new Promise((r) => setTimeout(r, 1100 - (now - lastRequest)));
   }
   lastRequest = Date.now();
 
@@ -43,7 +24,7 @@ async function callNominatim(lat, lon) {
 
   const res = await fetch(url, {
     headers: {
-      "User-Agent": "MyApp/1.0 (your-email@example.com)" // Bắt buộc
+      "User-Agent": "MyApp/1.0 (your-email@example.com)" // bắt buộc cho Nominatim
     }
   });
   return res.json();
@@ -55,11 +36,13 @@ app.get("/", (req, res) => {
 
 app.get("/address", async (req, res) => {
   const { lat, lng } = req.query;
-  if (!lat || !lng) return res.status(400).json({ error: "Missing lat or lng" });
+  if (!lat || !lng)
+    return res.status(400).json({ error: "Missing lat or lng" });
 
-  const key = `${lat},${lng}`;
-  if (cache[key]) {
-    return res.json({ source: "cache", ...cache[key] });
+  // Kiểm tra cache trong SQLite
+  const row = db.prepare("SELECT result FROM cache WHERE lat=? AND lng=?").get(lat, lng);
+  if (row) {
+    return res.json({ source: "cache", ...JSON.parse(row.result) });
   }
 
   try {
@@ -68,8 +51,11 @@ app.get("/address", async (req, res) => {
       display_name: data.display_name || null,
       address: data.address || null
     };
-    cache[key] = result;
-    saveCache();
+
+    // Lưu cache
+    db.prepare("INSERT OR REPLACE INTO cache (lat, lng, result) VALUES (?, ?, ?)")
+      .run(lat, lng, JSON.stringify(result));
+
     res.json({ source: "nominatim", ...result });
   } catch (err) {
     res.status(500).json({ error: err.message });
