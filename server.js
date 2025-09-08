@@ -1,8 +1,11 @@
 import express from "express";
 import fetch from "node-fetch";
 import PQueue from "p-queue";
-import olc from "open-location-code";   // ✅ import default
-const { encode } = olc;                 // ✅ lấy hàm encode
+// thay vì: import olc from "open-location-code"; const { encode } = olc;
+import pkg from "open-location-code";
+const { OpenLocationCode } = pkg;
+const olc = new OpenLocationCode();
+
 
 // ==== Config ====
 const PORT = process.env.PORT || 10000;
@@ -115,7 +118,7 @@ app.get("/address", async (req, res) => {
   }
 
   try {
-    const globalCode = encode(Number(lat), Number(lng));   // ✅ Plus Code
+    const globalCode = olc.encode(Number(lat), Number(lng));
     const plusCodeName = await fetchGooglePlusCodeName(globalCode, lat, lng);
 
     const result = {
