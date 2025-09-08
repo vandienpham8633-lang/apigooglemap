@@ -1,21 +1,28 @@
 import express from "express";
 import fetch from "node-fetch";
-import pkg from "open-location-code";  // fix lỗi import
-const { encode } = pkg;
+import PQueue from "p-queue";
+import olc from "open-location-code";   // ✅ import default
+const { encode } = olc;                 // ✅ lấy hàm encode
 
 // ==== Config ====
 const PORT = process.env.PORT || 10000;
-const GITHUB_OWNER = "vandienpham8633-lang"; 
-const GITHUB_REPO = "apigooglemap";
+const GITHUB_OWNER = "vandienpham8633-lang"; // đổi thành user/org của bạn
+const GITHUB_REPO = "apigooglemap";          // repo chứa cache.json
 const GITHUB_FILE = "cache.json";
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // token lưu trong Render
 if (!GITHUB_TOKEN) throw new Error("⚠️ Missing GITHUB_TOKEN");
 
+// ==== Express ====
 const app = express();
-let cache = {};
-let dirty = false;
 
-// ==== Load cache từ GitHub ====
+// ==== Queue để tránh spam ====
+const queue = new PQueue({ concurrency: 1, interval: 1000, intervalCap: 1 });
+
+// ==== Cache RAM (sẽ sync với GitHub) ====
+let cache = {};
+let dirty = false; // cờ báo cần sync
+
+// ==== Hàm tải cache từ GitHub ====
 async function loadCache() {
   const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/main/${GITHUB_FILE}`;
   try {
@@ -31,10 +38,11 @@ async function loadCache() {
   }
 }
 
-// ==== Save cache lên GitHub ====
+// ==== Hàm push cache lên GitHub ====
 async function saveCache() {
   if (!dirty) return;
   dirty = false;
+
   try {
     const apiUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_FILE}`;
     const headers = {
@@ -69,23 +77,32 @@ async function saveCache() {
     console.error("⚠️ Error saving cache:", err.message);
   }
 }
+
+// Interval commit 5 phút 1 lần
 setInterval(saveCache, 5 * 60 * 1000);
 
-// ==== Lấy Plus Code name từ Google Maps ====
+// ==== Hàm fetch thông tin Plus Code từ Google Maps ====
+// parse ra địa chỉ ngắn gọn từ page source
 async function fetchGooglePlusCodeName(globalCode, lat, lng) {
   const url = `https://www.google.com/maps/place/${lat},${lng}`;
-  const html = await fetch(url).then(r => r.text());
-  const regex = new RegExp(`${globalCode}.*?\\[\\\\\"(.*?)\\\\\"\\]`);
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`Google Maps fetch failed: ${res.status}`);
+
+  const html = await res.text();
+
+  const regex = new RegExp(`${globalCode}.*?\\[\\s*"(.*?)"\\s*\\]`);
   const match = html.match(regex);
-  if (match) {
-    return match[1]; // ví dụ: "WP9P+V4F Thuan An, Binh Duong"
+
+  if (match && match[1]) {
+    return match[1]; // ví dụ: WP9P+V4F Thuan An, Binh Duong
   }
+
   return null;
 }
 
 // ==== Routes ====
 app.get("/", (req, res) => {
-  res.send("✅ Google Maps Proxy with GitHub cache is running. Try /address?lat=10.9197&lng=106.7353");
+  res.send("✅ Google Plus Code Proxy with GitHub cache is running. Try /address?lat=10.9197&lng=106.7353");
 });
 
 app.get("/address", async (req, res) => {
@@ -98,7 +115,7 @@ app.get("/address", async (req, res) => {
   }
 
   try {
-    const globalCode = encode(Number(lat), Number(lng));
+    const globalCode = encode(Number(lat), Number(lng));   // ✅ Plus Code
     const plusCodeName = await fetchGooglePlusCodeName(globalCode, lat, lng);
 
     const result = {
@@ -115,6 +132,7 @@ app.get("/address", async (req, res) => {
   }
 });
 
+// Debug xem toàn bộ cache RAM
 app.get("/all-cache", (req, res) => {
   res.json(cache);
 });
