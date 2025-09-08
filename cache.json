@@ -497,5 +497,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.85247,109.1112": {
+    "display_name": "Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.20457,107.3661": {
+    "display_name": "Ấp 5, Xã Phú Hòa, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phú Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
