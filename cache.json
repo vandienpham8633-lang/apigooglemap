@@ -79,5 +79,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.25336,109.1746": {
+    "display_name": "23 Tháng 10, Phường Tây Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "road": "23 Tháng 10",
+      "suburb": "Phường Tây Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.70088,105.3918": {
+    "display_name": "Xã Yên Cường, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "county": "Xã Yên Cường",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.23274,109.18": {
+    "display_name": "Thích Quảng Đức, Phước Long, Phường Nam Nha Trang, Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Thích Quảng Đức",
+      "suburb": "Phước Long",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.81629,107.9465": {
+    "display_name": "Xã Chư Prông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Chư Prông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
