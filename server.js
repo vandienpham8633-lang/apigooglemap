@@ -1,11 +1,11 @@
 import express from "express";
 import fetch from "node-fetch";
 import PQueue from "p-queue";
-// thay vì: import olc from "open-location-code"; const { encode } = olc;
 import pkg from "open-location-code";
+
+// ==== Open Location Code ====
 const { OpenLocationCode } = pkg;
 const olc = new OpenLocationCode();
-
 
 // ==== Config ====
 const PORT = process.env.PORT || 10000;
@@ -84,22 +84,24 @@ async function saveCache() {
 // Interval commit 5 phút 1 lần
 setInterval(saveCache, 5 * 60 * 1000);
 
-// ==== Hàm fetch thông tin Plus Code từ Google Maps ====
-// parse ra địa chỉ ngắn gọn từ page source
-async function fetchGooglePlusCodeName(globalCode, lat, lng) {
-  const url = `https://www.google.com/maps/place/${lat},${lng}`;
+// ==== Hàm fetch Plus Code từ Google Maps ====
+async function fetchGooglePlusCodeName(lat, lng) {
+  const url = `https://www.google.com/maps?q=${lat},${lng}`;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`Google Maps fetch failed: ${res.status}`);
 
   const html = await res.text();
 
-  const regex = new RegExp(`${globalCode}.*?\\[\\s*"(.*?)"\\s*\\]`);
-  const match = html.match(regex);
-
-  if (match && match[1]) {
-    return match[1]; // ví dụ: WP9P+V4F Thuan An, Binh Duong
+  // Tìm block "plus_code":{...}
+  const match = html.match(/"plus_code":\s*({.*?})/);
+  if (match) {
+    try {
+      const plusObj = JSON.parse(match[1]);
+      return plusObj.compound_code || null;
+    } catch (e) {
+      console.error("Parse error:", e.message);
+    }
   }
-
   return null;
 }
 
@@ -119,7 +121,7 @@ app.get("/address", async (req, res) => {
 
   try {
     const globalCode = olc.encode(Number(lat), Number(lng));
-    const plusCodeName = await fetchGooglePlusCodeName(globalCode, lat, lng);
+    const plusCodeName = await fetchGooglePlusCodeName(lat, lng);
 
     const result = {
       global_code: globalCode,
