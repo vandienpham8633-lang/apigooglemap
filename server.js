@@ -25,6 +25,7 @@ async function loadCache() {
   const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/main/${GITHUB_FILE}`;
   try {
     const res = await fetch(url);
+    console.log("Fetch status:", res.status, res.statusText);
     if (res.ok) {
       cache = await res.json();
       console.log("✅ Cache loaded from GitHub");
@@ -35,6 +36,7 @@ async function loadCache() {
     console.error("⚠️ Failed to load cache:", err.message);
   }
 }
+
 
 // ==== Hàm push cache lên GitHub ====
 async function saveCache() {
@@ -136,5 +138,6 @@ app.listen(PORT, async () => {
   console.log(`🚀 Server running on port ${PORT}`);
   await loadCache();
 });
+
 
 
