@@ -4,7 +4,6 @@ import Database from "better-sqlite3";
 import PQueue from "p-queue";
 
 const app = express();
-const PORT = process.env.PORT || 3000;
 
 // === SQLite cache ===
 const db = new Database("cache.db");
@@ -81,4 +80,5 @@ const port = process.env.PORT || 10000; // Render sẽ inject PORT
 app.listen(port, () => {
   console.log(`🚀 Server running on port ${port}`);
 });
+
 
