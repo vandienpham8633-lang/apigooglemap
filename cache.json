@@ -24,5 +24,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.25343,109.1746": {
+    "display_name": "Phường Tây Nha Trang, Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "suburb": "Phường Tây Nha Trang",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.40226,108.1658": {
+    "display_name": "Yang Lah 1, Xã Đắk Liêng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yang Lah 1",
+      "county": "Xã Đắk Liêng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93417,108.0069": {
+    "display_name": "Phường Hội Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường Hội Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.92947,108.2619": {
+    "display_name": "Buôn Hồ, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Buôn Hồ",
+      "county": "Phường Buôn Hồ",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.039387,105.4239": {
+    "display_name": "Gành Hào, Xã Gành Hào, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Gành Hào",
+      "county": "Xã Gành Hào",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
