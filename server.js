@@ -77,4 +77,8 @@ app.get("/all-cache", (req, res) => {
   res.json(rows.map(r => ({ lat: r.lat, lng: r.lng, ...JSON.parse(r.result) })));
 });
 
-app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+const port = process.env.PORT || 10000; // Render sẽ inject PORT
+app.listen(port, () => {
+  console.log(`🚀 Server running on port ${port}`);
+});
+
