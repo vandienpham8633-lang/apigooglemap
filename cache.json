@@ -668,5 +668,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.44017,108.4424": {
+    "display_name": "Plei Kual, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Plei Kual",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.41676,109.1149": {
+    "display_name": "khu phố Lộ Diêu, phường Hoài Nhơn Đông, KP. Lộ Diêu, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Lộ Diêu, phường Hoài Nhơn Đông",
+      "village": "KP. Lộ Diêu",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54931,106.1632": {
+    "display_name": "Xã Tân Phước 2, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Phước 2",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
