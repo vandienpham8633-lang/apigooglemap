@@ -362,5 +362,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.96022,105.2148": {
+    "display_name": "Xã Đường Thượng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "county": "Xã Đường Thượng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71044,107.8287": {
+    "display_name": "Lý Thái Tổ, Xã Tân Hải, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Lý Thái Tổ",
+      "county": "Xã Tân Hải",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96898,108.0038": {
+    "display_name": "Xã Hàm Kiệm, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Kiệm",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55912,106.5347": {
+    "display_name": "Xã Mỹ Lệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Lệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.97704,105.1462": {
+    "display_name": "Oửa Oải, Sáng Pá, Xã Đường Thượng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "hamlet": "Oửa Oải",
+      "village": "Sáng Pá",
+      "county": "Xã Đường Thượng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
