@@ -415,5 +415,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.71042,107.8287": {
+    "display_name": "Lý Thái Tổ, Xã Tân Hải, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Lý Thái Tổ",
+      "county": "Xã Tân Hải",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
