@@ -437,5 +437,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.26816,106.1289": {
+    "display_name": "Đường số 42 Phạm Hùng, Phường Hòa Thành, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "road": "Đường số 42 Phạm Hùng",
+      "county": "Phường Hòa Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
