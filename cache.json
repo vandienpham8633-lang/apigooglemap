@@ -340,5 +340,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.96903,108.0038": {
+    "display_name": "Xã Hàm Kiệm, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Kiệm",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77898,106.6642": {
+    "display_name": "Hẻm 58 Đồng Nai, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 58 Đồng Nai",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
