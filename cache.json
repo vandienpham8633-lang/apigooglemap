@@ -567,5 +567,106 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.0607,108.0818": {
+    "display_name": "Xã Biển Hồ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55099,106.1634": {
+    "display_name": "ĐH.41, Xã Tân Phước 2, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐH.41",
+      "county": "Xã Tân Phước 2",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.330054,104.9841": {
+    "display_name": "Xã Khánh Lâm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Khánh Lâm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.4982,106.5761": {
+    "display_name": "Tân Lập, Phường Minh Hưng, Việt Nam",
+    "address": {
+      "village": "Tân Lập",
+      "county": "Phường Minh Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98746,106.7347": {
+    "display_name": "Khánh Long, Phường An Phú, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75256, Việt Nam",
+    "address": {
+      "quarter": "Khánh Long",
+      "suburb": "Phường An Phú",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75256",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5892,109.0136": {
+    "display_name": "Phường Ninh Chử, Khánh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Ninh Chử",
+      "town": "Khánh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.23273,109.18": {
+    "display_name": "Thích Quảng Đức, Phước Long, Phường Nam Nha Trang, Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Thích Quảng Đức",
+      "suburb": "Phước Long",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.16003,105.4146": {
+    "display_name": "Quốc lộ 4C, Mèo Vạc, Xã Mèo Vạc, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 4C",
+      "town": "Mèo Vạc",
+      "county": "Xã Mèo Vạc",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.03674,108.8181": {
+    "display_name": "Thôn Tiên Hòa, Vĩnh Hòa, Làng M7, Vĩnh Hòa, Xã Vĩnh Quang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tiên Hòa, Vĩnh Hòa",
+      "village": "Làng M7, Vĩnh Hòa",
+      "county": "Xã Vĩnh Quang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
