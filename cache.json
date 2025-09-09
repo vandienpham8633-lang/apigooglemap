@@ -174,5 +174,100 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.03545,109.1736": {
+    "display_name": "Quốc lộ 1, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.04617,108.2469": {
+    "display_name": "Kon Dơng, Xã Mang Yang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Kon Dơng",
+      "county": "Xã Mang Yang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.79226,108.7833": {
+    "display_name": "Xã Lâm Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Lâm Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77896,106.6643": {
+    "display_name": "Hẻm 58 Đồng Nai, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 58 Đồng Nai",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.61867,108.9883": {
+    "display_name": "KP.Thịnh Văn 1, TT.Vân Canh, Vân Canh, Xã Vân Canh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Thịnh Văn 1, TT.Vân Canh",
+      "town": "Vân Canh",
+      "county": "Xã Vân Canh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.57998,107.895": {
+    "display_name": "Quốc lộ 28, Tổ dân phố 5, Ea T'Ling, Xã Cư Jút, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28",
+      "quarter": "Tổ dân phố 5",
+      "town": "Ea T'Ling",
+      "county": "Xã Cư Jút",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77903,106.6642": {
+    "display_name": "Hẻm 58 Đồng Nai, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 58 Đồng Nai",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77899,106.6642": {
+    "display_name": "Hẻm 58 Đồng Nai, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 58 Đồng Nai",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
