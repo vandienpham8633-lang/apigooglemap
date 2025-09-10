@@ -884,5 +884,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.93412,108.007": {
+    "display_name": "Phường Hội Phú, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "county": "Phường Hội Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
