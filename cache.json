@@ -797,5 +797,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.04608,105.8052": {
+    "display_name": "1, Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội, 10072, Việt Nam",
+    "address": {
+      "house_number": "1",
+      "road": "Đường Hoàng Quốc Việt",
+      "suburb": "Phường Nghĩa Đô",
+      "borough": "Quận Cầu Giấy",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10072",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
