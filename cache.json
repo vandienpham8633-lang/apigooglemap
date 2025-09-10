@@ -895,5 +895,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.15213,108.3147": {
+    "display_name": "Thôn 8A, Xã Ea Hiao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 8A",
+      "county": "Xã Ea Hiao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
