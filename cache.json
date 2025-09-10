@@ -917,5 +917,50 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "13.83422,109.1914": {
+    "display_name": "Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.83419,109.1913": {
+    "display_name": "Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.42932,105.1177": {
+    "display_name": "ឃុំបឹង, ស្រុកបារាយណ៍, ខេត្តកំពង់ធំ, Cao Miên",
+    "address": {
+      "village": "ឃុំបឹង",
+      "town": "ស្រុកបារាយណ៍",
+      "state": "ខេត្តកំពង់ធំ",
+      "ISO3166-2-lvl4": "KH-6",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "10.24014,105.486": {
+    "display_name": "Xã Vĩnh Trinh, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Trinh",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
