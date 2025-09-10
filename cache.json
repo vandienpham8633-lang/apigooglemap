@@ -701,5 +701,77 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.54662,108.9875": {
+    "display_name": "Phường Phan Rang, An Hải, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "village": "An Hải",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77899,106.6643": {
+    "display_name": "Hẻm 58 Đồng Nai, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 58 Đồng Nai",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79061,106.6446": {
+    "display_name": "Hẻm 159 Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 159 Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.42138,109.1146": {
+    "display_name": "khu phố Lộ Diêu, phường Hoài Nhơn Đông, KP. Lộ Diêu, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Lộ Diêu, phường Hoài Nhơn Đông",
+      "village": "KP. Lộ Diêu",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.92752,108.2676": {
+    "display_name": "Đường số 4, Khu công nghiệp Điện Nam – Điện Ngọc, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường số 4",
+      "industrial": "Khu công nghiệp Điện Nam – Điện Ngọc",
+      "city_district": "Phường Điện Bàn Đông",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77895,106.6642": {
+    "display_name": "Hẻm 58 Đồng Nai, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 58 Đồng Nai",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
