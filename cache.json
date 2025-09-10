@@ -906,5 +906,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.97816,100.9449": {
+    "display_name": "หนองปลาไหล, Bang Lamung, Chonburi, Thái Lan",
+    "address": {
+      "municipality": "หนองปลาไหล",
+      "county": "Bang Lamung",
+      "province": "Chonburi",
+      "ISO3166-2-lvl4": "TH-20",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
   }
 }
