@@ -811,5 +811,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.49651,109.0853": {
+    "display_name": "KP.Ca Công Nam, P.Hoài Hương, Khóm Thiện Đức, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Ca Công Nam, P.Hoài Hương",
+      "village": "Khóm Thiện Đức",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
