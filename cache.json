@@ -1023,5 +1023,23 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.70194,105.3888": {
+    "display_name": "Xã Yên Cường, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "county": "Xã Yên Cường",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82851,106.7131": {
+    "display_name": "Xã Lộc Quang, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Quang",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
