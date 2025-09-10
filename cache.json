@@ -860,5 +860,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78043,106.7575": {
+    "display_name": "78, Đường Trịnh Khắc Lập, Phường Cát Lái, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "house_number": "78",
+      "road": "Đường Trịnh Khắc Lập",
+      "suburb": "Phường Cát Lái",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
