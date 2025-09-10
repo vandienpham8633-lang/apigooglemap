@@ -835,5 +835,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.88494,107.3676": {
+    "display_name": "Đường tỉnh 765, Bình Minh, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 765",
+      "village": "Bình Minh",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
