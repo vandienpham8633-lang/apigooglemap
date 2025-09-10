@@ -847,5 +847,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.42697,108.9993": {
+    "display_name": "Đường Lê Xuân Trữ, KP.Thiết Đính Nam, P.Bồng Sơn, Thị xã Hoài Nhơn, Phường Bồng Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Lê Xuân Trữ",
+      "quarter": "KP.Thiết Đính Nam, P.Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "county": "Phường Bồng Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
