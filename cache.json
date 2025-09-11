@@ -1409,5 +1409,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.81095,108.0399": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city_district": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
