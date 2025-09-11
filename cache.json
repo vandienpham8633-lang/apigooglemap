@@ -1190,5 +1190,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.41796,109.2529": {
+    "display_name": "Sông Cầu, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Sông Cầu",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
