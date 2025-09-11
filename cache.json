@@ -1214,5 +1214,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.52476,108.8969": {
+    "display_name": "Thôn Vạn Xuân, An Hòa, Long Khánh, Xã An Hòa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vạn Xuân, An Hòa",
+      "village": "Long Khánh",
+      "county": "Xã An Hòa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
