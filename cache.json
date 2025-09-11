@@ -1102,5 +1102,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.95897,107.8563": {
+    "display_name": "Nguyễn Viết Xuân, Thị trấn Ia Kha, Ia Kha, Xã Ia Grai, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Nguyễn Viết Xuân",
+      "residential": "Thị trấn Ia Kha",
+      "town": "Ia Kha",
+      "county": "Xã Ia Grai",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8864,108.1185": {
+    "display_name": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam, Đường tỉnh 609B, Xã Đại Lộc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam",
+      "road": "Đường tỉnh 609B",
+      "city_district": "Xã Đại Lộc",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.80451,108.0416": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city_district": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.80452,108.0415": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city_district": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
