@@ -1201,5 +1201,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.62447,107.0563": {
+    "display_name": "Võ Văn Kiệt, Khu công nghiệp Mỹ Xuân B1 - Conac, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "industrial": "Khu công nghiệp Mỹ Xuân B1 - Conac",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
