@@ -1177,5 +1177,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.95912,107.8563": {
+    "display_name": "Nguyễn Viết Xuân, Thị trấn Ia Kha, Ia Kha, Xã Ia Grai, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Nguyễn Viết Xuân",
+      "residential": "Thị trấn Ia Kha",
+      "town": "Ia Kha",
+      "county": "Xã Ia Grai",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
