@@ -1226,5 +1226,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.50528,106.2854": {
+    "display_name": "Tân Hòa, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Hòa",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
