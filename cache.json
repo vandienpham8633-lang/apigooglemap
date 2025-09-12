@@ -1728,5 +1728,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.83009,106.5937": {
+    "display_name": "Đường Số 14, Xã Bà Điểm, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "road": "Đường Số 14",
+      "city_district": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
