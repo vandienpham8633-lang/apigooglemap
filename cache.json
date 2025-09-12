@@ -1637,5 +1637,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.50403,106.1387": {
+    "display_name": "Tân Châu, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Châu",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.52786,107.702": {
+    "display_name": "Phường Thuận An, Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "quarter": "Phường Thuận An",
+      "city": "Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.52808,108.8974": {
+    "display_name": "Thôn Vạn Xuân, An Hòa, Long Khánh, Xã An Hòa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vạn Xuân, An Hòa",
+      "village": "Long Khánh",
+      "county": "Xã An Hòa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92351,106.8805": {
+    "display_name": "Tân Bình, Thành phố Biên Hòa, Phường Trấn Biên, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "quarter": "Tân Bình",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Trấn Biên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
