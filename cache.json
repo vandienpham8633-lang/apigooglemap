@@ -1684,5 +1684,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.46721,106.1825": {
+    "display_name": "Tân Đông, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Đông",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.29458,106.3893": {
+    "display_name": "Lộ Ngang, Xã Giao Long, Tỉnh Vĩnh Long, 86000, Việt Nam",
+    "address": {
+      "road": "Lộ Ngang",
+      "county": "Xã Giao Long",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.50391,106.1386": {
+    "display_name": "Tân Châu, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Châu",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.79223,108.7834": {
+    "display_name": "Xã Lâm Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Lâm Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
