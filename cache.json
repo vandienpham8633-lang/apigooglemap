@@ -1491,5 +1491,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94888,106.7228": {
+    "display_name": "Thuận Giao 23, Hoà Lân 2, Phường Thuận Giao, Thuận An, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Thuận Giao 23",
+      "quarter": "Hoà Lân 2",
+      "suburb": "Phường Thuận Giao",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
