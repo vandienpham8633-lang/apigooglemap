@@ -1419,5 +1419,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.78297,109.2197": {
+    "display_name": "Khu vực, Đống Đa, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Đống Đa",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
