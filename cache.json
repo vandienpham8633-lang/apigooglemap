@@ -1604,5 +1604,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.52777,107.702": {
+    "display_name": "Phường Thuận An, Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "quarter": "Phường Thuận An",
+      "city": "Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
