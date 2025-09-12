@@ -1901,5 +1901,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.23262,109.1799": {
+    "display_name": "Thích Quảng Đức, Phước Long, Phường Nam Nha Trang, Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Thích Quảng Đức",
+      "suburb": "Phước Long",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.84698,108.8129": {
+    "display_name": "Phước Tân, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Tân",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
