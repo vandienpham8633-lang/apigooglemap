@@ -1445,5 +1445,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.13939,106.6561": {
+    "display_name": "Đường NG4, Khu phố 8, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường NG4",
+      "quarter": "Khu phố 8",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.94819,109.2463": {
+    "display_name": "Xã Hòa Thịnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Thịnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
