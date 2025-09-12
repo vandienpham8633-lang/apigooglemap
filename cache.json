@@ -1525,5 +1525,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.52795,107.702": {
+    "display_name": "Phường Thuận An, Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "quarter": "Phường Thuận An",
+      "city": "Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.52796,107.7019": {
+    "display_name": "Phường Thuận An, Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "quarter": "Phường Thuận An",
+      "city": "Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.52785,107.7018": {
+    "display_name": "Phường Thuận An, Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "quarter": "Phường Thuận An",
+      "city": "Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.52773,107.7019": {
+    "display_name": "Phường Thuận An, Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "quarter": "Phường Thuận An",
+      "city": "Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16777,106.651": {
+    "display_name": "Đường Võ Thị Sáu, Khu phố 4, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Võ Thị Sáu",
+      "quarter": "Khu phố 4",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
