@@ -1959,5 +1959,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93899,108.1027": {
+    "display_name": "Từ Văn Tư, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Từ Văn Tư",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81784,106.6743": {
+    "display_name": "Hẻm 187-189 Bạch Đằng, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 70048, Việt Nam",
+    "address": {
+      "road": "Hẻm 187-189 Bạch Đằng",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70048",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
