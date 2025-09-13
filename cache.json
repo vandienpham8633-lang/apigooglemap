@@ -2130,5 +2130,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.92123,109.0873": {
+    "display_name": "Đường Vũ Thị Đức, KV.Bắc Phương Danh, P.Đập Đá, Đập Đá, Phường An Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Vũ Thị Đức",
+      "quarter": "KV.Bắc Phương Danh, P.Đập Đá",
+      "suburb": "Đập Đá",
+      "county": "Phường An Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
