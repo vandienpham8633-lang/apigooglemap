@@ -2098,5 +2098,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.52781,107.7021": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
