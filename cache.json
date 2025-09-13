@@ -1983,5 +1983,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.43943,108.4389": {
+    "display_name": "Đường Trường Sơn Đông, Plei Kual, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Trường Sơn Đông",
+      "village": "Plei Kual",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
