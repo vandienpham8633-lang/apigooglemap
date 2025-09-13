@@ -1995,5 +1995,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93896,108.1027": {
+    "display_name": "Từ Văn Tư, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Từ Văn Tư",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
