@@ -2143,5 +2143,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.35017,108.8139": {
+    "display_name": "Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
