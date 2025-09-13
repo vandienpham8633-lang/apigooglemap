@@ -2154,5 +2154,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.74067,107.1477": {
+    "display_name": "Đường 34, Thôn 7, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Đường 34",
+      "village": "Thôn 7",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
