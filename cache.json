@@ -2007,5 +2007,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.06364,105.8242": {
+    "display_name": "Phường Đông Thành, Tỉnh Vĩnh Long, 94111, Việt Nam",
+    "address": {
+      "county": "Phường Đông Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.41801,109.253": {
+    "display_name": "Sông Cầu, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Sông Cầu",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.79155,108.0149": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.81096,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
