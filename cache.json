@@ -2891,5 +2891,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.54093,105.4052": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.2326,109.18": {
+    "display_name": "Thích Quảng Đức, Phước Long, Phường Nha Trang, Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Thích Quảng Đức",
+      "suburb": "Phước Long",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
