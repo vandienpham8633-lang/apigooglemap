@@ -2829,5 +2829,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06281,108.2329": {
+    "display_name": "Nguyễn Bỉnh Khiêm, Phường An Hải, Quận Sơn Trà, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Nguyễn Bỉnh Khiêm",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06296,108.2329": {
+    "display_name": "Nguyễn Bỉnh Khiêm, Phường An Hải, Quận Sơn Trà, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Nguyễn Bỉnh Khiêm",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
