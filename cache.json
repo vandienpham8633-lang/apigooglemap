@@ -2292,5 +2292,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.00685,109.0656": {
+    "display_name": "KP.An Ninh, TT.Ngô Mây, Thôn Phú Kim, Cát Trinh, Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.An Ninh, TT.Ngô Mây",
+      "hamlet": "Thôn Phú Kim, Cát Trinh",
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
