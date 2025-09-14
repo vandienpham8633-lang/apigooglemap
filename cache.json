@@ -2851,5 +2851,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.54108,105.4049": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71202,107.8278": {
+    "display_name": "Xã Tân Hải, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hải",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54106,105.405": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54113,105.4049": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
