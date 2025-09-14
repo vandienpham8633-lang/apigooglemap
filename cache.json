@@ -2772,5 +2772,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.528,108.8974": {
+    "display_name": "Thôn Vạn Xuân, An Hòa, Long Khánh, Xã An Hòa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vạn Xuân, An Hòa",
+      "village": "Long Khánh",
+      "county": "Xã An Hòa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.3501,108.8138": {
+    "display_name": "Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.52821,105.3684": {
+    "display_name": "Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
