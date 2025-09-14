@@ -2805,5 +2805,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.74113,107.1479": {
+    "display_name": "Đường 34, Thôn 7, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Đường 34",
+      "village": "Thôn 7",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92331,106.8804": {
+    "display_name": "Đường 6A, Khu công nghiệp Biên Hòa 2, Thành phố Biên Hòa, Phường Trấn Biên, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "road": "Đường 6A",
+      "industrial": "Khu công nghiệp Biên Hòa 2",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Trấn Biên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
