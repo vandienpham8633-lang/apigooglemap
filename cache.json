@@ -2305,5 +2305,66 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.45893,104.7043": {
+    "display_name": "คำอาฮวน, อำเภอเมืองมุกดาหาร, Mukdahan (tỉnh), Thái Lan",
+    "address": {
+      "municipality": "คำอาฮวน",
+      "county": "อำเภอเมืองมุกดาหาร",
+      "province": "Mukdahan (tỉnh)",
+      "ISO3166-2-lvl4": "TH-49",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "10.49358,99.17101": {
+    "display_name": "จรูญราษฎร์, ชุมพร, บางลึก, Mueang Chumphon, Chumphon, 86000, Thái Lan",
+    "address": {
+      "neighbourhood": "จรูญราษฎร์",
+      "town": "ชุมพร",
+      "municipality": "บางลึก",
+      "county": "Mueang Chumphon",
+      "province": "Chumphon",
+      "ISO3166-2-lvl4": "TH-86",
+      "postcode": "86000",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "7.910848,98.29566": {
+    "display_name": "ถนนพระบารมี, ป่าตอง, ตำบลป่าตอง, อำเภอกะทู้, Phuket, 83150, Thái Lan",
+    "address": {
+      "road": "ถนนพระบารมี",
+      "town": "ป่าตอง",
+      "city": "ตำบลป่าตอง",
+      "county": "อำเภอกะทู้",
+      "province": "Phuket",
+      "ISO3166-2-lvl4": "TH-83",
+      "postcode": "83150",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "16.06275,108.233": {
+    "display_name": "Nguyễn Bỉnh Khiêm, Phường An Hải, Quận Sơn Trà, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Nguyễn Bỉnh Khiêm",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37063,106.4413": {
+    "display_name": "Chợ Gạo, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "town": "Chợ Gạo",
+      "county": "Chợ Gạo",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
