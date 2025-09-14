@@ -2557,5 +2557,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79083,106.6442": {
+    "display_name": "Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
