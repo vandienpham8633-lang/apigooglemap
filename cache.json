@@ -2689,5 +2689,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.9498,106.7434": {
+    "display_name": "ben xe binh duong, Bùi Thị Xuân, Tân Hiệp, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "highway": "ben xe binh duong",
+      "road": "Bùi Thị Xuân",
+      "quarter": "Tân Hiệp",
+      "suburb": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35014,108.8139": {
+    "display_name": "Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
