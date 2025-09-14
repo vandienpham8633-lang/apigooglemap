@@ -2198,5 +2198,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91965,106.7713": {
+    "display_name": "Khu phố Đông Thành, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Đông Thành",
+      "suburb": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.74051,107.148": {
+    "display_name": "Đường 34, Thôn 7, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Đường 34",
+      "village": "Thôn 7",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
