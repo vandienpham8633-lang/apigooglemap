@@ -2414,5 +2414,65 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.54607,105.3961": {
+    "display_name": "Nguyễn Huệ, Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79085,106.6443": {
+    "display_name": "Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.5461,105.3961": {
+    "display_name": "Nguyễn Huệ, Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79086,106.6442": {
+    "display_name": "Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54599,105.396": {
+    "display_name": "Nguyễn Huệ, Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
