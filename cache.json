@@ -3382,5 +3382,79 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.04606,105.8051": {
+    "display_name": "22Land Residence Hotel 2, 2, Phố Nguyễn Đình Hoàn, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội, 10000, Việt Nam",
+    "address": {
+      "tourism": "22Land Residence Hotel 2",
+      "house_number": "2",
+      "road": "Phố Nguyễn Đình Hoàn",
+      "suburb": "Phường Nghĩa Đô",
+      "borough": "Quận Cầu Giấy",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05636,107.5773": {
+    "display_name": "Xã Suối Kiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Suối Kiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.36259,108.7857": {
+    "display_name": "Bình Đông, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Đông",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95147,107.403": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78806,109.2121": {
+    "display_name": "Khu vực, Đống Đa, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55111, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Đống Đa",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95142,107.4031": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
