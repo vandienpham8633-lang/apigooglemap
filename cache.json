@@ -3255,5 +3255,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.85474,108.0535": {
+    "display_name": "Xã Vu Gia, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Vu Gia",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
