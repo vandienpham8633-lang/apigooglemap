@@ -3100,5 +3100,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.88197,108.3277": {
+    "display_name": "The Kebab Shack, Thái Phiên, Phố cổ Hội An, Sơn Phong, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "The Kebab Shack",
+      "road": "Thái Phiên",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Sơn Phong",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
