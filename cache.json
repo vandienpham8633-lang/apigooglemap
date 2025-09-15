@@ -3229,5 +3229,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7993,106.6185": {
+    "display_name": "Tân Quý, Tân Kỳ Tân Quý, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "highway": "Tân Quý",
+      "road": "Tân Kỳ Tân Quý",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79931,106.6185": {
+    "display_name": "Tân Quý, Tân Kỳ Tân Quý, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "highway": "Tân Quý",
+      "road": "Tân Kỳ Tân Quý",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
