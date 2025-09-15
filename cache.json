@@ -3016,5 +3016,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.52826,105.3684": {
+    "display_name": "Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
