@@ -2959,5 +2959,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.88107,106.7245": {
+    "display_name": "Đường Nguyễn Thị Thích, Khu phố 15, Phường Tam Bình, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Thị Thích",
+      "quarter": "Khu phố 15",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.94926,105.2164": {
+    "display_name": "Du Già, Xã Du Già, Tỉnh Tuyên Quang, 20318, Việt Nam",
+    "address": {
+      "village": "Du Già",
+      "county": "Xã Du Già",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "postcode": "20318",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
