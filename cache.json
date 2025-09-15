@@ -3456,5 +3456,43 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95141,107.403": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17972,107.5654": {
+    "display_name": "Ngô Sỹ Liên, Khu phố 3, Võ Xu, Xã Đức Linh, Tỉnh Lâm Đồng, 77556, Việt Nam",
+    "address": {
+      "road": "Ngô Sỹ Liên",
+      "quarter": "Khu phố 3",
+      "town": "Võ Xu",
+      "county": "Xã Đức Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77556",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95144,107.4031": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
