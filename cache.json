@@ -3303,5 +3303,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.54109,105.405": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.04475,107.4615": {
+    "display_name": "Đường tỉnh 766, Thôn 4, Xã Trà Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Thôn 4",
+      "county": "Xã Trà Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
