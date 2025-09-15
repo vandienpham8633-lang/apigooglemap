@@ -3265,5 +3265,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94449,106.7794": {
+    "display_name": "Tân Hạnh 3, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "quarter": "Tân Hạnh 3",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.89504,108.9625": {
+    "display_name": "Thôn 1, Bình Nghi, Xóm Tây, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 1, Bình Nghi",
+      "village": "Xóm Tây",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
