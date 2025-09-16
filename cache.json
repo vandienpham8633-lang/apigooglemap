@@ -3865,5 +3865,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.11805,106.6974": {
+    "display_name": "Đường số 18, VSIP II Mở Rộng, Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường số 18",
+      "industrial": "VSIP II Mở Rộng",
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09319,107.2171": {
+    "display_name": "Đồn Điền 1, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Đồn Điền 1",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09323,107.217": {
+    "display_name": "Đồn Điền 1, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Đồn Điền 1",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.11861,107.9283": {
+    "display_name": "Đắk Snao, Xã Quảng Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đắk Snao",
+      "county": "Xã Quảng Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
