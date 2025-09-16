@@ -4045,5 +4045,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.04604,105.805": {
+    "display_name": "22Land Residence Hotel 2, 2, Phố Nguyễn Đình Hoàn, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội, 10000, Việt Nam",
+    "address": {
+      "tourism": "22Land Residence Hotel 2",
+      "house_number": "2",
+      "road": "Phố Nguyễn Đình Hoàn",
+      "suburb": "Phường Nghĩa Đô",
+      "borough": "Quận Cầu Giấy",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.35662,109.2694": {
+    "display_name": "Phú Hội, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Hội",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83469,106.6763": {
+    "display_name": "Hẻm 178 Nguyễn Oanh, Phường Gò Vấp, Thuận An, Thành phố Hồ Chí Minh, 71400, Việt Nam",
+    "address": {
+      "road": "Hẻm 178 Nguyễn Oanh",
+      "suburb": "Phường Gò Vấp",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71400",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44689,107.7737": {
+    "display_name": "Xã Phú Vinh, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vinh",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
