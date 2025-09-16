@@ -3699,5 +3699,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.0036,106.7665": {
+    "display_name": "Đường tỉnh 747, Cây Chàm, Phường Tân Khánh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747",
+      "quarter": "Cây Chàm",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
