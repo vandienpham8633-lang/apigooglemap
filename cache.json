@@ -4003,5 +4003,36 @@
       "country": "Indonesia",
       "country_code": "id"
     }
+  },
+  "16.1075,108.1304": {
+    "display_name": "Hòa Hiệp Nam, Phường Hải Vân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "quarter": "Hòa Hiệp Nam",
+      "city": "Phường Hải Vân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.83054,108.2027": {
+    "display_name": "Xã Duy Xuyên, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Xuyên",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.50401,106.1387": {
+    "display_name": "Tân Châu, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Châu",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
