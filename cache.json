@@ -3907,5 +3907,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.875535,106.0563": {
+    "display_name": "Nguyễn Hoà Luông, Cầu Kè, Xã Cầu Kè, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Nguyễn Hoà Luông",
+      "town": "Cầu Kè",
+      "county": "Xã Cầu Kè",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
