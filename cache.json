@@ -3964,5 +3964,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97157,107.2243": {
+    "display_name": "KCN Long Khánh, Ấp 2, Phường Bình Lộc, Việt Nam",
+    "address": {
+      "industrial": "KCN Long Khánh",
+      "village": "Ấp 2",
+      "county": "Phường Bình Lộc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
