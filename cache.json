@@ -3919,5 +3919,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.07879,109.1897": {
+    "display_name": "Nguyễn Tất Thành, Phường Bắc Cam Ranh, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "suburb": "Phường Bắc Cam Ranh",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.84703,108.8128": {
+    "display_name": "Phước Tân, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Tân",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88699,108.2908": {
+    "display_name": "Đường Hùng Vương, Thanh Hà, Phường Hội An Tây, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "road": "Đường Hùng Vương",
+      "suburb": "Thanh Hà",
+      "city": "Phường Hội An Tây",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
