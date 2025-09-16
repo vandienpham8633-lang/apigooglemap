@@ -3795,5 +3795,24 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.55566,106.5332": {
+    "display_name": "Xã Mỹ Lệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Lệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09319,107.217": {
+    "display_name": "Đồn Điền 1, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Đồn Điền 1",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
