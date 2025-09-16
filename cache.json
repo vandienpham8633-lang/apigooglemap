@@ -3772,5 +3772,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06269,108.233": {
+    "display_name": "Nguyễn Bỉnh Khiêm, Phường An Hải, Quận Sơn Trà, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Nguyễn Bỉnh Khiêm",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.41023,108.8092": {
+    "display_name": "Công ty Cổ phần Thép Hòa Phát Dung Quất, Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
