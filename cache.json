@@ -3854,5 +3854,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.09049,108.1483": {
+    "display_name": "Đường Phan Văn Định, Phường Liên Chiểu, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Phan Văn Định",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
