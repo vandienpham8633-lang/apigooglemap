@@ -3825,5 +3825,21 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.68363,108.0472": {
+    "display_name": "FPT shop, 37, Nguyễn Chánh, Tổ dân phố 2, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "shop": "FPT shop",
+      "house_number": "37",
+      "road": "Nguyễn Chánh",
+      "suburb": "Tổ dân phố 2",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
