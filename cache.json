@@ -3577,5 +3577,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.89039,108.9787": {
+    "display_name": "Thôn Lai Nghi, Bình Nghi, Xóm Tây, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Lai Nghi, Bình Nghi",
+      "village": "Xóm Tây",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00348,106.7664": {
+    "display_name": "Đường tỉnh 747, Cây Chàm, Phường Tân Khánh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747",
+      "quarter": "Cây Chàm",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
