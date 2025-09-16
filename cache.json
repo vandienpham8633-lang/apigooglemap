@@ -4141,5 +4141,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.62776,106.7648": {
+    "display_name": "Khu công nghiệp Hiệp Phước, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hiệp Phước",
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
