@@ -3745,5 +3745,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.92064,109.083": {
+    "display_name": "Đường Võ Đình Tú, KV.Tây Phương Danh, P.Đập Đá, Thôn Ngãi Chánh, Nhơn Hậu, Phường An Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Võ Đình Tú",
+      "quarter": "KV.Tây Phương Danh, P.Đập Đá",
+      "hamlet": "Thôn Ngãi Chánh, Nhơn Hậu",
+      "county": "Phường An Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78818,109.2122": {
+    "display_name": "Khu vực, Đống Đa, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55111, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Đống Đa",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
