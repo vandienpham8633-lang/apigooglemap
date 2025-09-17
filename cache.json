@@ -4371,5 +4371,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.84723,108.813": {
+    "display_name": "Phước Tân, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Tân",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.23128,108.0837": {
+    "display_name": "Đường Lạc Long Quân, Lăng Cô, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Lạc Long Quân",
+      "town": "Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.52802,108.8974": {
+    "display_name": "Thôn Vạn Xuân, An Hòa, Long Khánh, Xã An Hòa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vạn Xuân, An Hòa",
+      "village": "Long Khánh",
+      "county": "Xã An Hòa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
