@@ -4184,5 +4184,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.71723,107.1411": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57664,107.2509": {
+    "display_name": "Đường cao tốc Cam Lộ - La Sơn giai đoạn 2, Phường Phong Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Cam Lộ - La Sơn giai đoạn 2",
+      "city": "Phường Phong Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.74053,107.1488": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
