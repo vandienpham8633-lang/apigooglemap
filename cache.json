@@ -4152,5 +4152,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80672,106.5172": {
+    "display_name": "Kênh 2 Bờ Phải, Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Kênh 2 Bờ Phải",
+      "city_district": "Xã Tân Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.88376,107.0814": {
+    "display_name": "Quốc lộ 1, Xã Gio Linh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Xã Gio Linh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
