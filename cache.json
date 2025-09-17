@@ -4284,5 +4284,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.43649,107.5204": {
+    "display_name": "Đường cao tốc Cam Lộ - La Sơn, Long Hồ, Phường Kim Long, Quận Phú Xuân, Thủy Xuân, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Cam Lộ - La Sơn",
+      "quarter": "Long Hồ",
+      "city": "Quận Phú Xuân",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.04609,105.8051": {
+    "display_name": "1, Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội, 10072, Việt Nam",
+    "address": {
+      "house_number": "1",
+      "road": "Đường Hoàng Quốc Việt",
+      "suburb": "Phường Nghĩa Đô",
+      "borough": "Quận Cầu Giấy",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10072",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.41031,108.8092": {
+    "display_name": "Công ty Cổ phần Thép Hòa Phát Dung Quất, Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58305,107.0308": {
+    "display_name": "Khu công nghiệp Phú Mỹ 1, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Phú Mỹ 1",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
