@@ -4248,5 +4248,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.04608,105.8051": {
+    "display_name": "1, Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội, 10072, Việt Nam",
+    "address": {
+      "house_number": "1",
+      "road": "Đường Hoàng Quốc Việt",
+      "suburb": "Phường Nghĩa Đô",
+      "borough": "Quận Cầu Giấy",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10072",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.45415,107.5104": {
+    "display_name": "Đường cao tốc Cam Lộ - La Sơn, Quận Phú Xuân, Phường Hương An, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Cam Lộ - La Sơn",
+      "city": "Quận Phú Xuân",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.01543,108.7946": {
+    "display_name": "Kỳ Thọ, Xã Đình Cương, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Kỳ Thọ",
+      "county": "Xã Đình Cương",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
