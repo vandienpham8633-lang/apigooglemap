@@ -4467,5 +4467,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.8473,108.813": {
+    "display_name": "Phước Tân, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Tân",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08523,108.1594": {
+    "display_name": "Đường Nguyễn Tất Thành, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tất Thành",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
