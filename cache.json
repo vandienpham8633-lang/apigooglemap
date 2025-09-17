@@ -4668,5 +4668,80 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.78806,109.2107": {
+    "display_name": "Khu vực, Đống Đa, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55111, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Đống Đa",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54105,105.405": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0061,108.221": {
+    "display_name": "59, Đường Võ Chí Công, Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "house_number": "59",
+      "road": "Đường Võ Chí Công",
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0562,107.5773": {
+    "display_name": "Xã Suối Kiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Suối Kiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05625,107.5772": {
+    "display_name": "Xã Suối Kiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Suối Kiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54105,105.4049": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05622,107.5771": {
+    "display_name": "Xã Suối Kiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Suối Kiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
