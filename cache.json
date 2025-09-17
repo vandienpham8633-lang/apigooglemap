@@ -4405,5 +4405,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.8065,109.1479": {
+    "display_name": "Lộ Thiên, Nguyễn Đình Thụ, KP.Vân Hội 1, TT.Diêu Trì, Diêu Trì, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "amenity": "Lộ Thiên",
+      "road": "Nguyễn Đình Thụ",
+      "quarter": "KP.Vân Hội 1, TT.Diêu Trì",
+      "town": "Diêu Trì",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
