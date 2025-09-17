@@ -4637,5 +4637,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.9971,108.2454": {
+    "display_name": "Đồng Khoa, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, 50507, Việt Nam",
+    "address": {
+      "road": "Đồng Khoa",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
