@@ -4346,5 +4346,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.31658,107.7113": {
+    "display_name": "Đường cao tốc Cam Lộ - La Sơn, Xã Hưng Lộc, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Cam Lộ - La Sơn",
+      "town": "Xã Hưng Lộc",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.0461,105.8051": {
+    "display_name": "1, Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội, 10072, Việt Nam",
+    "address": {
+      "house_number": "1",
+      "road": "Đường Hoàng Quốc Việt",
+      "suburb": "Phường Nghĩa Đô",
+      "borough": "Quận Cầu Giấy",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10072",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
