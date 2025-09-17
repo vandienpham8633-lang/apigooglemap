@@ -4612,5 +4612,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.85987,109.1876": {
+    "display_name": "Đường tỉnh 640, Thôn Liêm Thuận, Phước Thuận, Tuy Phước, Xã Tuy Phước Đông, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 640",
+      "hamlet": "Thôn Liêm Thuận, Phước Thuận",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.90963,107.5375": {
+    "display_name": "Thôn 12, Xã Kiến Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 12",
+      "county": "Xã Kiến Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
