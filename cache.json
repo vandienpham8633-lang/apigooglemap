@@ -4227,5 +4227,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.81083,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07882,108.1263": {
+    "display_name": "Đường Âu Cơ, Phường Liên Chiểu, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "road": "Đường Âu Cơ",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
