@@ -5063,5 +5063,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.54378,108.4607": {
+    "display_name": "Quốc lộ 40B, Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 40B",
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06662,108.2451": {
+    "display_name": "Blue Sun, Đường Võ Nguyên Giáp, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Blue Sun",
+      "road": "Đường Võ Nguyên Giáp",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
