@@ -4920,5 +4920,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.04075,108.2464": {
+    "display_name": "Đường Chế Lan Viên, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, 50507, Việt Nam",
+    "address": {
+      "road": "Đường Chế Lan Viên",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
