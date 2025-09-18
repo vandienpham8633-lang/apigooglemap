@@ -4942,5 +4942,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.72381,106.7592": {
+    "display_name": "Xã Đại Phước, Tỉnh Đồng Nai, 76260, Việt Nam",
+    "address": {
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.33538,107.7458": {
+    "display_name": "Tỉnh lộ 14B, Lộc Sơn, Xã Hưng Lộc, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 14B",
+      "town": "Lộc Sơn",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97495,106.7562": {
+    "display_name": "Khu phố Mỹ Hiệp, Phường Tân Đông Hiệp, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Mỹ Hiệp",
+      "suburb": "Phường Tân Đông Hiệp",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.26589,105.8948": {
+    "display_name": "Phường Tân Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Tân Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
