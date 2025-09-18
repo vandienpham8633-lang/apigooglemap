@@ -5008,5 +5008,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06587,108.2345": {
+    "display_name": "motorvina da nang, 7/23, Kiệt 196 Nguyễn Công Trứ, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "amenity": "motorvina da nang",
+      "house_number": "7/23",
+      "road": "Kiệt 196 Nguyễn Công Trứ",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
