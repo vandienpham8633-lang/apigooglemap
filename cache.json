@@ -5086,5 +5086,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.35664,109.2694": {
+    "display_name": "Phú Hội, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Hội",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "25.09298,55.1769": {
+    "display_name": "Time Crystal Hotel Apartments, AB Plaza 6, شارع الخيل الأول, مدينة دبي للإعلام 2, الثنية 1, Dubai (tiểu vương quốc), Các Tiểu vương quốc Ả Rập Thống nhất",
+    "address": {
+      "tourism": "Time Crystal Hotel Apartments",
+      "house_number": "AB Plaza 6",
+      "road": "شارع الخيل الأول",
+      "neighbourhood": "مدينة دبي للإعلام 2",
+      "suburb": "الثنية 1",
+      "state": "Dubai (tiểu vương quốc)",
+      "ISO3166-2-lvl4": "AE-DU",
+      "country": "Các Tiểu vương quốc Ả Rập Thống nhất",
+      "country_code": "ae"
+    }
+  },
+  "11.34444,106.484": {
+    "display_name": "TH-Thanh Hiền-DT749B- Long Hoà- Dầu Tiếng- Bình Dương-0917498940, ĐT.240, Xã Long Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "shop": "TH-Thanh Hiền-DT749B- Long Hoà- Dầu Tiếng- Bình Dương-0917498940",
+      "road": "ĐT.240",
+      "city_district": "Xã Long Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
