@@ -4987,5 +4987,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.90525,106.9689": {
+    "display_name": "Đường cao tốc Vạn Ninh - Cam Lộ, Xã Cồn Tiên, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Vạn Ninh - Cam Lộ",
+      "town": "Xã Cồn Tiên",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.85728,105.574": {
+    "display_name": "Xã Thọ Phú, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Thọ Phú",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
