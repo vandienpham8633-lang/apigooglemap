@@ -4790,5 +4790,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.05975,108.2197": {
+    "display_name": "291, Đường Phan Châu Trinh, Phước Ninh, Phường Hải Châu, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "house_number": "291",
+      "road": "Đường Phan Châu Trinh",
+      "quarter": "Phước Ninh",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
