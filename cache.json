@@ -4863,5 +4863,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.55681,108.4805": {
+    "display_name": "Phường Tam Kỳ, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Tam Kỳ",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.33987,106.1147": {
+    "display_name": "Hẻm 3 Đường Số 18, Phường Bình Minh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Hẻm 3 Đường Số 18",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
