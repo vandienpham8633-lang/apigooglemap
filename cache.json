@@ -4815,5 +4815,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.36964,108.9628": {
+    "display_name": "KP.Gia Chiểu 2, TT.Tăng Bạt Hổ, Tăng Bạt Hổ, Xã Hoài Ân, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Gia Chiểu 2, TT.Tăng Bạt Hổ",
+      "town": "Tăng Bạt Hổ",
+      "county": "Xã Hoài Ân",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.36972,108.9627": {
+    "display_name": "KP.Gia Chiểu 2, TT.Tăng Bạt Hổ, Tăng Bạt Hổ, Xã Hoài Ân, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Gia Chiểu 2, TT.Tăng Bạt Hổ",
+      "town": "Tăng Bạt Hổ",
+      "county": "Xã Hoài Ân",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.528,108.8972": {
+    "display_name": "Thôn Vạn Xuân, An Hòa, Long Khánh, Xã An Hòa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vạn Xuân, An Hòa",
+      "village": "Long Khánh",
+      "county": "Xã An Hòa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.36968,108.9627": {
+    "display_name": "KP.Gia Chiểu 2, TT.Tăng Bạt Hổ, Tăng Bạt Hổ, Xã Hoài Ân, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Gia Chiểu 2, TT.Tăng Bạt Hổ",
+      "town": "Tăng Bạt Hổ",
+      "county": "Xã Hoài Ân",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
