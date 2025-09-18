@@ -4884,5 +4884,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.05311,108.1716": {
+    "display_name": "Đường Hoàng Tăng Bí, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Hoàng Tăng Bí",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
