@@ -5042,5 +5042,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.65965,106.3692": {
+    "display_name": "Đường cao tốc Vũng Áng - Bùng, Xã Bắc Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Vũng Áng - Bùng",
+      "town": "Xã Bắc Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.05994,108.0354": {
+    "display_name": "Xã Biển Hồ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
