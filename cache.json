@@ -4754,5 +4754,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87401,106.8444": {
+    "display_name": "Hèm 1244 Đường Nguyễn Xiển, Phường Long Bình, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "road": "Hèm 1244 Đường Nguyễn Xiển",
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87347,106.8446": {
+    "display_name": "Hèm 1244 Đường Nguyễn Xiển, Phường Long Bình, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "road": "Hèm 1244 Đường Nguyễn Xiển",
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
