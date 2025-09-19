@@ -5399,5 +5399,151 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.56889,105.9958": {
+    "display_name": "Quốc lộ 22B, Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 22B",
+      "county": "Xã Tân Biên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.64138,109.0139": {
+    "display_name": "Xã Xuân Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Xã Xuân Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58919,109.0136": {
+    "display_name": "Phường Ninh Chử, Khánh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Ninh Chử",
+      "town": "Khánh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.50399,106.1386": {
+    "display_name": "Tân Châu, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Châu",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83484,106.6763": {
+    "display_name": "Hẻm 178 Nguyễn Oanh, Phường Gò Vấp, Thuận An, Thành phố Hồ Chí Minh, 71400, Việt Nam",
+    "address": {
+      "road": "Hẻm 178 Nguyễn Oanh",
+      "suburb": "Phường Gò Vấp",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71400",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8796,106.6485": {
+    "display_name": "Phường Tân Thới Hiệp, Thuận An, Thành phố Hồ Chí Minh, 71514, Việt Nam",
+    "address": {
+      "suburb": "Phường Tân Thới Hiệp",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71514",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.5487,108.4101": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25119,106.1473": {
+    "display_name": "Chợ Lách, Xã Chợ Lách, Tỉnh Vĩnh Long, 86309, Việt Nam",
+    "address": {
+      "town": "Chợ Lách",
+      "county": "Xã Chợ Lách",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72002,107.731": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, 77650, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77650",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67104,106.6149": {
+    "display_name": "Đường T4, Xã Hưng Long, Thành phố Hồ Chí Minh, 71812, Việt Nam",
+    "address": {
+      "road": "Đường T4",
+      "city_district": "Xã Hưng Long",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71812",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62734,106.4924": {
+    "display_name": "Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03592,106.3141": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.3567,109.2694": {
+    "display_name": "Phú Hội, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Hội",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
