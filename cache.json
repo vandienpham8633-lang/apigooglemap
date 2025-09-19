@@ -5292,5 +5292,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57297,104.9173": {
+    "display_name": "វិថី ព្រះមហាក្ស​ត្រីយានីកុសុមៈ (១០៦), សង្កាត់ផ្សារថ្មីទី ១, Quận Daun Penh, Phnôm Pênh, 120201, Cao Miên",
+    "address": {
+      "road": "វិថី ព្រះមហាក្ស​ត្រីយានីកុសុមៈ (១០៦)",
+      "village": "សង្កាត់ផ្សារថ្មីទី ១",
+      "town": "Quận Daun Penh",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "120201",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "10.58808,107.0548": {
+    "display_name": "Trần Hưng Đạo, Quảng Phú, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "neighbourhood": "Quảng Phú",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
