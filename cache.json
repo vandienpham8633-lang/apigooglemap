@@ -5318,5 +5318,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.96189,105.8246": {
+    "display_name": "Linh Đàm, Phường Hoàng Liệt, Hà Nội, 11718, Việt Nam",
+    "address": {
+      "neighbourhood": "Linh Đàm",
+      "suburb": "Phường Hoàng Liệt",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "11718",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.23627,106.6079": {
+    "display_name": "Xã Lục Sơn, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "suburb": "Xã Lục Sơn",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
