@@ -5340,5 +5340,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.96345,105.847": {
+    "display_name": "Nút giao Pháp Vân, Đường Song Hành Cao Tốc Pháp Vân - Cầu Giẽ, Phường Yên Sở, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "junction": "Nút giao Pháp Vân",
+      "road": "Đường Song Hành Cao Tốc Pháp Vân - Cầu Giẽ",
+      "suburb": "Phường Yên Sở",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77479,106.6394": {
+    "display_name": "Hẻm 173/5 Khuông Việt, Phường Tân Phú, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "road": "Hẻm 173/5 Khuông Việt",
+      "suburb": "Phường Tân Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.84691,108.8128": {
+    "display_name": "Phước Tân, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Tân",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
