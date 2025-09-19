@@ -5545,5 +5545,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.071,108.2341": {
+    "display_name": "Đường Nguyễn Xuân Khoát, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Xuân Khoát",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
