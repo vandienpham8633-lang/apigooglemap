@@ -5376,5 +5376,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77475,106.6394": {
+    "display_name": "Hẻm 173/5 Khuông Việt, Phường Tân Phú, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "road": "Hẻm 173/5 Khuông Việt",
+      "suburb": "Phường Tân Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
