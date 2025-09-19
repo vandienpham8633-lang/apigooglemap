@@ -5184,5 +5184,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57295,104.9173": {
+    "display_name": "វិថី ព្រះមហាក្ស​ត្រីយានីកុសុមៈ (១០៦), សង្កាត់ផ្សារថ្មីទី ១, Quận Daun Penh, Phnôm Pênh, 120201, Cao Miên",
+    "address": {
+      "road": "វិថី ព្រះមហាក្ស​ត្រីយានីកុសុមៈ (១០៦)",
+      "village": "សង្កាត់ផ្សារថ្មីទី ១",
+      "town": "Quận Daun Penh",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "120201",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "11.57205,104.917": {
+    "display_name": "វិថី ឧកញ៉ា អ៊ីង ប៊ុនហ៊ូវ (១០៨), សង្កាត់ផ្សារថ្មីទី ២, Quận Daun Penh, Phnôm Pênh, 120202, Cao Miên",
+    "address": {
+      "road": "វិថី ឧកញ៉ា អ៊ីង ប៊ុនហ៊ូវ (១០៨)",
+      "village": "សង្កាត់ផ្សារថ្មីទី ២",
+      "town": "Quận Daun Penh",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "120202",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
   }
 }
