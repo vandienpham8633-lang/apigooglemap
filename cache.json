@@ -5173,5 +5173,16 @@
       "country": "Băng-la-đét",
       "country_code": "bd"
     }
+  },
+  "16.06278,108.2331": {
+    "display_name": "Nguyễn Bỉnh Khiêm, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Nguyễn Bỉnh Khiêm",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
