@@ -5159,5 +5159,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "24.12332,91.29853": {
+    "display_name": "মাধবপুর, মাধবপুর উপজেলা, হবিগঞ্জ জেলা, সিলেট বিভাগ, 3330, Băng-la-đét",
+    "address": {
+      "town": "মাধবপুর",
+      "county": "মাধবপুর উপজেলা",
+      "state_district": "হবিগঞ্জ জেলা",
+      "ISO3166-2-lvl5": "BD-20",
+      "state": "সিলেট বিভাগ",
+      "ISO3166-2-lvl4": "BD-G",
+      "postcode": "3330",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
   }
 }
