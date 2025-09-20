@@ -5613,5 +5613,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.81818,105.2091": {
+    "display_name": "Đường Đinh Tiên Hoàng, Tân Quang, Phường Minh Xuân, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "Đường Đinh Tiên Hoàng",
+      "suburb": "Tân Quang",
+      "city": "Phường Minh Xuân",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
