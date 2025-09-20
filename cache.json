@@ -5625,5 +5625,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.79356,109.1366": {
+    "display_name": "Trần Quang Diệu, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "suburb": "Trần Quang Diệu",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
