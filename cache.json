@@ -5657,5 +5657,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.15735,108.7777": {
+    "display_name": "Phường Trương Quang Trọng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Phường Trương Quang Trọng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.20423,106.7251": {
+    "display_name": "Xã Phước Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Phước Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
