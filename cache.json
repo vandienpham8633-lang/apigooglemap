@@ -5801,5 +5801,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.66561,108.0989": {
+    "display_name": "Thôn 1, Phường Tân Lập, Tỉnh Đắk Lắk, 64113, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Phường Tân Lập",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "64113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
