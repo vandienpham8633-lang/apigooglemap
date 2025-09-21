@@ -5982,5 +5982,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.12382,106.6626": {
+    "display_name": "An Lợi, Phường Hòa Lợi, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "quarter": "An Lợi",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
