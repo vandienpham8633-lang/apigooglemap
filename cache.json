@@ -5994,5 +5994,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.72685,108.3705": {
+    "display_name": "Tổ dân phố 10, Liên Nghĩa, Xã Đức Trọng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 10",
+      "town": "Liên Nghĩa",
+      "county": "Xã Đức Trọng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
