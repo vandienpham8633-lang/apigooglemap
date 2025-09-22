@@ -6606,5 +6606,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.35025,104.9924": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.04594,105.8051": {
+    "display_name": "휴대폰싸게고치는곳, Phố Nguyễn Đình Hoàn, Phường Nghĩa Đô, Hà Nội, 10072, Việt Nam",
+    "address": {
+      "tourism": "휴대폰싸게고치는곳",
+      "road": "Phố Nguyễn Đình Hoàn",
+      "suburb": "Phường Nghĩa Đô",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10072",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.04462,107.9873": {
+    "display_name": "Phường Thống Nhất, Tỉnh Gia Lai, 60000, Việt Nam",
+    "address": {
+      "county": "Phường Thống Nhất",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "60000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92315,106.8802": {
+    "display_name": "Đường 6A, Khu công nghiệp Biên Hòa 2, Thành phố Biên Hòa, Phường Trấn Biên, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "road": "Đường 6A",
+      "industrial": "Khu công nghiệp Biên Hòa 2",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Trấn Biên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
