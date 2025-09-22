@@ -6442,5 +6442,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.3482,104.992": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
