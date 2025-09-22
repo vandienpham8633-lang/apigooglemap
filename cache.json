@@ -6280,5 +6280,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89857,106.7406": {
+    "display_name": "Đường tỉnh 743B, Thống Nhất 2, Phường Dĩ An, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743B",
+      "quarter": "Thống Nhất 2",
+      "suburb": "Phường Dĩ An",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
