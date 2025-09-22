@@ -6220,5 +6220,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77473,106.6394": {
+    "display_name": "Hẻm 173/5 Khuông Việt, Phường Tân Phú, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "road": "Hẻm 173/5 Khuông Việt",
+      "suburb": "Phường Tân Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.23281,105.6767": {
+    "display_name": "Phường Quỳnh Mai, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Quỳnh Mai",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.04605,105.8051": {
+    "display_name": "22Land Residence Hotel 2, 2, Phố Nguyễn Đình Hoàn, Phường Nghĩa Đô, Hà Nội, 10000, Việt Nam",
+    "address": {
+      "tourism": "22Land Residence Hotel 2",
+      "house_number": "2",
+      "road": "Phố Nguyễn Đình Hoàn",
+      "suburb": "Phường Nghĩa Đô",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7682,106.4756": {
+    "display_name": "Khu CN Hải Sơn, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu CN Hải Sơn",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
