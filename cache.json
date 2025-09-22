@@ -6520,5 +6520,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78798,106.6638": {
+    "display_name": "Hẻm 686/17  Cách Mạng Tháng 8, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72117, Việt Nam",
+    "address": {
+      "road": "Hẻm 686/17  Cách Mạng Tháng 8",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.04595,105.8051": {
+    "display_name": "22Land Residence Hotel 2, 2, Phố Nguyễn Đình Hoàn, Phường Nghĩa Đô, Hà Nội, 10000, Việt Nam",
+    "address": {
+      "tourism": "22Land Residence Hotel 2",
+      "house_number": "2",
+      "road": "Phố Nguyễn Đình Hoàn",
+      "suburb": "Phường Nghĩa Đô",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
