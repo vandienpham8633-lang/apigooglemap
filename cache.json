@@ -6508,5 +6508,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.59393,105.9715": {
+    "display_name": "Lê Văn Tám, Phường Phú Lợi, Thành phố Cần Thơ, 96113, Việt Nam",
+    "address": {
+      "road": "Lê Văn Tám",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "96113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
