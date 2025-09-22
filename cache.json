@@ -6293,5 +6293,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.48278,107.2099": {
+    "display_name": "Long Bình, Xã Long Điền, Thành phố Hồ Chí Minh, Long Điền, 78107, Việt Nam",
+    "address": {
+      "neighbourhood": "Long Bình",
+      "city_district": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "district": "Long Điền",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.83419,109.1912": {
+    "display_name": "Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
