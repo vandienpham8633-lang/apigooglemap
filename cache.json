@@ -6462,5 +6462,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.69472,108.0321": {
+    "display_name": "Tổ dân phố 9, Đung, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 9",
+      "village": "Đung",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.499416,105.8494": {
+    "display_name": "Trưng Nhị, Xã Nhu Gia, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Trưng Nhị",
+      "city_district": "Xã Nhu Gia",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54106,105.4049": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
