@@ -6172,5 +6172,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "-6.696082,108.5068": {
+    "display_name": "Wotgali, Kabupaten Cirebon, Tỉnh Tây Java, Jawa, 45154, Indonesia",
+    "address": {
+      "village": "Wotgali",
+      "county": "Kabupaten Cirebon",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "postcode": "45154",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
   }
 }
