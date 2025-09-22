@@ -6558,5 +6558,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.08702,100.6264": {
+    "display_name": "ซอยเทพกุญชร 15, ตำบลคลองหนึ่ง, เทศบาลเมืองท่าโขลง, อำเภอคลองหลวง, Pathum Thani, 12120, Thái Lan",
+    "address": {
+      "road": "ซอยเทพกุญชร 15",
+      "city_district": "ตำบลคลองหนึ่ง",
+      "town": "เทศบาลเมืองท่าโขลง",
+      "county": "อำเภอคลองหลวง",
+      "province": "Pathum Thani",
+      "ISO3166-2-lvl4": "TH-13",
+      "postcode": "12120",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "10.89867,106.7871": {
+    "display_name": "Đông A, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Đông A",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
