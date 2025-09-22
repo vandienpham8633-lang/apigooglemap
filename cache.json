@@ -6422,5 +6422,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.98226,105.1411": {
+    "display_name": "Xã Lùng Tám, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Lùng Tám",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.15725,108.7773": {
+    "display_name": "Phường Trương Quang Trọng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Phường Trương Quang Trọng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
