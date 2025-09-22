@@ -6353,5 +6353,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.7172,107.141": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55576,106.5316": {
+    "display_name": "Xã Mỹ Lệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Lệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63151,106.5165": {
+    "display_name": "Phân bón Huỳnh anh, Quốc lộ 1, Gò Đen, Xã Bình Chánh, Mỹ Yên, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "office": "Phân bón Huỳnh anh",
+      "road": "Quốc lộ 1",
+      "neighbourhood": "Gò Đen",
+      "city_district": "Xã Bình Chánh",
+      "village": "Mỹ Yên",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82991,108.2262": {
+    "display_name": "Xã Duy Xuyên, Thành phố Đà Nẵng, 51506, Việt Nam",
+    "address": {
+      "town": "Xã Duy Xuyên",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.29247,106.0319": {
+    "display_name": "Xã An Bình, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Bình",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
