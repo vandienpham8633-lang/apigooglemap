@@ -6716,5 +6716,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.0928,100.6405": {
+    "display_name": "ซอยไอยรา 4, ban suan tawan dhamma (village), ตำบลคลองสอง, เทศบาลเมืองท่าโขลง, อำเภอคลองหลวง, Pathum Thani, 12120, Thái Lan",
+    "address": {
+      "road": "ซอยไอยรา 4",
+      "neighbourhood": "ban suan tawan dhamma (village)",
+      "city_district": "ตำบลคลองสอง",
+      "town": "เทศบาลเมืองท่าโขลง",
+      "county": "อำเภอคลองหลวง",
+      "province": "Pathum Thani",
+      "ISO3166-2-lvl4": "TH-13",
+      "postcode": "12120",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
   }
 }
