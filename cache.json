@@ -7205,5 +7205,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.08699,109.022": {
+    "display_name": "Xã Sơn Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
