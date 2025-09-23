@@ -6765,5 +6765,33 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90656,106.768": {
+    "display_name": "Lý Thường Kiệt, Bình Minh 1, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Lý Thường Kiệt",
+      "quarter": "Bình Minh 1",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.169490,107.727900": {
+    "display_name": "Thôn 3, Xã Đồng Kho, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Đồng Kho",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "65.714531,520.486620": {
+    "display_name": null,
+    "address": null
   }
 }
