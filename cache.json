@@ -6731,5 +6731,39 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "10.70582,106.6094": {
+    "display_name": "Đường Hoàng Đạo Thúy, Chợ đầu mối Bình Điền, Phường Bình Đông, Tân Túc, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Đường Hoàng Đạo Thúy",
+      "commercial": "Chợ đầu mối Bình Điền",
+      "suburb": "Phường Bình Đông",
+      "town": "Tân Túc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.79233,108.7834": {
+    "display_name": "Xã Lâm Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Lâm Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.71725,107.141": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
