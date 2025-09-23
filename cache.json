@@ -6858,5 +6858,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06221,108.2334": {
+    "display_name": "Lý Nam Đế, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Lý Nam Đế",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0622,108.2335": {
+    "display_name": "Lý Nam Đế, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Lý Nam Đế",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
