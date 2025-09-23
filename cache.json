@@ -7094,5 +7094,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.52343,107.1697": {
+    "display_name": "Xã Phước Sơn, Việt Nam",
+    "address": {
+      "county": "Xã Phước Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87009,106.8052": {
+    "display_name": "Trường Đại học Công nghệ Thông tin, Xa lộ Hà Nội, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Trường Đại học Công nghệ Thông tin",
+      "road": "Xa lộ Hà Nội",
+      "suburb": "Phường Tăng Nhơn Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.5543,108.9057": {
+    "display_name": "Thôn Hưng Nhượng, An Hòa, Xã An Hòa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hưng Nhượng, An Hòa",
+      "county": "Xã An Hòa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.33986,109.2402": {
+    "display_name": "Đường Hội Phú, Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Hội Phú",
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.6223,107.9361": {
+    "display_name": "Thôn 10, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 10",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
