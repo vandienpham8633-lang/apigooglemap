@@ -6893,5 +6893,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.87849,109.1059": {
+    "display_name": "KV.Hòa Nghi, P.Nhơn Hòa, Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KV.Hòa Nghi, P.Nhơn Hòa",
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.12716,105.5321": {
+    "display_name": "Xã Khâu Vai, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Khâu Vai",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74998,106.6891": {
+    "display_name": "Hẻm 17 Phạm Thế Hiển, Chánh Hưng, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 72760, Việt Nam",
+    "address": {
+      "road": "Hẻm 17 Phạm Thế Hiển",
+      "suburb": "Chánh Hưng",
+      "city_district": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72760",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
