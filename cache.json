@@ -6819,5 +6819,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.0619,108.2321": {
+    "display_name": "Chợ Đêm Sơn Trà, 99, Cao Bá Quát, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Chợ Đêm Sơn Trà",
+      "house_number": "99",
+      "road": "Cao Bá Quát",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
