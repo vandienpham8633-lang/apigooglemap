@@ -6927,5 +6927,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.48277,107.21": {
+    "display_name": "Long Bình, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "neighbourhood": "Long Bình",
+      "city_district": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
