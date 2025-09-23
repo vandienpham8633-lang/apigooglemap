@@ -7175,5 +7175,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.81883,106.986": {
+    "display_name": "Đường Lạc Long Quân, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Đường Lạc Long Quân",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
