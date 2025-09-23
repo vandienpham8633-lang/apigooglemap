@@ -7262,5 +7262,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.55929,109.0426": {
+    "display_name": "Lý Tự Trọng, KP.7, P.Tam Quan, Tam Quan, Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Lý Tự Trọng",
+      "quarter": "KP.7, P.Tam Quan",
+      "suburb": "Tam Quan",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.55931,109.0426": {
+    "display_name": "Lý Tự Trọng, KP.7, P.Tam Quan, Tam Quan, Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Lý Tự Trọng",
+      "quarter": "KP.7, P.Tam Quan",
+      "suburb": "Tam Quan",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
