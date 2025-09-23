@@ -7044,5 +7044,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.02124,105.0677": {
+    "display_name": "Võ Trường Toản, Lê Anh Xuân, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Võ Trường Toản",
+      "quarter": "Lê Anh Xuân",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87012,106.8052": {
+    "display_name": "Trường Đại học Công nghệ Thông tin, Xa lộ Hà Nội, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Trường Đại học Công nghệ Thông tin",
+      "road": "Xa lộ Hà Nội",
+      "suburb": "Phường Tăng Nhơn Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62239,107.9362": {
+    "display_name": "Thôn 10, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 10",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87008,106.8052": {
+    "display_name": "Trường Đại học Công nghệ Thông tin, Xa lộ Hà Nội, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Trường Đại học Công nghệ Thông tin",
+      "road": "Xa lộ Hà Nội",
+      "suburb": "Phường Tăng Nhơn Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
