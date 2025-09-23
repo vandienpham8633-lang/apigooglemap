@@ -7023,5 +7023,26 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "10.57472,105.3579": {
+    "display_name": "Phú Mỹ, Xã Phú Tân, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Phú Mỹ",
+      "county": "Xã Phú Tân",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54102,105.4049": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
