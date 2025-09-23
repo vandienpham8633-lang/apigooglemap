@@ -6832,5 +6832,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90013,106.7428": {
+    "display_name": "Đường 22, Khu công nghiệp Sóng Thần, Thống Nhất 2, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường 22",
+      "industrial": "Khu công nghiệp Sóng Thần",
+      "quarter": "Thống Nhất 2",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.84709,108.8127": {
+    "display_name": "Phước Tân, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Tân",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
