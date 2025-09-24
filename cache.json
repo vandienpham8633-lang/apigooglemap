@@ -7485,5 +7485,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.24476,109.1962": {
+    "display_name": "The Costa Nha Trang Apartment, 32-34, Trần Phú, Phước Hòa, Phường Nha Trang, Khánh Hòa, 57106, Việt Nam",
+    "address": {
+      "building": "The Costa Nha Trang Apartment",
+      "house_number": "32-34",
+      "road": "Trần Phú",
+      "suburb": "Phước Hòa",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
