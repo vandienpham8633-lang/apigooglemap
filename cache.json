@@ -7669,5 +7669,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76838,106.7931": {
+    "display_name": "Đường Số 57 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "road": "Đường Số 57 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94871,108.1019": {
+    "display_name": "TH Chị Mười, 323, Nguyễn Hội, Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "shop": "TH Chị Mười",
+      "house_number": "323",
+      "road": "Nguyễn Hội",
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.02585,108.9583": {
+    "display_name": "Chí Thán, Xã Đức Bình, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Chí Thán",
+      "county": "Xã Đức Bình",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.02574,108.9582": {
+    "display_name": "Chí Thán, Xã Đức Bình, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Chí Thán",
+      "county": "Xã Đức Bình",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.02573,108.9583": {
+    "display_name": "Chí Thán, Xã Đức Bình, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Chí Thán",
+      "county": "Xã Đức Bình",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
