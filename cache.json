@@ -7450,5 +7450,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.744331,105.5598": {
+    "display_name": "Đường cao tốc Cần Thơ - Cà Mau, Xã Vị Thủy, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Cần Thơ - Cà Mau",
+      "city_district": "Xã Vị Thủy",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
