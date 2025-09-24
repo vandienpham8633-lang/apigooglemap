@@ -7588,5 +7588,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.07305,108.2454": {
+    "display_name": "Đường Võ Nguyên Giáp, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Võ Nguyên Giáp",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.2436,109.1963": {
+    "display_name": "Havana premier 5 star, Trần Phú, Phước Hòa, Phường Nha Trang, Khánh Hòa, 57106, Việt Nam",
+    "address": {
+      "tourism": "Havana premier 5 star",
+      "road": "Trần Phú",
+      "suburb": "Phước Hòa",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
