@@ -7300,5 +7300,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.879,106.787": {
+    "display_name": "Viện Môi trường và Tài nguyên, Leonardo Da Vinci, Khu đô thị Đại học Quốc gia TP.HCM, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Viện Môi trường và Tài nguyên",
+      "road": "Leonardo Da Vinci",
+      "residential": "Khu đô thị Đại học Quốc gia TP.HCM",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76722,106.4759": {
+    "display_name": "Khu CN Hải Sơn, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu CN Hải Sơn",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
