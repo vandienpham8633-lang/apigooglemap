@@ -7514,5 +7514,17 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "10.68963,106.5958": {
+    "display_name": "Nguyễn Văn Linh, Xã Bình Chánh, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "village": "Xã Bình Chánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
