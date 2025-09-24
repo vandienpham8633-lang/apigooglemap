@@ -7808,5 +7808,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "1.470088,103.8988": {
+    "display_name": "Taman Mawar, Pasir Gudang, Johor Bahru, Johor, 81700, Malaysia",
+    "address": {
+      "neighbourhood": "Taman Mawar",
+      "city": "Pasir Gudang",
+      "district": "Johor Bahru",
+      "state": "Johor",
+      "ISO3166-2-lvl4": "MY-01",
+      "postcode": "81700",
+      "country": "Malaysia",
+      "country_code": "my"
+    }
   }
 }
