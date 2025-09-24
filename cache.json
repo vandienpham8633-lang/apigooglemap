@@ -7821,5 +7821,88 @@
       "country": "Malaysia",
       "country_code": "my"
     }
+  },
+  "11.5146,106.745": {
+    "display_name": "Xã Nha Bích, Việt Nam",
+    "address": {
+      "county": "Xã Nha Bích",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87697,106.7263": {
+    "display_name": "Đường Ngô Chí Quốc, Khu phố 19, Phường Tam Bình, Thuận An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường Ngô Chí Quốc",
+      "quarter": "Khu phố 19",
+      "suburb": "Phường Tam Bình",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90146,106.8554": {
+    "display_name": "Khu phố 5, Phường Long Hưng, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 5",
+      "county": "Phường Long Hưng",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.40465,107.4175": {
+    "display_name": "Đường tỉnh 774B, Ấp 4, Xã Nam Cát Tiên, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 774B",
+      "village": "Ấp 4",
+      "county": "Xã Nam Cát Tiên",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69043,106.5966": {
+    "display_name": "Nguyễn Văn Linh, Phường Bình Đông, Tân Túc, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "suburb": "Phường Bình Đông",
+      "town": "Tân Túc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79496,106.7123": {
+    "display_name": "Cửa Hàng Thời Trang Alanin, 95A, Hẻm 92 Xô viết Nghệ Tĩnh, Phường Thạnh Mỹ Tây, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72308, Việt Nam",
+    "address": {
+      "shop": "Cửa Hàng Thời Trang Alanin",
+      "house_number": "95A",
+      "road": "Hẻm 92 Xô viết Nghệ Tĩnh",
+      "suburb": "Phường Thạnh Mỹ Tây",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72308",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.04596,105.8051": {
+    "display_name": "22Land Residence Hotel 2, 2, Phố Nguyễn Đình Hoàn, Phường Nghĩa Đô, Hà Nội, 10000, Việt Nam",
+    "address": {
+      "tourism": "22Land Residence Hotel 2",
+      "house_number": "2",
+      "road": "Phố Nguyễn Đình Hoàn",
+      "suburb": "Phường Nghĩa Đô",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
