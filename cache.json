@@ -7473,5 +7473,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.288019,105.7368": {
+    "display_name": "Nguyễn Thị Minh Khai, Phường Vĩnh Trạch, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh Khai",
+      "county": "Phường Vĩnh Trạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
