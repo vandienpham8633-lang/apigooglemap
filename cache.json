@@ -7537,5 +7537,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.02582,108.9582": {
+    "display_name": "Chí Thán, Xã Đức Bình, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Chí Thán",
+      "county": "Xã Đức Bình",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.24362,109.1964": {
+    "display_name": "The Costa Nha Trang Apartment, 32-34, Trần Phú, Phước Hòa, Phường Nha Trang, Khánh Hòa, 57106, Việt Nam",
+    "address": {
+      "building": "The Costa Nha Trang Apartment",
+      "house_number": "32-34",
+      "road": "Trần Phú",
+      "suburb": "Phước Hòa",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.52233,109.0618": {
+    "display_name": "KP.Trường An 1, P.Hoài Thanh, Phường Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Trường An 1, P.Hoài Thanh",
+      "county": "Phường Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.24362,109.1963": {
+    "display_name": "Havana premier 5 star, Trần Phú, Phước Hòa, Phường Nha Trang, Khánh Hòa, 57106, Việt Nam",
+    "address": {
+      "tourism": "Havana premier 5 star",
+      "road": "Trần Phú",
+      "suburb": "Phước Hòa",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
