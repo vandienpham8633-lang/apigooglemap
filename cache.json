@@ -7751,5 +7751,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.36696,106.0265": {
+    "display_name": "C bà đạc, Quốc lộ 1, Xã Hội Cư, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "highway": "C bà đạc",
+      "road": "Quốc lộ 1",
+      "county": "Xã Hội Cư",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90898,106.7084": {
+    "display_name": "Đông Nhì, Phường Lái Thiêu, Thuận An, Thành phố Hồ Chí Minh, 75214, Việt Nam",
+    "address": {
+      "quarter": "Đông Nhì",
+      "suburb": "Phường Lái Thiêu",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75214",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.307814,105.4549": {
+    "display_name": "Phường Láng Tròn, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường Láng Tròn",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.210715,105.3667": {
+    "display_name": "Quốc lộ 1, Xã Phong Thạnh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
