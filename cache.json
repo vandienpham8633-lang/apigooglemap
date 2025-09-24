@@ -7404,5 +7404,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.98804,109.1959": {
+    "display_name": "Nguyễn Chí Thanh, Phường Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Chí Thanh",
+      "suburb": "Phường Bắc Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75461,106.683": {
+    "display_name": "Hẻm 74 Tran Binh Trong, Phường Chợ Quán, Thành phố Hồ Chí Minh, 72760, Việt Nam",
+    "address": {
+      "road": "Hẻm 74 Tran Binh Trong",
+      "suburb": "Phường Chợ Quán",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72760",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0827,108.2478": {
+    "display_name": "Võ Nguyên Giáp, Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Võ Nguyên Giáp",
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
