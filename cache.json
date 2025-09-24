@@ -7726,5 +7726,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.68965,106.5958": {
+    "display_name": "Nguyễn Văn Linh, Xã Bình Chánh, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "village": "Xã Bình Chánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.26,104.8138": {
+    "display_name": "HĐND-UBND Xã Bình Sơn, Quốc lộ 80, Thuận Tiến, Xã Bình Sơn, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "amenity": "HĐND-UBND Xã Bình Sơn",
+      "road": "Quốc lộ 80",
+      "village": "Thuận Tiến",
+      "county": "Xã Bình Sơn",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
