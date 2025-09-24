@@ -7500,5 +7500,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.24982,100.7554": {
+    "display_name": "ถนนพหลโยธิน, บ้านคลองแขก, ตำบลชะแมบ, องค์การบริหารส่วนตำบลชะแมบ, อำเภอวังน้อย, Ayutthaya, 13170, Thái Lan",
+    "address": {
+      "road": "ถนนพหลโยธิน",
+      "village": "บ้านคลองแขก",
+      "city": "ตำบลชะแมบ",
+      "county": "องค์การบริหารส่วนตำบลชะแมบ",
+      "province": "Ayutthaya",
+      "ISO3166-2-lvl4": "TH-14",
+      "postcode": "13170",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
   }
 }
