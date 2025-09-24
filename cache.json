@@ -7461,5 +7461,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91967,106.7354": {
+    "display_name": "Bình Đáng, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Bình Đáng",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
