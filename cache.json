@@ -7904,5 +7904,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.65646,106.2753": {
+    "display_name": "Xã Hàm Giang, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Giang",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81315,106.6679": {
+    "display_name": "Hồng Hà, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72100, Việt Nam",
+    "address": {
+      "road": "Hồng Hà",
+      "city": "Phường Tân Sơn Hòa",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
