@@ -8232,5 +8232,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.0237,105.9324": {
+    "display_name": "Nút giao Quốc lộ 5, Đường Nguyễn Văn Linh, Phường Long Biên, Trâu Quỳ, Hà Nội, 08443, Việt Nam",
+    "address": {
+      "junction": "Nút giao Quốc lộ 5",
+      "road": "Đường Nguyễn Văn Linh",
+      "suburb": "Phường Long Biên",
+      "town": "Trâu Quỳ",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "08443",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
