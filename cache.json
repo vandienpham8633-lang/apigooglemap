@@ -8463,5 +8463,33 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.25273,100.7564": {
+    "display_name": "ถนนพหลโยธิน, บ้านคลองแขก, ตำบลชะแมบ, องค์การบริหารส่วนตำบลชะแมบ, อำเภอวังน้อย, Ayutthaya, 13170, Thái Lan",
+    "address": {
+      "road": "ถนนพหลโยธิน",
+      "village": "บ้านคลองแขก",
+      "city": "ตำบลชะแมบ",
+      "county": "องค์การบริหารส่วนตำบลชะแมบ",
+      "province": "Ayutthaya",
+      "ISO3166-2-lvl4": "TH-14",
+      "postcode": "13170",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "13.83283,109.1898": {
+    "display_name": "Đường tỉnh 640, Thôn Liêm Thuận, Phước Thuận, Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 640",
+      "hamlet": "Thôn Liêm Thuận, Phước Thuận",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
