@@ -7936,5 +7936,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.81184,106.9525": {
+    "display_name": "Đường Thích Quảng Đức, Phước Long, Phường Phước Bình, Việt Nam",
+    "address": {
+      "road": "Đường Thích Quảng Đức",
+      "town": "Phước Long",
+      "county": "Phường Phước Bình",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
