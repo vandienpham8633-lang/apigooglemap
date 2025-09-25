@@ -8707,5 +8707,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.31237,108.9948": {
+    "display_name": "Thôn Trí Tường, Ân Tường Đông, Lộc Giang, Xã Hoài Ân, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Trí Tường, Ân Tường Đông",
+      "village": "Lộc Giang",
+      "county": "Xã Hoài Ân",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
