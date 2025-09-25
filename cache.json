@@ -7979,5 +7979,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.72687,106.685": {
+    "display_name": "Xã Bình Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71064,107.829": {
+    "display_name": "Lý Thái Tổ, Xã Tân Hải, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Lý Thái Tổ",
+      "county": "Xã Tân Hải",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7271,106.6851": {
+    "display_name": "Xã Bình Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
