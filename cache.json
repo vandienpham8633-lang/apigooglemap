@@ -8574,5 +8574,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.13941,107.3332": {
+    "display_name": "Ka Nôn 1, Xã A Lưới 4, Thành phố Huế, Việt Nam",
+    "address": {
+      "neighbourhood": "Ka Nôn 1",
+      "town": "Xã A Lưới 4",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.22306,106.4775": {
+    "display_name": "ĐT. 883, Xã Lương Hòa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 883",
+      "county": "Xã Lương Hòa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85289,105.4884": {
+    "display_name": "ĐT. 843, Sa Rài, Tân Hồng, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 843",
+      "town": "Sa Rài",
+      "county": "Tân Hồng",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
