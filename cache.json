@@ -8408,5 +8408,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.5278,105.3729": {
+    "display_name": "Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.74041,105.8388": {
+    "display_name": "Quảng Cát, Phường Quảng Phú, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Quảng Cát",
+      "city": "Phường Quảng Phú",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
