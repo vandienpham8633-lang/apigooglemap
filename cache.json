@@ -8309,5 +8309,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.74054,105.8388": {
+    "display_name": "Quảng Cát, Phường Quảng Phú, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Quảng Cát",
+      "city": "Phường Quảng Phú",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.8054,106.946": {
+    "display_name": "Nguyễn Tất Thành, Phước Long, Phường Phước Bình, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "town": "Phước Long",
+      "county": "Phường Phước Bình",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7486,106.7931": {
+    "display_name": "Cát Lái, Xã Đại Phước, Tỉnh Đồng Nai, 76260, Việt Nam",
+    "address": {
+      "village": "Cát Lái",
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
