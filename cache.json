@@ -8364,5 +8364,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.74045,105.8388": {
+    "display_name": "Quảng Cát, Phường Quảng Phú, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Quảng Cát",
+      "city": "Phường Quảng Phú",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.598677,105.9622": {
+    "display_name": "Phường Phú Lợi, Thành phố Cần Thơ, 96113, Việt Nam",
+    "address": {
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "96113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.74047,105.8388": {
+    "display_name": "Quảng Cát, Phường Quảng Phú, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Quảng Cát",
+      "city": "Phường Quảng Phú",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.74046,105.8387": {
+    "display_name": "Quảng Cát, Phường Quảng Phú, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Quảng Cát",
+      "city": "Phường Quảng Phú",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
