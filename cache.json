@@ -8528,5 +8528,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.96488,106.7838": {
+    "display_name": "Thanh Bình, Xã Thiện Hưng, Việt Nam",
+    "address": {
+      "town": "Thanh Bình",
+      "county": "Xã Thiện Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
