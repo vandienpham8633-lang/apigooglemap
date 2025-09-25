@@ -8261,5 +8261,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.16951,107.7279": {
+    "display_name": "Thôn 3, Xã Đồng Kho, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Đồng Kho",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77136,109.2358": {
+    "display_name": "Trần Bình Trọng, Khu vực, Thị Nại, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Trần Bình Trọng",
+      "quarter": "Khu vực",
+      "suburb": "Thị Nại",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.74044,105.8388": {
+    "display_name": "Quảng Cát, Phường Quảng Phú, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Quảng Cát",
+      "city": "Phường Quảng Phú",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16952,107.7279": {
+    "display_name": "Thôn 3, Xã Đồng Kho, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Đồng Kho",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
