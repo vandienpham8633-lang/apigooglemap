@@ -8537,5 +8537,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.05329,108.209": {
+    "display_name": "Bệnh viện Đa khoa Gia Đình Đà Nẵng, 73, Đường Nguyễn Hữu Thọ, Phường Hòa Cường, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "building": "Bệnh viện Đa khoa Gia Đình Đà Nẵng",
+      "house_number": "73",
+      "road": "Đường Nguyễn Hữu Thọ",
+      "city": "Phường Hòa Cường",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79002,106.6017": {
+    "display_name": "Bình Hưng Hòa, Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "suburb": "Bình Hưng Hòa",
+      "city": "Phường Bình Hưng Hòa",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.1395,107.3328": {
+    "display_name": "Quốc lộ 14, Ka Nôn 1, Lâm Đớt, Xã A Lưới 4, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "neighbourhood": "Ka Nôn 1",
+      "village": "Lâm Đớt",
+      "town": "Xã A Lưới 4",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
