@@ -8106,5 +8106,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03827,107.2878": {
+    "display_name": "Đường tỉnh 763, Ấp 2A, Xã Xuân Bắc, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 763",
+      "village": "Ấp 2A",
+      "county": "Xã Xuân Bắc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03829,107.2878": {
+    "display_name": "Đường tỉnh 763, Ấp 2A, Xã Xuân Bắc, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 763",
+      "village": "Ấp 2A",
+      "county": "Xã Xuân Bắc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0354,106.7616": {
+    "display_name": "Khánh Lộc, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Lộc",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5465,108.9875": {
+    "display_name": "Phường Phan Rang, An Hải, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "village": "An Hải",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54651,108.9874": {
+    "display_name": "Phường Phan Rang, An Hải, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "village": "An Hải",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54651,108.9875": {
+    "display_name": "Phường Phan Rang, An Hải, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "village": "An Hải",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
