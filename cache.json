@@ -8070,5 +8070,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03831,107.2878": {
+    "display_name": "Đường tỉnh 763, Ấp 2A, Xã Xuân Bắc, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 763",
+      "village": "Ấp 2A",
+      "county": "Xã Xuân Bắc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54653,108.9875": {
+    "display_name": "Phường Phan Rang, An Hải, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "village": "An Hải",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.04772,106.6259": {
+    "display_name": "Đại Nam Văn Hiến, 1765A, Đại lộ Bình Dương, Khu phố 2, Phường Phú An, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "tourism": "Đại Nam Văn Hiến",
+      "house_number": "1765A",
+      "road": "Đại lộ Bình Dương",
+      "quarter": "Khu phố 2",
+      "city_district": "Phường Phú An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
