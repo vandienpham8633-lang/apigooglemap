@@ -8618,5 +8618,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.03302,105.4082": {
+    "display_name": "Xã Minh Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Minh Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
