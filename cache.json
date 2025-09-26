@@ -9592,5 +9592,99 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "13.11068,109.2848": {
+    "display_name": "Đại lộ Nguyễn Tất Thành, Phú Vang, Phường Bình Kiến, Tỉnh Đắk Lắk, 56120, Việt Nam",
+    "address": {
+      "road": "Đại lộ Nguyễn Tất Thành",
+      "hamlet": "Phú Vang",
+      "county": "Phường Bình Kiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "56120",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.61737,107.3153": {
+    "display_name": "Văn Phong, Xã Nam Hải Lăng, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Văn Phong",
+      "town": "Xã Nam Hải Lăng",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.34022,109.2364": {
+    "display_name": "Đường Hội Phú, Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Hội Phú",
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88861,109.1402": {
+    "display_name": "Thôn Định Thiện Tây, Phước Quang, Xã Tuy Phước Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Định Thiện Tây, Phước Quang",
+      "county": "Xã Tuy Phước Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8051,107.8732": {
+    "display_name": "Nguyên Văn Cừ, Thuận Nam, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyên Văn Cừ",
+      "town": "Thuận Nam",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78804,106.6638": {
+    "display_name": "Hẻm 686/17  Cách Mạng Tháng 8, Tân Sơn Nhất, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72117, Việt Nam",
+    "address": {
+      "road": "Hẻm 686/17  Cách Mạng Tháng 8",
+      "suburb": "Tân Sơn Nhất",
+      "city_district": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0353,106.7616": {
+    "display_name": "Khánh Lộc, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Lộc",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.499283,105.8502": {
+    "display_name": "Quốc lộ 1, Xã Nhu Gia, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "city_district": "Xã Nhu Gia",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
