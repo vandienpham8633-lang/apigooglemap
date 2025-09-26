@@ -9360,5 +9360,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75107,106.577": {
+    "display_name": "Nguyễn Văn Cự, Tân Tạo, Phường Tân Tạo, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Cự",
+      "suburb": "Tân Tạo",
+      "city_district": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
