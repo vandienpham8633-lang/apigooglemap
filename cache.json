@@ -8963,5 +8963,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.45219,105.6726": {
+    "display_name": "Mỹ Trà, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Mỹ Trà",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
