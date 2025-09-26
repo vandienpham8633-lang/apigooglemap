@@ -9129,5 +9129,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.09346,108.1444": {
+    "display_name": "Mikazuki Đà Nẵng Hotel, Lobby, Phường Hải Vân, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "tourism": "Mikazuki Đà Nẵng Hotel",
+      "road": "Lobby",
+      "city": "Phường Hải Vân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.25289,100.7566": {
+    "display_name": "ถนนพหลโยธิน, บ้านคลองแขก, ตำบลชะแมบ, องค์การบริหารส่วนตำบลชะแมบ, อำเภอวังน้อย, Ayutthaya, 13170, Thái Lan",
+    "address": {
+      "road": "ถนนพหลโยธิน",
+      "village": "บ้านคลองแขก",
+      "city": "ตำบลชะแมบ",
+      "county": "องค์การบริหารส่วนตำบลชะแมบ",
+      "province": "Ayutthaya",
+      "ISO3166-2-lvl4": "TH-14",
+      "postcode": "13170",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
   }
 }
