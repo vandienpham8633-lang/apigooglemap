@@ -9241,5 +9241,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.041302,105.0757": {
+    "display_name": "Xã Tân Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.84986,108.2764": {
+    "display_name": "Dlung 1B, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Dlung 1B",
+      "county": "Phường Buôn Hồ",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06445,108.2428": {
+    "display_name": "Đường Nguyễn Công Trứ, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Công Trứ",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
