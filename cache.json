@@ -9460,5 +9460,70 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80059,107.8655": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89751,105.7813": {
+    "display_name": "Nguyễn An Ninh, Vĩnh Hưng, Xã Vĩnh Hưng, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn An Ninh",
+      "town": "Vĩnh Hưng",
+      "county": "Xã Vĩnh Hưng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.46091,105.6276": {
+    "display_name": "Cao Lãnh, Phường Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "city": "Cao Lãnh",
+      "county": "Phường Cao Lãnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.18993,108.711": {
+    "display_name": "Xã Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Tịnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.76607,107.9897": {
+    "display_name": "Xã Ia Tôr, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Tôr",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77051,108.5227": {
+    "display_name": "Kông Chro, Xã Kông Chro, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Kông Chro",
+      "county": "Xã Kông Chro",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
