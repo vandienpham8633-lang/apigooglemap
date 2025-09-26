@@ -9155,5 +9155,59 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "13.02583,108.9582": {
+    "display_name": "Chí Thán, Xã Đức Bình, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Chí Thán",
+      "county": "Xã Đức Bình",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.84696,108.8127": {
+    "display_name": "Phước Tân, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Tân",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68957,106.5958": {
+    "display_name": "Nguyễn Văn Linh, Xã Bình Chánh, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "village": "Xã Bình Chánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94873,108.102": {
+    "display_name": "Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929727,106.3136": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
