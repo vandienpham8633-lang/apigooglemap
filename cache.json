@@ -8764,5 +8764,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.59393,107.9392": {
+    "display_name": "Đường CN 1, Khu công nghiệp Hòa Phú, Thôn 12, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 1",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 12",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.09096,108.2971": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.68652,105.6949": {
+    "display_name": "Nguyễn Sỹ Sách, Phường Vinh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Nguyễn Sỹ Sách",
+      "city": "Phường Vinh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
