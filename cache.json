@@ -9036,5 +9036,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.35877,106.0385": {
+    "display_name": "Xã Bình Phú, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.92964,106.3136": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
