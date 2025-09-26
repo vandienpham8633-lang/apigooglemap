@@ -9373,5 +9373,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.92944,108.2619": {
+    "display_name": "Buôn Hồ, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Buôn Hồ",
+      "county": "Phường Buôn Hồ",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31232,107.4193": {
+    "display_name": "Ấp 4, Xã Tân Phú, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã Tân Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
