@@ -9209,5 +9209,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82626,106.9438": {
+    "display_name": "Đường Tú Xương, Phước Long, Phường Phước Bình, Việt Nam",
+    "address": {
+      "road": "Đường Tú Xương",
+      "town": "Phước Long",
+      "county": "Phường Phước Bình",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.23057,105.6974": {
+    "display_name": "Đường Nguyễn Tất Thành, Phường Quỳnh Mai, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tất Thành",
+      "city": "Phường Quỳnh Mai",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.41798,109.2529": {
+    "display_name": "Sông Cầu, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Sông Cầu",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
