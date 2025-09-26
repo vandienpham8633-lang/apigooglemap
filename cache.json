@@ -9273,5 +9273,34 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06453,108.2428": {
+    "display_name": "Đường Nguyễn Công Trứ, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Công Trứ",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.65215,121.0353": {
+    "display_name": "Yankee Candle Vertis North Philippines, Sola Drive, Vertis North, Bagong Pag-asa, Diliman, 1st District, Thành phố Quezon, Eastern Manila District, Metro Manila, 1100, Philippines",
+    "address": {
+      "amenity": "Yankee Candle Vertis North Philippines",
+      "road": "Sola Drive",
+      "commercial": "Vertis North",
+      "quarter": "Bagong Pag-asa",
+      "suburb": "Diliman",
+      "city_district": "1st District",
+      "city": "Thành phố Quezon",
+      "state_district": "Eastern Manila District",
+      "region": "Metro Manila",
+      "ISO3166-2-lvl3": "PH-00",
+      "postcode": "1100",
+      "country": "Philippines",
+      "country_code": "ph"
+    }
   }
 }
