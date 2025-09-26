@@ -9525,5 +9525,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.04809,108.182": {
+    "display_name": "Đường Trường Chinh, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Trường Chinh",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09322,107.2171": {
+    "display_name": "Đồn Điền 1, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Đồn Điền 1",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.7402,107.148": {
+    "display_name": "Đường 34, Thôn 7, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Đường 34",
+      "village": "Thôn 7",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
