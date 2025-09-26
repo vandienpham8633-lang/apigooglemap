@@ -9302,5 +9302,51 @@
       "country": "Philippines",
       "country_code": "ph"
     }
+  },
+  "10.81247,106.7175": {
+    "display_name": "Hẻm 860 Xô Viết Nghệ Tĩnh, Phường Thạnh Mỹ Tây, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72308, Việt Nam",
+    "address": {
+      "road": "Hẻm 860 Xô Viết Nghệ Tĩnh",
+      "suburb": "Phường Thạnh Mỹ Tây",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72308",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.81162,105.3306": {
+    "display_name": "Đường Hòa Bình, Phương Lâm, Hòa Bình, Phường Hòa Bình, Tỉnh Phú Thọ, 36107, Việt Nam",
+    "address": {
+      "road": "Đường Hòa Bình",
+      "neighbourhood": "Phương Lâm",
+      "city": "Hòa Bình",
+      "county": "Phường Hòa Bình",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "postcode": "36107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94875,108.102": {
+    "display_name": "Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.04132,105.0757": {
+    "display_name": "Xã Tân Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
