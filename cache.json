@@ -8952,5 +8952,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.08193,108.2477": {
+    "display_name": "Võ Nguyên Giáp, Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Võ Nguyên Giáp",
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
