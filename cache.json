@@ -11262,5 +11262,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.36531,106.4535": {
+    "display_name": "ĐH.27E, Chợ Gạo, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐH.27E",
+      "town": "Chợ Gạo",
+      "county": "Chợ Gạo",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
