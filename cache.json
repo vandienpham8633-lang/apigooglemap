@@ -10047,5 +10047,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.57528,106.5245": {
+    "display_name": "Xã Hoàn Lão, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hoàn Lão",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03587,106.3125": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.426699,105.1329": {
+    "display_name": "Xã Trí Phải, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Trí Phải",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
