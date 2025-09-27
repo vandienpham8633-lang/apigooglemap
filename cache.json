@@ -10025,5 +10025,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.69602,108.5178": {
+    "display_name": "H'Ngải, Làng Rơn, Xã Kông Chro, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "H'Ngải",
+      "village": "Làng Rơn",
+      "county": "Xã Kông Chro",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.00112,109.1303": {
+    "display_name": "Xã Phú Hòa 1, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Phú Hòa 1",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
