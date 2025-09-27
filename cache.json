@@ -9861,5 +9861,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63487,106.6585": {
+    "display_name": "Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
