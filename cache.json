@@ -9881,5 +9881,149 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93437,106.673": {
+    "display_name": "Đường Thạnh Quý, Thạnh Quý, Thuận An, Phường Thuận An, Thành phố Hồ Chí Minh, 75212, Việt Nam",
+    "address": {
+      "road": "Đường Thạnh Quý",
+      "quarter": "Thạnh Quý",
+      "suburb": "Thuận An",
+      "city_district": "Phường Thuận An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75212",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.16328,105.3757": {
+    "display_name": "Đường Hồ Chí Minh, Xã Nghĩa Đồng, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Chí Minh",
+      "town": "Xã Nghĩa Đồng",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03591,106.3126": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65364,106.6171": {
+    "display_name": "Đoàn Nguyễn Tuấn, Xã Hưng Long, Thành phố Hồ Chí Minh, Xã Phước Lý, Tỉnh Tây Ninh, 71812, Việt Nam",
+    "address": {
+      "road": "Đoàn Nguyễn Tuấn",
+      "city_district": "Xã Hưng Long",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-37",
+      "county": "Xã Phước Lý",
+      "state": "Tỉnh Tây Ninh",
+      "postcode": "71812",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.75747,108.1617": {
+    "display_name": "Cuôr Đăng B, Xã Cuôr Đăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Cuôr Đăng B",
+      "county": "Xã Cuôr Đăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.02176,107.5962": {
+    "display_name": "Tân Phú, Phường Nam Gia Nghĩa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Tân Phú",
+      "county": "Phường Nam Gia Nghĩa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0359,106.3125": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93434,106.673": {
+    "display_name": "Đường Thạnh Quý, Thạnh Quý, Thuận An, Phường Thuận An, Thành phố Hồ Chí Minh, 75212, Việt Nam",
+    "address": {
+      "road": "Đường Thạnh Quý",
+      "quarter": "Thạnh Quý",
+      "suburb": "Thuận An",
+      "city_district": "Phường Thuận An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75212",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93435,106.673": {
+    "display_name": "Đường Thạnh Quý, Thạnh Quý, Thuận An, Phường Thuận An, Thành phố Hồ Chí Minh, 75212, Việt Nam",
+    "address": {
+      "road": "Đường Thạnh Quý",
+      "quarter": "Thạnh Quý",
+      "suburb": "Thuận An",
+      "city_district": "Phường Thuận An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75212",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.48655,108.3606": {
+    "display_name": "Xã Tiên Phước, Thành phố Đà Nẵng, 52606, Việt Nam",
+    "address": {
+      "town": "Xã Tiên Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "52606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82988,108.8878": {
+    "display_name": "Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82999,108.8877": {
+    "display_name": "Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
