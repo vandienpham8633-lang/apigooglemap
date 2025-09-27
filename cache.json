@@ -9815,5 +9815,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.4659,105.5848": {
+    "display_name": "Nguyễn Công Nhàn, Cao Lãnh, Phường Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Nguyễn Công Nhàn",
+      "city": "Cao Lãnh",
+      "county": "Phường Cao Lãnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47296,109.0329": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.56917,105.1685": {
+    "display_name": "Xã Vân Sơn, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Vân Sơn",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
