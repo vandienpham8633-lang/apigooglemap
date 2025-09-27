@@ -11366,5 +11366,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.36292,106.1263": {
+    "display_name": "ĐT. 868, Phường Cai Lậy, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 868",
+      "county": "Phường Cai Lậy",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93189,108.0684": {
+    "display_name": "Xã Tuyên Quang, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tuyên Quang",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
