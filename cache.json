@@ -10588,5 +10588,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.81092,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77959,106.8057": {
+    "display_name": "Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68688,106.6537": {
+    "display_name": "Xã Bình Hưng, Thành phố Hồ Chí Minh, 71812, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71812",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76124,106.7059": {
+    "display_name": "84, Vĩnh Khánh, Khánh Hội, Phường Khánh Hội, Thành phố Hồ Chí Minh, 72800, Việt Nam",
+    "address": {
+      "house_number": "84",
+      "road": "Vĩnh Khánh",
+      "suburb": "Khánh Hội",
+      "city_district": "Phường Khánh Hội",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
