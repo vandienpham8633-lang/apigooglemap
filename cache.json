@@ -10964,5 +10964,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7796,106.8061": {
+    "display_name": "Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13348,106.5297": {
+    "display_name": "Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97611,106.5716": {
+    "display_name": "Hồ Văn Tắng, Xã Phú Hòa Đông, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Hồ Văn Tắng",
+      "city_district": "Xã Phú Hòa Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
