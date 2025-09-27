@@ -11296,5 +11296,54 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.60703,107.0479": {
+    "display_name": "Lê Quý Đôn, Tân Ngọc, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "road": "Lê Quý Đôn",
+      "neighbourhood": "Tân Ngọc",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05632,106.8527": {
+    "display_name": "Khu phố Mỹ Lộc, Ấp 1, Xã Thường Tân, Thành phố Hồ Chí Minh, 76913, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Mỹ Lộc",
+      "village": "Ấp 1",
+      "city_district": "Xã Thường Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.71495,107.6898": {
+    "display_name": "Đường Trần Phú, Tổ dân phố 5, Plei Kần, Xã Bờ Y, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Trần Phú",
+      "quarter": "Tổ dân phố 5",
+      "town": "Plei Kần",
+      "county": "Xã Bờ Y",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93191,108.0684": {
+    "display_name": "Xã Tuyên Quang, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tuyên Quang",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
