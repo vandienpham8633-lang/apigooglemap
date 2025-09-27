@@ -11398,5 +11398,105 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.20616,108.4462": {
+    "display_name": "Xã Tây Trà Bồng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tây Trà Bồng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97708,107.1481": {
+    "display_name": "Quốc lộ 20, Bắc Sơn, Xã Gia Kiệm, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 20",
+      "village": "Bắc Sơn",
+      "county": "Xã Gia Kiệm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.46889,109.2289": {
+    "display_name": "Quốc lộ 1, Phước Lý, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "village": "Phước Lý",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8237,108.067": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.080979,105.3151": {
+    "display_name": "ĐT. 982, Xã Định Thành, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "ĐT. 982",
+      "county": "Xã Định Thành",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.59977,109.0286": {
+    "display_name": "khu phố Bình Đê, phường Hoài Nhơn Bắc, ấp Tuý Sơn, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Bình Đê, phường Hoài Nhơn Bắc",
+      "village": "ấp Tuý Sơn",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.81082,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8722,106.7264": {
+    "display_name": "Đường Số 6, Khu phố 19, Phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "road": "Đường Số 6",
+      "quarter": "Khu phố 19",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.56677,107.0243": {
+    "display_name": "SP-PSA International Port, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "industrial": "SP-PSA International Port",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
