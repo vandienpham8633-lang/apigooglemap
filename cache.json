@@ -11586,5 +11586,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.34326,108.8626": {
+    "display_name": "Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
