@@ -11596,5 +11596,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79274,106.5934": {
+    "display_name": "Đường Số 8, Bình Tân, Phường Bình Tân, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Đường Số 8",
+      "suburb": "Bình Tân",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
