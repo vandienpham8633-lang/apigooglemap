@@ -10250,5 +10250,107 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87899,106.7871": {
+    "display_name": "Viện Môi trường và Tài nguyên, Leonardo Da Vinci, Khu đô thị Đại học Quốc gia TP.HCM, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Viện Môi trường và Tài nguyên",
+      "road": "Leonardo Da Vinci",
+      "residential": "Khu đô thị Đại học Quốc gia TP.HCM",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0633,108.1831": {
+    "display_name": "My's Coffee, 42, Đường Hồ Tương, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "shop": "My's Coffee",
+      "house_number": "42",
+      "road": "Đường Hồ Tương",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.956027,106.2878": {
+    "display_name": "Xã Bình Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.04128,105.0757": {
+    "display_name": "Xã Tân Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.977273,106.4263": {
+    "display_name": "Xã Đại Điền, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Đại Điền",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.41793,109.2529": {
+    "display_name": "Sông Cầu, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Sông Cầu",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.6846,108.5142": {
+    "display_name": "H'Ngải, Làng Rơn, Xã Kông Chro, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "H'Ngải",
+      "village": "Làng Rơn",
+      "county": "Xã Kông Chro",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62675,109.3444": {
+    "display_name": "Xã Đại Lãnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Đại Lãnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.33987,109.2402": {
+    "display_name": "Đường Hội Phú, Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Hội Phú",
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
