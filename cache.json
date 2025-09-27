@@ -11345,5 +11345,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.70259,106.5694": {
+    "display_name": "Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
