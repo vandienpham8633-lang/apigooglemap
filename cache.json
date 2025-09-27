@@ -10352,5 +10352,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.33988,109.2402": {
+    "display_name": "Đường Hội Phú, Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Hội Phú",
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.92674,106.4177": {
+    "display_name": "Xã Hà Bắc, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "town": "Xã Hà Bắc",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.041277,105.0757": {
+    "display_name": "Xã Tân Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.04127,105.0757": {
+    "display_name": "Xã Tân Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
