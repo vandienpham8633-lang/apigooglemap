@@ -9850,5 +9850,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77418,105.3571": {
+    "display_name": "Hùng Vương, Phường An Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "county": "Phường An Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
