@@ -12319,5 +12319,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.88033,105.7508": {
+    "display_name": "Thiệu Khánh, Phường Đông Tiến, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Thiệu Khánh",
+      "city": "Phường Đông Tiến",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.22796,106.512": {
+    "display_name": "Xã Châu Hưng, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Châu Hưng",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92186,106.52": {
+    "display_name": "Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.05819,108.0372": {
+    "display_name": "Phạm Hùng, Xã Biển Hồ, Tỉnh Gia Lai, 60000, Việt Nam",
+    "address": {
+      "road": "Phạm Hùng",
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "60000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
