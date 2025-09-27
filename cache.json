@@ -10394,5 +10394,67 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.6607,106.3346": {
+    "display_name": "Xã Đôn Châu, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Đôn Châu",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62675,109.3445": {
+    "display_name": "Xã Đại Lãnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Đại Lãnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35996,106.0444": {
+    "display_name": "Xã Bình Phú, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.33989,109.2402": {
+    "display_name": "Đường Hội Phú, Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Hội Phú",
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.946595,105.7202": {
+    "display_name": "Xã Thạnh Xuân, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Thạnh Xuân",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62674,109.3445": {
+    "display_name": "Xã Đại Lãnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Đại Lãnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
