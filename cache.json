@@ -11609,5 +11609,87 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.90261,108.4538": {
+    "display_name": "Quốc lộ 29, Xê Đăng, Xã Ea Knốp, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 29",
+      "village": "Xê Đăng",
+      "county": "Xã Ea Knốp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.84655,108.3902": {
+    "display_name": "Xã Duy Nghĩa, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Nghĩa",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96134,107.8603": {
+    "display_name": "Trường THPT Huỳnh Thúc Kháng, Đinh Tiên Hoàng, Thị trấn Ia Kha, Ia Kha, Xã Ia Grai, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Huỳnh Thúc Kháng",
+      "road": "Đinh Tiên Hoàng",
+      "residential": "Thị trấn Ia Kha",
+      "town": "Ia Kha",
+      "county": "Xã Ia Grai",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95763,105.0699": {
+    "display_name": "វត្ត សំពៅមាស​កែវមុនី ហៅ បឋមត្រាស, ផ្លូវជាតិលេខ២១, ភូមិ​ជ្រៃធំ, ស្រុកកោះធំ, ខេត្តកណ្ដាល, Cao Miên",
+    "address": {
+      "amenity": "វត្ត សំពៅមាស​កែវមុនី ហៅ បឋមត្រាស",
+      "road": "ផ្លូវជាតិលេខ២១",
+      "village": "ភូមិ​ជ្រៃធំ",
+      "town": "ស្រុកកោះធំ",
+      "state": "ខេត្តកណ្ដាល",
+      "ISO3166-2-lvl4": "KH-8",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "13.34083,109.2366": {
+    "display_name": "Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.64705,108.1494": {
+    "display_name": "Thôn 6, Xã Ea Ktur, Tỉnh Đắk Lắk, 02623, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Ea Ktur",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "02623",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.660425,105.6046": {
+    "display_name": "Phường Long Mỹ, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Long Mỹ",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
