@@ -11095,5 +11095,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.56661,107.0241": {
+    "display_name": "SP-PSA International Port, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "industrial": "SP-PSA International Port",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
