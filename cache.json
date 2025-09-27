@@ -10134,5 +10134,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.97127,108.7683": {
+    "display_name": "Tân Lập, Xã Ea Ly, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Lập",
+      "county": "Xã Ea Ly",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
