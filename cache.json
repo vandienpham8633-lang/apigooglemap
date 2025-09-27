@@ -10222,5 +10222,33 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.87995,108.3289": {
+    "display_name": "Agribank, 12, Trần Hưng Đạo, Phố cổ Hội An, Cẩm Phô, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "Agribank",
+      "house_number": "12",
+      "road": "Trần Hưng Đạo",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Cẩm Phô",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.56126,107.0625": {
+    "display_name": "Độc Lập, Ông Trịnh, Phường Tân Phước, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "road": "Độc Lập",
+      "neighbourhood": "Ông Trịnh",
+      "city_district": "Phường Tân Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
