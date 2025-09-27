@@ -10544,5 +10544,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77958,106.8057": {
+    "display_name": "Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12573,106.5897": {
+    "display_name": "Đường N5, KCN Mỹ Phước 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "KCN Mỹ Phước 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.484825,105.5108": {
+    "display_name": "Xã Ninh Quới, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Ninh Quới",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.878942,106.3964": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
