@@ -9805,5 +9805,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.17821,105.2125": {
+    "display_name": "Xã Phố Bảng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Phố Bảng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
