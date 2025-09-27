@@ -11849,5 +11849,138 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93435,106.7453": {
+    "display_name": "Đường N5, Khu phố 2, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "quarter": "Khu phố 2",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.84039,107.799": {
+    "display_name": "Đồng Tâm, Xã Ia Krêl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Đồng Tâm",
+      "county": "Xã Ia Krêl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.79276,108.9835": {
+    "display_name": "Đường Nguyễn Tất Thành, Phường Đức Phổ, Xã Khánh Cường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tất Thành",
+      "town": "Phường Đức Phổ",
+      "county": "Xã Khánh Cường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72867,106.9505": {
+    "display_name": "Phước Hiệp, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "quarter": "Phước Hiệp",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8721,106.7264": {
+    "display_name": "Đường Số 6, Khu phố 19, Phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "road": "Đường Số 6",
+      "quarter": "Khu phố 19",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.51035,105.4256": {
+    "display_name": "Xã Hồng Dân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Hồng Dân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.35658,109.2693": {
+    "display_name": "Phú Hội, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Hội",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.79271,108.9836": {
+    "display_name": "Đường Nguyễn Tất Thành, Phường Đức Phổ, Xã Khánh Cường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tất Thành",
+      "town": "Phường Đức Phổ",
+      "county": "Xã Khánh Cường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87206,106.7264": {
+    "display_name": "Đường Số 6, Khu phố 19, Phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "road": "Đường Số 6",
+      "quarter": "Khu phố 19",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89861,106.7871": {
+    "display_name": "Đông A, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Đông A",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93436,106.7454": {
+    "display_name": "Đường N5, Khu phố 2, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "quarter": "Khu phố 2",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
