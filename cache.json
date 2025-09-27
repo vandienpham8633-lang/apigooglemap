@@ -11073,5 +11073,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97642,106.5714": {
+    "display_name": "Hồ Văn Tắng, Xã Phú Hòa Đông, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Hồ Văn Tắng",
+      "city_district": "Xã Phú Hòa Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70256,106.5693": {
+    "display_name": "Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
