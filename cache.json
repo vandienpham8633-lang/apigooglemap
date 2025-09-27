@@ -11982,5 +11982,73 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.67089,107.0482": {
+    "display_name": "Đường Phước Bình, Ấp 1, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Phước Bình",
+      "village": "Ấp 1",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.34085,109.2366": {
+    "display_name": "Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.96927,105.7946": {
+    "display_name": "Ngách 87/59 Đường Yên Xá, Phường Thanh Liệt, Hà Nội, 12100, Việt Nam",
+    "address": {
+      "road": "Ngách 87/59 Đường Yên Xá",
+      "suburb": "Phường Thanh Liệt",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.81196,108.3116": {
+    "display_name": "Quắn, Phường Cư Bao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Quắn",
+      "county": "Phường Cư Bao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.21799,105.6247": {
+    "display_name": "Quốc lộ 54, Hòa Định, Xã Phong Hòa, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "hamlet": "Hòa Định",
+      "village": "Xã Phong Hòa",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.84657,108.3902": {
+    "display_name": "Xã Duy Nghĩa, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Nghĩa",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
