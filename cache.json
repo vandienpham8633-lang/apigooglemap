@@ -12050,5 +12050,88 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97883,107.2324": {
+    "display_name": "Ấp 2, Phường Bình Lộc, Việt Nam",
+    "address": {
+      "village": "Ấp 2",
+      "county": "Phường Bình Lộc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5143,108.9082": {
+    "display_name": "Phước Hữu, Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Hữu",
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.34032,109.2367": {
+    "display_name": "Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.84656,108.3903": {
+    "display_name": "Xã Duy Nghĩa, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Nghĩa",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.21802,105.6247": {
+    "display_name": "Quốc lộ 54, Hòa Định, Xã Phong Hòa, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "hamlet": "Hòa Định",
+      "village": "Xã Phong Hòa",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.45487,108.0602": {
+    "display_name": "Xã Ia Le, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Le",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.10548,106.2872": {
+    "display_name": "Xã Nhuận Phú Tân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhuận Phú Tân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.52312,105.5197": {
+    "display_name": "Xã Cù Lao Giêng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cù Lao Giêng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
