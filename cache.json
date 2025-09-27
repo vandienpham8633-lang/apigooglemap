@@ -11691,5 +11691,163 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.01561,107.6228": {
+    "display_name": "Xã Suối Kiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Suối Kiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8106,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44528,107.587": {
+    "display_name": "Kiệt 2/42 Đào Tấn, Trường An, Phường Thuận Hoá, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Kiệt 2/42 Đào Tấn",
+      "quarter": "Trường An",
+      "city": "Phường Thuận Hoá",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87213,106.7263": {
+    "display_name": "Đường Số 6, Khu phố 19, Phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "road": "Đường Số 6",
+      "quarter": "Khu phố 19",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53673,108.776": {
+    "display_name": "Đường Trường Sơn Đông, Thôn 5, Xã Krông Á, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Trường Sơn Đông",
+      "village": "Thôn 5",
+      "county": "Xã Krông Á",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72866,106.9506": {
+    "display_name": "Phước Hiệp, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "quarter": "Phước Hiệp",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72864,106.9507": {
+    "display_name": "Phước Hiệp, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "quarter": "Phước Hiệp",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87208,106.7264": {
+    "display_name": "Đường Số 6, Khu phố 19, Phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "road": "Đường Số 6",
+      "quarter": "Khu phố 19",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.4453,107.5869": {
+    "display_name": "Kiệt 2/42 Đào Tấn, Trường An, Phường Thuận Hoá, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Kiệt 2/42 Đào Tấn",
+      "quarter": "Trường An",
+      "city": "Phường Thuận Hoá",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.84657,108.3901": {
+    "display_name": "Xã Duy Nghĩa, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Nghĩa",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.00805,105.8196": {
+    "display_name": "Phố Vĩnh Hồ, Phường Đống Đa, Hà Nội, 10167, Việt Nam",
+    "address": {
+      "road": "Phố Vĩnh Hồ",
+      "suburb": "Phường Đống Đa",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10167",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44532,107.587": {
+    "display_name": "Kiệt 2/42 Đào Tấn, Trường An, Phường Thuận Hoá, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Kiệt 2/42 Đào Tấn",
+      "quarter": "Trường An",
+      "city": "Phường Thuận Hoá",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72868,106.9505": {
+    "display_name": "Phước Hiệp, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "quarter": "Phước Hiệp",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
