@@ -10079,5 +10079,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82973,108.8878": {
+    "display_name": "Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82974,108.8878": {
+    "display_name": "Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03594,106.3125": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.57529,106.5245": {
+    "display_name": "Xã Hoàn Lão, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hoàn Lão",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.07522,107.8777": {
+    "display_name": "Thắng Lợi, Buôn C, Xã Ea Súp, Tỉnh Đắk Lắk, 63700, Việt Nam",
+    "address": {
+      "suburb": "Thắng Lợi",
+      "village": "Buôn C",
+      "county": "Xã Ea Súp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63700",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
