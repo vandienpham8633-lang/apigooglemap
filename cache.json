@@ -11274,5 +11274,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.28538,106.8648": {
+    "display_name": "Ấp Đông Tâm, Ấp Đồng Tâm, Xã Phú Giáo, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Ấp Đông Tâm",
+      "city_district": "Xã Phú Giáo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70263,106.5693": {
+    "display_name": "Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
