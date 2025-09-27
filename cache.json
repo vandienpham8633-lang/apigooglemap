@@ -10996,5 +10996,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.52232,103.333": {
+    "display_name": "Quốc lộ 279, Xã Búng Lao, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 279",
+      "county": "Xã Búng Lao",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13347,106.5297": {
+    "display_name": "Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77967,106.8062": {
+    "display_name": "Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.193874,105.1515": {
+    "display_name": "Phường An Xuyên, Tỉnh Cà Mau, 98100, Việt Nam",
+    "address": {
+      "county": "Phường An Xuyên",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "98100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
