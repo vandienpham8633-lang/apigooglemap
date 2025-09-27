@@ -11387,5 +11387,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.077722,105.3164": {
+    "display_name": "ĐT. 982, Xã Định Thành, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "ĐT. 982",
+      "county": "Xã Định Thành",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
