@@ -12295,5 +12295,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.98532,108.0069": {
+    "display_name": "Trần Hưng Đạo, Pleiku, Phường Pleiku, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "city": "Pleiku",
+      "county": "Phường Pleiku",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47395,109.0266": {
+    "display_name": "khu phố Giao Hội 1 (Phường Hoài Nhơn Nam), Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "khu phố Giao Hội 1 (Phường Hoài Nhơn Nam)",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
