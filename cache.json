@@ -13189,5 +13189,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.41793,109.253": {
+    "display_name": "Sông Cầu, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Sông Cầu",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.821,106.9429": {
+    "display_name": "Ấp 5, Xã An Phước, Tỉnh Đồng Nai, 76009, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.80032,105.6891": {
+    "display_name": "Đông Hòa, Phường Đông Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "village": "Đông Hòa",
+      "city": "Phường Đông Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.503908,105.843": {
+    "display_name": "ĐT. 940, Xã Lâm Tân, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 940",
+      "city_district": "Xã Lâm Tân",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
