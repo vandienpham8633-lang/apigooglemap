@@ -12488,5 +12488,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.38786,107.005": {
+    "display_name": "Xã La Lay, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã La Lay",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89495,106.5966": {
+    "display_name": "Xã Hóc Môn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "city_district": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
