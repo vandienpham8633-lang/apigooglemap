@@ -13791,5 +13791,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.93785,108.2171": {
+    "display_name": "Phường An Thắng, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường An Thắng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53003,108.882": {
+    "display_name": "Đường tỉnh 709B, Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 709B",
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66415,105.1842": {
+    "display_name": "Lý Thường Kiệt, Xã Mỹ Đức, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Lý Thường Kiệt",
+      "county": "Xã Mỹ Đức",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.4599,106.3358": {
+    "display_name": "Xã Tân Hương, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
