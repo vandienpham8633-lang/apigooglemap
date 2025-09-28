@@ -12677,5 +12677,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.11534,105.736": {
+    "display_name": "Quốc lộ 54, Tân Quới, Xã Tân Quới, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "town": "Tân Quới",
+      "county": "Xã Tân Quới",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52151,106.2141": {
+    "display_name": "Ấp 5, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Ấp 5",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94163,108.0821": {
+    "display_name": "Phan Thiết, Lê Duẩn ( ra ga Phan Thiết ), Phường Bình Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "railway": "Phan Thiết",
+      "road": "Lê Duẩn ( ra ga Phan Thiết )",
+      "county": "Phường Bình Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
