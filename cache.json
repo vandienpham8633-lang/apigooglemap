@@ -12712,5 +12712,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.15528,108.9507": {
+    "display_name": "Quốc lộ 19C, Xã Sơn Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19C",
+      "county": "Xã Sơn Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17376,107.7258": {
+    "display_name": "Đường tỉnh 717, Thôn 3, Xã Đồng Kho, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 717",
+      "village": "Thôn 3",
+      "county": "Xã Đồng Kho",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.97066,108.2498": {
+    "display_name": "Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
