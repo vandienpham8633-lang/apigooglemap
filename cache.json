@@ -12532,5 +12532,82 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.81088,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.78053,108.9832": {
+    "display_name": "Phường Đức Phổ, Xã Khánh Cường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Phường Đức Phổ",
+      "county": "Xã Khánh Cường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.78918,107.1375": {
+    "display_name": "Xã Ái Tử, Tỉnh Quảng Trị, 48000, Việt Nam",
+    "address": {
+      "town": "Xã Ái Tử",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "postcode": "48000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17382,107.7257": {
+    "display_name": "Đường tỉnh 717, Thôn 3, Xã Đồng Kho, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 717",
+      "village": "Thôn 3",
+      "county": "Xã Đồng Kho",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.35809,109.2682": {
+    "display_name": "Phú Hội, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Hội",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82303,106.9442": {
+    "display_name": "Ấp 5, Xã An Phước, Tỉnh Đồng Nai, 76009, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.04641,106.0388": {
+    "display_name": "Xã Trà Côn, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Trà Côn",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
