@@ -12609,5 +12609,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.58318,109.1326": {
+    "display_name": "Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.41618,109.115": {
+    "display_name": "khu phố Lộ Diêu, phường Hoài Nhơn Đông, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Lộ Diêu, phường Hoài Nhơn Đông",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.29779,108.9981": {
+    "display_name": "Thôn Trí Tường, Ân Tường Đông, Lộc Giang, Xã Hoài Ân, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Trí Tường, Ân Tường Đông",
+      "village": "Lộc Giang",
+      "county": "Xã Hoài Ân",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.05759,108.0311": {
+    "display_name": "Xã Biển Hồ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79744,109.1285": {
+    "display_name": "Thôn An Hòa 1, Phước An, Xã Tuy Phước Tây, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "hamlet": "Thôn An Hòa 1, Phước An",
+      "county": "Xã Tuy Phước Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
