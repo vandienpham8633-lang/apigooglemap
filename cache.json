@@ -13702,5 +13702,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.85912,107.3724": {
+    "display_name": "Tân Bình 1, Xã Xuân Phú, Việt Nam",
+    "address": {
+      "village": "Tân Bình 1",
+      "county": "Xã Xuân Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.45193,105.4508": {
+    "display_name": "ĐT. 946, Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 946",
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.01274,104.0225": {
+    "display_name": "Chương Dương, Đặc khu Phú Quốc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Chương Dương",
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17938,107.2414": {
+    "display_name": "Ấp 5, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
