@@ -12509,5 +12509,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.98814,107.7014": {
+    "display_name": "Bệnh viện Đa khoa tỉnh Đắk Nông, Đường Võ Văn Kiệt, Tổ dân phố 4, Phường Đông Gia Nghĩa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa tỉnh Đắk Nông",
+      "road": "Đường Võ Văn Kiệt",
+      "quarter": "Tổ dân phố 4",
+      "county": "Phường Đông Gia Nghĩa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.5499,108.943": {
+    "display_name": "Đặc khu Phú Quý, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Đặc khu Phú Quý",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
