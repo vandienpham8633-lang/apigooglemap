@@ -12744,5 +12744,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.43743,105.4681": {
+    "display_name": "Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
