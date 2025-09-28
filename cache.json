@@ -13778,5 +13778,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78754,106.5902": {
+    "display_name": "Hẻm 129/71 Liên khu 5-6, Bình Tân, Phường Bình Tân, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 129/71 Liên khu 5-6",
+      "suburb": "Bình Tân",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
