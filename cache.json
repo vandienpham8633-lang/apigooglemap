@@ -13002,5 +13002,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.48892,106.6656": {
+    "display_name": "Xã Lìa, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Lìa",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
