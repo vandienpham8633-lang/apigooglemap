@@ -13644,5 +13644,49 @@
       "country": "Romania",
       "country_code": "ro"
     }
+  },
+  "9.937282,106.3417": {
+    "display_name": "Hùng Vương, Trà Vinh, Phường Trà Vinh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "city": "Trà Vinh",
+      "county": "Phường Trà Vinh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93188,108.0684": {
+    "display_name": "Xã Tuyên Quang, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tuyên Quang",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54688,108.9662": {
+    "display_name": "Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96491,107.8638": {
+    "display_name": "Thị trấn Ia Kha, Ia Kha, Xã Ia Grai, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "residential": "Thị trấn Ia Kha",
+      "town": "Ia Kha",
+      "county": "Xã Ia Grai",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
