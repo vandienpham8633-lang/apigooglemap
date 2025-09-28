@@ -13553,5 +13553,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.92982,107.6644": {
+    "display_name": "Xã Đông Giang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Đông Giang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.33071,107.9873": {
+    "display_name": "Lương Thế Vinh, Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Lương Thế Vinh",
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88223,106.7591": {
+    "display_name": "Bình Đường 1, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Bình Đường 1",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.33076,107.9873": {
+    "display_name": "Lương Thế Vinh, Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Lương Thế Vinh",
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
