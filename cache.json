@@ -14191,5 +14191,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97148,108.6863": {
+    "display_name": "Đường Tôn Đức Thắng, An Tân, Phường An Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Tôn Đức Thắng",
+      "village": "An Tân",
+      "county": "Phường An Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.771076,106.4476": {
+    "display_name": "Xã Hiệp Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hiệp Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.40809,107.1918": {
+    "display_name": "Phước Tỉnh, Tân Lập, Xã Long Hải, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Phước Tỉnh",
+      "neighbourhood": "Tân Lập",
+      "city_district": "Xã Long Hải",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00703,108.7828": {
+    "display_name": "Gia É, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Gia É",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84441,106.8161": {
+    "display_name": "Đường số 12D, Phường Long Bình, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "road": "Đường số 12D",
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
