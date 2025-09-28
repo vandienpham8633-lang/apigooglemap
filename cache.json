@@ -13341,5 +13341,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77427,106.7596": {
+    "display_name": "Đương Số 65, KDC Thạnh Mỹ Lợi, Cát Lái, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Đương Số 65",
+      "residential": "KDC Thạnh Mỹ Lợi",
+      "suburb": "Cát Lái",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
