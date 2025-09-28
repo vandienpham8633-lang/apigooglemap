@@ -13386,5 +13386,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86898,106.6829": {
+    "display_name": "Quán ăn gia đình Nam Sơn, 89, Thạnh Lộc 19, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71516, Việt Nam",
+    "address": {
+      "amenity": "Quán ăn gia đình Nam Sơn",
+      "house_number": "89",
+      "road": "Thạnh Lộc 19",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71516",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.80793,106.6396": {
+    "display_name": "Đường Trần Nhân Tông, Phường Phù Liễn, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "road": "Đường Trần Nhân Tông",
+      "city": "Phường Phù Liễn",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
