@@ -12970,5 +12970,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.02582,108.9583": {
+    "display_name": "Chí Thán, Xã Đức Bình, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Chí Thán",
+      "county": "Xã Đức Bình",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.61735,107.3153": {
+    "display_name": "Văn Phong, Xã Nam Hải Lăng, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Văn Phong",
+      "town": "Xã Nam Hải Lăng",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.658512,106.3302": {
+    "display_name": "Xã Đôn Châu, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Đôn Châu",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
