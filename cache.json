@@ -12802,5 +12802,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77419,106.7595": {
+    "display_name": "Phan Bá Vành, KDC Thạnh Mỹ Lợi, Cát Lái, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Phan Bá Vành",
+      "residential": "KDC Thạnh Mỹ Lợi",
+      "suburb": "Cát Lái",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
