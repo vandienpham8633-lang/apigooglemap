@@ -12857,5 +12857,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.17379,107.7259": {
+    "display_name": "Đường tỉnh 717, Thôn 3, Xã Đồng Kho, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 717",
+      "village": "Thôn 3",
+      "county": "Xã Đồng Kho",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "37.422,-122.0841": {
+    "display_name": "Amphitheatre Parkway, Mountain View, Santa Clara County, Ca Li, 94043, Hoa Kỳ",
+    "address": {
+      "road": "Amphitheatre Parkway",
+      "city": "Mountain View",
+      "county": "Santa Clara County",
+      "state": "Ca Li",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94043",
+      "country": "Hoa Kỳ",
+      "country_code": "us"
+    }
+  },
+  "10.89495,106.5967": {
+    "display_name": "Xã Hóc Môn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "city_district": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.05744,108.0309": {
+    "display_name": "Xã Biển Hồ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82423,106.7665": {
+    "display_name": "Phường Phước Long, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71211, Việt Nam",
+    "address": {
+      "suburb": "Phường Phước Long",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71211",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
