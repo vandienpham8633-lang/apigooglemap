@@ -13597,5 +13597,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.82849,106.3766": {
+    "display_name": "Xã Trung Thuần, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Trung Thuần",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
