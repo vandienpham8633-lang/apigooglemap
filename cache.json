@@ -13466,5 +13466,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.00024,108.9391": {
+    "display_name": "Tô Hạp, Xã Khánh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Tô Hạp",
+      "county": "Xã Khánh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
