@@ -13056,5 +13056,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "24.35581,90.94405": {
+    "display_name": "নিকলী, কিশোরগঞ্জ জেলা, ঢাকা বিভাগ, Băng-la-đét",
+    "address": {
+      "town": "নিকলী",
+      "state_district": "কিশোরগঞ্জ জেলা",
+      "ISO3166-2-lvl5": "BD-26",
+      "state": "ঢাকা বিভাগ",
+      "ISO3166-2-lvl4": "BD-C",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
   }
 }
