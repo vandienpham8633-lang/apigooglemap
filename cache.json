@@ -13234,5 +13234,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.73171,105.7411": {
+    "display_name": "Xã Quảng Yên, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Yên",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.0574,108.031": {
+    "display_name": "Xã Biển Hồ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
