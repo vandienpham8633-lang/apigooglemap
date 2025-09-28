@@ -13607,5 +13607,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.07577,108.2135": {
+    "display_name": "Kiệt 33 Đường Ông Ích Khiêm, Thanh Bình, Phường Hải Châu, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Kiệt 33 Đường Ông Ích Khiêm",
+      "quarter": "Thanh Bình",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.33058,107.9874": {
+    "display_name": "Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "46.79427,23.63538": {
+    "display_name": "1265, Bulevardul Muncii, Iris, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400622, Romania",
+    "address": {
+      "military": "1265",
+      "road": "Bulevardul Muncii",
+      "suburb": "Iris",
+      "city": "Cluj-Napoca",
+      "municipality": "Zona Metropolitană Cluj",
+      "county": "Cluj",
+      "ISO3166-2-lvl4": "RO-CJ",
+      "postcode": "400622",
+      "country": "Romania",
+      "country_code": "ro"
+    }
   }
 }
