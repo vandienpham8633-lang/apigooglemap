@@ -14046,5 +14046,138 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79822,106.6775": {
+    "display_name": "Hẻm 221 Trần Huy Liệu, Phường Phú Nhuận, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72215, Việt Nam",
+    "address": {
+      "road": "Hẻm 221 Trần Huy Liệu",
+      "suburb": "Phường Phú Nhuận",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72215",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.37516,106.6216": {
+    "display_name": "Quốc lộ 13, Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 13",
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05543,106.7327": {
+    "display_name": "Đường Nguyễn Khuyến, Bà Tri, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Khuyến",
+      "quarter": "Bà Tri",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.65311,105.6888": {
+    "display_name": "Phường Trường Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Trường Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.92386,105.7777": {
+    "display_name": "Khu đô thị Thanh Hà, Xã Bình Minh, Hà Nội, 10189, Việt Nam",
+    "address": {
+      "residential": "Khu đô thị Thanh Hà",
+      "city_district": "Xã Bình Minh",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10189",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.36738,106.2498": {
+    "display_name": "Xã Nam Hồng, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "town": "Xã Nam Hồng",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.5741,108.2642": {
+    "display_name": "Xã Sơn Cẩm Hà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Sơn Cẩm Hà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94599,106.2447": {
+    "display_name": "Xã Mỹ Quý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Quý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.432734,106.1518": {
+    "display_name": "Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91317,106.7111": {
+    "display_name": "Đông Nhì, Phường Lái Thiêu, Thuận An, Thành phố Hồ Chí Minh, 75214, Việt Nam",
+    "address": {
+      "quarter": "Đông Nhì",
+      "suburb": "Phường Lái Thiêu",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75214",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.56813,107.0236": {
+    "display_name": "SP-PSA International Port, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "industrial": "SP-PSA International Port",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.00132,105.7746": {
+    "display_name": "Trần Hoàng Na, Phường Cái Răng, Thành phố Cần Thơ, 94000, Việt Nam",
+    "address": {
+      "road": "Trần Hoàng Na",
+      "city_district": "Phường Cái Răng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
