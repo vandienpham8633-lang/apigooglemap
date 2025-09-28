@@ -13354,5 +13354,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.33075,107.9872": {
+    "display_name": "Lương Thế Vinh, Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Lương Thế Vinh",
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.85396,108.067": {
+    "display_name": "Xã Vu Gia, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Vu Gia",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.33072,107.9872": {
+    "display_name": "Lương Thế Vinh, Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Lương Thế Vinh",
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
