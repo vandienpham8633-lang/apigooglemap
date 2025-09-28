@@ -12454,5 +12454,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.98822,108.7939": {
+    "display_name": "Quốc lộ 19, Thôn Thượng Sơn, Tây Thuận, Đồng Vắt, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Thượng Sơn, Tây Thuận",
+      "village": "Đồng Vắt",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
