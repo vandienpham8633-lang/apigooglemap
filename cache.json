@@ -13520,5 +13520,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81819,106.4859": {
+    "display_name": "Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.50036,109.087": {
+    "display_name": "KP.Ca Công Nam, P.Hoài Hương, Khóm Thiện Đức, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Ca Công Nam, P.Hoài Hương",
+      "village": "Khóm Thiện Đức",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.01271,104.0224": {
+    "display_name": "Chương Dương, Đặc khu Phú Quốc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Chương Dương",
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
