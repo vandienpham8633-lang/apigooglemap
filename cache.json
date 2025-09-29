@@ -15120,5 +15120,107 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.3764,105.7484": {
+    "display_name": "Quốc lộ 30, Xã Bình Hàng Trung, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 30",
+      "county": "Xã Bình Hàng Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97784,106.5575": {
+    "display_name": "Đường Nguyễn Thị Quo, Xã Phú Hòa Đông, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Thị Quo",
+      "city_district": "Xã Phú Hòa Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.99369,107.9914": {
+    "display_name": "Sun World Bà Nà Hills, Wine Cellar, Xã Bà Nà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "tourism": "Sun World Bà Nà Hills",
+      "road": "Wine Cellar",
+      "town": "Xã Bà Nà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.819154,105.0916": {
+    "display_name": "Bào Môn, Xã An Biên, Tỉnh An Giang, 91800, Việt Nam",
+    "address": {
+      "village": "Bào Môn",
+      "county": "Xã An Biên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "91800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.05637,108.3619": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85671,105.1815": {
+    "display_name": "Xã Vĩnh Xương, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Xương",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59934,106.4849": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "county": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98843,107.9809": {
+    "display_name": "Xã Ia Hrung, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrung",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.34523,106.2003": {
+    "display_name": "Nam Giang, Xã Nam Trực, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "town": "Nam Giang",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
