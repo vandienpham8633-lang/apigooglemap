@@ -14795,5 +14795,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.82717,107.2137": {
+    "display_name": "Xã Nam Cửa Việt, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Nam Cửa Việt",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.09393,107.8622": {
+    "display_name": "Thôn 10, Xã Ea Bung, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 10",
+      "county": "Xã Ea Bung",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38657,105.3784": {
+    "display_name": "Phường Bình Đức, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "municipality": "Phường Bình Đức",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
