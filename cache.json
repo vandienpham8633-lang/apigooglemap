@@ -14580,5 +14580,76 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.00145,106.6778": {
+    "display_name": "Mỹ Phước - Tân Vạn, Phú Mỹ 1, Phường Bình Dương, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "road": "Mỹ Phước - Tân Vạn",
+      "quarter": "Phú Mỹ 1",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3719,105.6843": {
+    "display_name": "Tân Khánh Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Tân Khánh Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.06541,105.7382": {
+    "display_name": "Phố Trung Tựu, Phường Tây Tựu, Hà Nội, 34000, Việt Nam",
+    "address": {
+      "road": "Phố Trung Tựu",
+      "suburb": "Phường Tây Tựu",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "34000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.94621,108.2554": {
+    "display_name": "Phân hiệu Học viện Hành chính và Quản trị công tại tỉnh Quảng Nam, 794, Đường Trần Hưng Đạo, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Phân hiệu Học viện Hành chính và Quản trị công tại tỉnh Quảng Nam",
+      "house_number": "794",
+      "road": "Đường Trần Hưng Đạo",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0615,108.1712": {
+    "display_name": "Đường Nam Trân, Hòa Minh, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Nam Trân",
+      "quarter": "Hòa Minh",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06139,108.1712": {
+    "display_name": "Đường Nam Trân, Hòa Minh, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Nam Trân",
+      "quarter": "Hòa Minh",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
