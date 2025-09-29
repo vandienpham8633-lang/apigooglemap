@@ -15949,5 +15949,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78288,106.6454": {
+    "display_name": "Hẻm 572/19/40 Âu Cơ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 572/19/40 Âu Cơ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83156,106.6185": {
+    "display_name": "Hẻm Số 33 Tân Thới Nhất 12, Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Hẻm Số 33 Tân Thới Nhất 12",
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.99577,107.5164": {
+    "display_name": "Tổ dân phố 5, Kiến Đức, Xã Kiến Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 5",
+      "town": "Kiến Đức",
+      "county": "Xã Kiến Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
