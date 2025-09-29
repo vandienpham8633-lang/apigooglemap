@@ -15687,5 +15687,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.434361,105.4629": {
+    "display_name": "Phước Long, Xã Phước Long, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Phước Long",
+      "county": "Xã Phước Long",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25035,105.1249": {
+    "display_name": "Hiệp Hòa, Xã Mỹ Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hiệp Hòa",
+      "county": "Xã Mỹ Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.89253,105.1209": {
+    "display_name": "Xã Quách Phẩm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Quách Phẩm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02709,107.0115": {
+    "display_name": "Ấp 3, Xã Tân An, 76906, Việt Nam",
+    "address": {
+      "village": "Ấp 3",
+      "county": "Xã Tân An",
+      "postcode": "76906",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83172,106.6187": {
+    "display_name": "Hẻm Số 33 Tân Thới Nhất 12, Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Hẻm Số 33 Tân Thới Nhất 12",
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
