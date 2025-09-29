@@ -14848,5 +14848,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06146,108.1711": {
+    "display_name": "Đường Nam Trân, Hòa Minh, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Nam Trân",
+      "quarter": "Hòa Minh",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05472,106.8523": {
+    "display_name": "Ấp 1, Xã Thường Tân, Thành phố Hồ Chí Minh, 76913, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "city_district": "Xã Thường Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
