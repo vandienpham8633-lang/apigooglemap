@@ -14441,5 +14441,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.0598,108.779": {
+    "display_name": "Chợ Chùa, Xã Nghĩa Hành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Chợ Chùa",
+      "county": "Xã Nghĩa Hành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
