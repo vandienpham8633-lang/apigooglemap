@@ -14474,5 +14474,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.07546,108.8421": {
+    "display_name": "La Hà, Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "La Hà",
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.62188,107.6482": {
+    "display_name": "Giang Lố 1, Sa Loong, Xã Sa Loong, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Giang Lố 1",
+      "village": "Sa Loong",
+      "county": "Xã Sa Loong",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.10164,106.7772": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.97489,105.1744": {
+    "display_name": "TL 181, Oửa Oải, Sáng Pá, Xã Đường Thượng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "TL 181",
+      "hamlet": "Oửa Oải",
+      "village": "Sáng Pá",
+      "town": "Xã Đường Thượng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
