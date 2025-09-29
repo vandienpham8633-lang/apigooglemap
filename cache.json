@@ -16023,5 +16023,143 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03217,106.6299": {
+    "display_name": "Khu phố 3, Phường Phú An, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 3",
+      "city_district": "Phường Phú An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89258,106.5276": {
+    "display_name": "Đường Số 3, KCN Xuyên Á, Xã Đức Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Số 3",
+      "industrial": "KCN Xuyên Á",
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.8187,107.247": {
+    "display_name": "Đường Đoàn Đức Thái, Tân Hưng, Đức Phong, Xã Bù Đăng, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Đoàn Đức Thái",
+      "quarter": "Tân Hưng",
+      "town": "Đức Phong",
+      "county": "Xã Bù Đăng",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.0943,105.0749": {
+    "display_name": "Phước Hảo, Xã Mỹ Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Phước Hảo",
+      "county": "Xã Mỹ Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.59986,109.0288": {
+    "display_name": "khu phố Bình Đê, phường Hoài Nhơn Bắc, ấp Tuý Sơn, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Bình Đê, phường Hoài Nhơn Bắc",
+      "village": "ấp Tuý Sơn",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.4468,107.5786": {
+    "display_name": "Thích Tịnh Khiết, Trường An, Phường Thuận Hoá, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Thích Tịnh Khiết",
+      "quarter": "Trường An",
+      "city": "Phường Thuận Hoá",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.12202,106.0778": {
+    "display_name": "Xã Tân Chi, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "suburb": "Xã Tân Chi",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.49602,108.4558": {
+    "display_name": "Ma Lin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Lin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97698,107.1484": {
+    "display_name": "Quốc lộ 20, Bắc Sơn, Xã Gia Kiệm, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 20",
+      "village": "Bắc Sơn",
+      "county": "Xã Gia Kiệm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "1.456125,103.8752": {
+    "display_name": "Limbungan Kapal, Pasir Gudang, Johor Bahru, Johor, 81700, Malaysia",
+    "address": {
+      "industrial": "Limbungan Kapal",
+      "city": "Pasir Gudang",
+      "district": "Johor Bahru",
+      "state": "Johor",
+      "ISO3166-2-lvl4": "MY-01",
+      "postcode": "81700",
+      "country": "Malaysia",
+      "country_code": "my"
+    }
+  },
+  "9.477908,106.1209": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.37511,106.6215": {
+    "display_name": "Quốc lộ 13, Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 13",
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
