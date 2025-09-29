@@ -14364,5 +14364,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.58636,108.4658": {
+    "display_name": "Quốc lộ 1, Phường Bàn Thạch, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "city": "Phường Bàn Thạch",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76316,107.7202": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.09436,108.2467": {
+    "display_name": "Đường Lê Tấn Trung, Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Đường Lê Tấn Trung",
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.63809,108.1949": {
+    "display_name": "Thôn 3, Xã Gia Hiệp, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Gia Hiệp",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
