@@ -15057,5 +15057,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.05634,108.3618": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31566,107.3171": {
+    "display_name": "Ấp 6, Xã Thanh Sơn, Việt Nam",
+    "address": {
+      "village": "Ấp 6",
+      "county": "Xã Thanh Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.90716,108.9217": {
+    "display_name": "Phan Huy Ích, Phú Phong, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Phan Huy Ích",
+      "residential": "Phú Phong",
+      "town": "Phú Phong",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
