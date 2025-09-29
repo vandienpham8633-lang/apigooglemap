@@ -14872,5 +14872,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.35077,106.4709": {
+    "display_name": "Nguyễn Minh Giác, Chợ Gạo, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Giác",
+      "town": "Chợ Gạo",
+      "county": "Chợ Gạo",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.0564,108.3619": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.48982,108.3703": {
+    "display_name": "Lê Guốc, Xã Phú Thiện, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Lê Guốc",
+      "county": "Xã Phú Thiện",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.60235,106.6487": {
+    "display_name": "Tân Long, Xã Lao Bảo, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Tân Long",
+      "town": "Xã Lao Bảo",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.40611,107.1963": {
+    "display_name": "Phước Hưng, Phước Lộc, Xã Long Hải, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Phước Hưng",
+      "neighbourhood": "Phước Lộc",
+      "city_district": "Xã Long Hải",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
