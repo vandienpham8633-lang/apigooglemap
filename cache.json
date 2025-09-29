@@ -14929,5 +14929,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.05641,108.3619": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
