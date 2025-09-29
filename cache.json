@@ -15456,5 +15456,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.804378,105.3511": {
+    "display_name": "Ấp 9, Xã Vĩnh Hòa Hưng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Ấp 9",
+      "county": "Xã Vĩnh Hòa Hưng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
