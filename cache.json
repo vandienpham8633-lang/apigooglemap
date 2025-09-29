@@ -14452,5 +14452,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.926846,106.5145": {
+    "display_name": "Thạnh Phú, Xã Thạnh Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Thạnh Phú",
+      "county": "Xã Thạnh Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.05989,108.779": {
+    "display_name": "Chợ Chùa, Xã Nghĩa Hành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Chợ Chùa",
+      "county": "Xã Nghĩa Hành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
