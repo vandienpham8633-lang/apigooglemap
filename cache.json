@@ -15350,5 +15350,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.4828,107.2099": {
+    "display_name": "Long Bình, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "neighbourhood": "Long Bình",
+      "city_district": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56203,106.7661": {
+    "display_name": "Xã Nha Bích, Việt Nam",
+    "address": {
+      "county": "Xã Nha Bích",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.500932,105.2978": {
+    "display_name": "Đường cao tốc Cần Thơ - Cà Mau, Vĩnh Thuận, Xã Vĩnh Phong, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Cần Thơ - Cà Mau",
+      "town": "Vĩnh Thuận",
+      "county": "Xã Vĩnh Phong",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47573,105.5095": {
+    "display_name": "Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
