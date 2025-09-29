@@ -15520,5 +15520,113 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.48859,107.9255": {
+    "display_name": "Tổ dân phố 2B, Thôn 5, Đăk Hà, Xã Đăk Hà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 2B",
+      "hamlet": "Thôn 5",
+      "town": "Đăk Hà",
+      "county": "Xã Đăk Hà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89859,106.7406": {
+    "display_name": "Đường tỉnh 743B, Thống Nhất 2, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743B",
+      "quarter": "Thống Nhất 2",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.29846,108.9989": {
+    "display_name": "Thôn Trí Tường, Ân Tường Đông, Xã Hoài Ân, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Trí Tường, Ân Tường Đông",
+      "county": "Xã Hoài Ân",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09685,106.7699": {
+    "display_name": "Hội Nghĩa 97, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Hội Nghĩa 97",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.794,106.6625": {
+    "display_name": "Cà Phê Cây bàng, Đường Nguyễn Bặc, Tân Sơn Hòa, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "amenity": "Cà Phê Cây bàng",
+      "road": "Đường Nguyễn Bặc",
+      "suburb": "Tân Sơn Hòa",
+      "city": "Phường Tân Sơn Hòa",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76088,106.6022": {
+    "display_name": "Hẻm 130/26 Lê Đình Cẩn, Phường Tân Tạo, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "road": "Hẻm 130/26 Lê Đình Cẩn",
+      "city_district": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.37512,106.6215": {
+    "display_name": "Quốc lộ 13, Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 13",
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.02584,108.9583": {
+    "display_name": "Chí Thán, Xã Đức Bình, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Chí Thán",
+      "county": "Xã Đức Bình",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14099,106.6315": {
+    "display_name": "Khu phố 5, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 5",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
