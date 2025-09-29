@@ -15233,5 +15233,122 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.0564,108.3618": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.3483,105.0931": {
+    "display_name": "Thới Bình, Xã Thới Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Thới Bình",
+      "county": "Xã Thới Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.45284,106.3433": {
+    "display_name": "Xã Tân Hương, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.98001,108.2057": {
+    "display_name": "Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.60022,106.4868": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "county": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.37516,106.6215": {
+    "display_name": "Quốc lộ 13, Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 13",
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.71174,90.39455": {
+    "display_name": "চম্পাতলী লেন, মুকিম কাটরা, চকবাজার, Dhaka, ঢাকা মহানগর, ঢাকা জেলা, ঢাকা বিভাগ, 1310, Băng-la-đét",
+    "address": {
+      "road": "চম্পাতলী লেন",
+      "neighbourhood": "মুকিম কাটরা",
+      "suburb": "চকবাজার",
+      "city": "Dhaka",
+      "municipality": "ঢাকা মহানগর",
+      "state_district": "ঢাকা জেলা",
+      "ISO3166-2-lvl5": "BD-13",
+      "state": "ঢাকা বিভাগ",
+      "ISO3166-2-lvl4": "BD-C",
+      "postcode": "1310",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
+  },
+  "15.8802,108.3386": {
+    "display_name": "Glory Hotel, 538, Cửa Đại, Cẩm Châu, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "tourism": "Glory Hotel",
+      "house_number": "538",
+      "road": "Cửa Đại",
+      "suburb": "Cẩm Châu",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94293,106.5391": {
+    "display_name": "Đường Số 75, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Số 75",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.81093,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
