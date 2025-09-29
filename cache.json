@@ -14712,5 +14712,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.68113,105.7588": {
+    "display_name": "Trường THCS Hòa Nam, Quốc lộ 21B, Xã Hòa Xá, Hà Nội, Việt Nam",
+    "address": {
+      "amenity": "Trường THCS Hòa Nam",
+      "road": "Quốc lộ 21B",
+      "city_district": "Xã Hòa Xá",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
