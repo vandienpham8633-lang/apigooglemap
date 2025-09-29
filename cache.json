@@ -15414,5 +15414,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92964,108.1052": {
+    "display_name": "Lotteria, Nguyễn Tất Thành, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "amenity": "Lotteria",
+      "road": "Nguyễn Tất Thành",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.62843,106.792": {
+    "display_name": "Xã Long Hà, Việt Nam",
+    "address": {
+      "county": "Xã Long Hà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.74689,107.6346": {
+    "display_name": "Xã Ia Pnôn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Pnôn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.68173,109.0757": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
