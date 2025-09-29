@@ -14522,5 +14522,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86568,106.6525": {
+    "display_name": "Phường Thới An, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "suburb": "Phường Thới An",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.926828,106.5145": {
+    "display_name": "Thạnh Phú, Xã Thạnh Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Thạnh Phú",
+      "county": "Xã Thạnh Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06149,108.1712": {
+    "display_name": "Đường Nam Trân, Hòa Minh, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Nam Trân",
+      "quarter": "Hòa Minh",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
