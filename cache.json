@@ -14736,5 +14736,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.0615,108.1714": {
+    "display_name": "Đường Nam Trân, Hòa Minh, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Nam Trân",
+      "quarter": "Hòa Minh",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00355,106.7284": {
+    "display_name": "Khánh Lợi, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75256, Việt Nam",
+    "address": {
+      "quarter": "Khánh Lợi",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75256",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16774,106.6509": {
+    "display_name": "Đường Võ Thị Sáu, Khu phố 4, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Võ Thị Sáu",
+      "quarter": "Khu phố 4",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
