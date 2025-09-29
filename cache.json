@@ -15985,5 +15985,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90225,106.7412": {
+    "display_name": "Đường số 22, Thống Nhất 2, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường số 22",
+      "quarter": "Thống Nhất 2",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
