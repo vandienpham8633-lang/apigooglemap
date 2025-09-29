@@ -15090,5 +15090,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.31568,107.317": {
+    "display_name": "Ấp 6, Xã Thanh Sơn, Việt Nam",
+    "address": {
+      "village": "Ấp 6",
+      "county": "Xã Thanh Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.46327,105.4527": {
+    "display_name": "Xã Nhơn Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.05638,108.3618": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
