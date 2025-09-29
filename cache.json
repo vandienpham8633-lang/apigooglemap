@@ -15889,5 +15889,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.68904,105.1512": {
+    "display_name": "Đường số 2, Châu Đốc, Phường Châu Đốc, Tỉnh An Giang, 90512, Việt Nam",
+    "address": {
+      "road": "Đường số 2",
+      "city": "Châu Đốc",
+      "county": "Phường Châu Đốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90512",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
