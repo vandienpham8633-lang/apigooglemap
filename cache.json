@@ -14724,5 +14724,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06153,108.1712": {
+    "display_name": "Đường Nam Trân, Hòa Minh, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Nam Trân",
+      "quarter": "Hòa Minh",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
