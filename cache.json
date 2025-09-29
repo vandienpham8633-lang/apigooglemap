@@ -16161,5 +16161,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97904,106.9509": {
+    "display_name": "Khu công nghiệp Sông Mây, An Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Sông Mây",
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35991,107.0913": {
+    "display_name": "Thống Nhất (Mới), khóm Rẫy, Phường Tam Thắng, Thành phố Hồ Chí Minh, 76666, Việt Nam",
+    "address": {
+      "road": "Thống Nhất (Mới)",
+      "neighbourhood": "khóm Rẫy",
+      "city_district": "Phường Tam Thắng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76666",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.7671,108.4064": {
+    "display_name": "Quốc lộ 20, Phú Thạnh, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 20",
+      "village": "Phú Thạnh",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.51433,107.5371": {
+    "display_name": "Phường Kim Trà, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Kim Trà",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
