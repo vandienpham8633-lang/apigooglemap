@@ -15222,5 +15222,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06769,108.245": {
+    "display_name": "Đường Võ Nguyên Giáp, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Võ Nguyên Giáp",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
