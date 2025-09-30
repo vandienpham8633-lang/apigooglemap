@@ -17363,5 +17363,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.73956,108.1477": {
+    "display_name": "Kroa C, Xã Cuôr Đăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Kroa C",
+      "county": "Xã Cuôr Đăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
