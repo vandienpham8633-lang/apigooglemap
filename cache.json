@@ -17420,5 +17420,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63988,106.4781": {
+    "display_name": "Huỳnh Châu Sổ, Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Huỳnh Châu Sổ",
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
