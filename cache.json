@@ -17551,5 +17551,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.5411,108.8949": {
+    "display_name": "Đường huyện 24, Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường huyện 24",
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.444948,105.5294": {
+    "display_name": "Xã Phước Long, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phước Long",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
