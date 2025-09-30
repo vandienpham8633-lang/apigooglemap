@@ -17274,5 +17274,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.88374,106.7551": {
+    "display_name": "Bình Đường 4, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Bình Đường 4",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.11576,108.3122": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.8783,109.1057": {
+    "display_name": "KV.Hòa Nghi, P.Nhơn Hòa, Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KV.Hòa Nghi, P.Nhơn Hòa",
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.61218,109.2049": {
+    "display_name": "Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0679,108.1647": {
+    "display_name": "Đường Hoà Phú 14, Hòa Minh, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Hoà Phú 14",
+      "quarter": "Hòa Minh",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
