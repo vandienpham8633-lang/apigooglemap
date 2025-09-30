@@ -17604,5 +17604,93 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.09045,108.2971": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.56197,107.6395": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.5004,103.742": {
+    "display_name": "Xã Bản Xèo, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "county": "Xã Bản Xèo",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.09043,108.2971": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88399,106.7543": {
+    "display_name": "Đường số 2, Khu công nghiệp Sóng Thần, Bình Đường 4, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường số 2",
+      "industrial": "Khu công nghiệp Sóng Thần",
+      "quarter": "Bình Đường 4",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.90322,105.8506": {
+    "display_name": "Nhị Châu, Xã Ngọc Hồi, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "hamlet": "Nhị Châu",
+      "city_district": "Xã Ngọc Hồi",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09427,105.0749": {
+    "display_name": "Phước Hảo, Xã Mỹ Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Phước Hảo",
+      "county": "Xã Mỹ Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.06348,107.9808": {
+    "display_name": "Xã Biển Hồ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
