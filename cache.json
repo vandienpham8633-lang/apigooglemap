@@ -17908,5 +17908,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.22747,108.3624": {
+    "display_name": "Xã Tây Trà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tây Trà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.906025,105.159": {
+    "display_name": "Phan Thị Ràng, Minh An, Minh Lương, Xã Châu Thành, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Phan Thị Ràng",
+      "quarter": "Minh An",
+      "town": "Minh Lương",
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.886415,106.1213": {
+    "display_name": "Xã Cầu Kè, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Cầu Kè",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88987,109.1152": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
