@@ -16672,5 +16672,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.53425,106.7347": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06059,106.7577": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.945923,106.0343": {
+    "display_name": "Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
