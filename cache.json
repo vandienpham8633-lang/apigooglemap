@@ -17398,5 +17398,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92951,108.1055": {
+    "display_name": "Nguyễn Tất Thành, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43787,105.4684": {
+    "display_name": "Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
