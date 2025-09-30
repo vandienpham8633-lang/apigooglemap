@@ -16400,5 +16400,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.1223,108.1176": {
+    "display_name": "Trường Cao đẳng Giao thông vận tải Trung ương V, Đường Ngô Xuân Thu, Phường Hải Vân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Trường Cao đẳng Giao thông vận tải Trung ương V",
+      "road": "Đường Ngô Xuân Thu",
+      "city": "Phường Hải Vân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00297,107.6814": {
+    "display_name": "Mạc Thị Bưởi, Tổ dân phố 10, Gia Nghĩa, Phường Bắc Gia Nghĩa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Mạc Thị Bưởi",
+      "quarter": "Tổ dân phố 10",
+      "city": "Gia Nghĩa",
+      "county": "Phường Bắc Gia Nghĩa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
