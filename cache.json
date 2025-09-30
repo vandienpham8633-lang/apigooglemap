@@ -16719,5 +16719,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.06069,106.7579": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
