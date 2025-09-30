@@ -17236,5 +17236,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93233,106.7332": {
+    "display_name": "Đường số 11, Khu công nghiệp Việt Nam - Singapore (VSIP I), Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Đường số 11",
+      "industrial": "Khu công nghiệp Việt Nam - Singapore (VSIP I)",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0547,106.8523": {
+    "display_name": "Ấp 1, Xã Thường Tân, Thành phố Hồ Chí Minh, 76913, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "city_district": "Xã Thường Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
