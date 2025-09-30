@@ -16524,5 +16524,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.99578,107.5164": {
+    "display_name": "Tổ dân phố 5, Kiến Đức, Xã Kiến Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 5",
+      "town": "Kiến Đức",
+      "county": "Xã Kiến Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
