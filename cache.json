@@ -17692,5 +17692,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.70447,105.1947": {
+    "display_name": "Đường cao tốc Tuyên Quang – Phú Thọ, Đội Cấn, Thái Long, Xã Nhữ Khê, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Tuyên Quang – Phú Thọ",
+      "suburb": "Đội Cấn",
+      "village": "Thái Long",
+      "town": "Xã Nhữ Khê",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.09046,108.2971": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
