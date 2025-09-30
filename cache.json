@@ -17159,5 +17159,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.397788,106.1439": {
+    "display_name": "Xã Vĩnh Hải, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Hải",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.39782,106.1439": {
+    "display_name": "Xã Vĩnh Hải, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Hải",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.397848,106.1438": {
+    "display_name": "Xã Vĩnh Hải, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Hải",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.397855,106.1438": {
+    "display_name": "Xã Vĩnh Hải, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Hải",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.397897,106.1438": {
+    "display_name": "Xã Vĩnh Hải, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Hải",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
