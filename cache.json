@@ -16217,5 +16217,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.9023,106.7413": {
+    "display_name": "Đường số 22, Thống Nhất 2, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường số 22",
+      "quarter": "Thống Nhất 2",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67888,106.7539": {
+    "display_name": "Hẻm 2637 Huỳnh Tấn Phát, Tổng kho Xăng dầu Nhà Bè, Xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Hẻm 2637 Huỳnh Tấn Phát",
+      "industrial": "Tổng kho Xăng dầu Nhà Bè",
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.17054,108.1314": {
+    "display_name": "Quốc lộ 19D, Xã Đak Sơmei, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19D",
+      "county": "Xã Đak Sơmei",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
