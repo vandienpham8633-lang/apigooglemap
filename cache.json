@@ -17715,5 +17715,119 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81171,106.5645": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.17305,105.6011": {
+    "display_name": "Xã Quỳnh Sơn, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Quỳnh Sơn",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.15347,106.0962": {
+    "display_name": "Lãm Trại, Phường Nam Sơn, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "quarter": "Lãm Trại",
+      "suburb": "Phường Nam Sơn",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.44324,105.0909": {
+    "display_name": "Xã Cẩm Khê, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Cẩm Khê",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.89425,108.532": {
+    "display_name": "Quốc lộ 24B, Tà Mong, Xã Sơn Kỳ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 24B",
+      "hamlet": "Tà Mong",
+      "county": "Xã Sơn Kỳ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92858,106.8649": {
+    "display_name": "5 An Bình, Thành phố Biên Hòa, Phường Trấn Biên, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "quarter": "5 An Bình",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Trấn Biên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89702,105.0808": {
+    "display_name": "Quốc lộ 91C, Xã Nhơn Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 91C",
+      "county": "Xã Nhơn Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96724,106.7419": {
+    "display_name": "Đường tỉnh 743A, Khu phố Bình Phước B, An Phú, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743A",
+      "quarter": "Khu phố Bình Phước B",
+      "suburb": "An Phú",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.770563,105.9922": {
+    "display_name": "Xã Kế Sách, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Kế Sách",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.33276,106.284": {
+    "display_name": "ĐT. 864, Xã Kim Sơn, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 864",
+      "county": "Xã Kim Sơn",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
