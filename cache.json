@@ -16254,5 +16254,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89847,106.7872": {
+    "display_name": "Đông A, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Đông A",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.6553,105.7697": {
+    "display_name": "Xã Trường Xuân, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Trường Xuân",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
