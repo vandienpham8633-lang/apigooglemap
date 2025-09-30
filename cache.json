@@ -16706,5 +16706,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7528,106.6656": {
+    "display_name": "Hẻm 222 Trần Hưng Đạo, Khu phố 1, Phường Chợ Lớn, Thành phố Hồ Chí Minh, 73000, Việt Nam",
+    "address": {
+      "road": "Hẻm 222 Trần Hưng Đạo",
+      "quarter": "Khu phố 1",
+      "suburb": "Phường Chợ Lớn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
