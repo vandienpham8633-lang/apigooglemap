@@ -16435,5 +16435,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.09912,109.2881": {
+    "display_name": "Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, 56120, Việt Nam",
+    "address": {
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "56120",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
