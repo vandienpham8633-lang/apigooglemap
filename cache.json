@@ -16513,5 +16513,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.65914,105.3354": {
+    "display_name": "Xã Phú An, Tỉnh An Giang, 88000, Việt Nam",
+    "address": {
+      "county": "Xã Phú An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "88000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
