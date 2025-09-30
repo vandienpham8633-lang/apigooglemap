@@ -17572,5 +17572,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.15234,106.0588": {
+    "display_name": "Xã Tân Long Hội, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Long Hội",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.16219,106.6548": {
+    "display_name": "Đường Bắc Nam, Xã Thạnh Trị, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đường Bắc Nam",
+      "county": "Xã Thạnh Trị",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54109,108.895": {
+    "display_name": "Đường huyện 24, Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường huyện 24",
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
