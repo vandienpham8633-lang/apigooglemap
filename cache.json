@@ -17853,5 +17853,60 @@
       "country": "Cao Miên",
       "country_code": "kh"
     }
+  },
+  "9.673207,106.255": {
+    "display_name": "Xã Hàm Giang, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Giang",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.06345,107.9808": {
+    "display_name": "Xã Biển Hồ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89222,106.5276": {
+    "display_name": "Đường Số 3, KCN Xuyên Á, Xã Đức Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Số 3",
+      "industrial": "KCN Xuyên Á",
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8927,106.5277": {
+    "display_name": "Công Ty Trái Đất Xanh, Đường Số 3, KCN Xuyên Á, Xã Đức Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "office": "Công Ty Trái Đất Xanh",
+      "road": "Đường Số 3",
+      "industrial": "KCN Xuyên Á",
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.65421,104.9357": {
+    "display_name": "Phường Âu Lâu, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "county": "Phường Âu Lâu",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
