@@ -17955,5 +17955,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.41393,107.1293": {
+    "display_name": "Hẻm 1007 Ba Mươi Tháng Tư, Cảng Tàu Côn Đảo, Phường Phước Thắng, Thành phố Hồ Chí Minh, 78000, Việt Nam",
+    "address": {
+      "road": "Hẻm 1007 Ba Mươi Tháng Tư",
+      "industrial": "Cảng Tàu Côn Đảo",
+      "city_district": "Phường Phước Thắng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88984,109.1152": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88985,109.1152": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
