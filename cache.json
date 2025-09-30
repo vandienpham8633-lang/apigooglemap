@@ -16447,5 +16447,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.49409,106.0543": {
+    "display_name": "Xã Thạnh Bình, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Bình",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.51271,105.6655": {
+    "display_name": "Xã Tân Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Tân Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
