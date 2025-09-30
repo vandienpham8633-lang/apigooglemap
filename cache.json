@@ -16207,5 +16207,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.57941,104.0684": {
+    "display_name": "Xã Bản Lầu, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "county": "Xã Bản Lầu",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
