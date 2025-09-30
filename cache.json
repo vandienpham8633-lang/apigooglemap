@@ -16547,5 +16547,130 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93193,108.0682": {
+    "display_name": "Xã Tuyên Quang, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tuyên Quang",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66306,106.9614": {
+    "display_name": "Xã Phước An, Việt Nam",
+    "address": {
+      "county": "Xã Phước An",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74157,106.6751": {
+    "display_name": "Hẻm 769/44 Phạm Thế Hiển, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Hẻm 769/44 Phạm Thế Hiển",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06039,106.7577": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.52889,108.4353": {
+    "display_name": "Thôn 5, Xã Cư Pui, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 5",
+      "county": "Xã Cư Pui",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53964,106.7344": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.10151,106.777": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0604,106.7576": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53963,106.7344": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53441,106.7347": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0606,106.7577": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
