@@ -17829,5 +17829,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94871,108.102": {
+    "display_name": "Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55245,104.8981": {
+    "display_name": "ផ្លូវ ៣៨២, Community (TK31), សង្កាត់បឹងសាឡាង, Quận Toul Kork, Phnôm Pênh, 120410, Cao Miên",
+    "address": {
+      "road": "ផ្លូវ ៣៨២",
+      "neighbourhood": "Community (TK31)",
+      "village": "សង្កាត់បឹងសាឡាង",
+      "town": "Quận Toul Kork",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "120410",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
   }
 }
