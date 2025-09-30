@@ -16340,5 +16340,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.86158,108.0001": {
+    "display_name": "Xã Ia Băng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Băng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54843,106.39": {
+    "display_name": "Nguyễn Thị Bảy, Tân An, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Bảy",
+      "city": "Tân An",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
