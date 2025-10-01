@@ -18736,5 +18736,92 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94878,108.1019": {
+    "display_name": "TH Chị Mười, 349, Nguyễn Hội, Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "shop": "TH Chị Mười",
+      "house_number": "349",
+      "road": "Nguyễn Hội",
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.93316,105.8304": {
+    "display_name": "Trường Mầm non xã Vĩnh Quỳnh, Đường Đại Hưng, Lạc Thị, Xã Ngọc Hồi, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "amenity": "Trường Mầm non xã Vĩnh Quỳnh",
+      "road": "Đường Đại Hưng",
+      "hamlet": "Lạc Thị",
+      "city_district": "Xã Ngọc Hồi",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06063,106.7578": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.61194,105.8219": {
+    "display_name": "Xã Tiên Trang, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Tiên Trang",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.5915,105.3073": {
+    "display_name": "Xã Phú Tân, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Phú Tân",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62605,106.4826": {
+    "display_name": "Trần Anh Riverside, Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "residential": "Trần Anh Riverside",
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.93318,105.8304": {
+    "display_name": "Trường Mầm non xã Vĩnh Quỳnh, Đường Đại Hưng, Lạc Thị, Xã Ngọc Hồi, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "amenity": "Trường Mầm non xã Vĩnh Quỳnh",
+      "road": "Đường Đại Hưng",
+      "hamlet": "Lạc Thị",
+      "city_district": "Xã Ngọc Hồi",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
