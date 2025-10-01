@@ -19179,5 +19179,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59916,106.4848": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "county": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.74865,106.033": {
+    "display_name": "Phán Thuỷ, Xã Hiệp Cường, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "hamlet": "Phán Thuỷ",
+      "town": "Xã Hiệp Cường",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
