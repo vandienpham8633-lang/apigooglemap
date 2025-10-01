@@ -18926,5 +18926,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.62658,106.4833": {
+    "display_name": "Nguyễn Văn Tuôi, Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Tuôi",
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.27079,105.4349": {
+    "display_name": "Quốc lộ 80, Xã Phú Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 80",
+      "town": "Xã Phú Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62659,106.4833": {
+    "display_name": "Nguyễn Văn Tuôi, Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Tuôi",
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62665,106.4833": {
+    "display_name": "Nguyễn Văn Tuôi, Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Tuôi",
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
