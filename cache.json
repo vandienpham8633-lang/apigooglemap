@@ -18059,5 +18059,109 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97421,108.0727": {
+    "display_name": "Phường An Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường An Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.991047,105.1354": {
+    "display_name": "Xã Trần Phán, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Trần Phán",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88988,109.1153": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88986,109.1151": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88989,109.1152": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88993,109.1153": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88983,109.1153": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88981,109.1152": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
