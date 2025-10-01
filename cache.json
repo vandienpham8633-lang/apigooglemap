@@ -18699,5 +18699,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.19217,105.5091": {
+    "display_name": "Xã Trung Hưng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trung Hưng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.98096,102.6107": {
+    "display_name": "ບ​. ສະຫ່ວາງ, Viêng Chăn, ເມືອງຈັນທະບູລີ, ນະຄອນຫຼວງວຽງຈັນ, 01009, Lào",
+    "address": {
+      "village": "ບ​. ສະຫ່ວາງ",
+      "city": "Viêng Chăn",
+      "county": "ເມືອງຈັນທະບູລີ",
+      "state": "ນະຄອນຫຼວງວຽງຈັນ",
+      "ISO3166-2-lvl4": "LA-VT",
+      "postcode": "01009",
+      "country": "Lào",
+      "country_code": "la"
+    }
+  },
+  "20.93312,105.8304": {
+    "display_name": "Trường Mầm non xã Vĩnh Quỳnh, Đường Đại Hưng, Lạc Thị, Xã Ngọc Hồi, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "amenity": "Trường Mầm non xã Vĩnh Quỳnh",
+      "road": "Đường Đại Hưng",
+      "hamlet": "Lạc Thị",
+      "city_district": "Xã Ngọc Hồi",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
