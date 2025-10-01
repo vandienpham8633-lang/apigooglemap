@@ -19290,5 +19290,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79389,106.6626": {
+    "display_name": "Đường Nguyễn Bặc, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Bặc",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
