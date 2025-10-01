@@ -18419,5 +18419,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "31.24916,121.4879": {
+    "display_name": "长治路, 三角地, 北外滩街道, Hồng Khẩu, Thượng Hải, 200080, Trung Quốc",
+    "address": {
+      "road": "长治路",
+      "quarter": "三角地",
+      "suburb": "北外滩街道",
+      "city": "Hồng Khẩu",
+      "state": "Thượng Hải",
+      "ISO3166-2-lvl4": "CN-SH",
+      "postcode": "200080",
+      "country": "Trung Quốc",
+      "country_code": "cn"
+    }
+  },
+  "37.422,-122.084": {
+    "display_name": "Amphitheatre Parkway, Mountain View, Santa Clara County, Ca Li, 94043, Hoa Kỳ",
+    "address": {
+      "road": "Amphitheatre Parkway",
+      "city": "Mountain View",
+      "county": "Santa Clara County",
+      "state": "Ca Li",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "94043",
+      "country": "Hoa Kỳ",
+      "country_code": "us"
+    }
+  },
+  "11.67927,107.187": {
+    "display_name": "Thôn 8, Xã Phước Sơn, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Xã Phước Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
