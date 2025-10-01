@@ -17996,5 +17996,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.88982,109.1152": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47285,109.033": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
