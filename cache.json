@@ -18163,5 +18163,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.88982,109.1151": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.78646,106.6095": {
+    "display_name": "Thái Sơn, Xã An Khánh, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "quarter": "Thái Sơn",
+      "town": "Xã An Khánh",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
