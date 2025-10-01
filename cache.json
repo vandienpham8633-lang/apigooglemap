@@ -18188,5 +18188,33 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.89037,109.1151": {
+    "display_name": "Đường 30 tháng 3, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường 30 tháng 3",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.89035,109.1151": {
+    "display_name": "Đường 30 tháng 3, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường 30 tháng 3",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
