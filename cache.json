@@ -18550,5 +18550,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.6366,103.0516": {
+    "display_name": "Quốc lộ 12, Xã Mường Pồn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 12",
+      "county": "Xã Mường Pồn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63393,106.5166": {
+    "display_name": "Quốc lộ 1, Gò Đen, Xã Bình Chánh, Mỹ Yên, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "neighbourhood": "Gò Đen",
+      "village": "Xã Bình Chánh",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96846,108.0025": {
+    "display_name": "Xã Hàm Kiệm, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Kiệm",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
