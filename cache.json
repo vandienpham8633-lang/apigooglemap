@@ -19907,5 +19907,78 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.82895,105.8637": {
+    "display_name": "Xã Tuyên Bình, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tuyên Bình",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07789,106.8043": {
+    "display_name": "Uyên Hưng 6, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Uyên Hưng 6",
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.43266,108.1148": {
+    "display_name": "Xã Ia Le, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Le",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.35001,108.0344": {
+    "display_name": "Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.62267,105.045": {
+    "display_name": "Xã Mai Hạ, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Mai Hạ",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.2794,106.4281": {
+    "display_name": "Đường Lê Thái Tổ, Xã Giao Thủy, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thái Tổ",
+      "town": "Xã Giao Thủy",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.4326,108.1144": {
+    "display_name": "Xã Ia Le, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Le",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
