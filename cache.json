@@ -18302,5 +18302,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.11411,105.31": {
+    "display_name": "Xã Sủng Máng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Sủng Máng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
