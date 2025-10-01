@@ -18455,5 +18455,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63394,106.5173": {
+    "display_name": "Quốc lộ 1, Gò Đen, Xã Bình Chánh, Mỹ Yên, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "neighbourhood": "Gò Đen",
+      "village": "Xã Bình Chánh",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79393,106.6625": {
+    "display_name": "Cà Phê Cây bàng, Đường Nguyễn Bặc, Tân Sơn Hòa, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "amenity": "Cà Phê Cây bàng",
+      "road": "Đường Nguyễn Bặc",
+      "suburb": "Tân Sơn Hòa",
+      "city": "Phường Tân Sơn Hòa",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
