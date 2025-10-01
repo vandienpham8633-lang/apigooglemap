@@ -18585,5 +18585,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.95991,108.1717": {
+    "display_name": "Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
