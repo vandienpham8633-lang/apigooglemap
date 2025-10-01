@@ -19468,5 +19468,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.10074,108.6482": {
+    "display_name": "Đường tỉnh 669, Xã Kông Bơ La, Tỉnh Gia Lai, 62600, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 669",
+      "county": "Xã Kông Bơ La",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "62600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.496716,106.1649": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
