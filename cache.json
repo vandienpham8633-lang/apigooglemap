@@ -18685,5 +18685,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.93313,105.8304": {
+    "display_name": "Trường Mầm non xã Vĩnh Quỳnh, Đường Đại Hưng, Lạc Thị, Xã Ngọc Hồi, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "amenity": "Trường Mầm non xã Vĩnh Quỳnh",
+      "road": "Đường Đại Hưng",
+      "hamlet": "Lạc Thị",
+      "city_district": "Xã Ngọc Hồi",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
