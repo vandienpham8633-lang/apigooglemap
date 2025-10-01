@@ -19202,5 +19202,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86873,106.7621": {
+    "display_name": "Bình Đường 2, Phường Dĩ An, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "quarter": "Bình Đường 2",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
