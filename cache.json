@@ -18976,5 +18976,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.59686,108.9499": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74728,106.6666": {
+    "display_name": "Lưu Quý Kỳ, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "road": "Lưu Quý Kỳ",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.98298,107.2368": {
+    "display_name": "Đăk Xuyên, Xã Đak Nhau, Việt Nam",
+    "address": {
+      "village": "Đăk Xuyên",
+      "county": "Xã Đak Nhau",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
