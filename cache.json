@@ -19512,5 +19512,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81266,106.5657": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.983273,105.0926": {
+    "display_name": "Hà Huy Giáp, Khu phố 5, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Hà Huy Giáp",
+      "quarter": "Khu phố 5",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.99582,107.5164": {
+    "display_name": "Tổ dân phố 5, Kiến Đức, Xã Kiến Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 5",
+      "town": "Kiến Đức",
+      "county": "Xã Kiến Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87641,106.9776": {
+    "display_name": "Ấp 4, Xã An Viễn, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã An Viễn",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.00903,108.205": {
+    "display_name": "Quốc lộ 19, Xã KDang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "county": "Xã KDang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
