@@ -18370,5 +18370,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.61727,107.3154": {
+    "display_name": "Văn Phong, Xã Nam Hải Lăng, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Văn Phong",
+      "town": "Xã Nam Hải Lăng",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79373,106.6626": {
+    "display_name": "Chợ Phạm Văn Hai, 123, Phạm Văn Hai, Tân Sơn Hòa, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72215, Việt Nam",
+    "address": {
+      "amenity": "Chợ Phạm Văn Hai",
+      "house_number": "123",
+      "road": "Phạm Văn Hai",
+      "suburb": "Tân Sơn Hòa",
+      "city": "Phường Tân Sơn Hòa",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72215",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
