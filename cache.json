@@ -19820,5 +19820,92 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.611405,105.9891": {
+    "display_name": "Phường Sóc Trăng, Thành phố Cần Thơ, 96113, Việt Nam",
+    "address": {
+      "city_district": "Phường Sóc Trăng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "96113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.27964,106.4282": {
+    "display_name": "Đường Nguyễn Trãi, Xã Giao Thủy, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Trãi",
+      "town": "Xã Giao Thủy",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07282,108.2447": {
+    "display_name": "Cây Sung, Đường Võ Nguyên Giáp, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "amenity": "Cây Sung",
+      "road": "Đường Võ Nguyên Giáp",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.46638,105.3196": {
+    "display_name": "Xã Bình Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Bình Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.91428,108.0551": {
+    "display_name": "Xã Ia Băng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Băng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.18353,104.641": {
+    "display_name": "Xã Tân Lĩnh, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lĩnh",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.78229,108.27": {
+    "display_name": "Bình Hoà 1B, Phường Cư Bao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Bình Hoà 1B",
+      "county": "Phường Cư Bao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.70492,107.7774": {
+    "display_name": "Đăk Manh 2, Đăk Rơ Nga, Xã Ngọk Tụ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Đăk Manh 2",
+      "village": "Đăk Rơ Nga",
+      "county": "Xã Ngọk Tụ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
