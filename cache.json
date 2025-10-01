@@ -19980,5 +19980,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.49566,108.4553": {
+    "display_name": "Ma Lin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Lin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.04333,103.6897": {
+    "display_name": "Xã Huổi Một, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "county": "Xã Huổi Một",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02566,106.9118": {
+    "display_name": "Đường tỉnh 768, Ấp 1, Xã Tân An, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 768",
+      "village": "Ấp 1",
+      "county": "Xã Tân An",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
