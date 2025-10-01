@@ -18905,5 +18905,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.59682,108.9501": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.94505,105.393": {
+    "display_name": "Xã Vân Du, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Vân Du",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
