@@ -18312,5 +18312,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.650146,106.1842": {
+    "display_name": "Xã An Thạnh, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã An Thạnh",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55244,104.8981": {
+    "display_name": "ផ្លូវ ៣៨២, Community (TK31), សង្កាត់បឹងសាឡាង, Quận Toul Kork, Phnôm Pênh, 120410, Cao Miên",
+    "address": {
+      "road": "ផ្លូវ ៣៨២",
+      "neighbourhood": "Community (TK31)",
+      "village": "សង្កាត់បឹងសាឡាង",
+      "town": "Quận Toul Kork",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "120410",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
   }
 }
