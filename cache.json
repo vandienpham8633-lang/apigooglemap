@@ -19580,5 +19580,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.42243,107.2281": {
+    "display_name": "Hải Lâm, Xã Long Hải, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "neighbourhood": "Hải Lâm",
+      "city_district": "Xã Long Hải",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.76773,106.1344": {
+    "display_name": "ĐT. 915, Cầu Quan, Xã Tân Hòa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 915",
+      "town": "Cầu Quan",
+      "county": "Xã Tân Hòa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79709,106.6157": {
+    "display_name": "Hẻm 549 Tân Kỳ Tân Quý, Tân Sơn Nhì, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 549 Tân Kỳ Tân Quý",
+      "suburb": "Tân Sơn Nhì",
+      "city": "Phường Tân Sơn Nhì",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
