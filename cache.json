@@ -19423,5 +19423,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.896518,105.9346": {
+    "display_name": "Đường Nam Sông Hậu, Xã An Lạc Thôn, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Nam Sông Hậu",
+      "city_district": "Xã An Lạc Thôn",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12977,106.6447": {
+    "display_name": "Đường NE5A, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường NE5A",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.70863,108.8154": {
+    "display_name": "Quốc lộ 27, Tân Mỹ, Xã Mỹ Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27",
+      "hamlet": "Tân Mỹ",
+      "county": "Xã Mỹ Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.2278,103.3639": {
+    "display_name": "Xã Mường Luân, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Mường Luân",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
