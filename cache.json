@@ -18023,5 +18023,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.8899,109.1153": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.991044,105.1354": {
+    "display_name": "Xã Trần Phán, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Trần Phán",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52497,108.9106": {
+    "display_name": "Đường huyện 24, Phước Hữu, Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường huyện 24",
+      "village": "Phước Hữu",
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
