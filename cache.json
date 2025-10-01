@@ -19127,5 +19127,57 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.93315,105.8304": {
+    "display_name": "Trường Mầm non xã Vĩnh Quỳnh, Đường Đại Hưng, Lạc Thị, Xã Ngọc Hồi, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "amenity": "Trường Mầm non xã Vĩnh Quỳnh",
+      "road": "Đường Đại Hưng",
+      "hamlet": "Lạc Thị",
+      "city_district": "Xã Ngọc Hồi",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62663,106.4832": {
+    "display_name": "Nguyễn Văn Tuôi, Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Tuôi",
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59915,106.4848": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "county": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.11066,109.2847": {
+    "display_name": "Đại lộ Nguyễn Tất Thành, Phú Vang, Phường Bình Kiến, Tỉnh Đắk Lắk, 56120, Việt Nam",
+    "address": {
+      "road": "Đại lộ Nguyễn Tất Thành",
+      "hamlet": "Phú Vang",
+      "county": "Phường Bình Kiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "56120",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
