@@ -19399,5 +19399,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.40296,105.4786": {
+    "display_name": "ĐT. 944, Xã Hội An, Tỉnh An Giang, 90040, Việt Nam",
+    "address": {
+      "road": "ĐT. 944",
+      "county": "Xã Hội An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90040",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
