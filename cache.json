@@ -18538,5 +18538,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.62331,107.9618": {
+    "display_name": "Quốc lộ 14, Thôn 8, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 8",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
