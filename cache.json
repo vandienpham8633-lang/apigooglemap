@@ -20226,5 +20226,33 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95694,106.7301": {
+    "display_name": "Mỹ Phước - Tân Vạn, Khu phố Bình Phú, Thuận Giao, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Mỹ Phước - Tân Vạn",
+      "quarter": "Khu phố Bình Phú",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95692,106.7301": {
+    "display_name": "Mỹ Phước - Tân Vạn, Khu phố Bình Phú, Thuận Giao, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Mỹ Phước - Tân Vạn",
+      "quarter": "Khu phố Bình Phú",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
