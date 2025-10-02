@@ -21013,5 +21013,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.14453,106.6195": {
+    "display_name": "Khu phố 3, Phường Bến Cát, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 3",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.831903,106.1928": {
+    "display_name": "Quốc lộ 60, Xã Tiểu Cần, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 60",
+      "county": "Xã Tiểu Cần",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
