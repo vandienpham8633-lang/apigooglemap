@@ -20093,5 +20093,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.70655,107.6933": {
+    "display_name": "Đường Hùng Vương, Tổ dân phố 7, Thôn 4, Plei Kần, Xã Bờ Y, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Hùng Vương",
+      "quarter": "Tổ dân phố 7",
+      "hamlet": "Thôn 4",
+      "town": "Plei Kần",
+      "county": "Xã Bờ Y",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98824,108.7939": {
+    "display_name": "Quốc lộ 19, Thôn Thượng Sơn, Tây Thuận, Đồng Vắt, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Thượng Sơn, Tây Thuận",
+      "village": "Đồng Vắt",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
