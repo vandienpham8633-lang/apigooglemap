@@ -20254,5 +20254,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95691,106.7301": {
+    "display_name": "Mỹ Phước - Tân Vạn, Khu phố Bình Phú, Thuận Giao, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Mỹ Phước - Tân Vạn",
+      "quarter": "Khu phố Bình Phú",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5345,106.8781": {
+    "display_name": "Phú Cường, Đồng Xoài, Phường Bình Phước, Tỉnh Đồng Nai, 67110, Việt Nam",
+    "address": {
+      "quarter": "Phú Cường",
+      "city": "Đồng Xoài",
+      "county": "Phường Bình Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "67110",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90091,106.7168": {
+    "display_name": "Đường tỉnh 743C, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743C",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
