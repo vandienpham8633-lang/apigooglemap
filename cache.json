@@ -20480,5 +20480,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.96038,108.0516": {
+    "display_name": "Phường Bình Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Bình Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.6225,106.3659": {
+    "display_name": "Xã Bố Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Bố Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
