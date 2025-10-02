@@ -20822,5 +20822,54 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.29671,106.0938": {
+    "display_name": "Thành phố Tây Ninh, Phường Thanh Điền, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "city": "Thành phố Tây Ninh",
+      "county": "Phường Thanh Điền",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78261,108.5194": {
+    "display_name": "Kông Chro, Xã Kông Chro, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Kông Chro",
+      "county": "Xã Kông Chro",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.5938,107.9395": {
+    "display_name": "Đường CN 1, Khu công nghiệp Hòa Phú, Thôn 12, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 1",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 12",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59379,107.9395": {
+    "display_name": "Đường CN 1, Khu công nghiệp Hòa Phú, Thôn 12, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 1",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 12",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
