@@ -21789,5 +21789,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.50795,105.6655": {
+    "display_name": "Xã Đức Thịnh, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Đức Thịnh",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7829,106.6083": {
+    "display_name": "Hẻm 20 đường số 20, Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "road": "Hẻm 20 đường số 20",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59089,109.0228": {
+    "display_name": "Trường Chinh, Phường Ninh Chử, Khánh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Trường Chinh",
+      "suburb": "Phường Ninh Chử",
+      "town": "Khánh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
