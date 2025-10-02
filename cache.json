@@ -21152,5 +21152,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.11353,107.328": {
+    "display_name": "Trường Tiểu học Đông Sơn, Quốc lộ 14, Ka Nôn 1, Lâm Đớt, Xã A Lưới 4, Thành phố Huế, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Đông Sơn",
+      "road": "Quốc lộ 14",
+      "neighbourhood": "Ka Nôn 1",
+      "village": "Lâm Đớt",
+      "town": "Xã A Lưới 4",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
