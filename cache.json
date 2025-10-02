@@ -20645,5 +20645,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.56186,109.1242": {
+    "display_name": "Xã Hòa Trí, Khánh Hòa, 57000, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Trí",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
