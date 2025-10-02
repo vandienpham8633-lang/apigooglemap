@@ -21166,5 +21166,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.58869,107.0484": {
+    "display_name": "Trần Hưng Đạo, Quảng Phú, Tân Hạnh, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "neighbourhood": "Quảng Phú",
+      "quarter": "Tân Hạnh",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77206,106.7432": {
+    "display_name": "Đường số 17, Khu chế xuất Tân Thuận, Phường Tân Thuận, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Đường số 17",
+      "industrial": "Khu chế xuất Tân Thuận",
+      "suburb": "Phường Tân Thuận",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
