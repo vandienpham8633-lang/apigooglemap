@@ -20611,5 +20611,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.14546,108.7682": {
+    "display_name": "Tịnh Hà, Xã Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Tịnh Hà",
+      "county": "Xã Sơn Tịnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06342,108.2442": {
+    "display_name": "Pavilion Hotel, 32, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Pavilion Hotel",
+      "house_number": "32",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
