@@ -21881,5 +21881,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.12501,108.7772": {
+    "display_name": "Trần Phú, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Trần Phú",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59093,109.0228": {
+    "display_name": "Trường Chinh, Phường Ninh Chử, Khánh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Trường Chinh",
+      "suburb": "Phường Ninh Chử",
+      "town": "Khánh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
