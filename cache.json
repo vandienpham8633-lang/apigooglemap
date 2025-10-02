@@ -21193,5 +21193,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.67267,107.0362": {
+    "display_name": "Ấp 1B, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 1B",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
