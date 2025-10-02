@@ -20656,5 +20656,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.29678,106.0026": {
+    "display_name": "Xã Yên Hòa, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Yên Hòa",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
