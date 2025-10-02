@@ -21462,5 +21462,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.770928,105.3729": {
+    "display_name": "Ấp 1, Xã Vĩnh Hòa Hưng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "county": "Xã Vĩnh Hòa Hưng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.770928,105.3732": {
+    "display_name": "Ấp 1, Xã Vĩnh Hòa Hưng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "county": "Xã Vĩnh Hòa Hưng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87468,106.6814": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
