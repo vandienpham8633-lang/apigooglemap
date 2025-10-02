@@ -20013,5 +20013,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8348,106.6762": {
+    "display_name": "Hẻm 178 Nguyễn Oanh, Phường Gò Vấp, Thuận An, Thành phố Hồ Chí Minh, 71400, Việt Nam",
+    "address": {
+      "road": "Hẻm 178 Nguyễn Oanh",
+      "suburb": "Phường Gò Vấp",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71400",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71688,106.7016": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80069,106.6477": {
+    "display_name": "Lê Trung Nghĩa, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 70500, Việt Nam",
+    "address": {
+      "road": "Lê Trung Nghĩa",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
