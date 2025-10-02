@@ -21394,5 +21394,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.09751,108.687": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87469,106.6815": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87467,106.6815": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87474,106.6815": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
