@@ -20776,5 +20776,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.29673,106.0935": {
+    "display_name": "Thành phố Tây Ninh, Phường Thanh Điền, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "city": "Thành phố Tây Ninh",
+      "county": "Phường Thanh Điền",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53918,108.8914": {
+    "display_name": "Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
