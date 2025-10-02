@@ -21766,5 +21766,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.44805,105.6114": {
+    "display_name": "Hòa Đông, Cao Lãnh, Phường Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Hòa Đông",
+      "city": "Cao Lãnh",
+      "county": "Phường Cao Lãnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
