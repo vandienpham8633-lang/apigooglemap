@@ -20735,5 +20735,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75627,106.7093": {
+    "display_name": "Phường Khánh Hội, Thành phố Hồ Chí Minh, 72800, Việt Nam",
+    "address": {
+      "suburb": "Phường Khánh Hội",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
