@@ -21823,5 +21823,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.5909,109.0228": {
+    "display_name": "Trường Chinh, Phường Ninh Chử, Khánh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Trường Chinh",
+      "suburb": "Phường Ninh Chử",
+      "town": "Khánh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59091,109.0228": {
+    "display_name": "Trường Chinh, Phường Ninh Chử, Khánh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Trường Chinh",
+      "suburb": "Phường Ninh Chử",
+      "town": "Khánh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
