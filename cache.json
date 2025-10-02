@@ -20048,5 +20048,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.03258,107.9764": {
+    "display_name": "Lê Văn Hưu, Phường Thống Nhất, Tỉnh Gia Lai, 60000, Việt Nam",
+    "address": {
+      "road": "Lê Văn Hưu",
+      "county": "Phường Thống Nhất",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "60000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.9883,108.794": {
+    "display_name": "Quốc lộ 19, Thôn Thượng Sơn, Tây Thuận, Đồng Vắt, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Thượng Sơn, Tây Thuận",
+      "village": "Đồng Vắt",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.08473,108.9568": {
+    "display_name": "Quốc lộ 25, Ngân Điền, Xã Sơn Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "village": "Ngân Điền",
+      "county": "Xã Sơn Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.85971,106.9945": {
+    "display_name": "Phường Phước Long, Việt Nam",
+    "address": {
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
