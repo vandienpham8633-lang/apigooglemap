@@ -20798,5 +20798,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.02357,106.3068": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83053,106.7263": {
+    "display_name": "Khu phố 63, Phường Hiệp Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72309, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 63",
+      "suburb": "Phường Hiệp Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
