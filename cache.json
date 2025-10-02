@@ -21204,5 +21204,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.66785,107.0335": {
+    "display_name": "Ấp 1A, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 1A",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.831868,106.1927": {
+    "display_name": "Quốc lộ 60, Xã Tiểu Cần, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 60",
+      "county": "Xã Tiểu Cần",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
