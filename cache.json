@@ -21440,5 +21440,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.87898,105.9394": {
+    "display_name": "Xã Mễ Sở, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Mễ Sở",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87468,106.6815": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
