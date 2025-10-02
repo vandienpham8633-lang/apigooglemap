@@ -20700,5 +20700,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.27355,107.4439": {
+    "display_name": "Khu 8, Tân Phú, Xã Tân Phú, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu 8",
+      "town": "Tân Phú",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.0799,109.3011": {
+    "display_name": "Bạch Đằng, Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Bạch Đằng",
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.14548,108.7682": {
+    "display_name": "Tịnh Hà, Xã Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Tịnh Hà",
+      "county": "Xã Sơn Tịnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
