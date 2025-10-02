@@ -21904,5 +21904,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.03253,107.9764": {
+    "display_name": "Lê Văn Hưu, Phường Thống Nhất, Tỉnh Gia Lai, 60000, Việt Nam",
+    "address": {
+      "road": "Lê Văn Hưu",
+      "county": "Phường Thống Nhất",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "60000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06073,106.7579": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53644,108.4388": {
+    "display_name": "Cư Phiang, Xã Cư Pui, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Cư Phiang",
+      "county": "Xã Cư Pui",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.6506,105.7422": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.059572,105.1636": {
+    "display_name": "Đường tỉnh 988, Xã Trần Phán, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 988",
+      "county": "Xã Trần Phán",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
