@@ -21961,5 +21961,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.03245,107.9764": {
+    "display_name": "Lê Văn Hưu, Phường Thống Nhất, Tỉnh Gia Lai, 60000, Việt Nam",
+    "address": {
+      "road": "Lê Văn Hưu",
+      "county": "Phường Thống Nhất",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "60000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
