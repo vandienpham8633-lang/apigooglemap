@@ -21106,5 +21106,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.77699,109.1454": {
+    "display_name": "Đường Trung Tâm, Khu vực, Bùi Thị Xuân, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Trung Tâm",
+      "quarter": "Khu vực",
+      "suburb": "Bùi Thị Xuân",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47217,105.6362": {
+    "display_name": "54, Lê Duẩn, Mỹ Trà, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "place": "54",
+      "road": "Lê Duẩn",
+      "county": "Mỹ Trà",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
