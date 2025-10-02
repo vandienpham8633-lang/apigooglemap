@@ -20120,5 +20120,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.68792,106.1128": {
+    "display_name": "Đường tỉnh 793, Xã Tân Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 793",
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
