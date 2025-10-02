@@ -20885,5 +20885,99 @@
       "country": "Cao Miên",
       "country_code": "kh"
     }
+  },
+  "10.35322,105.7896": {
+    "display_name": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59382,107.9395": {
+    "display_name": "Đường CN 1, Khu công nghiệp Hòa Phú, Thôn 12, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 1",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 12",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02374,106.3066": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.20354,106.0031": {
+    "display_name": "Long Hồ, Xã Long Hồ, Tỉnh Vĩnh Long, 85108, Việt Nam",
+    "address": {
+      "town": "Long Hồ",
+      "county": "Xã Long Hồ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85108",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95387,107.0218": {
+    "display_name": "Đường Trảng Bom - Đồi 61, Khu công nghiệp Bàu Xéo, Tân Đạt, Xã Trảng Bom, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Trảng Bom - Đồi 61",
+      "industrial": "Khu công nghiệp Bàu Xéo",
+      "village": "Tân Đạt",
+      "county": "Xã Trảng Bom",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.723521,106.4309": {
+    "display_name": "Xã Hiệp Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hiệp Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91875,106.8812": {
+    "display_name": "Thành phố Biên Hòa, Phường Trấn Biên, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Trấn Biên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3628,104.5016": {
+    "display_name": "Rạch Vược, Phường Tô Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Rạch Vược",
+      "county": "Phường Tô Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
