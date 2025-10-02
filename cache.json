@@ -21687,5 +21687,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76847,106.7251": {
+    "display_name": "Nguyễn Cơ Thạch, Khu đô thị Sala, Khu phố 4, Phường An Khánh, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71800, Việt Nam",
+    "address": {
+      "road": "Nguyễn Cơ Thạch",
+      "residential": "Khu đô thị Sala",
+      "quarter": "Khu phố 4",
+      "suburb": "Phường An Khánh",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
