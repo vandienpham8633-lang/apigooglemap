@@ -21226,5 +21226,105 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90163,105.0807": {
+    "display_name": "Quốc lộ 91C, Xã Nhơn Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 91C",
+      "county": "Xã Nhơn Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67264,107.0362": {
+    "display_name": "Ấp 1B, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 1B",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87473,106.6816": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.52313,108.4949": {
+    "display_name": "Xã Tam Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Tam Xuân",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18286,109.1404": {
+    "display_name": "Khánh Hòa, Việt Nam",
+    "address": {
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.95207,108.3545": {
+    "display_name": "Tổ dân phố 4, Lộc Phước, Xã Krông Năng, Tỉnh Đắk Lắk, 63406, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 4",
+      "village": "Lộc Phước",
+      "county": "Xã Krông Năng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63406",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.14616,106.0496": {
+    "display_name": "Xã Tân Long Hội, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Long Hội",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87471,106.6814": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87471,106.6815": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
