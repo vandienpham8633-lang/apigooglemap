@@ -20178,5 +20178,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.957,106.7301": {
+    "display_name": "Mỹ Phước - Tân Vạn, Khu phố Bình Phú, Thuận Giao, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Mỹ Phước - Tân Vạn",
+      "quarter": "Khu phố Bình Phú",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87279,106.6819": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.97886,109.1613": {
+    "display_name": "Xã Sơn Thành, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Thành",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95616,106.7299": {
+    "display_name": "An Phú, Phường An Phú, Thành phố Hồ Chí Minh, 75256, Việt Nam",
+    "address": {
+      "suburb": "An Phú",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75256",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
