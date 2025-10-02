@@ -21326,5 +21326,73 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87469,106.6816": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03892,106.7636": {
+    "display_name": "Đường Lê Quang Định, Bình Khánh, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Lê Quang Định",
+      "quarter": "Bình Khánh",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87466,106.6815": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87465,106.6815": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.0975,108.6869": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09753,108.6869": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
