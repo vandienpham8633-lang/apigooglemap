@@ -21081,5 +21081,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.84077,106.5264": {
+    "display_name": "An Hạ, Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "road": "An Hạ",
+      "city_district": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
