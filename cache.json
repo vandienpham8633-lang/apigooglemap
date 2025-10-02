@@ -21532,5 +21532,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.19709,108.5493": {
+    "display_name": "Xã Bắc Bình, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Bắc Bình",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87469,106.6814": {
+    "display_name": "Thạnh Lộc 12, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "road": "Thạnh Lộc 12",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
