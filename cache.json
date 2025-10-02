@@ -20295,5 +20295,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.02359,106.3068": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90099,106.7168": {
+    "display_name": "Đường tỉnh 743C, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743C",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9569,106.7301": {
+    "display_name": "Mỹ Phước - Tân Vạn, Khu phố Bình Phú, Thuận Giao, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Mỹ Phước - Tân Vạn",
+      "quarter": "Khu phố Bình Phú",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
