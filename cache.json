@@ -20359,5 +20359,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06369,108.2442": {
+    "display_name": "Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9464,106.7425": {
+    "display_name": "Đường tỉnh 743A, Khu phố 3, An Phú, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743A",
+      "quarter": "Khu phố 3",
+      "suburb": "An Phú",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76162,106.7849": {
+    "display_name": "Đường Nguyễn Thị Định, Cát Lái, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Thị Định",
+      "suburb": "Cát Lái",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95689,106.7301": {
+    "display_name": "Mỹ Phước - Tân Vạn, Khu phố Bình Phú, Thuận Giao, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Mỹ Phước - Tân Vạn",
+      "quarter": "Khu phố Bình Phú",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
