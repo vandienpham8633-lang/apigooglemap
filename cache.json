@@ -20979,5 +20979,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.875829,105.2669": {
+    "display_name": "Vĩnh Hòa, Láng Sen, Xã Giồng Riềng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Vĩnh Hòa",
+      "village": "Láng Sen",
+      "county": "Xã Giồng Riềng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
