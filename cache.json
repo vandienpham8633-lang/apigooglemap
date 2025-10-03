@@ -23538,5 +23538,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.47246,106.8837": {
+    "display_name": "Tân Phú, Xã Đồng Phú, Việt Nam",
+    "address": {
+      "town": "Tân Phú",
+      "county": "Xã Đồng Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
