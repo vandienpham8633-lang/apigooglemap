@@ -23124,5 +23124,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.28164,106.8658": {
+    "display_name": "Ấp Đông Tâm, Ấp Đồng Tâm, Xã Phú Giáo, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Ấp Đông Tâm",
+      "city_district": "Xã Phú Giáo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.83754,108.0228": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7701,106.5877": {
+    "display_name": "Phường Bình Tân, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
