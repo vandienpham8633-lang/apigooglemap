@@ -21973,5 +21973,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76161,106.7851": {
+    "display_name": "Trường CĐ nghề Thủ Thiêm (cơ sở 2), 1299, Đường Nguyễn Thị Định, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "amenity": "Trường CĐ nghề Thủ Thiêm (cơ sở 2)",
+      "house_number": "1299",
+      "road": "Đường Nguyễn Thị Định",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.83433,109.1914": {
+    "display_name": "Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
