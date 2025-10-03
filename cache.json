@@ -23308,5 +23308,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.90266,108.2833": {
+    "display_name": "Phường Điện Bàn Đông, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.997172,105.5274": {
+    "display_name": "Xã Trường Xuân, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trường Xuân",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7996,106.6605": {
+    "display_name": "Hẻm 381 Hoàng Văn Thụ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Hẻm 381 Hoàng Văn Thụ",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
