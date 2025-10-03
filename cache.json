@@ -23073,5 +23073,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.703291,106.4853": {
+    "display_name": "Xã Hiệp Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hiệp Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.77498,108.793": {
+    "display_name": "Quốc lộ 27B, Tân Sơn, Xã Ninh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "town": "Tân Sơn",
+      "county": "Xã Ninh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84143,106.5919": {
+    "display_name": "Xã Bà Điểm, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87019,107.1619": {
+    "display_name": "Xã Xuân Quế, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Quế",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.70329,106.4853": {
+    "display_name": "Xã Hiệp Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hiệp Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
