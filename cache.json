@@ -22810,5 +22810,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.11067,109.2847": {
+    "display_name": "Đại lộ Nguyễn Tất Thành, Phú Vang, Phường Bình Kiến, Tỉnh Đắk Lắk, 56120, Việt Nam",
+    "address": {
+      "road": "Đại lộ Nguyễn Tất Thành",
+      "hamlet": "Phú Vang",
+      "county": "Phường Bình Kiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "56120",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
