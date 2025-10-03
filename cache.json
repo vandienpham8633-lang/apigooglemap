@@ -22112,5 +22112,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.73473,106.5845": {
+    "display_name": "Bụt Việt, Xã Hướng Phùng, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "hamlet": "Bụt Việt",
+      "town": "Xã Hướng Phùng",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
