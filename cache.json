@@ -23547,5 +23547,79 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.96924,105.7435": {
+    "display_name": "Xã Biện Thượng, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Biện Thượng",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.26057,106.3536": {
+    "display_name": "Đường tỉnh 789B, Xã Lộc Ninh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 789B",
+      "county": "Xã Lộc Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.17182,109.1254": {
+    "display_name": "Xã Suối Dầu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Suối Dầu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87099,106.7113": {
+    "display_name": "Đường Vĩnh Phú 04, Khu phố Đông, Phường Bình Hòa, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "road": "Đường Vĩnh Phú 04",
+      "quarter": "Khu phố Đông",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.962393,106.1453": {
+    "display_name": "Xã An Trường, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Trường",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.662055,106.311": {
+    "display_name": "Xã Hàm Giang, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Giang",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.56598,105.8476": {
+    "display_name": "Tháp Mười, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Tháp Mười",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
