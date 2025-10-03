@@ -22776,5 +22776,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.86857,92.26843": {
+    "display_name": "দক্ষিণ লেঙ্গুর বিল, কক্সবাজার জেলা, চট্টগ্রাম বিভাগ, 4760, Băng-la-đét",
+    "address": {
+      "village": "দক্ষিণ লেঙ্গুর বিল",
+      "state_district": "কক্সবাজার জেলা",
+      "ISO3166-2-lvl5": "BD-11",
+      "state": "চট্টগ্রাম বিভাগ",
+      "ISO3166-2-lvl4": "BD-B",
+      "postcode": "4760",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
+  },
+  "10.97513,107.9796": {
+    "display_name": "Xã Hàm Kiệm, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Kiệm",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07552,108.2448": {
+    "display_name": "Đường Đông Kinh Nghĩa Thục, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Đông Kinh Nghĩa Thục",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
