@@ -22471,5 +22471,99 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90239,106.7185": {
+    "display_name": "Đường tỉnh 743C, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743C",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06067,106.7579": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90077,106.716": {
+    "display_name": "Đồng An 1, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "quarter": "Đồng An 1",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06068,106.7578": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90079,106.7162": {
+    "display_name": "Đường tỉnh 743C, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743C",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90077,106.7162": {
+    "display_name": "Đường tỉnh 743C, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743C",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06064,106.7579": {
+    "display_name": "Đường tỉnh 747B, Khu công nghiệp Nam Tân Uyên, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 747B",
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
