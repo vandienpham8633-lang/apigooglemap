@@ -23221,5 +23221,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.12741,106.8139": {
+    "display_name": "Ba Canh-Tiến Giang, Xã Trường Phú, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Ba Canh-Tiến Giang",
+      "town": "Xã Trường Phú",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
