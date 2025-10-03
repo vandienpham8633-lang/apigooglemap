@@ -22682,5 +22682,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.08754,106.5367": {
+    "display_name": "Xã An Ngãi Trung, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Ngãi Trung",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12577,106.5897": {
+    "display_name": "Đường N5, KCN Mỹ Phước 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "KCN Mỹ Phước 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
