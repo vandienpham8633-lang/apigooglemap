@@ -23458,5 +23458,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.89,105.8": {
+    "display_name": "Thapangthong, Savannakhet, Lào",
+    "address": {
+      "county": "Thapangthong",
+      "state": "Savannakhet",
+      "ISO3166-2-lvl4": "LA-SV",
+      "country": "Lào",
+      "country_code": "la"
+    }
   }
 }
