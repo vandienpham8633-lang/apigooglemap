@@ -22076,5 +22076,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.88638,106.6238": {
+    "display_name": "Nguyễn Thị Thảnh, Xã Đông Thạnh, Thành phố Hồ Chí Minh, 71716, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Thảnh",
+      "city_district": "Xã Đông Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71716",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
