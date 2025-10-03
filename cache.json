@@ -23372,5 +23372,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.65093,105.7422": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71701,106.7018": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
