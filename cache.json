@@ -22225,5 +22225,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.05598,109.3066": {
+    "display_name": "Phú Lâm, Phường Phú Yên, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Phú Lâm",
+      "county": "Phường Phú Yên",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.36426,106.3849": {
+    "display_name": "Xã Hồng Vũ, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Hồng Vũ",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
