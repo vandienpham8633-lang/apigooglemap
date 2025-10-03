@@ -23027,5 +23027,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.90286,108.2833": {
+    "display_name": "Phường Điện Bàn Đông, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87697,108.3431": {
+    "display_name": "Hoa Hiên, 35, Trần Quang Khải, Cẩm Châu, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "Hoa Hiên",
+      "house_number": "35",
+      "road": "Trần Quang Khải",
+      "suburb": "Cẩm Châu",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.740957,105.872": {
+    "display_name": "Quốc lộ 1, Xã Hồ Đắc Kiện, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "city_district": "Xã Hồ Đắc Kiện",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27041,109.2017": {
+    "display_name": "Phường Bắc Nha Trang, Khánh Hòa, 57100, Việt Nam",
+    "address": {
+      "county": "Phường Bắc Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
