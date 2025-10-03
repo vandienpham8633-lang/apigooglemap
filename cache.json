@@ -23006,5 +23006,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.5943,108.116": {
+    "display_name": "Xã Ia Hrú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64106,105.8708": {
+    "display_name": "ĐT. 837, Xã Hậu Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT. 837",
+      "county": "Xã Hậu Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
