@@ -23621,5 +23621,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63006,106.3959": {
+    "display_name": "Thủ Thừa, Xã Thủ Thừa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Thủ Thừa",
+      "county": "Xã Thủ Thừa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90773,106.6898": {
+    "display_name": "Đường Rạch Cầu Cụt, Xã Đông Thạnh, Thành phố Hồ Chí Minh, 75214, Việt Nam",
+    "address": {
+      "road": "Đường Rạch Cầu Cụt",
+      "city_district": "Xã Đông Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75214",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.36978,108.7852": {
+    "display_name": "Bình Đông, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Đông",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.55651,106.7003": {
+    "display_name": "Xã Tân Lập, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Tân Lập",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
