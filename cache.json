@@ -23340,5 +23340,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.646423,105.3216": {
+    "display_name": "Vĩnh Minh, Xã Vĩnh Tuy, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Vĩnh Minh",
+      "county": "Xã Vĩnh Tuy",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.94101,108.2226": {
+    "display_name": "Phường Điện Bàn Bắc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Bắc",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
