@@ -23732,5 +23732,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.97316,107.6906": {
+    "display_name": "Tổ dân phố 6, Phường Đông Gia Nghĩa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 6",
+      "county": "Phường Đông Gia Nghĩa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
