@@ -22579,5 +22579,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.25697,109.1919": {
+    "display_name": "Đường Bến Chợ, Phường Nha Trang, Khánh Hòa, 57100, Việt Nam",
+    "address": {
+      "road": "Đường Bến Chợ",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25696,109.1919": {
+    "display_name": "Đường Bến Chợ, Phường Nha Trang, Khánh Hòa, 57100, Việt Nam",
+    "address": {
+      "road": "Đường Bến Chợ",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.11068,109.2847": {
+    "display_name": "Đại lộ Nguyễn Tất Thành, Phú Vang, Phường Bình Kiến, Tỉnh Đắk Lắk, 56120, Việt Nam",
+    "address": {
+      "road": "Đại lộ Nguyễn Tất Thành",
+      "hamlet": "Phú Vang",
+      "county": "Phường Bình Kiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "56120",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
