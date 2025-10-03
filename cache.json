@@ -23286,5 +23286,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.93913,106.181": {
+    "display_name": "Xã Cẩm Giàng, Thành phố Hải Phòng, 56789, Việt Nam",
+    "address": {
+      "town": "Xã Cẩm Giàng",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "postcode": "56789",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
