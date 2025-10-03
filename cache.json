@@ -23297,5 +23297,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.77867,108.7719": {
+    "display_name": "Thôn 2, Xã Ea Riêng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 2",
+      "county": "Xã Ea Riêng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
