@@ -22879,5 +22879,107 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.775,108.7929": {
+    "display_name": "Quốc lộ 27B, Tân Sơn, Xã Ninh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "town": "Tân Sơn",
+      "county": "Xã Ninh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53845,106.7346": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53856,106.7345": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.38771,106.4412": {
+    "display_name": "Xã Kiến Xương, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Kiến Xương",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.6033,109.1316": {
+    "display_name": "Ninh Sơn, Xã Bắc Ninh Hòa, Khánh Hòa, 57000, Việt Nam",
+    "address": {
+      "village": "Ninh Sơn",
+      "county": "Xã Bắc Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98603,106.9546": {
+    "display_name": "Khu công nghiệp Sông Mây, An Chu, Xã Bình Minh, Tỉnh Đồng Nai, 76000, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Sông Mây",
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02533,106.9119": {
+    "display_name": "Đường tỉnh 768, Ấp 1, Xã Tân An, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 768",
+      "village": "Ấp 1",
+      "county": "Xã Tân An",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02774,106.7621": {
+    "display_name": "Khánh Lộc, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Lộc",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.696736,106.2174": {
+    "display_name": "Xã Lưu Nghiệp Anh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lưu Nghiệp Anh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
