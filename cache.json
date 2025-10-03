@@ -22294,5 +22294,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.60327,109.1317": {
+    "display_name": "Ninh Sơn, Xã Bắc Ninh Hòa, Khánh Hòa, 57000, Việt Nam",
+    "address": {
+      "village": "Ninh Sơn",
+      "county": "Xã Bắc Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.71729,107.1411": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.762,107.9011": {
+    "display_name": "Chư Prông, Xã Chư Prông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Chư Prông",
+      "county": "Xã Chư Prông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
