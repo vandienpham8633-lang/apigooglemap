@@ -23360,5 +23360,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.30661,109.2145": {
+    "display_name": "Trần Phú, Chí Thạnh, Xã Tuy An Bắc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "town": "Chí Thạnh",
+      "county": "Xã Tuy An Bắc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
