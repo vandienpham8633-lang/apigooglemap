@@ -23194,5 +23194,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.26782,106.121": {
+    "display_name": "Nguyễn Đình Chiểu, Chợ Lách, Xã Chợ Lách, Tỉnh Vĩnh Long, 86309, Việt Nam",
+    "address": {
+      "road": "Nguyễn Đình Chiểu",
+      "town": "Chợ Lách",
+      "county": "Xã Chợ Lách",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87698,108.343": {
+    "display_name": "Hoa Hiên, 35, Trần Quang Khải, Cẩm Châu, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "Hoa Hiên",
+      "house_number": "35",
+      "road": "Trần Quang Khải",
+      "suburb": "Cẩm Châu",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
