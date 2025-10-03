@@ -23256,5 +23256,35 @@
       "country": "Myanma",
       "country_code": "mm"
     }
+  },
+  "10.37211,105.9751": {
+    "display_name": "Xã Mỹ Đức Tây, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Đức Tây",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.92735,107.6803": {
+    "display_name": "Quốc lộ 14G, Xã Đông Giang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14G",
+      "town": "Xã Đông Giang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96647,107.3133": {
+    "display_name": "Thọ An, Phường Bảo Vinh, Việt Nam",
+    "address": {
+      "village": "Thọ An",
+      "county": "Phường Bảo Vinh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
