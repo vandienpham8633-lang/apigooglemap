@@ -22123,5 +22123,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.43011,107.6266": {
+    "display_name": "Thủy Phương, Phường Thanh Thủy, Thành phố Huế, Việt Nam",
+    "address": {
+      "suburb": "Thủy Phương",
+      "city": "Phường Thanh Thủy",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.66419,104.2447": {
+    "display_name": "Xã Si Ma Cai, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "county": "Xã Si Ma Cai",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
