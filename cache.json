@@ -23426,5 +23426,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.81194,108.2181": {
+    "display_name": "Đạ R'Kôh, Xã Phú Sơn Lâm Hà, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đạ R'Kôh",
+      "county": "Xã Phú Sơn Lâm Hà",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.186198,105.2991": {
+    "display_name": "Quốc lộ 1, Xã Phong Thạnh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.997156,105.5274": {
+    "display_name": "Xã Trường Xuân, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trường Xuân",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
