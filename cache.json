@@ -22021,5 +22021,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.04472,108.0816": {
+    "display_name": "Đường cao tốc Vĩnh Hảo - Phan Thiết, Xã Hàm Liêm, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Vĩnh Hảo - Phan Thiết",
+      "county": "Xã Hàm Liêm",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
