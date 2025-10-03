@@ -23232,5 +23232,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.37207,105.975": {
+    "display_name": "Xã Mỹ Đức Tây, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Đức Tây",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.4121,96.45782": {
+    "display_name": "NH12, စေတီ, ဖြူးမြို့နယ်, တောင်ငူခရိုင်, ပဲခူးတိုင်းဒေသကြီး, 08141, Myanma",
+    "address": {
+      "road": "NH12",
+      "village": "စေတီ",
+      "municipality": "ဖြူးမြို့နယ်",
+      "county": "တောင်ငူခရိုင်",
+      "state": "ပဲခူးတိုင်းဒေသကြီး",
+      "ISO3166-2-lvl4": "MM-02",
+      "postcode": "08141",
+      "country": "Myanma",
+      "country_code": "mm"
+    }
   }
 }
