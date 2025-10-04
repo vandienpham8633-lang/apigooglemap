@@ -24165,5 +24165,77 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.29255,105.5532": {
+    "display_name": "Tích Sơn, Phường Vĩnh Yên, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "suburb": "Tích Sơn",
+      "county": "Phường Vĩnh Yên",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00728,109.215": {
+    "display_name": "Đường vào Sân Bay Cam Ranh, Phường Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường vào Sân Bay Cam Ranh",
+      "suburb": "Phường Bắc Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.10465,108.8134": {
+    "display_name": "Hồ Xuân Hương, Nghĩa Chánh, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Hồ Xuân Hương",
+      "suburb": "Nghĩa Chánh",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.10464,108.8134": {
+    "display_name": "Hồ Xuân Hương, Nghĩa Chánh, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Hồ Xuân Hương",
+      "suburb": "Nghĩa Chánh",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00721,109.215": {
+    "display_name": "Đường vào Sân Bay Cam Ranh, Phường Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường vào Sân Bay Cam Ranh",
+      "suburb": "Phường Bắc Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.10463,108.8134": {
+    "display_name": "Hồ Xuân Hương, Nghĩa Chánh, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Hồ Xuân Hương",
+      "suburb": "Nghĩa Chánh",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
