@@ -24259,5 +24259,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.93471,108.9347": {
+    "display_name": "Thôn Kiên Long, Bình Thành, Xã Bình An, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Kiên Long, Bình Thành",
+      "county": "Xã Bình An",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04743,108.2445": {
+    "display_name": "Happy Heart Cafe, 57, Đường Ngô Thì Sĩ, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, 50507, Việt Nam",
+    "address": {
+      "amenity": "Happy Heart Cafe",
+      "house_number": "57",
+      "road": "Đường Ngô Thì Sĩ",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
