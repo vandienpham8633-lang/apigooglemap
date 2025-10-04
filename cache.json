@@ -24890,5 +24890,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.05606,108.3638": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.01623,105.3999": {
+    "display_name": "Xã Minh Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Minh Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.61217,109.2048": {
+    "display_name": "Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.79152,108.015": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
