@@ -23962,5 +23962,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.77004,105.3879": {
+    "display_name": "Xã Mường Động, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Mường Động",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.93886,108.2213": {
+    "display_name": "Bồ Mừng, Phường Điện Bàn Bắc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "hamlet": "Bồ Mừng",
+      "city": "Phường Điện Bàn Bắc",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
