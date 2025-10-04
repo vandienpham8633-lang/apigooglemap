@@ -24801,5 +24801,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.60429,107.4811": {
+    "display_name": "Tỉnh lộ 4, Xã Đan Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 4",
+      "town": "Xã Đan Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
