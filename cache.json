@@ -25281,5 +25281,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.83428,109.1913": {
+    "display_name": "Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
