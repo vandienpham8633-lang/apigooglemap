@@ -23743,5 +23743,87 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.17275,105.4111": {
+    "display_name": "Bệnh viện Đa khoa khu vực Mèo Vạc, Quốc lộ 4C, Xã Mèo Vạc, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa khu vực Mèo Vạc",
+      "road": "Quốc lộ 4C",
+      "town": "Xã Mèo Vạc",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.11222,107.9666": {
+    "display_name": "Lê Lợi, Phú Hòa, Xã Chư Păh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Lê Lợi",
+      "town": "Phú Hòa",
+      "county": "Xã Chư Păh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.83805,107.5575": {
+    "display_name": "Đường A Tiêng-Dang, Tơ Viêng, Ra'bhượp 1, Xã Tây Giang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường A Tiêng-Dang",
+      "neighbourhood": "Tơ Viêng",
+      "hamlet": "Ra'bhượp 1",
+      "town": "Xã Tây Giang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54106,106.7341": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65225,106.5504": {
+    "display_name": "Quốc lộ 1, Gò Đen, Xã Bình Chánh, Mỹ Yên, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "neighbourhood": "Gò Đen",
+      "village": "Xã Bình Chánh",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.86619,105.8798": {
+    "display_name": "Xã Hồng Vân, Hà Nội, Việt Nam",
+    "address": {
+      "city_district": "Xã Hồng Vân",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.706555,104.9543": {
+    "display_name": "Xã Phan Ngọc Hiển, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phan Ngọc Hiển",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
