@@ -24700,5 +24700,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.80562,106.6354": {
+    "display_name": "Xã Lộc Hưng, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.863564,105.8937": {
+    "display_name": "Xã An Lạc Thôn, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã An Lạc Thôn",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78351,106.8175": {
+    "display_name": "Đặng Thanh Hiếu, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71350, Việt Nam",
+    "address": {
+      "road": "Đặng Thanh Hiếu",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.24194,106.6348": {
+    "display_name": "Xã Bàu Bàng, Thành phố Hồ Chí Minh, 75751, Việt Nam",
+    "address": {
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75751",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.38615,102.797": {
+    "display_name": "Đường Chu Văn An, Khu 9, Mường Tè, Xã Bum Tở, Tỉnh Lai Châu, Việt Nam",
+    "address": {
+      "road": "Đường Chu Văn An",
+      "neighbourhood": "Khu 9",
+      "town": "Mường Tè",
+      "county": "Xã Bum Tở",
+      "state": "Tỉnh Lai Châu",
+      "ISO3166-2-lvl4": "VN-01",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.13695,105.623": {
+    "display_name": "Phường Ô Môn, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Ô Môn",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92735,108.0927": {
+    "display_name": "Trưng Nhị, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Trưng Nhị",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
