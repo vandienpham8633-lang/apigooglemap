@@ -24391,5 +24391,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.89509,109.1627": {
+    "display_name": "Thôn Tân Điền, Phước Quang, Xã Tuy Phước Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tân Điền, Phước Quang",
+      "county": "Xã Tuy Phước Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09649,106.6224": {
+    "display_name": "Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09648,106.6224": {
+    "display_name": "Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
