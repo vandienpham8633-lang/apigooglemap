@@ -23895,5 +23895,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.15115,108.1127": {
+    "display_name": "Trung tâm Y tế huyện Nam Trà My, Quốc lộ 40B, Xã Nam Trà My, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Trung tâm Y tế huyện Nam Trà My",
+      "road": "Quốc lộ 40B",
+      "town": "Xã Nam Trà My",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.1705,108.6727": {
+    "display_name": "Quốc lộ 24B, Xã Ba Gia, Tỉnh Quảng Ngãi, 55000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 24B",
+      "county": "Xã Ba Gia",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "postcode": "55000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.83804,107.5575": {
+    "display_name": "Đường A Tiêng-Dang, Tơ Viêng, Ra'bhượp 1, Xã Tây Giang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường A Tiêng-Dang",
+      "neighbourhood": "Tơ Viêng",
+      "hamlet": "Ra'bhượp 1",
+      "town": "Xã Tây Giang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
