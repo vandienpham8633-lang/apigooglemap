@@ -23932,5 +23932,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.997068,105.5275": {
+    "display_name": "Đường cao tốc Châu Đốc - Cần Thơ - Sóc Trăng, Xã Trường Xuân, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Châu Đốc - Cần Thơ - Sóc Trăng",
+      "city_district": "Xã Trường Xuân",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
