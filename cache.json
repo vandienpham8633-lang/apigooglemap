@@ -23953,5 +23953,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.69907,107.0867": {
+    "display_name": "Bình Thọ, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "village": "Bình Thọ",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
