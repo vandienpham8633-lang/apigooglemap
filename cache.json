@@ -24675,5 +24675,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.059556,105.1636": {
+    "display_name": "Đường tỉnh 988, Xã Trần Phán, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 988",
+      "county": "Xã Trần Phán",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.47693,107.5835": {
+    "display_name": "Vietcombank, Mai Thúc Loan, Đông Ba, Phường Phú Xuân, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "amenity": "Vietcombank",
+      "road": "Mai Thúc Loan",
+      "quarter": "Đông Ba",
+      "city": "Phường Phú Xuân",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
