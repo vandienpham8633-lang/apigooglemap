@@ -24859,5 +24859,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.87845,109.1059": {
+    "display_name": "KV.Hòa Nghi, P.Nhơn Hòa, Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KV.Hòa Nghi, P.Nhơn Hòa",
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.32693,104.0362": {
+    "display_name": "Xã Chiềng Mung, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "county": "Xã Chiềng Mung",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
