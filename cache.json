@@ -24619,5 +24619,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.69597,107.688": {
+    "display_name": "Phường Phước Hội, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Phước Hội",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92031,108.0904": {
+    "display_name": "TH Lan Tư, 709, Trần Hưng Đạo, Phan Thiết, Phường Tiến Thành, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "shop": "TH Lan Tư",
+      "house_number": "709",
+      "road": "Trần Hưng Đạo",
+      "city": "Phan Thiết",
+      "county": "Phường Tiến Thành",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76725,106.4758": {
+    "display_name": "Khu CN Hải Sơn, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu CN Hải Sơn",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.706529,106.3411": {
+    "display_name": "Xã Long Hiệp, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Long Hiệp",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92566,108.086": {
+    "display_name": "Đường Phạm Minh Tư, Phường Bình Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường Phạm Minh Tư",
+      "county": "Phường Bình Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
