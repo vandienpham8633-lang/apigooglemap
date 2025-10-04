@@ -24122,5 +24122,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.059569,105.1636": {
+    "display_name": "Đường tỉnh 988, Xã Trần Phán, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 988",
+      "county": "Xã Trần Phán",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9585,105.1137": {
+    "display_name": "Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.29253,105.5531": {
+    "display_name": "Tích Sơn, Phường Vĩnh Yên, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "suburb": "Tích Sơn",
+      "county": "Phường Vĩnh Yên",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
