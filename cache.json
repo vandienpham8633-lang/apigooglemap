@@ -24424,5 +24424,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.84924,105.6455": {
+    "display_name": "Xã Triệu Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Triệu Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.04511,106.638": {
+    "display_name": "Khu phố 1, Phường Hòa Lợi, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01958,106.5643": {
+    "display_name": "Xã Phú Hòa Đông, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Phú Hòa Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
