@@ -23982,5 +23982,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.54736,105.3957": {
+    "display_name": "Nguyễn Huệ, Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92064,108.0824": {
+    "display_name": "Phường Tiến Thành, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Tiến Thành",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.2924,105.5529": {
+    "display_name": "Phường Vĩnh Yên, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Phường Vĩnh Yên",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
