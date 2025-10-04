@@ -24283,5 +24283,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.04613,108.2417": {
+    "display_name": "tâm, 205, Đường Châu Thị Vĩnh Tế, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, 50507, Việt Nam",
+    "address": {
+      "shop": "tâm",
+      "house_number": "205",
+      "road": "Đường Châu Thị Vĩnh Tế",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
