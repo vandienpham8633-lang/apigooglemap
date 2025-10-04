@@ -24569,5 +24569,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06346,108.2444": {
+    "display_name": "Kova Diamond, 27, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Kova Diamond",
+      "house_number": "27",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04611,108.2417": {
+    "display_name": "tâm, 205, Đường Châu Thị Vĩnh Tế, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, 50507, Việt Nam",
+    "address": {
+      "shop": "tâm",
+      "house_number": "205",
+      "road": "Đường Châu Thị Vĩnh Tế",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
