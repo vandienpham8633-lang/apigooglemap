@@ -25151,5 +25151,135 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.7839,107.2231": {
+    "display_name": "Thôn 6, Xã Bù Đăng, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Bù Đăng",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.64815,105.3891": {
+    "display_name": "Xã Đường Hồng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Đường Hồng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.37174,108.7835": {
+    "display_name": "Bình Đông, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Đông",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.76712,108.4064": {
+    "display_name": "Quốc lộ 20, Phú Thạnh, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 20",
+      "village": "Phú Thạnh",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.30585,108.9598": {
+    "display_name": "Thôn Tân Thịnh, Ân Tường Tây, Ân Tường, Xã Ân Tường, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tân Thịnh, Ân Tường Tây",
+      "village": "Ân Tường",
+      "county": "Xã Ân Tường",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93184,106.7999": {
+    "display_name": "An Hoà, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "quarter": "An Hoà",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.97666,108.9466": {
+    "display_name": "Thôn An Hội, Bình Tân, Xã Bình Hiệp, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn An Hội, Bình Tân",
+      "county": "Xã Bình Hiệp",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59333,107.9393": {
+    "display_name": "Đường CN 1, Khu công nghiệp Hòa Phú, Thôn 12, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 1",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 12",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08538,108.1524": {
+    "display_name": "108/36, Kiệt 108 Trần Đình Tri, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "108/36",
+      "road": "Kiệt 108 Trần Đình Tri",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78811,106.6862": {
+    "display_name": "Sacombank Tower, 266-268, Nam Kỳ Khởi Nghĩa, Phường Xuân Hòa, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70150, Việt Nam",
+    "address": {
+      "building": "Sacombank Tower",
+      "house_number": "266-268",
+      "road": "Nam Kỳ Khởi Nghĩa",
+      "suburb": "Phường Xuân Hòa",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.57517,109.0249": {
+    "display_name": "khu phố An Sơn, phường Tam Quan, khu phố Tuý Hạnh, Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố An Sơn, phường Tam Quan",
+      "village": "khu phố Tuý Hạnh",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
