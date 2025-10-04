@@ -24350,5 +24350,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.00418,105.5967": {
+    "display_name": "Xã Diễn Châu, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Diễn Châu",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
