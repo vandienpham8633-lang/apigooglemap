@@ -23825,5 +23825,75 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03435,106.3124": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31774,106.6263": {
+    "display_name": "Bàu Hốt, Xã Bàu Bàng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Bàu Hốt",
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.67525,108.8611": {
+    "display_name": "Quốc lộ 27, Tân Mỹ, Mỹ Sơn, Xã Mỹ Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27",
+      "hamlet": "Tân Mỹ",
+      "village": "Mỹ Sơn",
+      "county": "Xã Mỹ Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92353,108.1075": {
+    "display_name": "Tôn Đức Thắng, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Tôn Đức Thắng",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.73939,103.3486": {
+    "display_name": "Quốc lộ 6, Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 6",
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.73938,103.3486": {
+    "display_name": "Quốc lộ 6, Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 6",
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
