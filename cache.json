@@ -24466,5 +24466,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.94555,108.4975": {
+    "display_name": "Xóm Lèo, Xuân Thành, Phường Xuân Trường - Đà Lạt, Tỉnh Lâm Đồng, 66117, Việt Nam",
+    "address": {
+      "neighbourhood": "Xóm Lèo",
+      "village": "Xuân Thành",
+      "county": "Phường Xuân Trường - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
