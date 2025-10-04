@@ -25073,5 +25073,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03219,106.6299": {
+    "display_name": "Khu phố 3, Phường Phú An, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 3",
+      "city_district": "Phường Phú An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
