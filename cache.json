@@ -24455,5 +24455,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.04514,106.6379": {
+    "display_name": "Khu phố 1, Phường Hòa Lợi, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
