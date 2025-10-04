@@ -24237,5 +24237,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.29255,105.5531": {
+    "display_name": "Tích Sơn, Phường Vĩnh Yên, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "suburb": "Tích Sơn",
+      "county": "Phường Vĩnh Yên",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00725,109.2149": {
+    "display_name": "Đường vào Sân Bay Cam Ranh, Phường Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường vào Sân Bay Cam Ranh",
+      "suburb": "Phường Bắc Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
