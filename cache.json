@@ -24048,5 +24048,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.950994,105.1202": {
+    "display_name": "Đoàn Thị Điểm, Khu phố 3, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đoàn Thị Điểm",
+      "quarter": "Khu phố 3",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.876997,106.1647": {
+    "display_name": "Xã Tân An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.29239,105.553": {
+    "display_name": "Tích Sơn, Phường Vĩnh Yên, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "suburb": "Tích Sơn",
+      "county": "Phường Vĩnh Yên",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.70492,106.6031": {
+    "display_name": "Thanh Thịnh, Phường An Lộc, Việt Nam",
+    "address": {
+      "village": "Thanh Thịnh",
+      "county": "Phường An Lộc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.268655,104.8336": {
+    "display_name": "Xã Đá Bạc, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đá Bạc",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
