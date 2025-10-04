@@ -24812,5 +24812,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92736,108.0927": {
+    "display_name": "Trưng Nhị, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Trưng Nhị",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.29657,106.0945": {
+    "display_name": "Thành phố Tây Ninh, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "city": "Thành phố Tây Ninh",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.38597,102.7971": {
+    "display_name": "Đường Chu Văn An, Khu 9, Mường Tè, Xã Bum Tở, Tỉnh Lai Châu, Việt Nam",
+    "address": {
+      "road": "Đường Chu Văn An",
+      "neighbourhood": "Khu 9",
+      "town": "Mường Tè",
+      "county": "Xã Bum Tở",
+      "state": "Tỉnh Lai Châu",
+      "ISO3166-2-lvl4": "VN-01",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.68184,108.0287": {
+    "display_name": "Xã Ia Ko, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Ko",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
