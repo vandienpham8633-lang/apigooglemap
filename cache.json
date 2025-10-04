@@ -24776,5 +24776,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.10837,108.8191": {
+    "display_name": "Trần Khánh Dư, Nghĩa Chánh, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Trần Khánh Dư",
+      "suburb": "Nghĩa Chánh",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78358,106.8177": {
+    "display_name": "Đặng Thanh Hiếu, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71350, Việt Nam",
+    "address": {
+      "road": "Đặng Thanh Hiếu",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
