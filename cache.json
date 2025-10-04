@@ -24973,5 +24973,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.60123,106.3189": {
+    "display_name": "Xã Tân Tây, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tây",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
