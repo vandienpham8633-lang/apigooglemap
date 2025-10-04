@@ -25127,5 +25127,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.11897,105.6261": {
+    "display_name": "Trường THPT Lương Đình Của, Trần Hưng Đạo, Ô Môn, Phường Ô Môn, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Lương Đình Của",
+      "road": "Trần Hưng Đạo",
+      "suburb": "Ô Môn",
+      "city_district": "Phường Ô Môn",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.888,106.8599": {
+    "display_name": "Khu phố 4, Phường Long Hưng, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4",
+      "county": "Phường Long Hưng",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
