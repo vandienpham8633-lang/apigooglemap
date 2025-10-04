@@ -24995,5 +24995,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.59313,106.434": {
+    "display_name": "Xã Bố Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Bố Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
