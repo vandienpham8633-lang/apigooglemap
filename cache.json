@@ -25041,5 +25041,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.98384,105.2401": {
+    "display_name": "Xã Đường Thượng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Đường Thượng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
