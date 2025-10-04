@@ -24014,5 +24014,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.23658,106.2568": {
+    "display_name": "Đường tỉnh 784, Xã Truông Mít, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 784",
+      "county": "Xã Truông Mít",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.29231,105.5529": {
+    "display_name": "Phường Vĩnh Yên, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Phường Vĩnh Yên",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950987,105.1202": {
+    "display_name": "Đoàn Thị Điểm, Khu phố 3, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đoàn Thị Điểm",
+      "quarter": "Khu phố 3",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
