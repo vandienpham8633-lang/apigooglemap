@@ -25482,5 +25482,57 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.07729,108.2231": {
+    "display_name": "Trung tâm Hành chính TP. Đà Nẵng, Đường Lý Tự Trọng, Thanh Bình, Phường Hải Châu, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "office": "Trung tâm Hành chính TP. Đà Nẵng",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Thanh Bình",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07721,108.2231": {
+    "display_name": "Trung tâm Hành chính TP. Đà Nẵng, Đường Lý Tự Trọng, Thanh Bình, Phường Hải Châu, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "office": "Trung tâm Hành chính TP. Đà Nẵng",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Thanh Bình",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07711,108.2228": {
+    "display_name": "Trung tâm Hành chính TP. Đà Nẵng, Đường Lý Tự Trọng, Thanh Bình, Phường Hải Châu, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "office": "Trung tâm Hành chính TP. Đà Nẵng",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Thanh Bình",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07722,108.2231": {
+    "display_name": "Trung tâm Hành chính TP. Đà Nẵng, Đường Lý Tự Trọng, Thanh Bình, Phường Hải Châu, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "office": "Trung tâm Hành chính TP. Đà Nẵng",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Thanh Bình",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
