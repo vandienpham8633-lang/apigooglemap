@@ -26649,5 +26649,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.5416,106.2121": {
+    "display_name": "Đường huyện 4, Ấp 5, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường huyện 4",
+      "hamlet": "Ấp 5",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
