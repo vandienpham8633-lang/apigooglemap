@@ -25534,5 +25534,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03417,107.1649": {
+    "display_name": "Tây Kim, Xã Gia Kiệm, Việt Nam",
+    "address": {
+      "village": "Tây Kim",
+      "county": "Xã Gia Kiệm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
