@@ -26303,5 +26303,73 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.36484,108.0039": {
+    "display_name": "Phường Đăk Cấm, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Phường Đăk Cấm",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53883,106.6709": {
+    "display_name": "Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.509254,106.1426": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.89231,108.3462": {
+    "display_name": "Đường tỉnh 725, Từ Liêm 2, Thôn 2, Xã Nam Ban Lâm Hà, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 725",
+      "quarter": "Từ Liêm 2",
+      "village": "Thôn 2",
+      "county": "Xã Nam Ban Lâm Hà",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90621,106.7342": {
+    "display_name": "Đường Bình Hòa 25, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường Bình Hòa 25",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08437,108.1463": {
+    "display_name": "Phường Liên Chiểu, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
