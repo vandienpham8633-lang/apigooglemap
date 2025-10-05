@@ -25543,5 +25543,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7762,106.6827": {
+    "display_name": "Nguyễn Thượng Hiền, Phường Vườn Lài, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70001, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thượng Hiền",
+      "suburb": "Phường Vườn Lài",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70001",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71771,106.587": {
+    "display_name": "Rạch Cái Trung, Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Rạch Cái Trung",
+      "village": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929714,106.3136": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
