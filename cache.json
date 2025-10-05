@@ -25315,5 +25315,140 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.20433,105.3689": {
+    "display_name": "Xã Thạnh Quới, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Thạnh Quới",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.80041,105.2887": {
+    "display_name": "Xã Tam Đồng, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Tam Đồng",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.72895,103.3429": {
+    "display_name": "Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.71223,107.2651": {
+    "display_name": "thôn 1, Xã Diên Sanh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "thôn 1",
+      "town": "Xã Diên Sanh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.04258,106.2207": {
+    "display_name": "Xã Phước Chỉ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Phước Chỉ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25459,104.9753": {
+    "display_name": "Hòa Thuận, Xã Hòn Đất, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa Thuận",
+      "county": "Xã Hòn Đất",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74993,105.1317": {
+    "display_name": "Đa Phước, Xã Vĩnh Hậu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Đa Phước",
+      "county": "Xã Vĩnh Hậu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.76167,105.8459": {
+    "display_name": "Quảng Tâm, Phường Quảng Phú, Tỉnh Thanh Hóa, 43000, Việt Nam",
+    "address": {
+      "suburb": "Quảng Tâm",
+      "city": "Phường Quảng Phú",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "postcode": "43000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.0961,105.9821": {
+    "display_name": "Xóm Tờ, Xã Đại Đồng, Tỉnh Bắc Ninh, 16300, Việt Nam",
+    "address": {
+      "neighbourhood": "Xóm Tờ",
+      "village": "Xã Đại Đồng",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "postcode": "16300",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82922,106.7643": {
+    "display_name": "Hẻm 233, Phường Phước Long, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71211, Việt Nam",
+    "address": {
+      "road": "Hẻm 233",
+      "suburb": "Phường Phước Long",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71211",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.1831,106.2465": {
+    "display_name": "Xã Minh Thái, Tỉnh Ninh Bình, 07618, Việt Nam",
+    "address": {
+      "town": "Xã Minh Thái",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "postcode": "07618",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35722,106.3669": {
+    "display_name": "ATM BIDV, Lê Văn Duyệt, Mỹ Tho, Phường Mỹ Tho, Tỉnh Đồng Tháp, 86000, Việt Nam",
+    "address": {
+      "amenity": "ATM BIDV",
+      "road": "Lê Văn Duyệt",
+      "quarter": "Mỹ Tho",
+      "city": "Mỹ Tho",
+      "county": "Phường Mỹ Tho",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "86000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
