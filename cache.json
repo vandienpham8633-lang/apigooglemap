@@ -26291,5 +26291,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.82441,108.2393": {
+    "display_name": "Quốc lộ 14H, Xã Duy Xuyên, Thành phố Đà Nẵng, 51506, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14H",
+      "town": "Xã Duy Xuyên",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
