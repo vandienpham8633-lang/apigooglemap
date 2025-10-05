@@ -26101,5 +26101,65 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.35688,105.4173": {
+    "display_name": "Phường Long Xuyên, Tỉnh An Giang, 02963, Việt Nam",
+    "address": {
+      "municipality": "Phường Long Xuyên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "02963",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.87242,109.0409": {
+    "display_name": "Đướng Tân Lập 2, Thôn Tân Lập, Nhơn Lộc, Xã An Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng Tân Lập 2",
+      "hamlet": "Thôn Tân Lập, Nhơn Lộc",
+      "county": "Xã An Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.68217,103.4195": {
+    "display_name": "Xã Tuần Giáo, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Tuần Giáo",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96366,106.6671": {
+    "display_name": "My Nguyen, Đ447/36 , Ba Mươi Tháng Tư, Chánh Nghĩa 9, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, 75107, Việt Nam",
+    "address": {
+      "shop": "My Nguyen",
+      "house_number": "Đ447/36 ",
+      "road": "Ba Mươi Tháng Tư",
+      "quarter": "Chánh Nghĩa 9",
+      "city_district": "Phường Thủ Dầu Một",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.90234,108.32": {
+    "display_name": "Nguyễn Chí Thanh, Thanh Hà, Phường Hội An Tây, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "road": "Nguyễn Chí Thanh",
+      "suburb": "Thanh Hà",
+      "city": "Phường Hội An Tây",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
