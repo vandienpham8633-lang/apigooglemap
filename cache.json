@@ -26249,5 +26249,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.87998,108.329": {
+    "display_name": "Agribank, 12, Trần Hưng Đạo, Phố cổ Hội An, Cẩm Phô, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "Agribank",
+      "house_number": "12",
+      "road": "Trần Hưng Đạo",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Cẩm Phô",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9099,106.8259": {
+    "display_name": "Tân Vạn 3, Phường Biên Hòa, Tỉnh Đồng Nai, 76100, Việt Nam",
+    "address": {
+      "quarter": "Tân Vạn 3",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
