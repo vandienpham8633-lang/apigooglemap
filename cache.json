@@ -26778,5 +26778,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97636,107.6294": {
+    "display_name": "Xã Ia Krái, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Krái",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.73478,103.3454": {
+    "display_name": "Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.92305,106.6818": {
+    "display_name": "Phố Bồ Đề, Trại, Phường Thủy Nguyên, Thành phố Hải Phòng, 04340, Việt Nam",
+    "address": {
+      "road": "Phố Bồ Đề",
+      "quarter": "Trại",
+      "city": "Phường Thủy Nguyên",
+      "ISO3166-2-lvl4": "VN-HP",
+      "postcode": "04340",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.508957,106.1424": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.2395,106.1909": {
+    "display_name": "Quốc lộ 3B, Yến Lạc, Xã Na Rì, Tỉnh Thái Nguyên, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 3B",
+      "town": "Yến Lạc",
+      "state": "Tỉnh Thái Nguyên",
+      "ISO3166-2-lvl4": "VN-69",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.05982,108.7792": {
+    "display_name": "Chợ Chùa, Xã Nghĩa Hành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Chợ Chùa",
+      "county": "Xã Nghĩa Hành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.53401,109.0159": {
+    "display_name": "KP.Tấn Thạnh 1, P.Hoài Hảo, Phường Hoài Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Tấn Thạnh 1, P.Hoài Hảo",
+      "county": "Phường Hoài Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
