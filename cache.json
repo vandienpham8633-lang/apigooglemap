@@ -26371,5 +26371,57 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.308928,105.4545": {
+    "display_name": "Phường Láng Tròn, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường Láng Tròn",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88013,108.3184": {
+    "display_name": "Nine Coffee & Home Cooked, 112, Đường Hùng Vương, Thanh Hà, Phường Hội An, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "amenity": "Nine Coffee & Home Cooked",
+      "house_number": "112",
+      "road": "Đường Hùng Vương",
+      "suburb": "Thanh Hà",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88013,108.3185": {
+    "display_name": "Nine Coffee & Home Cooked, 112, Đường Hùng Vương, Thanh Hà, Phường Hội An, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "amenity": "Nine Coffee & Home Cooked",
+      "house_number": "112",
+      "road": "Đường Hùng Vương",
+      "suburb": "Thanh Hà",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88012,108.3184": {
+    "display_name": "Nine Coffee & Home Cooked, 112, Đường Hùng Vương, Thanh Hà, Phường Hội An, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "amenity": "Nine Coffee & Home Cooked",
+      "house_number": "112",
+      "road": "Đường Hùng Vương",
+      "suburb": "Thanh Hà",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
