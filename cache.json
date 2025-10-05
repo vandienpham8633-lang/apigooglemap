@@ -25719,5 +25719,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.01843,108.5299": {
+    "display_name": "Xã Sơn Linh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Linh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
