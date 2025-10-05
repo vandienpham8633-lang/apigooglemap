@@ -26540,5 +26540,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.07886,108.1451": {
+    "display_name": "Đường Số 6, Khu công nghiệp Hòa Khánh, Phường Liên Chiểu, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Số 6",
+      "industrial": "Khu công nghiệp Hòa Khánh",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.24392,105.567": {
+    "display_name": "Trung Nguyên, Xã Tề Lỗ, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "hamlet": "Trung Nguyên",
+      "county": "Xã Tề Lỗ",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.509132,106.1424": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.32292,105.5612": {
+    "display_name": "An Lợi A, Xã Lai Vung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "hamlet": "An Lợi A",
+      "town": "Xã Lai Vung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.672133,106.303": {
+    "display_name": "Xã Hàm Giang, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Giang",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.84495,105.8405": {
+    "display_name": "Ngõ 22 Đường Bút Sơn 29 Phú Vinh Nam, Bút Sơn, Xã Hoằng Hóa, Tỉnh Thanh Hóa, 43000, Việt Nam",
+    "address": {
+      "road": "Ngõ 22 Đường Bút Sơn 29 Phú Vinh Nam",
+      "town": "Bút Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "postcode": "43000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
