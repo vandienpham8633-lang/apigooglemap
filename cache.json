@@ -25836,5 +25836,106 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.40611,106.9958": {
+    "display_name": "Xã Tà Rụt, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Tà Rụt",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65402,106.5092": {
+    "display_name": "Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.40751,107.6671": {
+    "display_name": "Phường Phú Bài, Thành phố Huế, 52000, Việt Nam",
+    "address": {
+      "city": "Phường Phú Bài",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "52000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.66064,105.8161": {
+    "display_name": "Xã Hòa Xá, Hà Nội, Việt Nam",
+    "address": {
+      "city_district": "Xã Hòa Xá",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.34103,105.3508": {
+    "display_name": "Nà Vai, Xã Nà Hang, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "village": "Nà Vai",
+      "town": "Xã Nà Hang",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.76549,109.2977": {
+    "display_name": "Xã Tu Bông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tu Bông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96551,106.7132": {
+    "display_name": "Đường D8, Bình Thuận 2, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Đường D8",
+      "quarter": "Bình Thuận 2",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.2359,106.6242": {
+    "display_name": "Đường D3, Khu công nghiệp Bàu Bàng, Xã Bàu Bàng, Thành phố Hồ Chí Minh, 75751, Việt Nam",
+    "address": {
+      "road": "Đường D3",
+      "industrial": "Khu công nghiệp Bàu Bàng",
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75751",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.45048,106.9776": {
+    "display_name": "Xã Thái Bình, Tỉnh Lạng Sơn, Việt Nam",
+    "address": {
+      "county": "Xã Thái Bình",
+      "state": "Tỉnh Lạng Sơn",
+      "ISO3166-2-lvl4": "VN-09",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
