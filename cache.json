@@ -26735,5 +26735,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.72328,104.5883": {
+    "display_name": "Xã Pờ Ly Ngài, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Pờ Ly Ngài",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.0537,105.7169": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
