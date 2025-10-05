@@ -26767,5 +26767,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.82969,107.7356": {
+    "display_name": "Quốc lộ 55, Xã Tân Lập, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 55",
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
