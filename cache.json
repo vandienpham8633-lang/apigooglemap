@@ -25729,5 +25729,88 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.23592,106.6241": {
+    "display_name": "Đường D3, Khu công nghiệp Bàu Bàng, Xã Bàu Bàng, Thành phố Hồ Chí Minh, 75751, Việt Nam",
+    "address": {
+      "road": "Đường D3",
+      "industrial": "Khu công nghiệp Bàu Bàng",
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75751",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.24127,107.2645": {
+    "display_name": "Quốc lộ 14, Quảng Lộc, Sơn Thuỷ, Xã A Lưới 3, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "neighbourhood": "Quảng Lộc",
+      "village": "Sơn Thuỷ",
+      "town": "Xã A Lưới 3",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.36927,108.7848": {
+    "display_name": "Bình Đông, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Đông",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.61741,107.3154": {
+    "display_name": "Văn Phong, Xã Nam Hải Lăng, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Văn Phong",
+      "town": "Xã Nam Hải Lăng",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53227,107.8591": {
+    "display_name": "Trần Phú, Kim Thanh, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "village": "Kim Thanh",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94876,108.102": {
+    "display_name": "Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.24126,107.2645": {
+    "display_name": "Quốc lộ 14, Quảng Lộc, Sơn Thuỷ, Xã A Lưới 3, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "neighbourhood": "Quảng Lộc",
+      "village": "Sơn Thuỷ",
+      "town": "Xã A Lưới 3",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
