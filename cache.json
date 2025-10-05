@@ -26041,5 +26041,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.87249,109.0409": {
+    "display_name": "Đướng Tân Lập 2, Thôn Tân Lập, Nhơn Lộc, Xã An Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng Tân Lập 2",
+      "hamlet": "Thôn Tân Lập, Nhơn Lộc",
+      "county": "Xã An Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.87245,109.0409": {
+    "display_name": "Đướng Tân Lập 2, Thôn Tân Lập, Nhơn Lộc, Xã An Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng Tân Lập 2",
+      "hamlet": "Thôn Tân Lập, Nhơn Lộc",
+      "county": "Xã An Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.87246,109.0408": {
+    "display_name": "Đướng Tân Lập 2, Thôn Tân Lập, Nhơn Lộc, Xã An Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng Tân Lập 2",
+      "hamlet": "Thôn Tân Lập, Nhơn Lộc",
+      "county": "Xã An Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
