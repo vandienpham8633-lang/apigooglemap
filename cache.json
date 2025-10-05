@@ -26183,5 +26183,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.96756,108.5439": {
+    "display_name": "Đak Pơ, Xã Đak Pơ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Đak Pơ",
+      "county": "Xã Đak Pơ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.9844,108.0564": {
+    "display_name": "Phường An Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường An Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
