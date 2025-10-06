@@ -27160,5 +27160,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.354377,105.0846": {
+    "display_name": "Thới Bình, Xã Thới Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Thới Bình",
+      "county": "Xã Thới Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.26962,109.2018": {
+    "display_name": "Trường Đại học Nha Trang, 02, Nguyễn Đình Chiểu, Phường Bắc Nha Trang, Khánh Hòa, 57100, Việt Nam",
+    "address": {
+      "amenity": "Trường Đại học Nha Trang",
+      "house_number": "02",
+      "road": "Nguyễn Đình Chiểu",
+      "county": "Phường Bắc Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.21214,106.2608": {
+    "display_name": "Xã Hải Anh, Tỉnh Ninh Bình, 07618, Việt Nam",
+    "address": {
+      "town": "Xã Hải Anh",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "postcode": "07618",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.81469,108.4373": {
+    "display_name": "Đarahoa, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đarahoa",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
