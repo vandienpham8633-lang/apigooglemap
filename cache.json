@@ -27825,5 +27825,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.69499,104.7852": {
+    "display_name": "Nà Hiềng, Xã Xuân Nha, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "village": "Nà Hiềng",
+      "county": "Xã Xuân Nha",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.11438,106.5334": {
+    "display_name": "Đường tỉnh 744, An Thành, Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 744",
+      "quarter": "An Thành",
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.509045,106.1424": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.18984,103.4718": {
+    "display_name": "Xã Pu Sam Cáp, Tỉnh Lai Châu, Việt Nam",
+    "address": {
+      "county": "Xã Pu Sam Cáp",
+      "state": "Tỉnh Lai Châu",
+      "ISO3166-2-lvl4": "VN-01",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.524,108.9942": {
+    "display_name": "Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.509048,106.1424": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.509024,106.1424": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
