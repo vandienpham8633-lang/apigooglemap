@@ -27690,5 +27690,64 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79604,105.2355": {
+    "display_name": "Tân Châu, Phường Long Phú, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Tân Châu",
+      "county": "Phường Long Phú",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.90304,108.2834": {
+    "display_name": "Phường Điện Bàn Đông, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.35667,109.2694": {
+    "display_name": "Phú Hội, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Hội",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78794,109.1483": {
+    "display_name": "Quốc lộ 1, Khu vực, Trần Quang Diệu, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "quarter": "Khu vực",
+      "suburb": "Trần Quang Diệu",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82901,108.843": {
+    "display_name": "Quốc lộ 27B, Trà Co 1, Phước Thắng, Xã Bác Ái, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "hamlet": "Trà Co 1",
+      "village": "Phước Thắng",
+      "county": "Xã Bác Ái",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
