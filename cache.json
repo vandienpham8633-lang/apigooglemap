@@ -28024,5 +28024,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.55442,107.8132": {
+    "display_name": "Bùi Thị Xuân, Bảo Lộc, Phường 1 Bảo Lộc, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Bùi Thị Xuân",
+      "city": "Bảo Lộc",
+      "county": "Phường 1 Bảo Lộc",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.21479,105.1808": {
+    "display_name": "Sủa Pả, Phố Cáo, Xã Phố Bảng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "hamlet": "Sủa Pả",
+      "village": "Phố Cáo",
+      "town": "Xã Phố Bảng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
