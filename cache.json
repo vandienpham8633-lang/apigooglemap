@@ -27055,5 +27055,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.27149,106.3143": {
+    "display_name": "Xã Phú Túc, Tỉnh Vĩnh Long, 93000, Việt Nam",
+    "address": {
+      "county": "Xã Phú Túc",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "93000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
