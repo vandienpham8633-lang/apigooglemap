@@ -27942,5 +27942,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.74284,108.1945": {
+    "display_name": "Tân Trung, Xã Tân Hà Lâm Hà, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Tân Trung",
+      "county": "Xã Tân Hà Lâm Hà",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
