@@ -27805,5 +27805,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03833,106.7155": {
+    "display_name": "Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.61787,105.8055": {
+    "display_name": "Xã Hòa Xá, Hà Nội, Việt Nam",
+    "address": {
+      "city_district": "Xã Hòa Xá",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
