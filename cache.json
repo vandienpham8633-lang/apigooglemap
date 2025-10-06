@@ -27492,5 +27492,24 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94563,107.0403": {
+    "display_name": "An Hoà, Xã Hưng Thịnh, Việt Nam",
+    "address": {
+      "village": "An Hoà",
+      "county": "Xã Hưng Thịnh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.68638,105.6951": {
+    "display_name": "Phường Trường Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Trường Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
