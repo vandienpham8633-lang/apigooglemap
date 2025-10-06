@@ -28100,5 +28100,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.2444,105.5778": {
+    "display_name": "Phước Lộc, Phường Tân Lộc, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "quarter": "Phước Lộc",
+      "city_district": "Phường Tân Lộc",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84192,105.955": {
+    "display_name": "Xã Bình Hiệp, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Bình Hiệp",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.735305,106.368": {
+    "display_name": "Xã Nhị Trường, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhị Trường",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.09031,108.2972": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
