@@ -27126,5 +27126,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.21877,105.4076": {
+    "display_name": "Xóm Trại Lai, Xã Vật Lại, Hà Nội, Việt Nam",
+    "address": {
+      "hamlet": "Xóm Trại Lai",
+      "city_district": "Xã Vật Lại",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.31906,108.7399": {
+    "display_name": "Châu Ổ, Xã Bình Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Châu Ổ",
+      "county": "Xã Bình Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
