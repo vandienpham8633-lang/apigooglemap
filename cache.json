@@ -28221,5 +28221,74 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89127,105.7887": {
+    "display_name": "Nguyễn Thái Bình, Vĩnh Hưng, Xã Vĩnh Hưng, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thái Bình",
+      "town": "Vĩnh Hưng",
+      "county": "Xã Vĩnh Hưng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.09039,108.2972": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8934,106.7864": {
+    "display_name": "Đường Nguyễn Hữu Cảnh, Tây B, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Hữu Cảnh",
+      "quarter": "Tây B",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98351,107.0288": {
+    "display_name": "Đường Trảng Bom, Ấp 2, Xã Trảng Bom, Tỉnh Đồng Nai, 76000, Việt Nam",
+    "address": {
+      "road": "Đường Trảng Bom",
+      "village": "Ấp 2",
+      "county": "Xã Trảng Bom",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0512,108.1579": {
+    "display_name": "Hòa Khánh Nam, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "quarter": "Hòa Khánh Nam",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.14352,105.5889": {
+    "display_name": "Xã Quỳnh Sơn, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Quỳnh Sơn",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
