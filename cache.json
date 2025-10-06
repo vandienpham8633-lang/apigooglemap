@@ -27922,5 +27922,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.44941,106.0316": {
+    "display_name": "Xã Trà Vong, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Trà Vong",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92783,108.0351": {
+    "display_name": "Xã Tuyên Quang, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tuyên Quang",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
