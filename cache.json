@@ -27568,5 +27568,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.901,106.7168": {
+    "display_name": "Đường tỉnh 743C, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743C",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.47058,109.289": {
+    "display_name": "Nhà máy Nhiệt điện Vân Phong, Phường Đông Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "industrial": "Nhà máy Nhiệt điện Vân Phong",
+      "county": "Phường Đông Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
