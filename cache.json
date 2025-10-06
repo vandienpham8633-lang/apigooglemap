@@ -27901,5 +27901,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.509121,106.1424": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.44463,108.5766": {
+    "display_name": "Xã Tam Anh, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Tam Anh",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
