@@ -27360,5 +27360,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.25668,103.6072": {
+    "display_name": "Đường tỉnh 113, Xã Nậm Ty, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 113",
+      "county": "Xã Nậm Ty",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52409,108.9942": {
+    "display_name": "Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90081,106.7168": {
+    "display_name": "Đường tỉnh 743C, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743C",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.68641,105.6951": {
+    "display_name": "Phường Trường Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Trường Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
