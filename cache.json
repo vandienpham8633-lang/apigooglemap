@@ -28346,5 +28346,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.79567,109.206": {
+    "display_name": "Lâm Văn Tương, Khu vực, Nhơn Bình, Phường Quy Nhơn Đông, Tỉnh Gia Lai, 55111, Việt Nam",
+    "address": {
+      "road": "Lâm Văn Tương",
+      "quarter": "Khu vực",
+      "suburb": "Nhơn Bình",
+      "county": "Phường Quy Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.99198,108.7926": {
+    "display_name": "Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
