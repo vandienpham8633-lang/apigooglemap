@@ -26854,5 +26854,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.48006,107.684": {
+    "display_name": "10A, Xã Phú Hồ, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "10A",
+      "town": "Xã Phú Hồ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53636,106.7328": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.48007,107.684": {
+    "display_name": "10A, Xã Phú Hồ, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "10A",
+      "town": "Xã Phú Hồ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
