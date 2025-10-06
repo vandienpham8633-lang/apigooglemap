@@ -28141,5 +28141,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94381,106.7458": {
+    "display_name": "Trần Quang Diệu, Khu phố 2, An Phú, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Trần Quang Diệu",
+      "quarter": "Khu phố 2",
+      "suburb": "An Phú",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82314,105.529": {
+    "display_name": "ĐT. 842, Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 842",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.42382,105.255": {
+    "display_name": "TL 320, Phú Hộ, Phường Phong Châu, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "road": "TL 320",
+      "village": "Phú Hộ",
+      "county": "Phường Phong Châu",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
