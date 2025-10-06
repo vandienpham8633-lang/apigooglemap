@@ -27148,5 +27148,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.22031,105.247": {
+    "display_name": "Xã Thạnh An, Thành phố Cần Thơ, Xã Thoại Sơn, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "city_district": "Xã Thạnh An",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-44",
+      "county": "Xã Thoại Sơn",
+      "state": "Tỉnh An Giang",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
