@@ -27405,5 +27405,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.67832,109.0761": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9009,106.7166": {
+    "display_name": "Đường tỉnh 743C, Đồng An 3, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743C",
+      "quarter": "Đồng An 3",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.52018,107.5414": {
+    "display_name": "Phường Kim Trà, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Kim Trà",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.68646,105.695": {
+    "display_name": "Nguyễn Sỹ Sách, Phường Vinh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Nguyễn Sỹ Sách",
+      "city": "Phường Vinh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.15462,106.5648": {
+    "display_name": "Xã Mỹ Chánh Hòa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Chánh Hòa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
