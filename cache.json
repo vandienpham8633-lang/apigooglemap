@@ -27116,5 +27116,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.54496,107.5108": {
+    "display_name": "Xã Đan Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Đan Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
