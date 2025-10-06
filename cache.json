@@ -27534,5 +27534,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.68639,105.695": {
+    "display_name": "Nguyễn Sỹ Sách, Phường Vinh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Nguyễn Sỹ Sách",
+      "city": "Phường Vinh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.69472,106.5133": {
+    "display_name": "DT 238B, Bằng Mạc, Xã Bằng Mạc, Tỉnh Lạng Sơn, Việt Nam",
+    "address": {
+      "road": "DT 238B, Bằng Mạc",
+      "county": "Xã Bằng Mạc",
+      "state": "Tỉnh Lạng Sơn",
+      "ISO3166-2-lvl4": "VN-09",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53409,107.3843": {
+    "display_name": "Tân Trang, Xã Hồ Tràm, Thành phố Hồ Chí Minh, 78500, Việt Nam",
+    "address": {
+      "neighbourhood": "Tân Trang",
+      "city_district": "Xã Hồ Tràm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
