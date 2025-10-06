@@ -27987,5 +27987,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.67677,108.0484": {
+    "display_name": "Hẻm 8 Nguyễn Công Trứ, Tổ dân phố 12, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63107, Việt Nam",
+    "address": {
+      "road": "Hẻm 8 Nguyễn Công Trứ",
+      "suburb": "Tổ dân phố 12",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
