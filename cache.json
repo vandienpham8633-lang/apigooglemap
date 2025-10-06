@@ -27593,5 +27593,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.83891,106.6623": {
+    "display_name": "Hẻm 102 Lê Văn Thọ, Phường Thông Tây Hội, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "road": "Hẻm 102 Lê Văn Thọ",
+      "suburb": "Phường Thông Tây Hội",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97697,107.1484": {
+    "display_name": "Quốc lộ 20, Bắc Sơn, Xã Gia Kiệm, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 20",
+      "village": "Bắc Sơn",
+      "county": "Xã Gia Kiệm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88373,106.7544": {
+    "display_name": "Đường số 2, Khu công nghiệp Sóng Thần, Bình Đường 4, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường số 2",
+      "industrial": "Khu công nghiệp Sóng Thần",
+      "quarter": "Bình Đường 4",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.47047,109.289": {
+    "display_name": "Nhà máy Nhiệt điện Vân Phong, Phường Đông Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "industrial": "Nhà máy Nhiệt điện Vân Phong",
+      "county": "Phường Đông Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
