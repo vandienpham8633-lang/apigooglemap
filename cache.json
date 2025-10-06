@@ -27309,5 +27309,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.77141,109.2359": {
+    "display_name": "Trần Bình Trọng, Khu vực, Thị Nại, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Trần Bình Trọng",
+      "quarter": "Khu vực",
+      "suburb": "Thị Nại",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87832,108.3285": {
+    "display_name": "Chops Restaurant, Phan Châu Trinh, Phố cổ Hội An, Minh An, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "Chops Restaurant",
+      "road": "Phan Châu Trinh",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Minh An",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.68649,105.6951": {
+    "display_name": "Nguyễn Sỹ Sách, Phường Vinh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Nguyễn Sỹ Sách",
+      "city": "Phường Vinh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
