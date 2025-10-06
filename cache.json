@@ -27033,5 +27033,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.289327,105.3696": {
+    "display_name": "Phường Giá Rai, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường Giá Rai",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.05322,108.1558": {
+    "display_name": "Đường Hoàng Văn Thái, Hòa Khánh Nam, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Hoàng Văn Thái",
+      "quarter": "Hòa Khánh Nam",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
