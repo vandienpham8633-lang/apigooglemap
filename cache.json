@@ -27103,5 +27103,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.43993,107.2897": {
+    "display_name": "Trường THPT Dương Bạch Mai, Võ Thị Sáu, Tân Hội, Xã Phước Hải, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Dương Bạch Mai",
+      "road": "Võ Thị Sáu",
+      "neighbourhood": "Tân Hội",
+      "town": "Xã Phước Hải",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
