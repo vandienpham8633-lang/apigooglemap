@@ -27264,5 +27264,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.2462,109.1": {
+    "display_name": "Quốc lộ 1, Diên Khánh, Xã Diên Khánh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Diên Khánh",
+      "county": "Xã Diên Khánh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.68643,105.6949": {
+    "display_name": "Nguyễn Sỹ Sách, Phường Vinh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Nguyễn Sỹ Sách",
+      "city": "Phường Vinh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.5316,107.3824": {
+    "display_name": "Xã Hồ Tràm, Thành phố Hồ Chí Minh, 78500, Việt Nam",
+    "address": {
+      "city_district": "Xã Hồ Tràm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
