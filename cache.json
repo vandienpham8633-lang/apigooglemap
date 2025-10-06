@@ -28058,5 +28058,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.79212,108.1156": {
+    "display_name": "Cư H'Lâm, An Bình, Xã Quảng Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Cư H'Lâm",
+      "village": "An Bình",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.09037,108.2972": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.735296,106.368": {
+    "display_name": "Xã Nhị Trường, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhị Trường",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.48991,105.9089": {
+    "display_name": "Xã Phước Vinh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Phước Vinh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
