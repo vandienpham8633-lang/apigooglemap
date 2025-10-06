@@ -26987,5 +26987,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.23986,106.0588": {
+    "display_name": "ĐT. 902, Xã Nhơn Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 902",
+      "county": "Xã Nhơn Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.23988,106.0587": {
+    "display_name": "ĐT. 902, Xã Nhơn Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 902",
+      "county": "Xã Nhơn Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
