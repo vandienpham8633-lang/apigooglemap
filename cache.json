@@ -27976,5 +27976,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.14302,106.3006": {
+    "display_name": "Quốc lộ 57, Xã Tân Thành Bình, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 57",
+      "county": "Xã Tân Thành Bình",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
