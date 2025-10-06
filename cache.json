@@ -27066,5 +27066,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.77139,109.2358": {
+    "display_name": "Trần Bình Trọng, Khu vực, Thị Nại, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Trần Bình Trọng",
+      "quarter": "Khu vực",
+      "suburb": "Thị Nại",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
