@@ -26887,5 +26887,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.05364,108.2038": {
+    "display_name": "Đường Duy Tân, Phường Hòa Cường, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Duy Tân",
+      "city": "Phường Hòa Cường",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.05376,108.2038": {
+    "display_name": "Đường Duy Tân, Phường Hòa Cường, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Duy Tân",
+      "city": "Phường Hòa Cường",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
