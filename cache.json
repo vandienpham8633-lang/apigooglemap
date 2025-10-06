@@ -27218,5 +27218,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.5747,107.8378": {
+    "display_name": "Hoàng Diệu, Bảo Lộc, Phường 1 Bảo Lộc, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Hoàng Diệu",
+      "city": "Bảo Lộc",
+      "county": "Phường 1 Bảo Lộc",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.26428,108.5383": {
+    "display_name": "Trà Xuân, Xã Trà Bồng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Trà Xuân",
+      "county": "Xã Trà Bồng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
