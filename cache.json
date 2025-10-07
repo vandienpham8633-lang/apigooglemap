@@ -28467,5 +28467,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.5803,105.9714": {
+    "display_name": "Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Biên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.47997,107.684": {
+    "display_name": "10A, Xã Phú Hồ, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "10A",
+      "town": "Xã Phú Hồ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80635,106.9127": {
+    "display_name": "Khu công nghiệp Long Thành, Ấp 3, Xã An Phước, Tỉnh Đồng Nai, 76009, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Long Thành",
+      "village": "Ấp 3",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81598,106.6152": {
+    "display_name": "Đường CN10, Khu công nghiệp Tân Bình, Tây Thạnh, Phường Tây Thạnh, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Đường CN10",
+      "industrial": "Khu công nghiệp Tân Bình",
+      "suburb": "Tây Thạnh",
+      "city_district": "Phường Tây Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
