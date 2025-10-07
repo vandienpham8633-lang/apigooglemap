@@ -28933,5 +28933,70 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06242,108.2339": {
+    "display_name": "Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3407,105.4692": {
+    "display_name": "Phường Mỹ Thới, Tỉnh An Giang, 02963, Việt Nam",
+    "address": {
+      "county": "Phường Mỹ Thới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "02963",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.94971,108.5075": {
+    "display_name": "Xuân Thành, Phường Xuân Trường - Đà Lạt, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Xuân Thành",
+      "village": "Xuân Thành",
+      "county": "Phường Xuân Trường - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.66114,109.1696": {
+    "display_name": "Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79707,106.6157": {
+    "display_name": "Hẻm 549 Tân Kỳ Tân Quý, Tân Sơn Nhì, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 549 Tân Kỳ Tân Quý",
+      "suburb": "Tân Sơn Nhì",
+      "city": "Phường Tân Sơn Nhì",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06244,108.2338": {
+    "display_name": "Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
