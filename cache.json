@@ -28659,5 +28659,43 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.38638,106.2344": {
+    "display_name": "Bệnh viện huyện Dương Minh Châu, Đường Nguyễn Chí Thanh, Dương Minh Châu, Xã Dương Minh Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện huyện Dương Minh Châu",
+      "road": "Đường Nguyễn Chí Thanh",
+      "town": "Dương Minh Châu",
+      "county": "Xã Dương Minh Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.2371,106.0958": {
+    "display_name": "Phường Nếnh, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "suburb": "Phường Nếnh",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63305,106.5167": {
+    "display_name": "Quốc lộ 1, Gò Đen, Xã Bình Chánh, Mỹ Yên, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "neighbourhood": "Gò Đen",
+      "village": "Xã Bình Chánh",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
