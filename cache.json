@@ -29022,5 +29022,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.99166,109.0602": {
+    "display_name": "KP.An Hoà, TT.Ngô Mây, Thôn Phong An, Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.An Hoà, TT.Ngô Mây",
+      "hamlet": "Thôn Phong An",
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06241,108.2337": {
+    "display_name": "Lý Nam Đế, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Lý Nam Đế",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06243,108.2338": {
+    "display_name": "Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79705,106.6157": {
+    "display_name": "Hẻm 549 Tân Kỳ Tân Quý, Tân Sơn Nhì, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 549 Tân Kỳ Tân Quý",
+      "suburb": "Tân Sơn Nhì",
+      "city": "Phường Tân Sơn Nhì",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
