@@ -29407,5 +29407,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.89798,109.1675": {
+    "display_name": "Đướng tỉnh 636B, Thôn Định Thiện Tây, Phước Quang, Xã Tuy Phước Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng tỉnh 636B",
+      "hamlet": "Thôn Định Thiện Tây, Phước Quang",
+      "county": "Xã Tuy Phước Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
