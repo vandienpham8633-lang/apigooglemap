@@ -29619,5 +29619,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.778191,105.4118": {
+    "display_name": "Vĩnh Hòa 3, Xã Vĩnh Hòa Hưng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Vĩnh Hòa 3",
+      "county": "Xã Vĩnh Hòa Hưng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.25049,105.2584": {
+    "display_name": "Xã Phong Thạnh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.22293,108.5117": {
+    "display_name": "Chợ Lầu, Xã Bắc Bình, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Chợ Lầu",
+      "county": "Xã Bắc Bình",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
