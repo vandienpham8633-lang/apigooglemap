@@ -29316,5 +29316,96 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.721412,105.2941": {
+    "display_name": "ĐT. 962, Phước Thành, Xã Gò Quao, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 962",
+      "village": "Phước Thành",
+      "county": "Xã Gò Quao",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.34597,105.9561": {
+    "display_name": "Xóm Tám, Thạch Thắng, Xã Thạch Lạc, Hà Tĩnh, Việt Nam",
+    "address": {
+      "hamlet": "Xóm Tám",
+      "village": "Thạch Thắng",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.38011,107.4803": {
+    "display_name": "Đường tỉnh 774, Ấp 2, Xã Nam Cát Tiên, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 774",
+      "village": "Ấp 2",
+      "county": "Xã Nam Cát Tiên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79442,108.0378": {
+    "display_name": "Xã Bờ Ngoong, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Bờ Ngoong",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59941,106.485": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "county": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.41037,108.8092": {
+    "display_name": "Công ty Cổ phần Thép Hòa Phát Dung Quất, Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.89516,108.9625": {
+    "display_name": "Thôn 1, Bình Nghi, Xóm Tây, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 1, Bình Nghi",
+      "village": "Xóm Tây",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.17094,105.5818": {
+    "display_name": "Phường Thới Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
