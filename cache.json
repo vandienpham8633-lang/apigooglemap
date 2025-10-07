@@ -28697,5 +28697,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.01626,105.3578": {
+    "display_name": "Xã Ngọc Long, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Ngọc Long",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73563,106.6907": {
+    "display_name": "Đường 5B, Xã Bình Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Đường 5B",
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
