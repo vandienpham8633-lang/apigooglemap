@@ -29453,5 +29453,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8043,106.9265": {
+    "display_name": "Ấp 4, Xã An Phước, Tỉnh Đồng Nai, 76009, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.1919,106.7266": {
+    "display_name": "Xã Phước Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Phước Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.9453,108.853": {
+    "display_name": "Thôn Tả Giang 1, Tây Giang, Bình Liên, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tả Giang 1, Tây Giang",
+      "village": "Bình Liên",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93445,107.9478": {
+    "display_name": "Diêu Phú, Phường Diên Hồng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Diêu Phú",
+      "county": "Phường Diên Hồng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86483,106.7012": {
+    "display_name": "Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
