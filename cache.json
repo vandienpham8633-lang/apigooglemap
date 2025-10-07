@@ -28412,5 +28412,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.24244,105.7505": {
+    "display_name": "Xã Kim Anh, Hà Nội, 84211, Việt Nam",
+    "address": {
+      "city_district": "Xã Kim Anh",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "84211",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.509117,106.1424": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52245,106.0063": {
+    "display_name": "Tân Biên, Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Tân Biên",
+      "county": "Xã Tân Biên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81379,106.6642": {
+    "display_name": "Lối ra, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72100, Việt Nam",
+    "address": {
+      "road": "Lối ra",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
