@@ -29228,5 +29228,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.31314,105.8919": {
+    "display_name": "Xã An Hữu, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã An Hữu",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
