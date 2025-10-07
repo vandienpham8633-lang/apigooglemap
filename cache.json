@@ -28719,5 +28719,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.52235,106.0063": {
+    "display_name": "Tân Biên, Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Tân Biên",
+      "county": "Xã Tân Biên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.731934,105.4149": {
+    "display_name": "Xã Hỏa Lựu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Hỏa Lựu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
