@@ -29806,5 +29806,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.15367,107.8882": {
+    "display_name": "Plei Mrông Yô, Xã Ia Phí, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Plei Mrông Yô",
+      "county": "Xã Ia Phí",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53019,107.8372": {
+    "display_name": "Saigon Petro, Trần Phú, Kim Thanh, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "amenity": "Saigon Petro",
+      "road": "Trần Phú",
+      "village": "Kim Thanh",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.70232,105.2398": {
+    "display_name": "Xã Minh Ngọc, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Minh Ngọc",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
