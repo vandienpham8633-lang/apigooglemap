@@ -28526,5 +28526,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.9208,108.1047": {
+    "display_name": "Phan Chu Trinh, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Phan Chu Trinh",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.48002,107.6839": {
+    "display_name": "10A, Xã Phú Hồ, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "10A",
+      "town": "Xã Phú Hồ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
