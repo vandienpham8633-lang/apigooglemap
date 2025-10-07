@@ -29215,5 +29215,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.67288,103.3619": {
+    "display_name": "Lèng Chư, Bản Hợp 2, Dào San, Xã Dào San, Tỉnh Lai Châu, Việt Nam",
+    "address": {
+      "neighbourhood": "Lèng Chư",
+      "hamlet": "Bản Hợp 2",
+      "village": "Dào San",
+      "county": "Xã Dào San",
+      "state": "Tỉnh Lai Châu",
+      "ISO3166-2-lvl4": "VN-01",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
