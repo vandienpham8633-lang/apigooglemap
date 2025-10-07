@@ -28808,5 +28808,64 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.54564,107.5111": {
+    "display_name": "Xã Đan Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Đan Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77016,106.5878": {
+    "display_name": "Phường Bình Tân, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79337,109.1874": {
+    "display_name": "Khu vực, Nhơn Phú, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Nhơn Phú",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93387,106.8803": {
+    "display_name": "Đường Hoàng Tam Kỳ, Khu phố 33, Phường Long Bình, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "road": "Đường Hoàng Tam Kỳ",
+      "quarter": "Khu phố 33",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54742,105.3959": {
+    "display_name": "Nguyễn Huệ, Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
