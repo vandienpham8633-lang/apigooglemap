@@ -29899,5 +29899,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.775553,105.4926": {
+    "display_name": "Quốc lộ 61C, Xã Vĩnh Thuận Đông, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 61C",
+      "city_district": "Xã Vĩnh Thuận Đông",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.84308,108.3075": {
+    "display_name": "Duy Phước, Xã Nam Phước, Thành phố Đà Nẵng, 51506, Việt Nam",
+    "address": {
+      "hamlet": "Duy Phước",
+      "town": "Xã Nam Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
