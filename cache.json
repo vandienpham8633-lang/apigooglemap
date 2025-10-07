@@ -29840,5 +29840,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.53017,107.8373": {
+    "display_name": "Saigon Petro, Trần Phú, Kim Thanh, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "amenity": "Saigon Petro",
+      "road": "Trần Phú",
+      "village": "Kim Thanh",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82314,105.5291": {
+    "display_name": "ĐT. 842, Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 842",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.60597,107.9094": {
+    "display_name": "Thôn 15, Xã Cư Jút, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 15",
+      "county": "Xã Cư Jút",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53019,107.8373": {
+    "display_name": "Saigon Petro, Trần Phú, Kim Thanh, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "amenity": "Saigon Petro",
+      "road": "Trần Phú",
+      "village": "Kim Thanh",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
