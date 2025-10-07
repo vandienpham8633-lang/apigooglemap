@@ -29419,5 +29419,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.72588,106.6307": {
+    "display_name": "165, Bến Phú Định, Phường Phú Định, Thành phố Hồ Chí Minh, 71910, Việt Nam",
+    "address": {
+      "house_number": "165",
+      "road": "Bến Phú Định",
+      "suburb": "Phường Phú Định",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71910",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.033009,104.8296": {
+    "display_name": "Sông Đốc, Xã Sông Đốc, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Sông Đốc",
+      "county": "Xã Sông Đốc",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79516,105.5327": {
+    "display_name": "Tam Nông, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Tam Nông",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
