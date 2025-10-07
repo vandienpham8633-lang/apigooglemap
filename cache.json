@@ -29555,5 +29555,69 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.69844,106.2355": {
+    "display_name": "Xã Lưu Nghiệp Anh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lưu Nghiệp Anh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47408,107.2145": {
+    "display_name": "An Lộc, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "road": "An Lộc",
+      "neighbourhood": "An Lộc",
+      "town": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13129,106.7278": {
+    "display_name": "Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93061,105.625": {
+    "display_name": "Xã Hưng Điền, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Điền",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93762,107.4856": {
+    "display_name": "Xã Ia O, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia O",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.9374,107.4856": {
+    "display_name": "Xã Ia O, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia O",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
