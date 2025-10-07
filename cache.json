@@ -29068,5 +29068,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.19428,105.2047": {
+    "display_name": "Xã Phố Bảng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Phố Bảng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.11814,108.8036": {
+    "display_name": "Nguyễn Nghiêm, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Nguyễn Nghiêm",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.11829,108.8038": {
+    "display_name": "Nguyễn Nghiêm, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Nguyễn Nghiêm",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
