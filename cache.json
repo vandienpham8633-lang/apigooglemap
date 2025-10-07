@@ -28559,5 +28559,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.54733,105.3956": {
+    "display_name": "Nguyễn Huệ, Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.70108,108.2585": {
+    "display_name": "Xã Quế Sơn Trung, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Quế Sơn Trung",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
