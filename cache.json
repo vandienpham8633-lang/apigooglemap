@@ -30128,5 +30128,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.09646,108.8862": {
+    "display_name": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.46341,108.1689": {
+    "display_name": "Kon Braih – Kon Sơ Rêk, Đăk Ruồng, Xã Kon Braih, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Kon Braih – Kon Sơ Rêk",
+      "village": "Đăk Ruồng",
+      "county": "Xã Kon Braih",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.6934,105.8494": {
+    "display_name": "Xã Tĩnh Túc, Xã Huy Giáp, Tỉnh Cao Bằng, Việt Nam",
+    "address": {
+      "town": "Xã Tĩnh Túc",
+      "county": "Xã Huy Giáp",
+      "state": "Tỉnh Cao Bằng",
+      "ISO3166-2-lvl4": "VN-04",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.00653,105.7712": {
+    "display_name": "Công ty TNHH Thành Bưởi, Trần Hoàng Na, Phường Cái Răng, Thành phố Cần Thơ, 94000, Việt Nam",
+    "address": {
+      "office": "Công ty TNHH Thành Bưởi",
+      "road": "Trần Hoàng Na",
+      "city_district": "Phường Cái Răng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.68648,105.6948": {
+    "display_name": "Nguyễn Sỹ Sách, Phường Vinh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Nguyễn Sỹ Sách",
+      "city": "Phường Vinh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
