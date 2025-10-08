@@ -31368,5 +31368,107 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87553,106.6909": {
+    "display_name": "Hẻm 46 Đường Thạnh Lộc 31, Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "road": "Hẻm 46 Đường Thạnh Lộc 31",
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.493951,105.8699": {
+    "display_name": "Xã Nhu Gia, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhu Gia",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.402327,104.9762": {
+    "display_name": "Đường tỉnh 984C, U Minh, Xã Nguyễn Phích, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 984C",
+      "town": "U Minh",
+      "county": "Xã Nguyễn Phích",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.20847,108.3181": {
+    "display_name": "Hiao 2, Xã Ea Hiao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hiao 2",
+      "county": "Xã Ea Hiao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.05579,108.3637": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.63159,108.0037": {
+    "display_name": "Tổ dân phố 11, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 11",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55161,109.0062": {
+    "display_name": "Trường Cao đẳng nghề Ninh Thuận (cơ sở 1), Ngô Đức Kế, Phường Đông Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "amenity": "Trường Cao đẳng nghề Ninh Thuận (cơ sở 1)",
+      "road": "Ngô Đức Kế",
+      "suburb": "Phường Đông Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97906,106.9508": {
+    "display_name": "Khu công nghiệp Sông Mây, An Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Sông Mây",
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03046,106.7412": {
+    "display_name": "Khánh Tân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Tân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
