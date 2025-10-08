@@ -30709,5 +30709,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.26826,105.3891": {
+    "display_name": "Xã Nghĩa Khánh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Nghĩa Khánh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94874,108.1019": {
+    "display_name": "TH Chị Mười, 349, Nguyễn Hội, Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "shop": "TH Chị Mười",
+      "house_number": "349",
+      "road": "Nguyễn Hội",
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
