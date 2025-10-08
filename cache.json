@@ -31516,5 +31516,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.2066,109.1996": {
+    "display_name": "Phước Long, Phường Nam Nha Trang, Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "suburb": "Phước Long",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97908,106.9509": {
+    "display_name": "Khu công nghiệp Sông Mây, An Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Sông Mây",
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55725,106.694": {
+    "display_name": "Xã Phước Vĩnh Tây, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Phước Vĩnh Tây",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
