@@ -31176,5 +31176,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.60468,107.2144": {
+    "display_name": "Xã Ngãi Giao, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "town": "Xã Ngãi Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
