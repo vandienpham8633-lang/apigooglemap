@@ -30540,5 +30540,15 @@
       "country": "Indonesia",
       "country_code": "id"
     }
+  },
+  "8.949155,104.8778": {
+    "display_name": "Xã Phú Tân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phú Tân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
