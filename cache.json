@@ -31186,5 +31186,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.34177,106.0184": {
+    "display_name": "Xã Hảo Đước, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Hảo Đước",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.32728,103.7556": {
+    "display_name": "Xã Nậm Lầu, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "county": "Xã Nậm Lầu",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82365,108.0675": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82374,108.0671": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
