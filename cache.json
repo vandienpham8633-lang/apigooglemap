@@ -30732,5 +30732,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80444,106.6917": {
+    "display_name": "The Coffee House, 8 Bis, Hoàng Hoa Thám, Phường Gia Định, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "amenity": "The Coffee House",
+      "house_number": "8 Bis",
+      "road": "Hoàng Hoa Thám",
+      "suburb": "Phường Gia Định",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88019,106.7618": {
+    "display_name": "Đường Nguyễn Tri Phương, Bình Đường 4, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tri Phương",
+      "quarter": "Bình Đường 4",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0633,108.2444": {
+    "display_name": "Kova Diamond, 27, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Kova Diamond",
+      "house_number": "27",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06338,108.2443": {
+    "display_name": "Pavilion Hotel, 32, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Pavilion Hotel",
+      "house_number": "32",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
