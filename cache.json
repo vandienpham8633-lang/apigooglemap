@@ -30115,5 +30115,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.11397,108.8179": {
+    "display_name": "Trần Thủ Độ, Nghĩa Chánh, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Trần Thủ Độ",
+      "suburb": "Nghĩa Chánh",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
