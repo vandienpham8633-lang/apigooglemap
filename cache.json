@@ -30585,5 +30585,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8001,106.6184": {
+    "display_name": "Hẻm 414 Tân Kỳ Tân Quý, Tân Sơn Nhì, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 414 Tân Kỳ Tân Quý",
+      "suburb": "Tân Sơn Nhì",
+      "city": "Phường Tân Sơn Nhì",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80005,106.6182": {
+    "display_name": "Hẻm 414 Tân Kỳ Tân Quý, Tân Sơn Nhì, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 414 Tân Kỳ Tân Quý",
+      "suburb": "Tân Sơn Nhì",
+      "city": "Phường Tân Sơn Nhì",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.509144,106.1424": {
+    "display_name": "ĐT. 933C, Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 933C",
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
