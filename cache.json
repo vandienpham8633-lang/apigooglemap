@@ -31107,5 +31107,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.88877,108.3351": {
+    "display_name": "Sing A, Xã Ea Drông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Sing A",
+      "county": "Xã Ea Drông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
