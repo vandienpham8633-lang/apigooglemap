@@ -30005,5 +30005,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.09045,108.2972": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.86688,107.7846": {
+    "display_name": "plei Gôn, Xã Ia Krêl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "plei Gôn",
+      "county": "Xã Ia Krêl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85746,106.9556": {
+    "display_name": "Ấp 8, Xã An Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 8",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
