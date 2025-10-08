@@ -30037,5 +30037,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63729,107.269": {
+    "display_name": "Xã Bình Giã, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Giã",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62724,106.4822": {
+    "display_name": "Trần Anh Riverside, Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "residential": "Trần Anh Riverside",
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
