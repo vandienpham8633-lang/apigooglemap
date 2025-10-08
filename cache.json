@@ -30253,5 +30253,145 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.62208,103.5599": {
+    "display_name": "ផ្លូវជាតិលេខ៤, សង្កាត់មួយ, Thành phố Sihanouk, ក្រុងព្រះសីហនុ, ខេត្តព្រះសីហនុ, 180000, Cao Miên",
+    "address": {
+      "road": "ផ្លូវជាតិលេខ៤",
+      "suburb": "សង្កាត់មួយ",
+      "city": "Thành phố Sihanouk",
+      "county": "ក្រុងព្រះសីហនុ",
+      "province": "ខេត្តព្រះសីហនុ",
+      "ISO3166-2-lvl4": "KH-18",
+      "postcode": "180000",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "12.00309,107.6813": {
+    "display_name": "Mạc Thị Bưởi, Tổ dân phố 10, Gia Nghĩa, Phường Bắc Gia Nghĩa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Mạc Thị Bưởi",
+      "quarter": "Tổ dân phố 10",
+      "city": "Gia Nghĩa",
+      "county": "Phường Bắc Gia Nghĩa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93748,108.1056": {
+    "display_name": "Đường Nguyễn Bỉnh Khiêm, Phường Phú Thủy, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Bỉnh Khiêm",
+      "county": "Phường Phú Thủy",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.71922,108.2307": {
+    "display_name": "Tân Quảng, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Quảng",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.09264,108.3593": {
+    "display_name": "Kmang, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Kmang",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "36.51565,-119.5383": {
+    "display_name": "39928, Road 16, Kingsburg, Tulare County, Ca Li, 93631, Hoa Kỳ",
+    "address": {
+      "house_number": "39928",
+      "road": "Road 16",
+      "town": "Kingsburg",
+      "county": "Tulare County",
+      "state": "Ca Li",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "93631",
+      "country": "Hoa Kỳ",
+      "country_code": "us"
+    }
+  },
+  "21.73929,103.3485": {
+    "display_name": "Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.91235,108.0073": {
+    "display_name": "Võ Nguyên Giáp, Phường Hội Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Võ Nguyên Giáp",
+      "county": "Phường Hội Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82018,106.6292": {
+    "display_name": "Tây Thạnh, Phường Tây Thạnh, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Tây Thạnh",
+      "suburb": "Tây Thạnh",
+      "city_district": "Phường Tây Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.4264,106.0133": {
+    "display_name": "Xã Bình Sơn, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "town": "Xã Bình Sơn",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03073,106.7414": {
+    "display_name": "Khánh Tân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Tân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03064,106.7412": {
+    "display_name": "Khánh Tân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Tân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
