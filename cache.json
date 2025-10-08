@@ -29949,5 +29949,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.84599,105.907": {
+    "display_name": "Đường Số 01 Thôn 5, Xã Hoằng Thanh, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "road": "Đường Số 01 Thôn 5",
+      "town": "Xã Hoằng Thanh",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.775623,105.4926": {
+    "display_name": "Quốc lộ 61C, Xã Vĩnh Thuận Đông, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 61C",
+      "city_district": "Xã Vĩnh Thuận Đông",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.26196,106.6851": {
+    "display_name": "Xã Lệ Ninh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Lệ Ninh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09577,108.8866": {
+    "display_name": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9253,106.7322": {
+    "display_name": "Hữu Nghị, Khu công nghiệp Việt Nam - Singapore (VSIP I), Bình Đáng, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Hữu Nghị",
+      "industrial": "Khu công nghiệp Việt Nam - Singapore (VSIP I)",
+      "quarter": "Bình Đáng",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
