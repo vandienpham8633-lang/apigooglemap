@@ -30676,5 +30676,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.16424,106.8464": {
+    "display_name": "Xã Bắc Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Bắc Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87121,108.3466": {
+    "display_name": "Nguyễn Tri Phương, Phố cổ Hội An, Cẩm Nam, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tri Phương",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Cẩm Nam",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
