@@ -31130,5 +31130,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.63158,108.0037": {
+    "display_name": "Tổ dân phố 11, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 11",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82454,105.5537": {
+    "display_name": "Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.95252,108.3414": {
+    "display_name": "Tổ dân phố 2, Krông Năng, Xã Krông Năng, Tỉnh Đắk Lắk, 63406, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 2",
+      "town": "Krông Năng",
+      "county": "Xã Krông Năng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63406",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.90176,109.0358": {
+    "display_name": "Thôn Phụ Ngọc, Nhơn Phúc, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Phụ Ngọc, Nhơn Phúc",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
