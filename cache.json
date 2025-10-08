@@ -30471,5 +30471,74 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.32349,106.6471": {
+    "display_name": "Xã Long Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59683,108.9501": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.00874,108.0787": {
+    "display_name": "Xã Kon Gang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Kon Gang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82238,106.59": {
+    "display_name": "Khu công nghiệp Vĩnh Lộc, Phường Bình Tân, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Vĩnh Lộc",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.22224,108.2105": {
+    "display_name": "Tổ dân phố 12, Lê B, Xã Ea Drăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 12",
+      "village": "Lê B",
+      "county": "Xã Ea Drăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "-6.690351,108.5125": {
+    "display_name": "Sarabau, Kabupaten Cirebon, Tỉnh Tây Java, Jawa, 45174, Indonesia",
+    "address": {
+      "village": "Sarabau",
+      "county": "Kabupaten Cirebon",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "postcode": "45174",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
   }
 }
