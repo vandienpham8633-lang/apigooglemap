@@ -31049,5 +31049,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.63161,108.0037": {
+    "display_name": "Tổ dân phố 11, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 11",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.573148,106.237": {
+    "display_name": "Xã Cù Lao Dung, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Cù Lao Dung",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39121,105.4362": {
+    "display_name": "Caffe Cỏ Ba Lá, 08, Lê Lợi, Phường Long Xuyên, Tỉnh An Giang, 90040, Việt Nam",
+    "address": {
+      "amenity": "Caffe Cỏ Ba Lá",
+      "house_number": "08",
+      "road": "Lê Lợi",
+      "municipality": "Phường Long Xuyên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90040",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83834,106.9373": {
+    "display_name": "Xã An Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
