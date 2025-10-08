@@ -31470,5 +31470,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.08908,106.6473": {
+    "display_name": "Đường XE1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường XE1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97898,106.9509": {
+    "display_name": "Khu công nghiệp Sông Mây, An Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Sông Mây",
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.05578,108.3636": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
