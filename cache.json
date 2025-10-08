@@ -30427,5 +30427,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.92839,107.4131": {
+    "display_name": "Tân Lợi, Xã Quảng Tín, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Tân Lợi",
+      "county": "Xã Quảng Tín",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.71923,108.2307": {
+    "display_name": "Tân Quảng, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Quảng",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
