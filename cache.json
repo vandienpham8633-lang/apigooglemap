@@ -30564,5 +30564,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.2284,105.1498": {
+    "display_name": "Sảng Pả, Xã Phố Bảng, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "hamlet": "Sảng Pả",
+      "town": "Xã Phố Bảng",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.62963,105.742": {
+    "display_name": "Xã An Khánh, Tỉnh Thái Nguyên, Việt Nam",
+    "address": {
+      "town": "Xã An Khánh",
+      "state": "Tỉnh Thái Nguyên",
+      "ISO3166-2-lvl4": "VN-69",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
