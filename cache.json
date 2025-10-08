@@ -31333,5 +31333,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.28738,107.8298": {
+    "display_name": "Thôn Bạch Thạch, Xã Lộc An, Thành phố Huế, 53000, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Bạch Thạch",
+      "town": "Xã Lộc An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "53000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07788,106.7453": {
+    "display_name": "Vĩnh Lợi, Bà Tri, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Vĩnh Lợi",
+      "quarter": "Bà Tri",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03059,106.7412": {
+    "display_name": "Khánh Tân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Tân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
