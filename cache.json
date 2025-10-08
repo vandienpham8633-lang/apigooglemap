@@ -30699,5 +30699,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.15125,105.8303": {
+    "display_name": "Phường Bắc Kạn, Tỉnh Thái Nguyên, Việt Nam",
+    "address": {
+      "city": "Phường Bắc Kạn",
+      "state": "Tỉnh Thái Nguyên",
+      "ISO3166-2-lvl4": "VN-69",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
