@@ -30550,5 +30550,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.93549,108.4351": {
+    "display_name": "Hẻm 23 Trần Phú, Ấp Ánh Sáng, Đà Lạt, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, 02633, Việt Nam",
+    "address": {
+      "road": "Hẻm 23 Trần Phú",
+      "neighbourhood": "Ấp Ánh Sáng",
+      "city": "Đà Lạt",
+      "county": "Phường Xuân Hương - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "02633",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
