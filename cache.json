@@ -30666,5 +30666,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.16423,106.8465": {
+    "display_name": "Xã Bắc Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Bắc Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
