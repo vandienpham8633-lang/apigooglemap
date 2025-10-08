@@ -30846,5 +30846,80 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.26016,106.1138": {
+    "display_name": "Xã Phú Phụng, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Phú Phụng",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.14251,104.8359": {
+    "display_name": "Kênh Mới, Xã Khánh Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Kênh Mới",
+      "county": "Xã Khánh Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.08659,105.5488": {
+    "display_name": "Xã Đông Hiệp, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Hiệp",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.628578,105.9861": {
+    "display_name": "Tôn Đức Thắng, Phường Sóc Trăng, Thành phố Cần Thơ, 96113, Việt Nam",
+    "address": {
+      "road": "Tôn Đức Thắng",
+      "city_district": "Phường Sóc Trăng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "96113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.10371,106.6575": {
+    "display_name": "Xã Bảo Thạnh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Bảo Thạnh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.627,105.1819": {
+    "display_name": "QL.2, Xã Đoan Hùng, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "road": "QL.2",
+      "county": "Xã Đoan Hùng",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59103,106.4028": {
+    "display_name": "Tân Thuận, Xã Tân Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
