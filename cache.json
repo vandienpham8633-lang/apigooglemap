@@ -31898,5 +31898,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.31914,107.7973": {
+    "display_name": "Làng Trấp, Ya Tăng, Xã Ya Ly, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Làng Trấp",
+      "village": "Ya Tăng",
+      "county": "Xã Ya Ly",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
