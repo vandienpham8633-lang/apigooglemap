@@ -32597,5 +32597,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "-6.313205,107.8008": {
+    "display_name": "Jalan Jambu, Gardamukti, Subang, Tỉnh Tây Java, Jawa, Indonesia",
+    "address": {
+      "road": "Jalan Jambu",
+      "village": "Gardamukti",
+      "county": "Subang",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
   }
 }
