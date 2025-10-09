@@ -32149,5 +32149,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.375807,105.4207": {
+    "display_name": "Xã Vĩnh Phước, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Phước",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69073,106.5738": {
+    "display_name": "Xã Tân Nhựt, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
