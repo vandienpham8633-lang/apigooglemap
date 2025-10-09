@@ -32542,5 +32542,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.535145,105.9704": {
+    "display_name": "ĐT. 937, Xã Ngọc Tố, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 937",
+      "city_district": "Xã Ngọc Tố",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.323876,105.9754": {
+    "display_name": "Bệnh viện Đa khoa TX Vĩnh Châu, Nguyễn Huệ, Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa TX Vĩnh Châu",
+      "road": "Nguyễn Huệ",
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.74512,104.9898": {
+    "display_name": "Quốc lộ 2, Xã Vị Xuyên, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 2",
+      "town": "Xã Vị Xuyên",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.04576,108.3969": {
+    "display_name": "Tam Lực, Xã Tam Giang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tam Lực",
+      "county": "Xã Tam Giang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.71909,106.4605": {
+    "display_name": "Xã Vĩnh Thịnh, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "town": "Xã Vĩnh Thịnh",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
