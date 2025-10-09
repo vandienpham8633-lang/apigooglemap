@@ -31709,5 +31709,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.32348,106.6472": {
+    "display_name": "Xã Long Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
