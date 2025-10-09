@@ -32214,5 +32214,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.5857,109.1988": {
+    "display_name": "Bình Thạnh, Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Bình Thạnh",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
