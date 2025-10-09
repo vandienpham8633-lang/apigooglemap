@@ -32416,5 +32416,34 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.8166,107.1357": {
+    "display_name": "Thôn 6, Xã Bom Bo, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Bom Bo",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00013,108.898": {
+    "display_name": "Xã Khánh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Khánh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51941,105.18": {
+    "display_name": "Xã Châu Phú, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Châu Phú",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
