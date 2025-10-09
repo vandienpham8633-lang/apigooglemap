@@ -31864,5 +31864,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.0539,109.1525": {
+    "display_name": "Hồ Xuân Hương, Cam Đức, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Hồ Xuân Hương",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
