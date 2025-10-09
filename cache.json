@@ -32277,5 +32277,23 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.65248,121.0358": {
+    "display_name": "Toys R Us, Sola Drive, Vertis North, Bagong Pag-asa, Diliman, 1st District, Thành phố Quezon, Eastern Manila District, Metro Manila, 1100, Philippines",
+    "address": {
+      "shop": "Toys R Us",
+      "road": "Sola Drive",
+      "commercial": "Vertis North",
+      "quarter": "Bagong Pag-asa",
+      "suburb": "Diliman",
+      "city_district": "1st District",
+      "city": "Thành phố Quezon",
+      "state_district": "Eastern Manila District",
+      "region": "Metro Manila",
+      "ISO3166-2-lvl3": "PH-00",
+      "postcode": "1100",
+      "country": "Philippines",
+      "country_code": "ph"
+    }
   }
 }
