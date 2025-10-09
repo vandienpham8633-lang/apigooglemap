@@ -32328,5 +32328,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.27123,105.7367": {
+    "display_name": "Tân Dương, Tỉnh Đồng Tháp, 81800, Việt Nam",
+    "address": {
+      "county": "Tân Dương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67729,106.6494": {
+    "display_name": "Xã Hưng Long, Thành phố Hồ Chí Minh, 71812, Việt Nam",
+    "address": {
+      "city_district": "Xã Hưng Long",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71812",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
