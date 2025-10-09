@@ -32655,5 +32655,139 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.94437,105.4833": {
+    "display_name": "Xã Hợp Minh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Hợp Minh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09811,106.7817": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39906,106.3284": {
+    "display_name": "Xã Châu Thành, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.70497,106.1398": {
+    "display_name": "Xã Tiên Hoa, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Tiên Hoa",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.33217,105.9362": {
+    "display_name": "Xã An Hữu, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã An Hữu",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.9539,106.1931": {
+    "display_name": "Xã Cẩm Giang, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "town": "Xã Cẩm Giang",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.69767,106.2404": {
+    "display_name": "Trà Cú, Xã Trà Cú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Trà Cú",
+      "county": "Xã Trà Cú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87019,106.7402": {
+    "display_name": "Đường số 7, Khu phố 32, Phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "road": "Đường số 7",
+      "quarter": "Khu phố 32",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.47625,107.5793": {
+    "display_name": "Trường THPT Nguyễn Huệ, 83, Đinh Tiên Hoàng, Đông Ba, Phường Phú Xuân, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Huệ",
+      "house_number": "83",
+      "road": "Đinh Tiên Hoàng",
+      "quarter": "Đông Ba",
+      "city": "Phường Phú Xuân",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.6657,108.0722": {
+    "display_name": "Quang Trung, Chư Sê, Xã Chư Sê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quang Trung",
+      "town": "Chư Sê",
+      "county": "Xã Chư Sê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.40183,105.9758": {
+    "display_name": "Xã Cái Bè, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Cái Bè",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.344273,105.0899": {
+    "display_name": "Thới Bình, Xã Thới Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Thới Bình",
+      "county": "Xã Thới Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
