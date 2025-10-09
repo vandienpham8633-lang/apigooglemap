@@ -31768,5 +31768,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78576,106.6449": {
+    "display_name": "Trường Mầm non Phú Hòa, Ni Sư Huỳnh Liên, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72117, Việt Nam",
+    "address": {
+      "amenity": "Trường Mầm non Phú Hòa",
+      "road": "Ni Sư Huỳnh Liên",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
