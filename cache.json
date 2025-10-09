@@ -31571,5 +31571,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89667,106.9143": {
+    "display_name": "Phường Phước Tân, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Phường Phước Tân",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09874,106.7787": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81316,106.6679": {
+    "display_name": "Hồng Hà, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72100, Việt Nam",
+    "address": {
+      "road": "Hồng Hà",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.47953,107.6846": {
+    "display_name": "10A, Xã Phú Hồ, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "10A",
+      "town": "Xã Phú Hồ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
