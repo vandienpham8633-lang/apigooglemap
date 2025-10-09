@@ -32317,5 +32317,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82819,109.1109": {
+    "display_name": "Quốc lộ 1, Xã Nam Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "suburb": "Xã Nam Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
