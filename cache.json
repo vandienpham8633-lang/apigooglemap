@@ -32295,5 +32295,27 @@
       "country": "Philippines",
       "country_code": "ph"
     }
+  },
+  "10.74201,106.7163": {
+    "display_name": "Đường Số 47, Phường Tân Thuận, Thành phố Hồ Chí Minh, 72911, Việt Nam",
+    "address": {
+      "road": "Đường Số 47",
+      "suburb": "Phường Tân Thuận",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.840196,105.5643": {
+    "display_name": "Xã Vĩnh Tường, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Tường",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
