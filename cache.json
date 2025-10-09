@@ -32191,5 +32191,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.91354,109.1549": {
+    "display_name": "Đường 3 Tháng 4, Phường Cam Linh, Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường 3 Tháng 4",
+      "suburb": "Phường Cam Linh",
+      "city": "Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
