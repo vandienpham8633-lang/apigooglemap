@@ -32104,5 +32104,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79971,106.6605": {
+    "display_name": "Hẻm 381 Hoàng Văn Thụ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Hẻm 381 Hoàng Văn Thụ",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.1321,108.7963": {
+    "display_name": "Lê Hồng Phong, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Lê Hồng Phong",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.12738,106.8138": {
+    "display_name": "Ba Canh-Tiến Giang, Xã Trường Phú, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Ba Canh-Tiến Giang",
+      "town": "Xã Trường Phú",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
