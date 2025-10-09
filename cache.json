@@ -31659,5 +31659,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97243,106.952": {
+    "display_name": "An Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97246,106.952": {
+    "display_name": "An Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
