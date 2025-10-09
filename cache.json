@@ -31876,5 +31876,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.21508,108.4328": {
+    "display_name": "Xã Hồng Thái, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hồng Thái",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
