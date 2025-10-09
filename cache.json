@@ -32445,5 +32445,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.755563,106.0005": {
+    "display_name": "Xã Kế Sách, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Kế Sách",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.32531,108.6965": {
+    "display_name": "Xã Bình Minh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Bình Minh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43717,105.7643": {
+    "display_name": "Xã Bình Hàng Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Bình Hàng Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.69419,108.207": {
+    "display_name": "Kang, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Kang",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52125,106.9181": {
+    "display_name": "Phước An, Đồng Xoài, Phường Bình Phước, Tỉnh Đồng Nai, 67111, Việt Nam",
+    "address": {
+      "quarter": "Phước An",
+      "city": "Đồng Xoài",
+      "county": "Phường Bình Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "67111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
