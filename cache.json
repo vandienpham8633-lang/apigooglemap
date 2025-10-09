@@ -31817,5 +31817,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.9959,106.8665": {
+    "display_name": "Khu phố 4B, Phường Trảng Dài, Tỉnh Đồng Nai, 76913, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4B",
+      "county": "Phường Trảng Dài",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.99589,106.8665": {
+    "display_name": "Khu phố 4B, Phường Trảng Dài, Tỉnh Đồng Nai, 76913, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4B",
+      "county": "Phường Trảng Dài",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87569,106.7628": {
+    "display_name": "Khu phố 18, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 18",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07635,109.1921": {
+    "display_name": "Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
