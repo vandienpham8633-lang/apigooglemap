@@ -34237,5 +34237,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.02384,106.3066": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.41936,108.1104": {
+    "display_name": "Xã Ia Le, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Le",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
