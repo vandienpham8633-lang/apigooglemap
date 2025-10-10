@@ -32933,5 +32933,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.15899,105.9448": {
+    "display_name": "Xã Phú Quới, Tỉnh Vĩnh Long, 85217, Việt Nam",
+    "address": {
+      "county": "Xã Phú Quới",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85217",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
