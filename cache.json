@@ -34224,5 +34224,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94854,108.1019": {
+    "display_name": "TH cô Thậm, 300, Nguyễn Hội, Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "shop": "TH cô Thậm",
+      "house_number": "300",
+      "road": "Nguyễn Hội",
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
