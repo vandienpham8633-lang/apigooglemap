@@ -34203,5 +34203,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.07453,106.4231": {
+    "display_name": "Xã An Định, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Định",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17498,107.5235": {
+    "display_name": "Thôn 8, Xã Đức Linh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Xã Đức Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
