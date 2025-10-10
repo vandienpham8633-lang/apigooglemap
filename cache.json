@@ -33020,5 +33020,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.98818,105.5935": {
+    "display_name": "Xã Yên Ninh, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Yên Ninh",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
