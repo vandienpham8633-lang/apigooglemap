@@ -34259,5 +34259,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "8.940248,105.0186": {
+    "display_name": "Cái Nước, Xã Cái Nước, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Cái Nước",
+      "county": "Xã Cái Nước",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98254,109.0831": {
+    "display_name": "Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
