@@ -34106,5 +34106,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.13586,107.6864": {
+    "display_name": "Tỉnh lộ 14B, Xã Nam Đông, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 14B",
+      "town": "Xã Nam Đông",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.72494,106.9739": {
+    "display_name": "Xã Cam Lộ, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cam Lộ",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.07449,106.4232": {
+    "display_name": "Xã An Định, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Định",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
