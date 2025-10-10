@@ -34169,5 +34169,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.48709,107.5825": {
+    "display_name": "Gia Hội, Phường Phú Xuân, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "quarter": "Gia Hội",
+      "city": "Phường Phú Xuân",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.25745,107.7324": {
+    "display_name": "Án, Xã Ia Lốp, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Án",
+      "county": "Xã Ia Lốp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17503,107.5235": {
+    "display_name": "Thôn 8, Xã Đức Linh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Xã Đức Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
