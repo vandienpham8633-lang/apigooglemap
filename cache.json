@@ -34107,6 +34107,17 @@
       "country_code": "vn"
     }
   },
+  "11.41716,109.0039": {
+    "display_name": "Sơn Hải, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Sơn Hải",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
   "16.13586,107.6864": {
     "display_name": "Tỉnh lộ 14B, Xã Nam Đông, Thành phố Huế, Việt Nam",
     "address": {
@@ -34114,6 +34125,16 @@
       "town": "Xã Nam Đông",
       "state": "Thành phố Huế",
       "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.07451,106.4232": {
+    "display_name": "Xã An Định, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Định",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
       "country": "Việt Nam",
       "country_code": "vn"
     }
@@ -34128,12 +34149,23 @@
       "country_code": "vn"
     }
   },
-  "10.07449,106.4232": {
-    "display_name": "Xã An Định, Tỉnh Vĩnh Long, Việt Nam",
+  "16.54984,107.639": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
     "address": {
-      "county": "Xã An Định",
-      "state": "Tỉnh Vĩnh Long",
-      "ISO3166-2-lvl4": "VN-49",
+      "city": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07187,109.1944": {
+    "display_name": "Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
       "country": "Việt Nam",
       "country_code": "vn"
     }
