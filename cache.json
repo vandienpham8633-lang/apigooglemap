@@ -33592,5 +33592,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.62041,107.0692": {
+    "display_name": "Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
