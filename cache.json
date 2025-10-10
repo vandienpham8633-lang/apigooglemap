@@ -33317,5 +33317,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.44914,105.2734": {
+    "display_name": "Xã Cần Đăng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cần Đăng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.39077,108.813": {
+    "display_name": "Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.39087,108.8088": {
+    "display_name": "Công ty Cổ phần Thép Hòa Phát Dung Quất, Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
