@@ -32888,5 +32888,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.4943,109.0695": {
+    "display_name": "Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.09101,108.2971": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.04626,104.0056": {
+    "display_name": "Đường tỉnh 975, Đặc khu Phú Quốc, Tỉnh An Giang, 92513, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 975",
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "92513",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
