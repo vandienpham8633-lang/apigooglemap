@@ -33227,5 +33227,95 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.3918,108.8093": {
+    "display_name": "Công ty Cổ phần Thép Hòa Phát Dung Quất, Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.833748,105.9544": {
+    "display_name": "Xã Thới An Hội, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Thới An Hội",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.1274,106.8137": {
+    "display_name": "Ba Canh-Tiến Giang, Xã Trường Phú, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Ba Canh-Tiến Giang",
+      "town": "Xã Trường Phú",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.83499,108.3732": {
+    "display_name": "Xã Duy Nghĩa, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Nghĩa",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79394,106.6625": {
+    "display_name": "Cà Phê Cây bàng, Đường Nguyễn Bặc, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "amenity": "Cà Phê Cây bàng",
+      "road": "Đường Nguyễn Bặc",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02517,106.6246": {
+    "display_name": "Khu phố 7, Phường Phú An, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 7",
+      "city_district": "Phường Phú An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.39291,108.8126": {
+    "display_name": "Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.38886,108.8108": {
+    "display_name": "Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
