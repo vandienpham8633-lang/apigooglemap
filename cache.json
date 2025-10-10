@@ -34051,5 +34051,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.54853,106.4041": {
+    "display_name": "Đường Số 23, Tân An, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Số 23",
+      "city": "Tân An",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75952,106.5799": {
+    "display_name": "Phường Bình Tân, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.200936,105.3422": {
+    "display_name": "Quốc lộ 1, Xã Phong Thạnh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.51157,109.1231": {
+    "display_name": "Ninh Hòa, Phường Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Ninh Hòa",
+      "county": "Phường Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.9894,108.176": {
+    "display_name": "Xã KDang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã KDang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
