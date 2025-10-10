@@ -34027,5 +34027,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92859,106.8649": {
+    "display_name": "5 An Bình, Thành phố Biên Hòa, Phường Trấn Biên, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "quarter": "5 An Bình",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Trấn Biên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
