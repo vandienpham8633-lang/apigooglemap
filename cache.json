@@ -32944,5 +32944,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.93636,95.80043": {
+    "display_name": "မဲဇလီအောက်စု, မအူပင်ခရိုင်, ဧရာဝတီတိုင်းဒေသကြီး, Myanma",
+    "address": {
+      "village": "မဲဇလီအောက်စု",
+      "county": "မအူပင်ခရိုင်",
+      "state": "ဧရာဝတီတိုင်းဒေသကြီး",
+      "ISO3166-2-lvl4": "MM-07",
+      "country": "Myanma",
+      "country_code": "mm"
+    }
   }
 }
