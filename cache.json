@@ -33475,5 +33475,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.0266,106.3227": {
+    "display_name": "Đường N7, Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "road": "Đường N7",
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
