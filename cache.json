@@ -32989,5 +32989,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.90892,106.6191": {
+    "display_name": "Phường Hồng An, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "city": "Phường Hồng An",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
