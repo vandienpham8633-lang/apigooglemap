@@ -32812,5 +32812,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.59672,106.6444": {
+    "display_name": "Quốc lộ 9, Duy Hòa, Tân Liên, Xã Lao Bảo, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 9",
+      "hamlet": "Duy Hòa",
+      "village": "Tân Liên",
+      "town": "Xã Lao Bảo",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
