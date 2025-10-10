@@ -34392,5 +34392,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.97586,108.2589": {
+    "display_name": "Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55633,104.9171": {
+    "display_name": "គីរីរម្យ​ គ្លីនិច, ផ្លូវ ១១៥, សង្កាត់បឹងព្រលឹត, Quận Prampi Makara, Phnôm Pênh, 120308, Cao Miên",
+    "address": {
+      "amenity": "គីរីរម្យ​ គ្លីនិច",
+      "road": "ផ្លូវ ១១៥",
+      "village": "សង្កាត់បឹងព្រលឹត",
+      "town": "Quận Prampi Makara",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "120308",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
   }
 }
