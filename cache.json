@@ -33952,5 +33952,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.67704,106.7263": {
+    "display_name": "Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.22105,104.5333": {
+    "display_name": "Tam Thái, Xã Tam Thái, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Tam Thái",
+      "village": "Xã Tam Thái",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.51646,109.0609": {
+    "display_name": "KP.Trường An 1, P.Hoài Thanh, Phường Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Trường An 1, P.Hoài Thanh",
+      "county": "Phường Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
