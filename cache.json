@@ -34327,5 +34327,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79779,106.6174": {
+    "display_name": "Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.67441,106.5993": {
+    "display_name": "Xã Tiên Minh, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "town": "Xã Tiên Minh",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
