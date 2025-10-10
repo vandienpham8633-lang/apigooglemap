@@ -32920,5 +32920,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59104,107.053": {
+    "display_name": "Nguyễn Du, Quảng Phú, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "road": "Nguyễn Du",
+      "neighbourhood": "Quảng Phú",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
