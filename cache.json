@@ -33737,5 +33737,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.05469,106.7393": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
