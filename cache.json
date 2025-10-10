@@ -33673,5 +33673,97 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.49757,107.7484": {
+    "display_name": "Xã Ia Mơ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Mơ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.64952,108.0347": {
+    "display_name": "Hẻm 41 Nguyễn Trường Tộ, Alê B, Phường Ea Kao, Tỉnh Đắk Lắk, 63107, Việt Nam",
+    "address": {
+      "road": "Hẻm 41 Nguyễn Trường Tộ",
+      "village": "Alê B",
+      "county": "Phường Ea Kao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09934,108.7503": {
+    "display_name": "Xã Nghĩa Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Nghĩa Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.55927,109.0421": {
+    "display_name": "Lý Tự Trọng, KP.7, P.Tam Quan, Tam Quan, Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Lý Tự Trọng",
+      "quarter": "KP.7, P.Tam Quan",
+      "suburb": "Tam Quan",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98174,107.9883": {
+    "display_name": "Huỳnh Thúc Kháng, Phường Diên Hồng, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Huỳnh Thúc Kháng",
+      "county": "Phường Diên Hồng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84913,106.7292": {
+    "display_name": "Tam Bình, Khu phố 66, Phường Hiệp Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "road": "Tam Bình",
+      "quarter": "Khu phố 66",
+      "suburb": "Phường Hiệp Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62127,106.7022": {
+    "display_name": "Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05466,106.7393": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
