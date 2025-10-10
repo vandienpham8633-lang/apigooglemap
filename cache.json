@@ -33217,5 +33217,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99603,106.5993": {
+    "display_name": "Xã Bình Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
