@@ -33030,5 +33030,179 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.31454,109.2161": {
+    "display_name": "Petrolimex Gas Station Store No.122, Quốc lộ 1, Chí Thạnh, Xã Tuy An Bắc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Petrolimex Gas Station Store No.122",
+      "road": "Quốc lộ 1",
+      "town": "Chí Thạnh",
+      "county": "Xã Tuy An Bắc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.59979,109.0288": {
+    "display_name": "khu phố Bình Đê, phường Hoài Nhơn Bắc, ấp Tuý Sơn, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Bình Đê, phường Hoài Nhơn Bắc",
+      "village": "ấp Tuý Sơn",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.91092,108.9228": {
+    "display_name": "Nguyễn Huệ, Phú Phong, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "residential": "Phú Phong",
+      "town": "Phú Phong",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62722,106.7369": {
+    "display_name": "Nguyễn Văn Tạo, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Tạo",
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84943,106.6634": {
+    "display_name": "Hẻm 601 Thống Nhất, Phường An Hội Đông, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "road": "Hẻm 601 Thống Nhất",
+      "suburb": "Phường An Hội Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.21811,109.2002": {
+    "display_name": "Phường Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06411,108.1475": {
+    "display_name": "Đường Khánh Sơn, Hòa Khánh Nam, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Khánh Sơn",
+      "quarter": "Hòa Khánh Nam",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8379,106.5482": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69713,106.6174": {
+    "display_name": "Nguyễn Văn Linh, Phường Bình Đông, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "suburb": "Phường Bình Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07928,106.2876": {
+    "display_name": "Phường Gò Dầu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Phường Gò Dầu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84905,106.7292": {
+    "display_name": "Tam Bình, Khu phố 66, Phường Hiệp Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "road": "Tam Bình",
+      "quarter": "Khu phố 66",
+      "suburb": "Phường Hiệp Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34515,106.6162": {
+    "display_name": "Vĩnh Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Vĩnh Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.1947,109.1678": {
+    "display_name": "Phường Nam Nha Trang, Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "suburb": "Phường Nam Nha Trang",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.00666,107.9889": {
+    "display_name": "Phường Thống Nhất, Tỉnh Gia Lai, 60000, Việt Nam",
+    "address": {
+      "county": "Phường Thống Nhất",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "60000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31733,106.1568": {
+    "display_name": "Phường Ninh Thạnh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "county": "Phường Ninh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
