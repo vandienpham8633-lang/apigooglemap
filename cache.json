@@ -33488,5 +33488,98 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79737,106.6158": {
+    "display_name": "Hẻm 549 Tân Kỳ Tân Quý, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 549 Tân Kỳ Tân Quý",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09536,106.7804": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.11922,108.7985": {
+    "display_name": "Nguyễn Công Phương, Nghĩa Lộ, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Nguyễn Công Phương",
+      "suburb": "Nghĩa Lộ",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34514,106.6162": {
+    "display_name": "Vĩnh Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Vĩnh Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94187,106.9886": {
+    "display_name": "Quảng Hoà, Xã Trảng Bom, Tỉnh Đồng Nai, 76000, Việt Nam",
+    "address": {
+      "village": "Quảng Hoà",
+      "county": "Xã Trảng Bom",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.64943,108.0348": {
+    "display_name": "Mduk, Phường Ea Kao, Tỉnh Đắk Lắk, 63107, Việt Nam",
+    "address": {
+      "village": "Mduk",
+      "county": "Phường Ea Kao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.849,106.7291": {
+    "display_name": "Tam Bình, Khu phố 66, Phường Hiệp Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "road": "Tam Bình",
+      "quarter": "Khu phố 66",
+      "suburb": "Phường Hiệp Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.69415,108.207": {
+    "display_name": "Kang, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Kang",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
