@@ -33915,5 +33915,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94875,108.1018": {
+    "display_name": "TH Chị Mười, 323, Nguyễn Hội, Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "shop": "TH Chị Mười",
+      "house_number": "323",
+      "road": "Nguyễn Hội",
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
