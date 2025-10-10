@@ -34281,5 +34281,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.07456,106.4231": {
+    "display_name": "Xã An Định, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Định",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.08126,109.1826": {
+    "display_name": "Đinh Tiên Hoàng, Cam Đức, Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "road": "Đinh Tiên Hoàng",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.99482,105.7577": {
+    "display_name": "Ngõ 299 Đường Đại Mỗ, Phường Tây Mỗ, Hà Nội, 10070, Việt Nam",
+    "address": {
+      "road": "Ngõ 299 Đường Đại Mỗ",
+      "suburb": "Phường Tây Mỗ",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10070",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
