@@ -33994,5 +33994,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.85761,106.9558": {
+    "display_name": "Ấp 8, Xã An Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 8",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.77046,107.0114": {
+    "display_name": "Thái gia sơn, Đường tỉnh 759, Xã Phú Trung, Việt Nam",
+    "address": {
+      "shop": "Thái gia sơn",
+      "road": "Đường tỉnh 759",
+      "county": "Xã Phú Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.2114,109.1935": {
+    "display_name": "Lê Hồng Phong, Phước Long, Phường Nam Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Lê Hồng Phong",
+      "suburb": "Phước Long",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
