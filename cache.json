@@ -33581,5 +33581,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.69419,108.2069": {
+    "display_name": "Kang, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Kang",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
