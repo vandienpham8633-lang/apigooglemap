@@ -33384,5 +33384,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.24548,107.2128": {
+    "display_name": "Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
