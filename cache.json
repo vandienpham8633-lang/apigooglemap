@@ -34971,5 +34971,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.620272,106.3076": {
+    "display_name": "Quốc lộ 53, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 53",
+      "town": "Định An",
+      "county": "Xã Đại An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.65543,107.3143": {
+    "display_name": "Câu Nhi, Xã Nam Hải Lăng, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Câu Nhi",
+      "town": "Xã Nam Hải Lăng",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.620472,106.3077": {
+    "display_name": "Quốc lộ 53, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 53",
+      "town": "Định An",
+      "county": "Xã Đại An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
