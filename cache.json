@@ -35199,5 +35199,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99604,106.5993": {
+    "display_name": "Xã Bình Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.933793,105.0126": {
+    "display_name": "Cái Nước, Xã Cái Nước, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Cái Nước",
+      "county": "Xã Cái Nước",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
