@@ -35018,5 +35018,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.48748,109.0901": {
+    "display_name": "KP.Thạnh Xuân Đông, P.Hoài Hương, Khóm Thạnh Xuân, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Thạnh Xuân Đông, P.Hoài Hương",
+      "village": "Khóm Thạnh Xuân",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.68118,104.1957": {
+    "display_name": "Xã Sín Chéng, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "county": "Xã Sín Chéng",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.620185,106.308": {
+    "display_name": "Quốc lộ 53, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 53",
+      "town": "Định An",
+      "county": "Xã Đại An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.68116,104.1958": {
+    "display_name": "Xã Sín Chéng, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "county": "Xã Sín Chéng",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
