@@ -35344,5 +35344,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77993,106.7531": {
+    "display_name": "Đường 54 - TML, KDC Thạnh Mỹ Lợi, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Đường 54 - TML",
+      "residential": "KDC Thạnh Mỹ Lợi",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
