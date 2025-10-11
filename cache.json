@@ -35952,5 +35952,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.12879,108.8064": {
+    "display_name": "Lê Hồng Phong, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Lê Hồng Phong",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.13942,107.3328": {
+    "display_name": "Quốc lộ 14, Ka Nôn 1, Lâm Đớt, Xã A Lưới 4, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "neighbourhood": "Ka Nôn 1",
+      "village": "Lâm Đớt",
+      "town": "Xã A Lưới 4",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
