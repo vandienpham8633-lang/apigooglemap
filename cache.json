@@ -36013,5 +36013,29 @@
       "country": "Cao Miên",
       "country_code": "kh"
     }
+  },
+  "16.54988,107.639": {
+    "display_name": "Thuận An, Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Thuận An",
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77209,106.7594": {
+    "display_name": "Trương Văn Bang, KDC Thạnh Mỹ Lợi, Cát Lái, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Trương Văn Bang",
+      "residential": "KDC Thạnh Mỹ Lợi",
+      "suburb": "Cát Lái",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
