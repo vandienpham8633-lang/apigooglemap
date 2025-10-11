@@ -34482,5 +34482,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.02367,106.3066": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7437,106.6842": {
+    "display_name": "Đường Tạ Quang Bửu, Khu phố 34, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Đường Tạ Quang Bửu",
+      "quarter": "Khu phố 34",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
