@@ -35646,5 +35646,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.58264,109.049": {
+    "display_name": "khu phố Gia An Đông, phường Hoài Nhơn Bắc, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Gia An Đông, phường Hoài Nhơn Bắc",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.20319,109.2165": {
+    "display_name": "Trần Phú, Phường Nam Nha Trang, Phường Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "suburb": "Phường Nam Nha Trang",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.20482,105.9785": {
+    "display_name": "Ô Cách, Xã Yên Phong, Chờ, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "quarter": "Ô Cách",
+      "suburb": "Xã Yên Phong",
+      "town": "Chờ",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61172,108.9748": {
+    "display_name": "Phường Bảo An, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Bảo An",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
