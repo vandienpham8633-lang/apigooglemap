@@ -35614,5 +35614,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.41642,106.6254": {
+    "display_name": "Chơn Thành, Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "town": "Chơn Thành",
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.6863,106.6549": {
+    "display_name": "Xã Bình Hưng, Thành phố Hồ Chí Minh, 71812, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71812",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.755597,105.9986": {
+    "display_name": "Xã Nhơn Mỹ, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhơn Mỹ",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
