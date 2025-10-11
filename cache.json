@@ -35428,5 +35428,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.9448,107.5656": {
+    "display_name": "Quốc lộ 14, Bhlố, Xã Avương, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "hamlet": "Bhlố",
+      "town": "Xã Avương",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.17669,106.0795": {
+    "display_name": "Phố Vũ, Phường Võ Cường, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "quarter": "Phố Vũ",
+      "suburb": "Phường Võ Cường",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73564,106.6907": {
+    "display_name": "Đường 5B, Xã Bình Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Đường 5B",
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
