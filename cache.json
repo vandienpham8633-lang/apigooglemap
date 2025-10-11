@@ -34415,5 +34415,15 @@
       "country": "Cao Miên",
       "country_code": "kh"
     }
+  },
+  "10.07454,106.4232": {
+    "display_name": "Xã An Định, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Định",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
