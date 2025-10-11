@@ -35255,5 +35255,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.73057,107.1429": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90193,106.8941": {
+    "display_name": "Khu phố 35, Phường Long Bình, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 35",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70743,105.0963": {
+    "display_name": "Châu Đốc, Phường Châu Đốc, Tỉnh An Giang, 89888, Việt Nam",
+    "address": {
+      "city": "Châu Đốc",
+      "county": "Phường Châu Đốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "89888",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62735,106.7367": {
+    "display_name": "Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53806,105.5079": {
+    "display_name": "Xã Cù Lao Giêng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cù Lao Giêng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
