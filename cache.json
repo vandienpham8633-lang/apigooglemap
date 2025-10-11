@@ -34578,5 +34578,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.3471,105.7863": {
+    "display_name": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
