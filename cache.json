@@ -35243,5 +35243,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.73562,106.6907": {
+    "display_name": "Đường 5B, Xã Bình Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Đường 5B",
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
