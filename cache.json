@@ -35745,5 +35745,70 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.61157,108.975": {
+    "display_name": "Phường Bảo An, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Bảo An",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.13639,108.2196": {
+    "display_name": "Thôn 1, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96432,106.6024": {
+    "display_name": "Đường Đặng Thị Thưa, Xã Phú Hòa Đông, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Đặng Thị Thưa",
+      "city_district": "Xã Phú Hòa Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58117,106.2704": {
+    "display_name": "Xã Tân Phước 1, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Phước 1",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.42488,106.6044": {
+    "display_name": "Đường tỉnh 751, Chơn Thành, Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 751",
+      "town": "Chơn Thành",
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09634,108.8863": {
+    "display_name": "Đường tỉnh 623C, Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 623C",
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
