@@ -35308,5 +35308,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.24131,107.2644": {
+    "display_name": "Quốc lộ 14, Quảng Lộc, Sơn Thuỷ, Xã A Lưới 3, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "neighbourhood": "Quảng Lộc",
+      "village": "Sơn Thuỷ",
+      "town": "Xã A Lưới 3",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
