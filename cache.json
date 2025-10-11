@@ -35062,5 +35062,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.3909,108.8082": {
+    "display_name": "Công ty Cổ phần Thép Hòa Phát Dung Quất, Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.39092,108.8082": {
+    "display_name": "Công ty Cổ phần Thép Hòa Phát Dung Quất, Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
