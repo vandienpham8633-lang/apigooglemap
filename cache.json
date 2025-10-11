@@ -34507,5 +34507,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.25803,106.6306": {
+    "display_name": "Xã Tân Thới, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Thới",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.33141,109.2162": {
+    "display_name": "Chí Thạnh, Xã Tuy An Bắc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Chí Thạnh",
+      "county": "Xã Tuy An Bắc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.804807,106.1987": {
+    "display_name": "Tiểu Cần, Xã Tiểu Cần, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiểu Cần",
+      "county": "Xã Tiểu Cần",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
