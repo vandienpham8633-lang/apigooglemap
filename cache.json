@@ -34640,5 +34640,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.05643,106.5931": {
+    "display_name": "Đường tỉnh 748, Phường Phú An, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 748",
+      "city_district": "Phường Phú An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13008,106.6055": {
+    "display_name": "Khu phố 4, Phường Bến Cát, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.24491,108.9267": {
+    "display_name": "Xã Đông Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đông Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
