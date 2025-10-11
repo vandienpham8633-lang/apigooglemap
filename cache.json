@@ -35976,5 +35976,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.55615,106.243": {
+    "display_name": "Ấp 2, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Ấp 2",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.81881,108.2794": {
+    "display_name": "Bình Thành 2, Phường Cư Bao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Bình Thành 2",
+      "county": "Phường Cư Bao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
