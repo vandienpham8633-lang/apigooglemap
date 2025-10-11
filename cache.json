@@ -34563,5 +34563,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.26903,107.2335": {
+    "display_name": "Cường phát Land, 3, Đường Konh Hư, A Ngo, Xã A Lưới 2, Thành phố Huế, 530000, Việt Nam",
+    "address": {
+      "office": "Cường phát Land",
+      "house_number": "3",
+      "road": "Đường Konh Hư",
+      "village": "A Ngo",
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "530000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
