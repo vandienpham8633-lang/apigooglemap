@@ -36037,5 +36037,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.697693,106.2404": {
+    "display_name": "Trà Cú, Xã Trà Cú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Trà Cú",
+      "county": "Xã Trà Cú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79416,106.4875": {
+    "display_name": "Khu Công nghiệp Liên Minh, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
