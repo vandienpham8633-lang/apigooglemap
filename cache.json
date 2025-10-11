@@ -34589,5 +34589,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.77067,107.0112": {
+    "display_name": "Thái gia sơn, Đường tỉnh 759, Xã Phú Trung, Việt Nam",
+    "address": {
+      "shop": "Thái gia sơn",
+      "road": "Đường tỉnh 759",
+      "county": "Xã Phú Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.89227,107.1664": {
+    "display_name": "Xã Cửa Việt, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cửa Việt",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64919,105.7785": {
+    "display_name": "Võ Văn Kiệt, Xã Trường Xuân, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "county": "Xã Trường Xuân",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31072,108.759": {
+    "display_name": "Xã Vĩnh Hảo, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Hảo",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54588,106.3753": {
+    "display_name": "Phường Khánh Hậu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Khánh Hậu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
