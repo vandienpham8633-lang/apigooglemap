@@ -35464,5 +35464,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.57116,106.3595": {
+    "display_name": "Đường tỉnh 834B, Xã Mỹ An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 834B",
+      "county": "Xã Mỹ An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.64646,108.2819": {
+    "display_name": "Kinh Tế Mới, Xã Ninh Gia, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Kinh Tế Mới",
+      "county": "Xã Ninh Gia",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68694,106.6531": {
+    "display_name": "Xã Bình Hưng, Thành phố Hồ Chí Minh, 71812, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71812",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.80747,107.89": {
+    "display_name": "Xã Bàu Cạn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Bàu Cạn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
