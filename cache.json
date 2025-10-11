@@ -35998,5 +35998,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57306,104.9176": {
+    "display_name": "Đại học Y tế, Đại lộ Monivong (93), សហគមន៍​បឹងកក់, សង្កាត់ស្រះចក, Quận Daun Penh, Phnôm Pênh, 120210, Cao Miên",
+    "address": {
+      "amenity": "Đại học Y tế",
+      "road": "Đại lộ Monivong (93)",
+      "hamlet": "សហគមន៍​បឹងកក់",
+      "village": "សង្កាត់ស្រះចក",
+      "town": "Quận Daun Penh",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "120210",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
   }
 }
