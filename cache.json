@@ -35507,5 +35507,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.83481,106.6763": {
+    "display_name": "Hẻm 178 Nguyễn Oanh, Phường Gò Vấp, Thuận An, Thành phố Hồ Chí Minh, 71400, Việt Nam",
+    "address": {
+      "road": "Hẻm 178 Nguyễn Oanh",
+      "suburb": "Phường Gò Vấp",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71400",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.933837,105.0128": {
+    "display_name": "Cái Nước, Xã Cái Nước, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Cái Nước",
+      "county": "Xã Cái Nước",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
