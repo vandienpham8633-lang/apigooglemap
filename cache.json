@@ -34550,5 +34550,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81514,106.6102": {
+    "display_name": "Đường CN1, Tây Thạnh, Phường Tây Thạnh, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Đường CN1",
+      "suburb": "Tây Thạnh",
+      "city_district": "Phường Tây Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
