@@ -35542,5 +35542,77 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.84436,106.3246": {
+    "display_name": "Quốc lộ 34, Xã Trà Lĩnh, Tỉnh Cao Bằng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 34",
+      "town": "Xã Trà Lĩnh",
+      "state": "Tỉnh Cao Bằng",
+      "ISO3166-2-lvl4": "VN-04",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7357,106.6906": {
+    "display_name": "Đường Số 8, Xã Bình Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Đường Số 8",
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.20321,109.2165": {
+    "display_name": "Trần Phú, Phường Nam Nha Trang, Phường Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "suburb": "Phường Nam Nha Trang",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8244,108.2393": {
+    "display_name": "Quốc lộ 14H, Xã Duy Xuyên, Thành phố Đà Nẵng, 51506, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14H",
+      "town": "Xã Duy Xuyên",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.20325,109.2165": {
+    "display_name": "Trần Phú, Phường Nam Nha Trang, Phường Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "suburb": "Phường Nam Nha Trang",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.58266,109.049": {
+    "display_name": "khu phố Gia An Đông, phường Hoài Nhơn Bắc, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Gia An Đông, phường Hoài Nhơn Bắc",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
