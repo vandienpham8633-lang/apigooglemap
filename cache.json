@@ -35898,5 +35898,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.21142,109.1935": {
+    "display_name": "Lê Hồng Phong, Phước Long, Phường Nam Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Lê Hồng Phong",
+      "suburb": "Phước Long",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
