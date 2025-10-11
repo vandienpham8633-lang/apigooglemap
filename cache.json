@@ -34673,5 +34673,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.55367,109.1595": {
+    "display_name": "Ninh An, Xã Bắc Ninh Hòa, Khánh Hòa, 57000, Việt Nam",
+    "address": {
+      "village": "Ninh An",
+      "county": "Xã Bắc Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.096,108.2497": {
+    "display_name": "Kiệt 62 Nguyễn Phan Vinh, Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Kiệt 62 Nguyễn Phan Vinh",
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
