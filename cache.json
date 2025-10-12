@@ -38988,5 +38988,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.12716,106.1284": {
+    "display_name": "Xã Trung Hiệp, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Trung Hiệp",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.36224,105.3319": {
+    "display_name": "Xáy Xà Phìn, Lũng Cú, Xã Lũng Cú, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "hamlet": "Xáy Xà Phìn",
+      "town": "Lũng Cú",
+      "village": "Xã Lũng Cú",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
