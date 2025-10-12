@@ -36786,5 +36786,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.06436,106.6566": {
+    "display_name": "Phú Hoà, Phường Hòa Lợi, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "quarter": "Phú Hoà",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
