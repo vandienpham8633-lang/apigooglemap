@@ -38923,5 +38923,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.905371,106.1147": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.87151,105.5283": {
+    "display_name": "QL.6, Xã Xuân Mai, Lương Sơn, Xã Lương Sơn, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "road": "QL.6",
+      "city_district": "Xã Xuân Mai",
+      "town": "Lương Sơn",
+      "county": "Xã Lương Sơn",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
