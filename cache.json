@@ -38284,5 +38284,68 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.24138,107.6203": {
+    "display_name": "Thôn 2, Xã Nam Thành, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 2",
+      "county": "Xã Nam Thành",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12085,106.6524": {
+    "display_name": "Khu phố 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.97388,107.8897": {
+    "display_name": "Xã Ia Grai, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Grai",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96585,108.1357": {
+    "display_name": "Xã Đak Đoa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Đak Đoa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.49195,108.9215": {
+    "display_name": "Phước Nam, Xã Thuận Nam, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Nam",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.755617,105.9986": {
+    "display_name": "Xã Nhơn Mỹ, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhơn Mỹ",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
