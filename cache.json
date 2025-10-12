@@ -38518,5 +38518,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.687,108.3377": {
+    "display_name": "R'Chai 1, Xã Đức Trọng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "R'Chai 1",
+      "county": "Xã Đức Trọng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
