@@ -36125,5 +36125,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.1967,108.5498": {
+    "display_name": "Xã Bắc Bình, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Bắc Bình",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.41861,105.6957": {
+    "display_name": "Mỹ Thọ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "town": "Mỹ Thọ",
+      "county": "Mỹ Thọ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53874,106.3516": {
+    "display_name": "Phường Khánh Hậu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Khánh Hậu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.83431,109.1921": {
+    "display_name": "Đường tỉnh 640, Thôn Liêm Thuận, Phước Thuận, Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 640",
+      "hamlet": "Thôn Liêm Thuận, Phước Thuận",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
