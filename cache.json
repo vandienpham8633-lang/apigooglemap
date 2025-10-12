@@ -36707,5 +36707,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.622107,106.3": {
+    "display_name": "Đường Trần Văn Long, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đường Trần Văn Long",
+      "town": "Định An",
+      "county": "Xã Đại An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
