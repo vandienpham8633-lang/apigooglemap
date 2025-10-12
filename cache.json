@@ -36337,5 +36337,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.59939,109.0302": {
+    "display_name": "Trung tâm Y tế huyện Ninh Hải, Đường tỉnh 704, Phường Ninh Chử, Khánh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "amenity": "Trung tâm Y tế huyện Ninh Hải",
+      "road": "Đường tỉnh 704",
+      "suburb": "Phường Ninh Chử",
+      "town": "Khánh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84375,106.6129": {
+    "display_name": "Bà Điểm 11, Xã Bà Điểm, Thành phố Hồ Chí Minh, 71507, Việt Nam",
+    "address": {
+      "road": "Bà Điểm 11",
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
