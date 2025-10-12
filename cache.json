@@ -38496,5 +38496,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.47012,109.1331": {
+    "display_name": "Đường Bến Đò, Phường Hòa Thắng, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường Bến Đò",
+      "county": "Phường Hòa Thắng",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
