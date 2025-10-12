@@ -38410,5 +38410,80 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.78198,106.2826": {
+    "display_name": "Xã Thanh Miện, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "town": "Xã Thanh Miện",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7057,105.3545": {
+    "display_name": "Xã Tân Long, Tỉnh Đồng Tháp, 88000, Việt Nam",
+    "address": {
+      "county": "Xã Tân Long",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "88000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.7678,108.1047": {
+    "display_name": "Lang, Xã Quảng Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Lang",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.99136,109.0602": {
+    "display_name": "KP.An Hoà, TT.Ngô Mây, Thôn Phong An, Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.An Hoà, TT.Ngô Mây",
+      "hamlet": "Thôn Phong An",
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.937304,106.3467": {
+    "display_name": "Phường Hòa Thuận, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Hòa Thuận",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.98776,106.1229": {
+    "display_name": "Tĩnh Tây, Bách Sắc, Quảng Tây, Trung Quốc",
+    "address": {
+      "city": "Tĩnh Tây",
+      "state": "Quảng Tây",
+      "ISO3166-2-lvl4": "CN-GX",
+      "country": "Trung Quốc",
+      "country_code": "cn"
+    }
+  },
+  "22.05652,105.0789": {
+    "display_name": "Xã Thái Sơn, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Thái Sơn",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
