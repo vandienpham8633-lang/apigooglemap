@@ -38711,5 +38711,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "-6.468038,108.1099": {
+    "display_name": "Kedokangabus, Indramayu, Tỉnh Tây Java, Jawa, 45260, Indonesia",
+    "address": {
+      "village": "Kedokangabus",
+      "county": "Indramayu",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "postcode": "45260",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
+  },
+  "14.59976,109.0289": {
+    "display_name": "khu phố Bình Đê, phường Hoài Nhơn Bắc, ấp Tuý Sơn, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Bình Đê, phường Hoài Nhơn Bắc",
+      "village": "ấp Tuý Sơn",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
