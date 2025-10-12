@@ -38529,5 +38529,57 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.86627,108.5001": {
+    "display_name": "Xã Chư Krey, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Chư Krey",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.93178,105.0039": {
+    "display_name": "Xã Thuận Hòa, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Thuận Hòa",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5698,108.9977": {
+    "display_name": "Bùi Xuân Phái, Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Bùi Xuân Phái",
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.129225,105.3064": {
+    "display_name": "Xã Định Thành, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Định Thành",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.02864,105.9583": {
+    "display_name": "Xã Ngãi Tứ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Ngãi Tứ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
