@@ -36113,5 +36113,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.87569,106.0598": {
+    "display_name": "Thiên Lộc, Xã Yên Mỹ, Tỉnh Hưng Yên, 17700, Việt Nam",
+    "address": {
+      "village": "Thiên Lộc",
+      "town": "Xã Yên Mỹ",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "postcode": "17700",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
