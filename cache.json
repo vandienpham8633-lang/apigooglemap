@@ -36912,5 +36912,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.26184,107.9899": {
+    "display_name": "Quốc lộ 14, Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.24134,107.6202": {
+    "display_name": "Thôn 2, Xã Nam Thành, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 2",
+      "county": "Xã Nam Thành",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96584,108.1357": {
+    "display_name": "Xã Đak Đoa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Đak Đoa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.24135,107.6202": {
+    "display_name": "Thôn 2, Xã Nam Thành, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 2",
+      "county": "Xã Nam Thành",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
