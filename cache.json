@@ -36597,5 +36597,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.83896,106.6625": {
+    "display_name": "Hẻm 102/166 Lê Văn Thọ, Phường Thông Tây Hội, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "road": "Hẻm 102/166 Lê Văn Thọ",
+      "suburb": "Phường Thông Tây Hội",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.41425,108.3604": {
+    "display_name": "Xã Phan Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Phan Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.84617,108.089": {
+    "display_name": "Xã Vu Gia, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Vu Gia",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80054,107.8654": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "0.5639777,111.4492": {
+    "display_name": "Ketungau Hilir, Sintang, Kalimantan Barat, Kalimantan, Indonesia",
+    "address": {
+      "municipality": "Ketungau Hilir",
+      "county": "Sintang",
+      "state": "Kalimantan Barat",
+      "ISO3166-2-lvl4": "ID-KB",
+      "region": "Kalimantan",
+      "ISO3166-2-lvl3": "ID-KA",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
+  },
+  "14.06344,107.9808": {
+    "display_name": "Xã Biển Hồ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Biển Hồ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.92714,108.66": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
