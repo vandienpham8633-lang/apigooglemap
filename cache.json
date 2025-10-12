@@ -38659,5 +38659,57 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.64979,106.026": {
+    "display_name": "ĐT. 837B, Xã Tân Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT. 837B",
+      "county": "Xã Tân Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9373,108.1455": {
+    "display_name": "Phường Phú Thủy, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Phú Thủy",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.86626,108.5001": {
+    "display_name": "Xã Chư Krey, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Chư Krey",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.23819,104.715": {
+    "display_name": "Xã Kiên Lương, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Kiên Lương",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02678,106.6248": {
+    "display_name": "Khu phố 7, Phường Phú An, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 7",
+      "city_district": "Phường Phú An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
