@@ -38485,5 +38485,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.37504,106.6215": {
+    "display_name": "Quốc lộ 13, Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 13",
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
