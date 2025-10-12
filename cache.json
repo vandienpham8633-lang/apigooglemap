@@ -36823,6 +36823,28 @@
       "country_code": "vn"
     }
   },
+  "9.348634,105.1699": {
+    "display_name": "Xã Thới Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Thới Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.341808,105.7129": {
+    "display_name": "Châu Hưng, Xã Vĩnh Lợi, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "town": "Châu Hưng",
+      "county": "Xã Vĩnh Lợi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
   "9.620364,106.2914": {
     "display_name": "Đường Trần Văn Long, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
     "address": {
