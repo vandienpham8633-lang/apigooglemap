@@ -36856,5 +36856,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.15349,108.8949": {
+    "display_name": "Cổ Luỹ, Xã Tịnh Khê, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Cổ Luỹ",
+      "county": "Xã Tịnh Khê",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02481,106.6242": {
+    "display_name": "Khu phố 7, Phường Phú An, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 7",
+      "city_district": "Phường Phú An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.620421,106.308": {
+    "display_name": "Quốc lộ 53, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 53",
+      "town": "Định An",
+      "county": "Xã Đại An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.24906,108.8839": {
+    "display_name": "Xã Nam Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Nam Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35319,105.7895": {
+    "display_name": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
