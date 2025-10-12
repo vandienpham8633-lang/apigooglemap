@@ -36673,5 +36673,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.13368,108.7013": {
+    "display_name": "Buôn Hýư, Xã Ia Dreh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Buôn Hýư",
+      "county": "Xã Ia Dreh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.6209,106.2962": {
+    "display_name": "Đường Trần Văn Long, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đường Trần Văn Long",
+      "town": "Định An",
+      "county": "Xã Đại An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37399,105.4452": {
+    "display_name": "Phường Long Xuyên, Tỉnh An Giang, 02963, Việt Nam",
+    "address": {
+      "municipality": "Phường Long Xuyên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "02963",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
