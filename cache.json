@@ -36719,5 +36719,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.39789,105.9502": {
+    "display_name": "Xã Mỹ Thiện, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Thiện",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.58491,103.2093": {
+    "display_name": "Xã Nà Tấu, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Nà Tấu",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
