@@ -36180,5 +36180,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.998495,105.6743": {
+    "display_name": "Xã Phong Điền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Phong Điền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.92024,108.2973": {
+    "display_name": "Tân Khai, Điện Dương, Phường Điện Bàn Đông, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "neighbourhood": "Tân Khai",
+      "suburb": "Điện Dương",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
