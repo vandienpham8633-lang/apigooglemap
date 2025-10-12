@@ -38946,5 +38946,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.51267,105.4361": {
+    "display_name": "ĐT. 946, Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 946",
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.94534,108.2278": {
+    "display_name": "Bồ Mừng, Phường Điện Bàn Bắc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "hamlet": "Bồ Mừng",
+      "city": "Phường Điện Bàn Bắc",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.34797,109.1207": {
+    "display_name": "Thôn 11, Mỹ Thắng, Xã Phù Mỹ Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 11, Mỹ Thắng",
+      "county": "Xã Phù Mỹ Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.413232,105.1769": {
+    "display_name": "Xã Trí Phải, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Trí Phải",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
