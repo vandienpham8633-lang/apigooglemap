@@ -36069,5 +36069,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.07943,106.8057": {
+    "display_name": "Đường Huỳnh Văn Nghệ, Khu phố Xóm Đèn, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Huỳnh Văn Nghệ",
+      "quarter": "Khu phố Xóm Đèn",
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.36682,107.0411": {
+    "display_name": "Hồng Thuỷ, Xã A Lưới 1, Thành phố Huế, Việt Nam",
+    "address": {
+      "village": "Hồng Thuỷ",
+      "town": "Xã A Lưới 1",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82561,105.305": {
+    "display_name": "ĐT. 841, Thường Lạc, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 841",
+      "county": "Thường Lạc",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.44182,106.0534": {
+    "display_name": "Xã Minh Tân, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "town": "Xã Minh Tân",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
