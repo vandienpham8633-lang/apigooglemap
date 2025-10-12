@@ -39010,5 +39010,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.51839,108.2879": {
+    "display_name": "Xã Sơn Cẩm Hà, Thành phố Đà Nẵng, 52606, Việt Nam",
+    "address": {
+      "town": "Xã Sơn Cẩm Hà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "52606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.82382,106.6501": {
+    "display_name": "Đường Trường Chinh, Phường Kiến An, Thành phố Hải Phòng, 18000, Việt Nam",
+    "address": {
+      "road": "Đường Trường Chinh",
+      "city": "Phường Kiến An",
+      "ISO3166-2-lvl4": "VN-HP",
+      "postcode": "18000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34893,106.0991": {
+    "display_name": "Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
