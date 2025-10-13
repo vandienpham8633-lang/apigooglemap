@@ -39986,5 +39986,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.70615,105.6638": {
+    "display_name": "Xã Cao Dương, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Cao Dương",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
