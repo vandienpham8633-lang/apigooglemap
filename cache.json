@@ -39897,5 +39897,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.95814,108.2149": {
+    "display_name": "Quốc lộ 1, Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8546,107.476": {
+    "display_name": "Nal, Pơrning, Xã Tây Giang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "neighbourhood": "Nal",
+      "hamlet": "Pơrning",
+      "town": "Xã Tây Giang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
