@@ -40200,5 +40200,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.64228,104.3136": {
+    "display_name": "Quốc lộ 4, Thôn Cán Chư Sử, Xã Si Ma Cai, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 4",
+      "village": "Thôn Cán Chư Sử",
+      "county": "Xã Si Ma Cai",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.815219,106.1856": {
+    "display_name": "Tiểu Cần, Xã Tiểu Cần, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiểu Cần",
+      "county": "Xã Tiểu Cần",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.85756,106.9925": {
+    "display_name": "Lê Văn Duyệt, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Lê Văn Duyệt",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
