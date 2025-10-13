@@ -39932,5 +39932,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.971133,105.6282": {
+    "display_name": "Xã Trường Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trường Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.8605,107.9421": {
+    "display_name": "plei La Puch, Xã Bàu Cạn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "plei La Puch",
+      "county": "Xã Bàu Cạn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
