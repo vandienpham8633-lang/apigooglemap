@@ -40805,5 +40805,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.99239,108.1948": {
+    "display_name": "Quốc lộ 1, Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
