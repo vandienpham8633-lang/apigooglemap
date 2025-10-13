@@ -40525,5 +40525,140 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90558,106.7622": {
+    "display_name": "Thắng Lợi 2, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Thắng Lợi 2",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.44335,105.6171": {
+    "display_name": "Bà Huyện Thanh Quan, Cao Lãnh, Phường Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Bà Huyện Thanh Quan",
+      "city": "Cao Lãnh",
+      "county": "Phường Cao Lãnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71958,106.7011": {
+    "display_name": "Citimart, Đường Nguyễn Hữu Thọ, Xã Nhà Bè, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "shop": "Citimart",
+      "road": "Đường Nguyễn Hữu Thọ",
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87697,106.7262": {
+    "display_name": "Đường Ngô Chí Quốc, Khu phố 19, Phường Tam Bình, Thuận An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường Ngô Chí Quốc",
+      "quarter": "Khu phố 19",
+      "suburb": "Phường Tam Bình",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37042,105.4771": {
+    "display_name": "Xã Hội An, Tỉnh An Giang, 02963, Việt Nam",
+    "address": {
+      "county": "Xã Hội An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "02963",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.29143,107.8101": {
+    "display_name": "Xã Lộc An, Thành phố Huế, 53000, Việt Nam",
+    "address": {
+      "town": "Xã Lộc An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "53000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.85757,106.9925": {
+    "display_name": "Lê Văn Duyệt, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Lê Văn Duyệt",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.4362,108.9818": {
+    "display_name": "Phường Bồng Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "suburb": "Phường Bồng Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90608,107.3925": {
+    "display_name": "Tân Tiến, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Tân Tiến",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05309,106.3826": {
+    "display_name": "Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.64307,109.1818": {
+    "display_name": "Đường cao tốc Quy Nhơn - Chí Thạnh, Thạch Khê, Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Quy Nhơn - Chí Thạnh",
+      "village": "Thạch Khê",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64936,106.6881": {
+    "display_name": "Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
