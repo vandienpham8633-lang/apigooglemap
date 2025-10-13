@@ -40020,5 +40020,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.33244,107.7786": {
+    "display_name": "Hà Nam, Xã Lộc An, Thành phố Huế, Việt Nam",
+    "address": {
+      "village": "Hà Nam",
+      "town": "Xã Lộc An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.905376,106.1146": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
