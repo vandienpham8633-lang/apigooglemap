@@ -39953,5 +39953,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.96255,106.7127": {
+    "display_name": "Bình Thuận 2, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Bình Thuận 2",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
