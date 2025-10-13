@@ -39212,5 +39212,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.28541,106.1382": {
+    "display_name": "Sân Cu, Hòa Thành, Phường Long Hoa, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "road": "Sân Cu",
+      "town": "Hòa Thành",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
