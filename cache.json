@@ -39392,5 +39392,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.34604,106.0998": {
+    "display_name": "ĐT.785 - Giồng Cà, Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT.785 - Giồng Cà",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.11097,106.6282": {
+    "display_name": "887, Xã Tân Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "887",
+      "county": "Xã Tân Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.52643,106.2002": {
+    "display_name": "Cảng Cá Trần Đề, Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "industrial": "Cảng Cá Trần Đề",
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
