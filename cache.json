@@ -39875,5 +39875,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.57719,108.3045": {
+    "display_name": "Thôn 1, Xã Dang Kang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Dang Kang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.89172,106.5762": {
+    "display_name": "Đường Hồ Chí Minh nhánh Tây, Xã Hướng Lập, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Chí Minh nhánh Tây",
+      "town": "Xã Hướng Lập",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
