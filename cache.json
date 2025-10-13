@@ -40815,5 +40815,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.929017,105.0371": {
+    "display_name": "Xẻo Dinh, Xã Tây Yên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Xẻo Dinh",
+      "county": "Xã Tây Yên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.95593,105.8289": {
+    "display_name": "Ngõ 46 Bằng B, Phường Hoàng Liệt, Văn Điển, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "road": "Ngõ 46 Bằng B",
+      "suburb": "Phường Hoàng Liệt",
+      "town": "Văn Điển",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35955,108.8095": {
+    "display_name": "Võ Văn Kiệt, Công ty Cổ phần Thép Hòa Phát Dung Quất, Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
