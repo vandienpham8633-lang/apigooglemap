@@ -39297,5 +39297,90 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.41451,105.9063": {
+    "display_name": "Xã Mỹ Thiện, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Thiện",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09574,108.8866": {
+    "display_name": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.05633,108.184": {
+    "display_name": "05, Đường Nguyễn Đăng, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "05",
+      "road": "Đường Nguyễn Đăng",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53298,109.1814": {
+    "display_name": "Tỉnh lộ 1A, Xã Bắc Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 1A",
+      "county": "Xã Bắc Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80844,106.4555": {
+    "display_name": "Đức Hòa, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Đức Hòa",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.27299,107.9617": {
+    "display_name": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.958,108.7756": {
+    "display_name": "Xã Thiện Tín, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Thiện Tín",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.41877,106.1327": {
+    "display_name": "Tân Lợi, Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Lợi",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
