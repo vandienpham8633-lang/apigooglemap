@@ -39788,5 +39788,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.76375,105.6342": {
+    "display_name": "Đường tỉnh 263, Xã Hợp Thành, Tỉnh Thái Nguyên, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 263",
+      "town": "Xã Hợp Thành",
+      "state": "Tỉnh Thái Nguyên",
+      "ISO3166-2-lvl4": "VN-69",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8007,107.8658": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
