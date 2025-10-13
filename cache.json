@@ -39710,5 +39710,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.79588,107.6985": {
+    "display_name": "Chư Ty, Xã Đức Cơ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Chư Ty",
+      "county": "Xã Đức Cơ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "24.38639,91.41312": {
+    "display_name": "Main Road, হবিগঞ্জ, হবিগঞ্জ সদর উপজেলা, হবিগঞ্জ জেলা, সিলেট বিভাগ, 3300, Băng-la-đét",
+    "address": {
+      "road": "Main Road",
+      "city": "হবিগঞ্জ",
+      "county": "হবিগঞ্জ সদর উপজেলা",
+      "state_district": "হবিগঞ্জ জেলা",
+      "ISO3166-2-lvl5": "BD-20",
+      "state": "সিলেট বিভাগ",
+      "ISO3166-2-lvl4": "BD-G",
+      "postcode": "3300",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
+  },
+  "15.99247,108.2569": {
+    "display_name": "Thượng Đức, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Thượng Đức",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63393,105.166": {
+    "display_name": "Xã Vĩnh Thạnh Trung, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Thạnh Trung",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
