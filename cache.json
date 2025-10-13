@@ -39670,5 +39670,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86082,106.7739": {
+    "display_name": "Linh Trung, Khu phố 15, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "road": "Linh Trung",
+      "quarter": "Khu phố 15",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.282903,105.7267": {
+    "display_name": "Trường THPT Phan Ngọc Hiển, 51, Cao Văn Lầu, Phường Vĩnh Trạch, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Phan Ngọc Hiển",
+      "house_number": "51",
+      "road": "Cao Văn Lầu",
+      "county": "Phường Vĩnh Trạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8608,106.7739": {
+    "display_name": "Linh Trung, Khu phố 15, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "road": "Linh Trung",
+      "quarter": "Khu phố 15",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
