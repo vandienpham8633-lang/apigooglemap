@@ -39544,5 +39544,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.87784,108.3746": {
+    "display_name": "Cửa Đại, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "suburb": "Cửa Đại",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87782,108.3746": {
+    "display_name": "Cửa Đại, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "suburb": "Cửa Đại",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8778,108.3746": {
+    "display_name": "Cửa Đại, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "suburb": "Cửa Đại",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
