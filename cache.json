@@ -39199,5 +39199,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.38614,106.2344": {
+    "display_name": "Bệnh viện huyện Dương Minh Châu, Đường Nguyễn Chí Thanh, Dương Minh Châu, Xã Dương Minh Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện huyện Dương Minh Châu",
+      "road": "Đường Nguyễn Chí Thanh",
+      "town": "Dương Minh Châu",
+      "county": "Xã Dương Minh Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
