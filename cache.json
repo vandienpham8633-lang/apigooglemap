@@ -39225,5 +39225,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.09572,108.8867": {
+    "display_name": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93444,107.0019": {
+    "display_name": "Trảng Bom, Xã Trảng Bom, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "town": "Trảng Bom",
+      "county": "Xã Trảng Bom",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.65366,109.2048": {
+    "display_name": "Xã Vạn Hưng, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Vạn Hưng",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.26038,106.1137": {
+    "display_name": "Xã Phú Phụng, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Phú Phụng",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
