@@ -39425,5 +39425,65 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81436,106.7913": {
+    "display_name": "Cầu Phú Hữu, Khu công nghệ cao Thành phố Hồ Chí Minh, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71350, Việt Nam",
+    "address": {
+      "road": "Cầu Phú Hữu",
+      "industrial": "Khu công nghệ cao Thành phố Hồ Chí Minh",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77918,106.946": {
+    "display_name": "Kim Sơn, Long Thành, Xã Long Thành, Tỉnh Đồng Nai, 76009, Việt Nam",
+    "address": {
+      "quarter": "Kim Sơn",
+      "town": "Long Thành",
+      "county": "Xã Long Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59713,105.3426": {
+    "display_name": "Hải Thượng Lãn Ông, Phú Mỹ, Xã Phú Tân, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Hải Thượng Lãn Ông",
+      "town": "Phú Mỹ",
+      "county": "Xã Phú Tân",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25219,109.0916": {
+    "display_name": "Đường Nguyễn Trãi, Xã Diên Lạc, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Trãi",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.37282,108.8152": {
+    "display_name": "Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
