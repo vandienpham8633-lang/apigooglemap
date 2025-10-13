@@ -39522,5 +39522,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.10898,106.1329": {
+    "display_name": "Xã Trung Hiệp, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Trung Hiệp",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42182,107.2892": {
+    "display_name": "Hoàng Sa, Hải Phúc, Xã Phước Hải, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Hoàng Sa",
+      "neighbourhood": "Hải Phúc",
+      "town": "Xã Phước Hải",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
