@@ -40989,5 +40989,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.52009,105.8475": {
+    "display_name": "Cầu Tháp Mười, Mỹ An, Tháp Mười, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Cầu Tháp Mười",
+      "town": "Mỹ An",
+      "county": "Tháp Mười",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
