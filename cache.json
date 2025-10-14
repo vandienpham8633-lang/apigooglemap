@@ -43353,5 +43353,86 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.85639,108.3634": {
+    "display_name": "Đông Anh 3, Thôn 9, Xã Nam Ban Lâm Hà, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Đông Anh 3",
+      "village": "Thôn 9",
+      "county": "Xã Nam Ban Lâm Hà",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.45141,105.43": {
+    "display_name": "Xã Nhơn Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.40995,108.3659": {
+    "display_name": "Xã Phan Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Phan Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82217,106.5898": {
+    "display_name": "Khu công nghiệp Vĩnh Lộc, Phường Bình Tân, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Vĩnh Lộc",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82216,106.5896": {
+    "display_name": "Chốt 2 KCN Vĩnh Lộc, Đường số 2, Khu công nghiệp Vĩnh Lộc, Phường Bình Tân, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "highway": "Chốt 2 KCN Vĩnh Lộc",
+      "road": "Đường số 2",
+      "industrial": "Khu công nghiệp Vĩnh Lộc",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.19364,106.0612": {
+    "display_name": "Đường Chu Văn An, Thị Chung, Phường Kinh Bắc, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Chu Văn An",
+      "quarter": "Thị Chung",
+      "suburb": "Phường Kinh Bắc",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.30808,106.4153": {
+    "display_name": "Xã Giao Long, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Giao Long",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
