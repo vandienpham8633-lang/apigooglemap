@@ -40899,5 +40899,15 @@
       "country": "Lào",
       "country_code": "la"
     }
+  },
+  "12.53078,109.0306": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
