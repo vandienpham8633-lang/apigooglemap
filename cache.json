@@ -43174,5 +43174,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.23975,109.1908": {
+    "display_name": "Violet Cafe, Hồng Bàng, Phước Hòa, Phường Nha Trang, Khánh Hòa, 57100, Việt Nam",
+    "address": {
+      "amenity": "Violet Cafe",
+      "road": "Hồng Bàng",
+      "suburb": "Phước Hòa",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
