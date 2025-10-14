@@ -44377,5 +44377,68 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.09629,108.8864": {
+    "display_name": "Đường tỉnh 623C, Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 623C",
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.85757,106.9926": {
+    "display_name": "Lê Văn Duyệt, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Lê Văn Duyệt",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.3419,106.1593": {
+    "display_name": "Đường tỉnh 784, Phường Ninh Thạnh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 784",
+      "county": "Phường Ninh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81275,106.4905": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43965,106.5694": {
+    "display_name": "Xã Thuận Mỹ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thuận Mỹ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.67327,105.6667": {
+    "display_name": "Phường Thành Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Thành Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
