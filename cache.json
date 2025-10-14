@@ -42196,5 +42196,68 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.19382,106.0613": {
+    "display_name": "Đường H100, Yên Mẫn, Phường Kinh Bắc, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường H100",
+      "quarter": "Yên Mẫn",
+      "suburb": "Phường Kinh Bắc",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97876,107.1035": {
+    "display_name": "Tân Việt, Xã Bàu Hàm, Việt Nam",
+    "address": {
+      "village": "Tân Việt",
+      "county": "Xã Bàu Hàm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97896,107.1036": {
+    "display_name": "Tân Hợp, Xã Bàu Hàm, Việt Nam",
+    "address": {
+      "village": "Tân Hợp",
+      "county": "Xã Bàu Hàm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.869891,105.1551": {
+    "display_name": "Xà Xiêm, Xã Bình An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Xà Xiêm",
+      "county": "Xã Bình An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.869899,105.1552": {
+    "display_name": "Xà Xiêm, Xã Bình An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Xà Xiêm",
+      "county": "Xã Bình An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.06645,105.7204": {
+    "display_name": "Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
