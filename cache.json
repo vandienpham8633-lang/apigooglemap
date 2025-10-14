@@ -46253,5 +46253,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97979,106.7333": {
+    "display_name": "Đường Bình Chuẩn 39, Khu phố Bình Phước B, Phường An Phú, Thành phố Hồ Chí Minh, 75256, Việt Nam",
+    "address": {
+      "road": "Đường Bình Chuẩn 39",
+      "quarter": "Khu phố Bình Phước B",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75256",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
