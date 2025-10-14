@@ -46277,5 +46277,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.43384,108.1144": {
+    "display_name": "Xã Ia Le, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Le",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.905307,106.1147": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
