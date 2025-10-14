@@ -44042,5 +44042,212 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.02624,105.0831": {
+    "display_name": "Liên Hương, Nam Cao, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Liên Hương",
+      "quarter": "Nam Cao",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.53772,107.5035": {
+    "display_name": "Xã Đan Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Đan Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75186,107.3529": {
+    "display_name": "Ấp 2, Xã Sông Ray, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 2",
+      "county": "Xã Sông Ray",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.04266,105.8257": {
+    "display_name": "Đường 5D, Khu công nghiệp Bình Minh, Bình Minh, Phường Cái Vồn, Tỉnh Vĩnh Long, 94111, Việt Nam",
+    "address": {
+      "road": "Đường 5D",
+      "industrial": "Khu công nghiệp Bình Minh",
+      "town": "Bình Minh",
+      "county": "Phường Cái Vồn",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.406362,105.265": {
+    "display_name": "Xã Vĩnh Phong, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Phong",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05132,105.7181": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.22253,108.6377": {
+    "display_name": "Đường Tịnh Phong – Trà Bình, Xã Ba Gia, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Tịnh Phong – Trà Bình",
+      "county": "Xã Ba Gia",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.0103,108.4737": {
+    "display_name": "Xã Lạc Dương, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Lạc Dương",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.82872,109.1611": {
+    "display_name": "KP.Công Chánh, TT.Tuy Phước, Thôn Vinh Thạnh 1, Phước Lộc, Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "quarter": "KP.Công Chánh, TT.Tuy Phước",
+      "hamlet": "Thôn Vinh Thạnh 1, Phước Lộc",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81258,106.4908": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66934,107.0338": {
+    "display_name": "Ấp 1A, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 1A",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43961,106.5694": {
+    "display_name": "Xã Thuận Mỹ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thuận Mỹ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38855,106.2306": {
+    "display_name": "Xã Long Định, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Định",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91338,107.1485": {
+    "display_name": "Ấp 9/4, Xã Dầu Giây, Việt Nam",
+    "address": {
+      "village": "Ấp 9/4",
+      "county": "Xã Dầu Giây",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91095,106.5828": {
+    "display_name": "Xã Hóc Môn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.54153,108.4053": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81249,106.4902": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.61294,105.076": {
+    "display_name": "Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Mỹ Tây",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.54615,107.49": {
+    "display_name": "Xã Đan Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Đan Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
