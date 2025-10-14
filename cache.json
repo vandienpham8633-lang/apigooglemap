@@ -44000,5 +44000,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.22253,108.6378": {
+    "display_name": "Đường Tịnh Phong – Trà Bình, Xã Ba Gia, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Tịnh Phong – Trà Bình",
+      "county": "Xã Ba Gia",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81261,106.4904": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.49858,109.0823": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.49861,109.0822": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
