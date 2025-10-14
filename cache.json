@@ -46308,5 +46308,104 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.14345,106.552": {
+    "display_name": "Tân Lập, Phường Long Nguyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Tân Lập",
+      "city_district": "Phường Long Nguyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01474,106.4016": {
+    "display_name": "Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.06519,105.9934": {
+    "display_name": "ĐT. 904, Tam Bình, Xã Tam Bình, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 904",
+      "town": "Tam Bình",
+      "county": "Xã Tam Bình",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95232,107.0499": {
+    "display_name": "Nhân Hoà, Xã Hưng Thịnh, Việt Nam",
+    "address": {
+      "village": "Nhân Hoà",
+      "county": "Xã Hưng Thịnh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.75147,108.3987": {
+    "display_name": "Xã Thăng An, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng An",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.98931,108.1476": {
+    "display_name": "Xã Hòa Vang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hòa Vang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52465,106.8949": {
+    "display_name": "Tân Trà 1, Đồng Xoài, Phường Bình Phước, Tỉnh Đồng Nai, 67111, Việt Nam",
+    "address": {
+      "quarter": "Tân Trà 1",
+      "city": "Đồng Xoài",
+      "county": "Phường Bình Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "67111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.94273,108.2661": {
+    "display_name": "Đường số 8, Khu công nghiệp Điện Nam – Điện Ngọc, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường số 8",
+      "industrial": "Khu công nghiệp Điện Nam – Điện Ngọc",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74189,106.6885": {
+    "display_name": "Hẻm 290C Dương Bá Trạc, Khu phố 8, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Hẻm 290C Dương Bá Trạc",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
