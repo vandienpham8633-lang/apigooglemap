@@ -46266,5 +46266,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.32008,108.914": {
+    "display_name": "Cảng Tổng hợp Cà Ná, Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "industrial": "Cảng Tổng hợp Cà Ná",
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
