@@ -42789,5 +42789,124 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76478,106.6668": {
+    "display_name": "Hẻm 220 Nguyễn Tiểu La, Khu phố 22, Phường Diên Hồng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72415, Việt Nam",
+    "address": {
+      "road": "Hẻm 220 Nguyễn Tiểu La",
+      "quarter": "Khu phố 22",
+      "suburb": "Phường Diên Hồng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72415",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.87433,107.7131": {
+    "display_name": "Xã Ia Dơk, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Dơk",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.19371,106.0612": {
+    "display_name": "Đường Chu Văn An, Thị Chung, Phường Kinh Bắc, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Chu Văn An",
+      "quarter": "Thị Chung",
+      "suburb": "Phường Kinh Bắc",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73126,106.5959": {
+    "display_name": "Đường Tập Đoàn 6B, Khu công nghiệp Tân Tạo, Tân Tạo, Phường Tân Tạo, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Đường Tập Đoàn 6B",
+      "industrial": "Khu công nghiệp Tân Tạo",
+      "suburb": "Tân Tạo",
+      "city_district": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82311,105.5273": {
+    "display_name": "ĐT. 842, Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 842",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.75996,107.2629": {
+    "display_name": "Xã Hùng Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hùng Sơn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42042,106.7187": {
+    "display_name": "Đường tỉnh 873B, Xã Tân Đông, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 873B",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.081172,105.1265": {
+    "display_name": "Xã Lương Thế Trân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Lương Thế Trân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.21634,109.0433": {
+    "display_name": "Đường tỉnh 653C, Xã Suối Hiệp, Xã Suối Dầu, Khánh Hòa, 65000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 653C",
+      "suburb": "Xã Suối Hiệp",
+      "county": "Xã Suối Dầu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "65000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "-6.499362,108.1484": {
+    "display_name": "Jatimulya, Indramayu, Tỉnh Tây Java, Jawa, 45260, Indonesia",
+    "address": {
+      "village": "Jatimulya",
+      "county": "Indramayu",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "postcode": "45260",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
   }
 }
