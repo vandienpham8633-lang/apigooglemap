@@ -45518,5 +45518,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7394,106.8972": {
+    "display_name": "Đất Mới, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Đất Mới",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8872,106.6339": {
+    "display_name": "Hẻm 218 Bùi Văn Ngữ, Tân Thới Hiệp, Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh, 71716, Việt Nam",
+    "address": {
+      "road": "Hẻm 218 Bùi Văn Ngữ",
+      "suburb": "Tân Thới Hiệp",
+      "city": "Phường Tân Thới Hiệp",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71716",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87776,107.477": {
+    "display_name": "Ấp 1, Xã Xuân Hòa, 76618, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "county": "Xã Xuân Hòa",
+      "postcode": "76618",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.35086,105.5282": {
+    "display_name": "Xã Vĩnh Thanh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Thanh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.02102,108.8965": {
+    "display_name": "Liên Hòa, Xã Khánh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Liên Hòa",
+      "county": "Xã Khánh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
