@@ -41267,5 +41267,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.40777,108.894": {
+    "display_name": "Quốc lộ 1, Phước Nam, Xã Thuận Nam, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "village": "Phước Nam",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
