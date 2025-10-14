@@ -44646,5 +44646,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81237,106.4905": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.46565,105.5886": {
+    "display_name": "Cao Lãnh, Phường Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "city": "Cao Lãnh",
+      "county": "Phường Cao Lãnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.46567,105.5886": {
+    "display_name": "Cao Lãnh, Phường Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "city": "Cao Lãnh",
+      "county": "Phường Cao Lãnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81245,106.4902": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.15798,107.876": {
+    "display_name": "Quốc lộ 28, N'Doh, Xã Quảng Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28",
+      "village": "N'Doh",
+      "county": "Xã Quảng Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.59457,108.0088": {
+    "display_name": "Xã Ia Ko, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Ko",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66387,105.4531": {
+    "display_name": "Xã Phú Thọ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Phú Thọ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
