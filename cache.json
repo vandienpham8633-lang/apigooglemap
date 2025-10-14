@@ -41899,5 +41899,110 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.49869,109.0823": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52005,106.1127": {
+    "display_name": "Xã Thạnh Bình, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Bình",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93886,105.1121": {
+    "display_name": "Long Bình, Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Long Bình",
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.87576,109.043": {
+    "display_name": "Đường tỉnh 638, Thôn Nam Tượng 2, Nhơn Tân, Thọ Lộc, Xã An Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 638",
+      "hamlet": "Thôn Nam Tượng 2, Nhơn Tân",
+      "village": "Thọ Lộc",
+      "county": "Xã An Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93889,105.1121": {
+    "display_name": "Long Bình, Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Long Bình",
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.35756,106.831": {
+    "display_name": "Đường tỉnh 741, Xã Phú Giáo, Thành phố Hồ Chí Minh, Xã Đồng Phú, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 741",
+      "city_district": "Xã Phú Giáo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-39",
+      "county": "Xã Đồng Phú",
+      "state": "Tỉnh Đồng Nai",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9389,105.1121": {
+    "display_name": "Long Bình, Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Long Bình",
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.35754,106.8311": {
+    "display_name": "Đường tỉnh 741, Xã Phú Giáo, Thành phố Hồ Chí Minh, Xã Đồng Phú, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 741",
+      "city_district": "Xã Phú Giáo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-39",
+      "county": "Xã Đồng Phú",
+      "state": "Tỉnh Đồng Nai",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.87577,109.043": {
+    "display_name": "Đường tỉnh 638, Thôn Nam Tượng 2, Nhơn Tân, Thọ Lộc, Xã An Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 638",
+      "hamlet": "Thôn Nam Tượng 2, Nhơn Tân",
+      "village": "Thọ Lộc",
+      "county": "Xã An Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
