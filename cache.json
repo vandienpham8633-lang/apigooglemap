@@ -43188,5 +43188,125 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.05145,105.7181": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.66822,106.8196": {
+    "display_name": "Xã Long Hà, Việt Nam",
+    "address": {
+      "county": "Xã Long Hà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.41479,106.4029": {
+    "display_name": "Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.00924,108.7257": {
+    "display_name": "Xã Sơn Mai, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Mai",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35371,106.1532": {
+    "display_name": "ĐH.35, Xã Long Tiên, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐH.35",
+      "county": "Xã Long Tiên",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83632,106.6329": {
+    "display_name": "Hẻm 221 Phan Huy Ích, Phường An Hội Tây, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Hẻm 221 Phan Huy Ích",
+      "suburb": "Phường An Hội Tây",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37884,105.4834": {
+    "display_name": "Xã Hội An, Tỉnh An Giang, 02963, Việt Nam",
+    "address": {
+      "county": "Xã Hội An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "02963",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93355,106.7092": {
+    "display_name": "Thuận Giao 31, Bình Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75214, Việt Nam",
+    "address": {
+      "road": "Thuận Giao 31",
+      "quarter": "Bình Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75214",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93451,108.6328": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.85719,108.299": {
+    "display_name": "Xã Nam Phước, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "town": "Xã Nam Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8492,106.7487": {
+    "display_name": "Phạm Văn Đồng, Khu phố 82, Phường Hiệp Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71221, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Đồng",
+      "quarter": "Khu phố 82",
+      "suburb": "Phường Hiệp Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71221",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
