@@ -40886,5 +40886,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.981,102.6107": {
+    "display_name": "ບ​. ສະຫ່ວາງ, Viêng Chăn, ເມືອງຈັນທະບູລີ, ນະຄອນຫຼວງວຽງຈັນ, 01009, Lào",
+    "address": {
+      "village": "ບ​. ສະຫ່ວາງ",
+      "city": "Viêng Chăn",
+      "county": "ເມືອງຈັນທະບູລີ",
+      "state": "ນະຄອນຫຼວງວຽງຈັນ",
+      "ISO3166-2-lvl4": "LA-VT",
+      "postcode": "01009",
+      "country": "Lào",
+      "country_code": "la"
+    }
   }
 }
