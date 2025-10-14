@@ -43470,5 +43470,54 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.66253,106.5994": {
+    "display_name": "An Bình, Bình Long, Phường Bình Long, Tỉnh Đồng Nai, 67857, Việt Nam",
+    "address": {
+      "quarter": "An Bình",
+      "town": "Bình Long",
+      "county": "Phường Bình Long",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "67857",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.23435,106.6228": {
+    "display_name": "Đường D3, Khu công nghiệp Bàu Bàng, Xã Bàu Bàng, Thành phố Hồ Chí Minh, 75751, Việt Nam",
+    "address": {
+      "road": "Đường D3",
+      "industrial": "Khu công nghiệp Bàu Bàng",
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75751",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.19373,106.0613": {
+    "display_name": "Đường Chu Văn An, Thị Chung, Phường Kinh Bắc, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Chu Văn An",
+      "quarter": "Thị Chung",
+      "suburb": "Phường Kinh Bắc",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.75174,108.2523": {
+    "display_name": "Xã Kon Chiêng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Kon Chiêng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
