@@ -46060,5 +46060,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.99166,105.8325": {
+    "display_name": "Phố Trần Điền, Khu đô thị Định Công, Phường Phương Liệt, Hà Nội, 11718, Việt Nam",
+    "address": {
+      "road": "Phố Trần Điền",
+      "residential": "Khu đô thị Định Công",
+      "suburb": "Phường Phương Liệt",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "11718",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
