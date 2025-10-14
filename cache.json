@@ -40852,5 +40852,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.34252,108.0085": {
+    "display_name": "Quyết Thắng, Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Quyết Thắng",
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.94119,105.0173": {
+    "display_name": "2 Tháng 9, Cái Nước, Xã Cái Nước, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "2 Tháng 9",
+      "town": "Cái Nước",
+      "county": "Xã Cái Nước",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76294,107.7202": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
