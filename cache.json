@@ -45138,5 +45138,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.73945,103.3487": {
+    "display_name": "Quốc lộ 6, Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 6",
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62257,108.0025": {
+    "display_name": "Đường Phan Văn Đạt, Tổ dân phố 12, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Phan Văn Đạt",
+      "suburb": "Tổ dân phố 12",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
