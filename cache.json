@@ -40909,5 +40909,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.91981,109.0909": {
+    "display_name": "Đường Hồng Lĩnh, KV.Nam Phương Danh, P.Đập Đá, Đập Đá, Phường An Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Hồng Lĩnh",
+      "quarter": "KV.Nam Phương Danh, P.Đập Đá",
+      "suburb": "Đập Đá",
+      "county": "Phường An Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00732,108.8835": {
+    "display_name": "Xã Khánh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Khánh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
