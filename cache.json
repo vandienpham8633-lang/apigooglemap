@@ -46407,5 +46407,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.14347,106.552": {
+    "display_name": "Tân Lập, Phường Long Nguyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Tân Lập",
+      "city_district": "Phường Long Nguyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17157,107.7853": {
+    "display_name": "Quốc lộ 55, Bản 1, Xã Đồng Kho, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 55",
+      "village": "Bản 1",
+      "county": "Xã Đồng Kho",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
