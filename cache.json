@@ -42062,5 +42062,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95768,106.9133": {
+    "display_name": "Khu phố 36, Phường Long Bình, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 36",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
