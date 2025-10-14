@@ -43641,5 +43641,83 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.53776,108.8975": {
+    "display_name": "Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05136,105.7181": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.48145,107.8675": {
+    "display_name": "Nam Nghĩa, Xã Nam Đà, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Nam Nghĩa",
+      "county": "Xã Nam Đà",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.08847,109.2939": {
+    "display_name": "Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05137,105.7182": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.61522,106.3035": {
+    "display_name": "Quốc lộ 62, Xã Tân Tây, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 62",
+      "county": "Xã Tân Tây",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.23437,106.6227": {
+    "display_name": "Đường D3, Khu công nghiệp Bàu Bàng, Xã Bàu Bàng, Thành phố Hồ Chí Minh, 75751, Việt Nam",
+    "address": {
+      "road": "Đường D3",
+      "industrial": "Khu công nghiệp Bàu Bàng",
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75751",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
