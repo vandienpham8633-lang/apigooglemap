@@ -41823,5 +41823,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.37184,105.6843": {
+    "display_name": "Tân Khánh Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Tân Khánh Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.18759,106.6961": {
+    "display_name": "Lê Phát Dân, Bình Đại, Xã Bình Đại, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Lê Phát Dân",
+      "town": "Bình Đại",
+      "county": "Xã Bình Đại",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.35332,108.6873": {
+    "display_name": "Trường PTDNBT THCS Vĩnh Sơn, ĐH.33 (Vĩnh Hảo - Vĩnh Sơn), Làng Suối Đá, Vĩnh Sơn, Xã Vĩnh Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "amenity": "Trường PTDNBT THCS Vĩnh Sơn",
+      "road": "ĐH.33 (Vĩnh Hảo - Vĩnh Sơn)",
+      "village": "Làng Suối Đá, Vĩnh Sơn",
+      "county": "Xã Vĩnh Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.49867,109.0823": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.2048,106.7206": {
+    "display_name": "Đường tỉnh 741, Xã Phước Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 741",
+      "city_district": "Xã Phước Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37185,105.6843": {
+    "display_name": "Tân Khánh Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Tân Khánh Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.03273,106.517": {
+    "display_name": "Xã An Hiệp, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Hiệp",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
