@@ -42259,5 +42259,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.869908,105.1552": {
+    "display_name": "Xà Xiêm, Xã Bình An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Xà Xiêm",
+      "county": "Xã Bình An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.632427,104.9741": {
+    "display_name": "Đông Bình, Xã An Minh, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Đông Bình",
+      "county": "Xã An Minh",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37181,105.6844": {
+    "display_name": "Tân Khánh Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Tân Khánh Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
