@@ -41255,5 +41255,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.03083,105.8911": {
+    "display_name": "Hẻm 188/35/20 Phố Tư Đình, Phường Long Biên, Hà Nội, 08443, Việt Nam",
+    "address": {
+      "road": "Hẻm 188/35/20 Phố Tư Đình",
+      "suburb": "Phường Long Biên",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "08443",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
