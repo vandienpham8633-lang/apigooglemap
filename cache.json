@@ -43148,5 +43148,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78216,106.7507": {
+    "display_name": "Đường 52 - BTT, Khu phố 23, Phường Bình Trưng, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Đường 52 - BTT",
+      "quarter": "Khu phố 23",
+      "suburb": "Phường Bình Trưng",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78213,106.7507": {
+    "display_name": "Đường 52 - BTT, Khu phố 23, Phường Bình Trưng, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Đường 52 - BTT",
+      "quarter": "Khu phố 23",
+      "suburb": "Phường Bình Trưng",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
