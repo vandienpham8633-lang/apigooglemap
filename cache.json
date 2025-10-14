@@ -44897,5 +44897,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.66513,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.08506,105.6985": {
+    "display_name": "Phường Thới An Đông, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới An Đông",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
