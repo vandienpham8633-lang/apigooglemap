@@ -46013,5 +46013,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8799,106.8102": {
+    "display_name": "Nguyễn Bỉnh Khiêm, Khu đô thị Đại học Quốc gia TP.HCM, Tân Lập, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "road": "Nguyễn Bỉnh Khiêm",
+      "residential": "Khu đô thị Đại học Quốc gia TP.HCM",
+      "quarter": "Tân Lập",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.63156,108.1105": {
+    "display_name": "Xã Ia Hrú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.3399,109.2402": {
+    "display_name": "Đường Hội Phú, Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Hội Phú",
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.69651,107.1733": {
+    "display_name": "Hải Lệ, Phường Quảng Trị, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Hải Lệ",
+      "city": "Phường Quảng Trị",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
