@@ -44722,5 +44722,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89662,106.9143": {
+    "display_name": "Phường Phước Tân, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Phường Phước Tân",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
