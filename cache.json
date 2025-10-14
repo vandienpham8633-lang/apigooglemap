@@ -41011,5 +41011,24 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87785,107.4769": {
+    "display_name": "Ấp 1, Xã Xuân Hòa, 76618, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "county": "Xã Xuân Hòa",
+      "postcode": "76618",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.6088,107.177": {
+    "display_name": "Thôn 6, Xã Phước Sơn, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Phước Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
