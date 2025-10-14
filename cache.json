@@ -45073,5 +45073,70 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.64286,109.0511": {
+    "display_name": "Xã Ninh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Ninh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.55254,107.6638": {
+    "display_name": "Thuận An, Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Thuận An",
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.02031,108.8563": {
+    "display_name": "Du Dai, Xã Tây Khánh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Du Dai",
+      "county": "Xã Tây Khánh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.94245,108.2671": {
+    "display_name": "Đường số 8, Khu công nghiệp Điện Nam – Điện Ngọc, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường số 8",
+      "industrial": "Khu công nghiệp Điện Nam – Điện Ngọc",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.77796,108.0716": {
+    "display_name": "Quyết Thắng, Ea Pôk, Xã Quảng Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Quyết Thắng",
+      "town": "Ea Pôk",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34427,106.0821": {
+    "display_name": "Xã Hiệp Đức, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Hiệp Đức",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
