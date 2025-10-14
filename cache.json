@@ -43134,5 +43134,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78217,106.7507": {
+    "display_name": "Lê Hữu Kiều, KDC Thạnh Mỹ Lợi, Khu phố 22, Phường Bình Trưng, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Lê Hữu Kiều",
+      "residential": "KDC Thạnh Mỹ Lợi",
+      "quarter": "Khu phố 22",
+      "suburb": "Phường Bình Trưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
