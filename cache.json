@@ -41278,5 +41278,75 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.59338,107.9392": {
+    "display_name": "Đường CN 1, Khu công nghiệp Hòa Phú, Thôn 12, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 1",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 12",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74311,106.6758": {
+    "display_name": "Hẻm 769/35/25 Phạm Thế Hiển, Khu phố 41, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Hẻm 769/35/25 Phạm Thế Hiển",
+      "quarter": "Khu phố 41",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34602,106.0999": {
+    "display_name": "ĐT.785 - Giồng Cà, Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT.785 - Giồng Cà",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.60815,107.0482": {
+    "display_name": "Tân Ngọc, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "neighbourhood": "Tân Ngọc",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94599,106.2446": {
+    "display_name": "Xã Mỹ Quý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Quý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80077,107.8658": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
