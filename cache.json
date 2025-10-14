@@ -43519,5 +43519,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.41482,106.403": {
+    "display_name": "Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.19372,106.0613": {
+    "display_name": "Đường Chu Văn An, Thị Chung, Phường Kinh Bắc, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Chu Văn An",
+      "quarter": "Thị Chung",
+      "suburb": "Phường Kinh Bắc",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01473,106.4016": {
+    "display_name": "Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
