@@ -42744,5 +42744,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.73136,106.5959": {
+    "display_name": "Đường Tập Đoàn 6B, Khu công nghiệp Tân Tạo, Tân Tạo, Phường Tân Tạo, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Đường Tập Đoàn 6B",
+      "industrial": "Khu công nghiệp Tân Tạo",
+      "suburb": "Tân Tạo",
+      "city_district": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.28916,106.3706": {
+    "display_name": "Khu phố 4B, Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4B",
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.900637,105.874": {
+    "display_name": "Xã Phú Hữu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Phú Hữu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.081173,105.1265": {
+    "display_name": "Xã Lương Thế Trân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Lương Thế Trân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
