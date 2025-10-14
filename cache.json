@@ -44282,5 +44282,100 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81239,106.4904": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12597,106.5899": {
+    "display_name": "Đường N5, KCN Mỹ Phước 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "KCN Mỹ Phước 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.55562,108.5758": {
+    "display_name": "Xã Tam Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Tam Xuân",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.07833,107.9052": {
+    "display_name": "Xã Ia Hrung, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrung",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81268,106.4904": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.26184,107.2251": {
+    "display_name": "Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.07767,107.9015": {
+    "display_name": "Xã Ia Hrung, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrung",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.26182,107.2252": {
+    "display_name": "Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.26181,107.2252": {
+    "display_name": "Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
