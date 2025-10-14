@@ -44917,5 +44917,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.02349,107.5912": {
+    "display_name": "Thôn 3, Xã Suối Kiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Suối Kiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
