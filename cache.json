@@ -43847,5 +43847,158 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.19378,106.061": {
+    "display_name": "Đường H100, Yên Mẫn, Phường Kinh Bắc, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường H100",
+      "quarter": "Yên Mẫn",
+      "suburb": "Phường Kinh Bắc",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81067,106.4864": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.151555,105.0308": {
+    "display_name": "Xã Khánh Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.01761,105.0876": {
+    "display_name": "Lê Thị Hồng Gấm, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Lê Thị Hồng Gấm",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73035,106.9032": {
+    "display_name": "Đào Thị Phấn, Xóm Hố, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đào Thị Phấn",
+      "village": "Xóm Hố",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01505,106.4344": {
+    "display_name": "Xã Thái Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Thái Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82281,105.5274": {
+    "display_name": "ĐT. 842, Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 842",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.162702,105.2555": {
+    "display_name": "Phường Hòa Thành, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường Hòa Thành",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38405,106.5693": {
+    "display_name": "Xã Đồng Sơn, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Sơn",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66481,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76032,106.5952": {
+    "display_name": "Phường Tân Tạo, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "city_district": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71509,106.6016": {
+    "display_name": "Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "village": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31652,106.1286": {
+    "display_name": "Thành phố Tây Ninh, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "city": "Thành phố Tây Ninh",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.36756,104.908": {
+    "display_name": "Xã Khánh Lâm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Khánh Lâm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
