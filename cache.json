@@ -41030,5 +41030,209 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.41036,108.8092": {
+    "display_name": "Công ty Cổ phần Thép Hòa Phát Dung Quất, Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.50399,106.1387": {
+    "display_name": "Tân Châu, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Châu",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98462,106.8384": {
+    "display_name": "Khu phố 11A, Phường Tân Triều, Tỉnh Đồng Nai, 76117, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 11A",
+      "county": "Phường Tân Triều",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.03648,105.1835": {
+    "display_name": "Hòa Thuận 2, Xã Thạnh Lộc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa Thuận 2",
+      "county": "Xã Thạnh Lộc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.54876,108.4101": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92451,106.7372": {
+    "display_name": "Bình Đáng, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Bình Đáng",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07942,106.8057": {
+    "display_name": "Đường Huỳnh Văn Nghệ, Khu phố Xóm Đèn, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Huỳnh Văn Nghệ",
+      "quarter": "Khu phố Xóm Đèn",
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21499,109.1499": {
+    "display_name": "Thôn Cát Tường, Mỹ Thọ, Xã Phù Mỹ Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Cát Tường, Mỹ Thọ",
+      "county": "Xã Phù Mỹ Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79767,106.4915": {
+    "display_name": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM, Đường Tỉnh 825, Khu Công nghiệp Liên Minh, Đức Hòa, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "office": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM",
+      "road": "Đường Tỉnh 825",
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "town": "Đức Hòa",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07878,109.1897": {
+    "display_name": "Nguyễn Tất Thành, Phường Bắc Cam Ranh, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "suburb": "Phường Bắc Cam Ranh",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83881,106.6625": {
+    "display_name": "Hẻm 102/166 Lê Văn Thọ, Phường Thông Tây Hội, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "road": "Hẻm 102/166 Lê Văn Thọ",
+      "suburb": "Phường Thông Tây Hội",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.03557,109.1735": {
+    "display_name": "Quốc lộ 1, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.17757,105.1563": {
+    "display_name": "Cà Mau, Phường Tân Thành, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "city": "Cà Mau",
+      "county": "Phường Tân Thành",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.498405,105.3449": {
+    "display_name": "Xã Ninh Thạnh Lợi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Ninh Thạnh Lợi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.17083,105.5817": {
+    "display_name": "Phường Thới Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98489,106.578": {
+    "display_name": "Nguyễn Thị Minh, Xã Bình Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh",
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.55683,108.4799": {
+    "display_name": "Phường Tam Kỳ, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Tam Kỳ",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.47398,108.4493": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
