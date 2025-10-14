@@ -44941,5 +44941,71 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.66519,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56833,107.7646": {
+    "display_name": "Thôn 1, Phường 2 Bảo Lộc, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Phường 2 Bảo Lộc",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.08066,108.0754": {
+    "display_name": "Xã Hàm Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.470707,105.8163": {
+    "display_name": "Quốc lộ 1, Xã Gia Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "city_district": "Xã Gia Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.474703,106.0152": {
+    "display_name": "Xã Thạnh Thới An, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Thạnh Thới An",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76055,106.5917": {
+    "display_name": "Chung Cư An Gia Star - The Star, 1121, Hẻm 1123 Quốc lộ 1, Phường Tân Tạo, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "landuse": "Chung Cư An Gia Star - The Star",
+      "house_number": "1121",
+      "road": "Hẻm 1123 Quốc lộ 1",
+      "city_district": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
