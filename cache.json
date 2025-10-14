@@ -42655,5 +42655,94 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.15446,105.1845": {
+    "display_name": "ĐT. 961, Tân Phú, Xã Tân Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 961",
+      "village": "Tân Phú",
+      "county": "Xã Tân Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79413,106.6544": {
+    "display_name": "Hoàng Văn Thụ, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Hoàng Văn Thụ",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.12576,106.3664": {
+    "display_name": "Xã Đồng Khởi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Khởi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.65031,106.4652": {
+    "display_name": "Xã Vĩnh Hải, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "town": "Xã Vĩnh Hải",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37179,105.6843": {
+    "display_name": "Tân Khánh Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Tân Khánh Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.66788,108.5376": {
+    "display_name": "Ya Mao, Làng Rơn, Xã Kông Chro, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Ya Mao",
+      "village": "Làng Rơn",
+      "county": "Xã Kông Chro",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82296,105.5274": {
+    "display_name": "ĐT. 842, Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 842",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83483,106.6763": {
+    "display_name": "Hẻm 178 Nguyễn Oanh, Phường Gò Vấp, Thuận An, Thành phố Hồ Chí Minh, 71400, Việt Nam",
+    "address": {
+      "road": "Hẻm 178 Nguyễn Oanh",
+      "suburb": "Phường Gò Vấp",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71400",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
