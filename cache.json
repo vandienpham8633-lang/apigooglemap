@@ -51366,5 +51366,74 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79485,106.5121": {
+    "display_name": "Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Xã Tân Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.35291,103.8714": {
+    "display_name": "Đường Sả Xéng, Hàm Rồng, Sa Pa, Phường Sa Pa, Tỉnh Lào Cai, 33000, Việt Nam",
+    "address": {
+      "road": "Đường Sả Xéng",
+      "suburb": "Hàm Rồng",
+      "town": "Sa Pa",
+      "county": "Phường Sa Pa",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "postcode": "33000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0266,106.6888": {
+    "display_name": "Phường Bình Dương, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65068,107.7969": {
+    "display_name": "La Gi, Phường Phước Hội, Tỉnh Lâm Đồng, 77650, Việt Nam",
+    "address": {
+      "town": "La Gi",
+      "county": "Phường Phước Hội",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77650",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.94383,106.3392": {
+    "display_name": "Trà Vinh, Phường Trà Vinh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "city": "Trà Vinh",
+      "county": "Phường Trà Vinh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.27068,105.4351": {
+    "display_name": "Quốc lộ 80, Xã Phú Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 80",
+      "town": "Xã Phú Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
