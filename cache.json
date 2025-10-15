@@ -50926,5 +50926,71 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.22481,106.7244": {
+    "display_name": "Xã Phước Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Phước Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83446,107.2573": {
+    "display_name": "Cam Tiên, Xã Cẩm Mỹ, Việt Nam",
+    "address": {
+      "village": "Cam Tiên",
+      "county": "Xã Cẩm Mỹ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8265,106.5904": {
+    "display_name": "Đường 2G, Khu công nghiệp Vĩnh Lộc, Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "road": "Đường 2G",
+      "industrial": "Khu công nghiệp Vĩnh Lộc",
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66489,105.7602": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73663,105.1301": {
+    "display_name": "Đa Phước, Xã Vĩnh Hậu, Tỉnh An Giang, 89888, Việt Nam",
+    "address": {
+      "town": "Đa Phước",
+      "county": "Xã Vĩnh Hậu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "89888",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.84689,109.1828": {
+    "display_name": "Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
