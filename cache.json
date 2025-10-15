@@ -49879,5 +49879,82 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.4038,107.8125": {
+    "display_name": "Nghĩa Dũng, Sa Nghĩa, Xã Sa Bình, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Nghĩa Dũng",
+      "village": "Sa Nghĩa",
+      "county": "Xã Sa Bình",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05939,106.4044": {
+    "display_name": "Đặng Văn Trước, Lộc Thành, Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đặng Văn Trước",
+      "quarter": "Lộc Thành",
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66488,105.7602": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67768,107.0768": {
+    "display_name": "Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.46419,106.6281": {
+    "display_name": "Xã Tân Lân, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lân",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83468,106.6608": {
+    "display_name": "Hẻm 641/8 Quang Trung, Phường Thông Tây Hội, Thuận An, Thành phố Hồ Chí Minh, 72100, Việt Nam",
+    "address": {
+      "road": "Hẻm 641/8 Quang Trung",
+      "suburb": "Phường Thông Tây Hội",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66501,105.7601": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
