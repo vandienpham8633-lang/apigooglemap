@@ -46758,5 +46758,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.59314,107.94": {
+    "display_name": "Đường CN 1, Khu công nghiệp Hòa Phú, Thôn 12, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 1",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 12",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.805808,105.0995": {
+    "display_name": "Xã Tam Giang, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tam Giang",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92675,106.9515": {
+    "display_name": "Phường Phước Tân, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Phường Phước Tân",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.26192,107.2252": {
+    "display_name": "Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
