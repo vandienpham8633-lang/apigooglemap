@@ -46452,5 +46452,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.52459,106.8949": {
+    "display_name": "Tân Trà 1, Đồng Xoài, Phường Bình Phước, Tỉnh Đồng Nai, 67111, Việt Nam",
+    "address": {
+      "quarter": "Tân Trà 1",
+      "city": "Đồng Xoài",
+      "county": "Phường Bình Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "67111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
