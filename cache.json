@@ -49376,5 +49376,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.61526,106.3036": {
+    "display_name": "Quốc lộ 62, Xã Tân Tây, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 62",
+      "county": "Xã Tân Tây",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05878,106.0069": {
+    "display_name": "Tam Bình, Xã Tam Bình, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tam Bình",
+      "county": "Xã Tam Bình",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
