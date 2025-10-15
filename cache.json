@@ -51293,5 +51293,78 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.3079,106.1396": {
+    "display_name": "Xã Ngũ Hiệp, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Ngũ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.59242,109.2258": {
+    "display_name": "Xã Xuân Cảnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Cảnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.963018,104.9308": {
+    "display_name": "Xã Phú Mỹ, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phú Mỹ",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.45335,106.3356": {
+    "display_name": "Xã Tân Hương, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74123,108.7465": {
+    "display_name": "Hý Đứk, Xã Cư M'ta, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hý Đứk",
+      "county": "Xã Cư M'ta",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.49223,105.5578": {
+    "display_name": "Xã Cù Lao Giêng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cù Lao Giêng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88158,108.3522": {
+    "display_name": "Đường Đồng Giá, Cẩm Châu, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "road": "Đường Đồng Giá",
+      "suburb": "Cẩm Châu",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
