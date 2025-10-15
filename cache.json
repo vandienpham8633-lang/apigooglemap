@@ -47162,5 +47162,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.49754,108.9148": {
+    "display_name": "Phước Nam, Xã Thuận Nam, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Nam",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.146182,105.1369": {
+    "display_name": "Phường Lý Văn Lâm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường Lý Văn Lâm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.20485,108.7173": {
+    "display_name": "Đường tỉnh 716, Liên Hương, Xã Liên Hương, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 716",
+      "town": "Liên Hương",
+      "county": "Xã Liên Hương",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
