@@ -51004,5 +51004,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75294,106.7219": {
+    "display_name": "Phường Tân Thuận, Thành phố Hồ Chí Minh, 71800, Việt Nam",
+    "address": {
+      "suburb": "Phường Tân Thuận",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
