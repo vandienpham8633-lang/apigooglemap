@@ -48320,5 +48320,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.13876,105.6191": {
+    "display_name": "Xã Quỳnh Sơn, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Quỳnh Sơn",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.62303,106.4046": {
+    "display_name": "Đường tỉnh 561, Xã Bố Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 561",
+      "town": "Xã Bố Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35014,108.8138": {
+    "display_name": "Võ Văn Kiệt, Công ty Cổ phần Thép Hòa Phát Dung Quất, Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
