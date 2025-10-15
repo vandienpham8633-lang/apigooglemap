@@ -51228,5 +51228,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.84302,105.5781": {
+    "display_name": "ĐT. 845, Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 845",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.90788,106.377": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43231,106.3773": {
+    "display_name": "Xã Lương Hòa Lạc, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Lương Hòa Lạc",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
