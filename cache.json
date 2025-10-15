@@ -47514,5 +47514,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.87744,108.2795": {
+    "display_name": "Điện Phương, Phường Điện Bàn, Thành phố Đà Nẵng, 51506, Việt Nam",
+    "address": {
+      "suburb": "Điện Phương",
+      "city": "Phường Điện Bàn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68334,106.7463": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
