@@ -47323,5 +47323,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.01668,105.791": {
+    "display_name": "TRẠM DỪNG CHÂN CẦU CẦN THƠ, Đường 2 Tháng 9, Phường Hưng Phú, Thành phố Cần Thơ, 94200, Việt Nam",
+    "address": {
+      "highway": "TRẠM DỪNG CHÂN CẦU CẦN THƠ",
+      "road": "Đường 2 Tháng 9",
+      "city_district": "Phường Hưng Phú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
