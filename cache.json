@@ -48365,5 +48365,82 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.78733,108.2721": {
+    "display_name": "Bình Hoà 1A, Phường Cư Bao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Bình Hoà 1A",
+      "county": "Phường Cư Bao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.0043,107.03": {
+    "display_name": "Xã Đăk Ơ, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Ơ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96426,109.3476": {
+    "display_name": "Quốc lộ 1, Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.89257,109.1008": {
+    "display_name": "Đường Ngô Đức Đệ, KV.Kim Châu, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Ngô Đức Đệ",
+      "quarter": "KV.Kim Châu, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.17735,105.7305": {
+    "display_name": "Tân Định, Xã Hương Đô, Hà Tĩnh, 46003, Việt Nam",
+    "address": {
+      "hamlet": "Tân Định",
+      "town": "Xã Hương Đô",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "postcode": "46003",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35013,108.8138": {
+    "display_name": "Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57314,107.6159": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
