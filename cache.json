@@ -47894,5 +47894,110 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87493,106.6363": {
+    "display_name": "Trần Thị Bảy, Tân Thới Hiệp, Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh, 71716, Việt Nam",
+    "address": {
+      "road": "Trần Thị Bảy",
+      "suburb": "Tân Thới Hiệp",
+      "city": "Phường Tân Thới Hiệp",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71716",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64081,107.3168": {
+    "display_name": "Sơn Thuận, Xã Xuân Sơn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "neighbourhood": "Sơn Thuận",
+      "city_district": "Xã Xuân Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.65991,106.2265": {
+    "display_name": "Đường tỉnh 794, Đông Lợi, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 794",
+      "hamlet": "Đông Lợi",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87455,106.6359": {
+    "display_name": "Trần Thị Bảy, Tân Thới Hiệp, Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh, 71716, Việt Nam",
+    "address": {
+      "road": "Trần Thị Bảy",
+      "suburb": "Tân Thới Hiệp",
+      "city": "Phường Tân Thới Hiệp",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71716",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.65992,106.2265": {
+    "display_name": "Đường tỉnh 794, Đông Lợi, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 794",
+      "hamlet": "Đông Lợi",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87446,106.6359": {
+    "display_name": "Trần Thị Bảy, Tân Thới Hiệp, Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh, 71716, Việt Nam",
+    "address": {
+      "road": "Trần Thị Bảy",
+      "suburb": "Tân Thới Hiệp",
+      "city": "Phường Tân Thới Hiệp",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71716",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.54427,107.4668": {
+    "display_name": "Xã Đan Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Đan Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.65993,106.2265": {
+    "display_name": "Đường tỉnh 794, Đông Lợi, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 794",
+      "hamlet": "Đông Lợi",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.65993,106.2264": {
+    "display_name": "Đường tỉnh 794, Đông Lợi, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 794",
+      "hamlet": "Đông Lợi",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
