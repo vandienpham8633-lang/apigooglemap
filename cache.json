@@ -51548,5 +51548,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.59151,107.9437": {
+    "display_name": "Kon Proh Tu Ria, Xã Đăk Mar, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Kon Proh Tu Ria",
+      "county": "Xã Đăk Mar",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
