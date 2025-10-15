@@ -48033,5 +48033,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.53923,106.3098": {
+    "display_name": "Xã Nam Tiên Hưng, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Nam Tiên Hưng",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.65994,106.2265": {
+    "display_name": "Đường tỉnh 794, Đông Lợi, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 794",
+      "hamlet": "Đông Lợi",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.5641,108.1189": {
+    "display_name": "Đường tỉnh 690, Lô 13, Xã Dray Bhăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 690",
+      "village": "Lô 13",
+      "county": "Xã Dray Bhăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
