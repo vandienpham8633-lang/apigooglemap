@@ -51526,5 +51526,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.67006,107.9931": {
+    "display_name": "Xã Quế Phước, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Quế Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
