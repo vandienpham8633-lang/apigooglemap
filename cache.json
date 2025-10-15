@@ -50592,5 +50592,90 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.412704,106.0788": {
+    "display_name": "ĐH.11, Phường Khánh Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐH.11",
+      "city_district": "Phường Khánh Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67764,107.0767": {
+    "display_name": "Xã Châu Đức, Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "city_district": "Xã Châu Đức",
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.22478,106.7244": {
+    "display_name": "Xã Phước Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Phước Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.707717,106.2774": {
+    "display_name": "Trà Cú, Xã Trà Cú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Trà Cú",
+      "county": "Xã Trà Cú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.1171,106.1478": {
+    "display_name": "Xã Bến Cầu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Bến Cầu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09648,105.5939": {
+    "display_name": "Xã Trường Thành, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trường Thành",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81816,106.4855": {
+    "display_name": "Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42347,105.0031": {
+    "display_name": "Đường tỉnh 941, Xã Tri Tôn, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 941",
+      "town": "Xã Tri Tôn",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
