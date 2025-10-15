@@ -46600,5 +46600,13 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.00429,107.03": {
+    "display_name": "Xã Đăk Ơ, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Ơ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
