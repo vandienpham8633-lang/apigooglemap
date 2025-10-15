@@ -47313,5 +47313,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.8702,108.0005": {
+    "display_name": "Xã Ia Tôr, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Tôr",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
