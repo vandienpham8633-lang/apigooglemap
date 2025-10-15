@@ -49115,5 +49115,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.9757,108.2589": {
+    "display_name": "Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.23818,109.1923": {
+    "display_name": "Okroshka ăn, 51, Đường Nguyễn Thị Minh Khai, Phước Hòa, Phường Nha Trang, Khánh Hòa, 57100, Việt Nam",
+    "address": {
+      "amenity": "Okroshka ăn",
+      "house_number": "51",
+      "road": "Đường Nguyễn Thị Minh Khai",
+      "suburb": "Phước Hòa",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64709,106.5826": {
+    "display_name": "Xã Phước Lý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Phước Lý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81243,106.4903": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58886,107.0483": {
+    "display_name": "Quảng Phú, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "neighbourhood": "Quảng Phú",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
