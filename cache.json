@@ -49814,5 +49814,70 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59494,106.4311": {
+    "display_name": "Khu công nghiệp Hòa Bình, Thủ Thừa, Xã Thủ Thừa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hòa Bình",
+      "town": "Thủ Thừa",
+      "county": "Xã Thủ Thừa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67776,107.0768": {
+    "display_name": "Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.4642,106.6281": {
+    "display_name": "Xã Tân Lân, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lân",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.85472,106.9973": {
+    "display_name": "Tòa án Nhân dân Thị xã Phước Long, Sư Vạn Hạnh, Phường Phước Long, Việt Nam",
+    "address": {
+      "amenity": "Tòa án Nhân dân Thị xã Phước Long",
+      "road": "Sư Vạn Hạnh",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.3621,106.0148": {
+    "display_name": "Xã Hảo Đước, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Hảo Đước",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51198,105.3186": {
+    "display_name": "CTy Hồng Ngoc, Quốc lộ 91, Xã Bình Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "highway": "CTy Hồng Ngoc",
+      "road": "Quốc lộ 91",
+      "county": "Xã Bình Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
