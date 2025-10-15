@@ -50107,5 +50107,101 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.35433,106.641": {
+    "display_name": "Xã Phú Thành, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Phú Thành",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67773,107.0768": {
+    "display_name": "Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.81984,106.5976": {
+    "display_name": "Quốc lộ 13, Lộc Ninh, Xã Lộc Ninh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 13",
+      "town": "Lộc Ninh",
+      "county": "Xã Lộc Ninh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02424,106.7586": {
+    "display_name": "Khánh Vân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Vân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.296878,105.204": {
+    "display_name": "Xã Tân Lộc, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lộc",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55138,105.4048": {
+    "display_name": "Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.19423,105.0773": {
+    "display_name": "Hiệp Tân, Xã Mỹ Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hiệp Tân",
+      "county": "Xã Mỹ Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.027115,105.4201": {
+    "display_name": "Gành Hào, Xã Gành Hào, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Gành Hào",
+      "county": "Xã Gành Hào",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.58708,108.101": {
+    "display_name": "Xã Hiệp Đức, Thành phố Đà Nẵng, 50000, Việt Nam",
+    "address": {
+      "town": "Xã Hiệp Đức",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
