@@ -48258,5 +48258,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.512012,105.0118": {
+    "display_name": "Xã Biển Bạch, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Biển Bạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35015,108.8139": {
+    "display_name": "Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
