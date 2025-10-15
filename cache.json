@@ -46465,5 +46465,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.52452,106.8949": {
+    "display_name": "Tân Trà 1, Đồng Xoài, Phường Bình Phước, Tỉnh Đồng Nai, 67111, Việt Nam",
+    "address": {
+      "quarter": "Tân Trà 1",
+      "city": "Đồng Xoài",
+      "county": "Phường Bình Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "67111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.02013,105.0904": {
+    "display_name": "Mạc Cửu, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Mạc Cửu",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
