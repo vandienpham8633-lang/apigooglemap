@@ -46631,5 +46631,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.86605,108.0341": {
+    "display_name": "Drang, Xã Cư M'gar, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Drang",
+      "county": "Xã Cư M'gar",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
