@@ -50023,5 +50023,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.67769,107.077": {
+    "display_name": "Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.08742,108.0718": {
+    "display_name": "Xã Hàm Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.57544,105.1741": {
+    "display_name": "Xã Vĩnh Thạnh Trung, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Thạnh Trung",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
