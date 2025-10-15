@@ -48932,5 +48932,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.4828,107.21": {
+    "display_name": "Long Bình, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "neighbourhood": "Long Bình",
+      "town": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0072,106.8544": {
+    "display_name": "Nhà máy Bê tông Đúc sẵn Hùng Vương, Đường Đồng Khởi, Tân Phú, Phường Tân Triều, Tỉnh Đồng Nai, 76913, Việt Nam",
+    "address": {
+      "man_made": "Nhà máy Bê tông Đúc sẵn Hùng Vương",
+      "road": "Đường Đồng Khởi",
+      "quarter": "Tân Phú",
+      "county": "Phường Tân Triều",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.58425,108.2153": {
+    "display_name": "Xã Việt An, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Việt An",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.01756,103.8867": {
+    "display_name": "Tỉnh An Giang, Việt Nam",
+    "address": {
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
