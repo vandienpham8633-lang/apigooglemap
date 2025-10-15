@@ -46608,5 +46608,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.86481,109.2171": {
+    "display_name": "Thôn Vinh Quang 1, Phước Sơn, Xã Tuy Phước Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vinh Quang 1, Phước Sơn",
+      "county": "Xã Tuy Phước Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
