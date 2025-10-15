@@ -48021,5 +48021,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.65997,106.2265": {
+    "display_name": "Đường tỉnh 794, Đông Lợi, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 794",
+      "hamlet": "Đông Lợi",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
