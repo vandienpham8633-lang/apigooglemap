@@ -48067,5 +48067,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.44161,107.9143": {
+    "display_name": "Bình Minh, Xã Đăk Hà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Bình Minh",
+      "county": "Xã Đăk Hà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.06498,105.8239": {
+    "display_name": "Phường Đông Thành, Tỉnh Vĩnh Long, 94111, Việt Nam",
+    "address": {
+      "county": "Phường Đông Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.22441,108.736": {
+    "display_name": "Lê Hồng Phong, Liên Hương, Xã Liên Hương, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Lê Hồng Phong",
+      "town": "Liên Hương",
+      "county": "Xã Liên Hương",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.918,108.9714": {
+    "display_name": "ĐH.28 (Phú Phong - Tây Bình), Thôn Kiên Thạnh, Bình Hòa, Xã Bình An, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "ĐH.28 (Phú Phong - Tây Bình)",
+      "hamlet": "Thôn Kiên Thạnh, Bình Hòa",
+      "county": "Xã Bình An",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
