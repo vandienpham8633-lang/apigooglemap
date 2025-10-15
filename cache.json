@@ -48113,5 +48113,120 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.74936,106.6186": {
+    "display_name": "57, Đường số 6, Phường An Lạc, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "house_number": "57",
+      "road": "Đường số 6",
+      "city": "Phường An Lạc",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.59496,108.3982": {
+    "display_name": "Xã Tây Hồ, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Tây Hồ",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.69638,108.1299": {
+    "display_name": "Quốc lộ 26, Ko Tam, Phường Tân An, Tỉnh Đắk Lắk, 63000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ko Tam",
+      "county": "Phường Tân An",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01576,106.6495": {
+    "display_name": "Định Hoà 1, Phường Chánh Hiệp, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Định Hoà 1",
+      "city_district": "Phường Chánh Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57318,107.6159": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62978,106.3955": {
+    "display_name": "Xã Thủ Thừa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thủ Thừa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57319,107.6159": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01574,106.6494": {
+    "display_name": "Định Hoà 1, Phường Chánh Hiệp, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Định Hoà 1",
+      "city_district": "Phường Chánh Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75391,106.6721": {
+    "display_name": "Bệnh viện An Bình, 146, Hẻm 192 Trần Tuấn Khải, Khu phố 17, Phường An Đông, Thành phố Hồ Chí Minh, 72712, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện An Bình",
+      "house_number": "146",
+      "road": "Hẻm 192 Trần Tuấn Khải",
+      "quarter": "Khu phố 17",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72712",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.44326,108.2227": {
+    "display_name": "Biăp, Xã Liên Sơn Lắk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Biăp",
+      "county": "Xã Liên Sơn Lắk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
