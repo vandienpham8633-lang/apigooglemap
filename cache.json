@@ -51513,5 +51513,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.19362,106.0609": {
+    "display_name": "Đường Chu Văn An, Thị Chung, Phường Kinh Bắc, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Chu Văn An",
+      "quarter": "Thị Chung",
+      "suburb": "Phường Kinh Bắc",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
