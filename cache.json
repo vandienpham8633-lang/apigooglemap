@@ -48610,5 +48610,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.9668,109.3448": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.86965,108.0541": {
+    "display_name": "Đường tỉnh 609, Lam Phụng, Xã Hà Nha, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 609",
+      "hamlet": "Lam Phụng",
+      "town": "Xã Hà Nha",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.4703,105.0517": {
+    "display_name": "Bản Đôm, Xã Hùng Chân, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "village": "Bản Đôm",
+      "town": "Xã Hùng Chân",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.12522,106.2148": {
+    "display_name": "Hải Giang, Xã Hải An, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "village": "Hải Giang",
+      "town": "Xã Hải An",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
