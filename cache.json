@@ -46903,5 +46903,80 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.04074,105.7859": {
+    "display_name": "Hẻm 34 Nguyễn Trãi, Phường Ninh Kiều, Thành phố Cần Thơ, 94111, Việt Nam",
+    "address": {
+      "road": "Hẻm 34 Nguyễn Trãi",
+      "city_district": "Phường Ninh Kiều",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.03284,107.0273": {
+    "display_name": "Xã Vĩnh Thủy, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Vĩnh Thủy",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.86416,106.1474": {
+    "display_name": "Xã Phong Thạnh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.41607,106.667": {
+    "display_name": "Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.2725,109.1472": {
+    "display_name": "Nguyễn Lương Bằng, Phường Bắc Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "road": "Nguyễn Lương Bằng",
+      "county": "Phường Bắc Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.46858,109.1158": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07883,106.7574": {
+    "display_name": "Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
