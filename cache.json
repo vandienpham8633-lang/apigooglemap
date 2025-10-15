@@ -50677,5 +50677,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.487112,105.7071": {
+    "display_name": "Quốc lộ 61B, Xã Tân Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 61B",
+      "city_district": "Xã Tân Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.39899,106.6552": {
+    "display_name": "Xã Quảng Ninh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ninh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.29806,106.7894": {
+    "display_name": "Đường Trần Quý Cáp, Khu phố 7, Xã Phú Giáo, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Trần Quý Cáp",
+      "quarter": "Khu phố 7",
+      "city_district": "Xã Phú Giáo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.964628,105.1662": {
+    "display_name": "Đầm Dơi, Xã Đầm Dơi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Đầm Dơi",
+      "county": "Xã Đầm Dơi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
