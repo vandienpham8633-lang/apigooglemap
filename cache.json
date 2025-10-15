@@ -51093,5 +51093,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.60128,109.2218": {
+    "display_name": "Khánh Hòa, Việt Nam",
+    "address": {
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.08108,105.1265": {
+    "display_name": "Xã Lương Thế Trân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Lương Thế Trân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.43564,108.6537": {
+    "display_name": "Phan Châu Trinh, Xã Núi Thành, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Phan Châu Trinh",
+      "town": "Xã Núi Thành",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
