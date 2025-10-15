@@ -46490,5 +46490,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.05981,108.1868": {
+    "display_name": "59, Đường Trần Xuân Lê, Phường Thanh Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "59",
+      "road": "Đường Trần Xuân Lê",
+      "city": "Phường Thanh Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.27669,106.335": {
+    "display_name": "Phường Sơn Đông, Tỉnh Vĩnh Long, 93000, Việt Nam",
+    "address": {
+      "county": "Phường Sơn Đông",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "93000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.886974,105.1198": {
+    "display_name": "Vĩnh Phú, Xã Bình An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Vĩnh Phú",
+      "county": "Xã Bình An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
