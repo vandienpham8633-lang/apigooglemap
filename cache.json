@@ -50992,5 +50992,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.29807,106.7894": {
+    "display_name": "Đường Trần Quý Cáp, Khu phố 7, Xã Phú Giáo, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Trần Quý Cáp",
+      "quarter": "Khu phố 7",
+      "city_district": "Xã Phú Giáo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
