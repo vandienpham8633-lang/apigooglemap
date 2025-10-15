@@ -51602,5 +51602,128 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.12264,105.1612": {
+    "display_name": "ĐT. 961, Đập Đá, Xã Tân Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 961",
+      "village": "Đập Đá",
+      "county": "Xã Tân Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.32983,108.597": {
+    "display_name": "Xã Ia Rsai, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Rsai",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.408,105.3694": {
+    "display_name": "Xã An Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã An Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.24631,107.6614": {
+    "display_name": "Đường tỉnh 717, Thôn 2, Xã Nghị Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 717",
+      "village": "Thôn 2",
+      "county": "Xã Nghị Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.06517,106.6607": {
+    "display_name": "Xã Bảo Thạnh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Bảo Thạnh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98489,107.0903": {
+    "display_name": "Thuận An, Xã Bàu Hàm, Việt Nam",
+    "address": {
+      "village": "Thuận An",
+      "county": "Xã Bàu Hàm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56229,106.6971": {
+    "display_name": "Đường tỉnh 756B, Long Bình, Xã Tân Quan, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 756B",
+      "village": "Long Bình",
+      "county": "Xã Tân Quan",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43966,106.5695": {
+    "display_name": "Xã Thuận Mỹ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thuận Mỹ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.0043,107.0301": {
+    "display_name": "Xã Đăk Ơ, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Ơ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55308,106.6996": {
+    "display_name": "Sóc Ruộng 1, Xã Tân Quan, Việt Nam",
+    "address": {
+      "village": "Sóc Ruộng 1",
+      "county": "Xã Tân Quan",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.21599,107.6859": {
+    "display_name": "Thôn 7, Xã Bắc Ruộng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 7",
+      "county": "Xã Bắc Ruộng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59989,106.4846": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "county": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
