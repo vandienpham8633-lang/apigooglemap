@@ -50375,5 +50375,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.69553,108.0215": {
+    "display_name": "Xã Quế Phước, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Quế Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.06513,105.9934": {
+    "display_name": "ĐT. 904, Tam Bình, Xã Tam Bình, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 904",
+      "town": "Tam Bình",
+      "county": "Xã Tam Bình",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.40378,107.8125": {
+    "display_name": "Nghĩa Dũng, Sa Nghĩa, Xã Sa Bình, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Nghĩa Dũng",
+      "village": "Sa Nghĩa",
+      "county": "Xã Sa Bình",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0306,106.7412": {
+    "display_name": "Khánh Tân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Tân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
