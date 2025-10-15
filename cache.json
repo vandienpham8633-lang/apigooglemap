@@ -47013,5 +47013,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.11925,108.5752": {
+    "display_name": "Xã Sơn Hạ, Tỉnh Quảng Ngãi, 56000, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Hạ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "postcode": "56000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.98407,108.2714": {
+    "display_name": "Tân Trà, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Tân Trà",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.05367,108.2035": {
+    "display_name": "Đường Duy Tân, Phường Hòa Cường, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Duy Tân",
+      "city": "Phường Hòa Cường",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.98413,108.2714": {
+    "display_name": "Nguyễn Duy Trinh, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Duy Trinh",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.11914,108.5751": {
+    "display_name": "Xã Sơn Hạ, Tỉnh Quảng Ngãi, 56000, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Hạ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "postcode": "56000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
