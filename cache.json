@@ -49172,5 +49172,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.58883,107.0483": {
+    "display_name": "Quảng Phú, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "neighbourhood": "Quảng Phú",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.45435,105.3942": {
+    "display_name": "Xã Nhơn Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
