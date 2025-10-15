@@ -48228,5 +48228,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.08903,105.6988": {
+    "display_name": "Xã Quỳnh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Quỳnh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
