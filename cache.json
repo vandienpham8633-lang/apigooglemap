@@ -46619,5 +46619,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.02019,105.0904": {
+    "display_name": "Mạc Cửu, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Mạc Cửu",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
