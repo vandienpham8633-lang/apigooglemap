@@ -48483,5 +48483,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.93801,108.3091": {
+    "display_name": "Hà Quảng Đông, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "hamlet": "Hà Quảng Đông",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
