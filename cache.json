@@ -48588,5 +48588,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.48914,105.8756": {
+    "display_name": "Xã Nhu Gia, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhu Gia",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96734,109.3443": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
