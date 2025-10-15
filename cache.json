@@ -48577,5 +48577,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.27133,105.9392": {
+    "display_name": "Mỹ Dung, Cẩm Thành, Xã Cẩm Bình, Hà Tĩnh, Việt Nam",
+    "address": {
+      "hamlet": "Mỹ Dung",
+      "village": "Cẩm Thành",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
