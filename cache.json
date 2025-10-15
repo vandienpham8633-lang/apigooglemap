@@ -48565,5 +48565,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.77486,108.9743": {
+    "display_name": "Phạm Xuân Hòa, Phường Đức Phổ, Xã Khánh Cường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Phạm Xuân Hòa",
+      "town": "Phường Đức Phổ",
+      "county": "Xã Khánh Cường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
