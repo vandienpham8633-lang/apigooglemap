@@ -51269,5 +51269,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.42878,109.0085": {
+    "display_name": "Trường THCS Bồng Sơn, Đường Trần Hưng Đạo, KP.Liêm Bình, P.Bồng Sơn, Phường Bồng Sơn, Thị xã Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "amenity": "Trường THCS Bồng Sơn",
+      "road": "Đường Trần Hưng Đạo",
+      "quarter": "KP.Liêm Bình, P.Bồng Sơn",
+      "suburb": "Phường Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.7478,106.1282": {
+    "display_name": "Xã Hồng Quang, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Hồng Quang",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
