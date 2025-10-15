@@ -51435,5 +51435,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.27069,105.435": {
+    "display_name": "Quốc lộ 80, Xã Phú Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 80",
+      "town": "Xã Phú Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
