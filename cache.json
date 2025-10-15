@@ -49058,5 +49058,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.72157,109.212": {
+    "display_name": "Khu vực, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.0884,109.2937": {
+    "display_name": "Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58889,107.0484": {
+    "display_name": "Quảng Phú, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "neighbourhood": "Quảng Phú",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81265,106.4905": {
+    "display_name": "Cụm CN Trung Thành Phát, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Cụm CN Trung Thành Phát",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.862515,104.812": {
+    "display_name": "Cái Đôi Vàm, Xã Cái Đôi Vàm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Cái Đôi Vàm",
+      "county": "Xã Cái Đôi Vàm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
