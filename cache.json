@@ -51151,5 +51151,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.6645,107.915": {
+    "display_name": "Đường tỉnh 725, Thôn 13 Lộc Ngãi, Xã Bảo Lâm 1, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 725",
+      "quarter": "Thôn 13 Lộc Ngãi",
+      "county": "Xã Bảo Lâm 1",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.081112,105.1265": {
+    "display_name": "Xã Lương Thế Trân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Lương Thế Trân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
