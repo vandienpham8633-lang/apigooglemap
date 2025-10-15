@@ -51559,5 +51559,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.53848,107.7618": {
+    "display_name": "Tân Lập, Phường 3 Bảo Lộc, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Tân Lập",
+      "county": "Phường 3 Bảo Lộc",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78445,106.9859": {
+    "display_name": "KCN Lộc An - Bình Sơn (quy hoạch), An Lâm, Xã Long Thành, 76206, Việt Nam",
+    "address": {
+      "industrial": "KCN Lộc An - Bình Sơn (quy hoạch)",
+      "village": "An Lâm",
+      "county": "Xã Long Thành",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.59254,109.2259": {
+    "display_name": "Xã Xuân Cảnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Cảnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
