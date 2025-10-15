@@ -48742,5 +48742,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.52868,107.5078": {
+    "display_name": "Kim Trà, Phường Kim Trà, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Kim Trà",
+      "county": "Phường Kim Trà",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.6545,109.0169": {
+    "display_name": "Thôn 4, Canh Hiệp, Làng Suối Đá, Canh Hiệp, Xã Canh Vinh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 4, Canh Hiệp",
+      "village": "Làng Suối Đá, Canh Hiệp",
+      "county": "Xã Canh Vinh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69449,106.5995": {
+    "display_name": "Phường Bình Đông, Tân Túc, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "suburb": "Phường Bình Đông",
+      "town": "Tân Túc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
