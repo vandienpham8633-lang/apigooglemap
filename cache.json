@@ -47293,5 +47293,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.0752,105.653": {
+    "display_name": "Xã Đan Phượng, Hà Nội, Việt Nam",
+    "address": {
+      "city_district": "Xã Đan Phượng",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.80582,105.0995": {
+    "display_name": "Xã Tam Giang, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tam Giang",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
