@@ -51184,5 +51184,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76084,106.6022": {
+    "display_name": "Hẻm 130/26 Lê Đình Cẩn, Phường Tân Tạo, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "road": "Hẻm 130/26 Lê Đình Cẩn",
+      "city_district": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.66844,105.6792": {
+    "display_name": "Đinh Công Tráng, Phường Thành Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Đinh Công Tráng",
+      "city": "Phường Thành Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54107,105.4049": {
+    "display_name": "Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82942,108.2395": {
+    "display_name": "Xã Duy Xuyên, Thành phố Đà Nẵng, 51506, Việt Nam",
+    "address": {
+      "town": "Xã Duy Xuyên",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
