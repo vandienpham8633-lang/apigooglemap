@@ -50732,5 +50732,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.48715,107.5826": {
+    "display_name": "Gia Hội, Phú Xuân, Phường Phú Xuân, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "quarter": "Gia Hội",
+      "suburb": "Phú Xuân",
+      "county": "Phường Phú Xuân",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5562,108.9863": {
+    "display_name": "Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
