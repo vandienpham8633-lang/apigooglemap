@@ -47108,5 +47108,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.45976,105.2047": {
+    "display_name": "Đường Nguyễn Tất Thành, Lăng Can, Xã Lâm Bình, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tất Thành",
+      "town": "Lăng Can",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.18619,108.8898": {
+    "display_name": "Đường Lê Trọng Tấn, Xã Tịnh Khê, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Trọng Tấn",
+      "county": "Xã Tịnh Khê",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.75735,106.6504": {
+    "display_name": "Xã Kiến Thụy, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "town": "Xã Kiến Thụy",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.499696,106.198": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34608,105.5225": {
+    "display_name": "Ấp Bình Hòa, Lấp Vò, Xã Lấp Vò, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "hamlet": "Ấp Bình Hòa",
+      "town": "Lấp Vò",
+      "county": "Xã Lấp Vò",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
