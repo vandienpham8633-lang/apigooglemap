@@ -51456,5 +51456,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.64124,108.114": {
+    "display_name": "Thôn 3, Xã Ea Ktur, Tỉnh Đắk Lắk, 64113, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Ea Ktur",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "64113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79318,106.5928": {
+    "display_name": "Hẻm 70 Đường Số 8, Bình Tân, Phường Bình Tân, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 70 Đường Số 8",
+      "suburb": "Bình Tân",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.86971,108.0541": {
+    "display_name": "Đường tỉnh 609, Lam Phụng, Xã Hà Nha, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 609",
+      "hamlet": "Lam Phụng",
+      "town": "Xã Hà Nha",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70437,106.7409": {
+    "display_name": "Phường Phú Thuận, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "city": "Phường Phú Thuận",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
