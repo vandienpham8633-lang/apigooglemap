@@ -48442,5 +48442,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.00432,107.03": {
+    "display_name": "Xã Đăk Ơ, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Ơ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.06198,106.1701": {
+    "display_name": "Đường Lê Văn Thịnh, Xã Đông Cứu, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Lê Văn Thịnh",
+      "suburb": "Xã Đông Cứu",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.7534,105.2158": {
+    "display_name": "Hòa An, Xã Định Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa An",
+      "county": "Xã Định Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.36227,103.8435": {
+    "display_name": "Đường tỉnh 45, Đặc khu Phú Quốc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 45",
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
