@@ -51503,5 +51503,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.79815,107.0105": {
+    "display_name": "Xã Cam Lộ, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cam Lộ",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
