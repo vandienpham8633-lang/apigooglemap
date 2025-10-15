@@ -48354,5 +48354,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.536527,105.2346": {
+    "display_name": "Quốc lộ 63, Xã Vĩnh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 63",
+      "county": "Xã Vĩnh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
