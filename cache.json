@@ -48493,5 +48493,77 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.22437,108.7361": {
+    "display_name": "Lê Hồng Phong, Liên Hương, Xã Liên Hương, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Lê Hồng Phong",
+      "town": "Liên Hương",
+      "county": "Xã Liên Hương",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.48754,108.2955": {
+    "display_name": "Xã Thạnh Bình, Thành phố Đà Nẵng, 52606, Việt Nam",
+    "address": {
+      "town": "Xã Thạnh Bình",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "52606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0131,106.6392": {
+    "display_name": "Trường Trung Tiểu học Marie Curie, 178, Nguyễn Chí Thanh, Tương Bình Hiệp 6, Phường Chánh Hiệp, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "amenity": "Trường Trung Tiểu học Marie Curie",
+      "house_number": "178",
+      "road": "Nguyễn Chí Thanh",
+      "quarter": "Tương Bình Hiệp 6",
+      "city_district": "Phường Chánh Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.77495,108.9744": {
+    "display_name": "Phạm Xuân Hòa, Phường Đức Phổ, Xã Khánh Cường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Phạm Xuân Hòa",
+      "town": "Phường Đức Phổ",
+      "county": "Xã Khánh Cường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.17071,105.6835": {
+    "display_name": "Xã Quỳnh Anh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Quỳnh Anh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88492,108.1176": {
+    "display_name": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam, Đường tỉnh 609B, Xã Đại Lộc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam",
+      "road": "Đường tỉnh 609B",
+      "town": "Xã Đại Lộc",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
