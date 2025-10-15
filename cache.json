@@ -47419,5 +47419,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.9416,108.8757": {
+    "display_name": "Ly, Xã Sông Hinh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ly",
+      "county": "Xã Sông Hinh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.99607,107.0968": {
+    "display_name": "Xã Bàu Hàm, Việt Nam",
+    "address": {
+      "county": "Xã Bàu Hàm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.06921,105.0528": {
+    "display_name": "Xã Lương Thế Trân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Lương Thế Trân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.35121,108.6864": {
+    "display_name": "ĐH.33 (Vĩnh Hảo - Vĩnh Sơn), Làng Suối Đá, Vĩnh Sơn, Xã Vĩnh Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "ĐH.33 (Vĩnh Hảo - Vĩnh Sơn)",
+      "village": "Làng Suối Đá, Vĩnh Sơn",
+      "county": "Xã Vĩnh Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
