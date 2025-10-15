@@ -48656,5 +48656,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.95813,109.3514": {
+    "display_name": "Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.537228,105.2346": {
+    "display_name": "Quốc lộ 63, Xã Vĩnh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 63",
+      "county": "Xã Vĩnh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.41556,109.004": {
+    "display_name": "Sơn Hải, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Sơn Hải",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.07748,108.2261": {
+    "display_name": "Ea Kung, Xã Krông Búk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ea Kung",
+      "county": "Xã Krông Búk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.18831,106.1446": {
+    "display_name": "Xã Cái Nhum, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Cái Nhum",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.86966,108.0541": {
+    "display_name": "Đường tỉnh 609, Lam Phụng, Xã Hà Nha, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 609",
+      "hamlet": "Lam Phụng",
+      "town": "Xã Hà Nha",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.20739,108.7663": {
+    "display_name": "Thọ Tây, Xã Thọ Phong, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Thọ Tây",
+      "county": "Xã Thọ Phong",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
