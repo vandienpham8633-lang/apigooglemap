@@ -57052,5 +57052,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63384,106.5138": {
+    "display_name": "Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
