@@ -51956,5 +51956,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.71516,106.6016": {
+    "display_name": "Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "village": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.60043,106.4765": {
+    "display_name": "Xã Bình Đức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "county": "Xã Bình Đức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
