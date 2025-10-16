@@ -52296,5 +52296,75 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.74243,106.6733": {
+    "display_name": "Bùi Điền, Khu phố 53, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "road": "Bùi Điền",
+      "quarter": "Khu phố 53",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98075,108.0065": {
+    "display_name": "Anh Hùng Núp, Pleiku, Phường Pleiku, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Anh Hùng Núp",
+      "city": "Pleiku",
+      "county": "Phường Pleiku",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.36332,109.0649": {
+    "display_name": "Xã Đồng Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8007,107.8659": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.23941,105.0383": {
+    "display_name": "Thái Tân, Xã Sơn Kiên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Thái Tân",
+      "county": "Xã Sơn Kiên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00653,108.9388": {
+    "display_name": "Đường tỉnh 656, Tô Hạp, Xã Khánh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 656",
+      "town": "Tô Hạp",
+      "county": "Xã Khánh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
