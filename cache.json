@@ -57520,5 +57520,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97932,108.5852": {
+    "display_name": "Tân Định, Phường An Bình, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Tân Định",
+      "county": "Phường An Bình",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.99724,106.7174": {
+    "display_name": "Đường Bình Chuẩn 17, Bình Hoà 1, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Đường Bình Chuẩn 17",
+      "quarter": "Bình Hoà 1",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.53374,108.3076": {
+    "display_name": "Phú Thiện, Xã Phú Thiện, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Phú Thiện",
+      "county": "Xã Phú Thiện",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
