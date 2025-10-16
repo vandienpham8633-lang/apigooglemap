@@ -57317,5 +57317,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.72441,105.7693": {
+    "display_name": "Xóm Vạn, Xã Hồng Sơn, Hà Nội, Việt Nam",
+    "address": {
+      "neighbourhood": "Xóm Vạn",
+      "city_district": "Xã Hồng Sơn",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78291,106.6453": {
+    "display_name": "Hẻm 133/66 Ni Sư Huỳnh Liên, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 133/66 Ni Sư Huỳnh Liên",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.69768,106.2404": {
+    "display_name": "Trà Cú, Xã Trà Cú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Trà Cú",
+      "county": "Xã Trà Cú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63363,106.5247": {
+    "display_name": "ĐT. 833B, Mỹ Yên, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "ĐT. 833B",
+      "village": "Mỹ Yên",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
