@@ -56729,5 +56729,111 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.30575,108.9598": {
+    "display_name": "Thôn Tân Thịnh, Ân Tường Tây, Ân Tường, Xã Ân Tường, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tân Thịnh, Ân Tường Tây",
+      "village": "Ân Tường",
+      "county": "Xã Ân Tường",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79254,106.5862": {
+    "display_name": "Hẻm 193/26 Đường Số 6, Bình Tân, Phường Bình Tân, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 193/26 Đường Số 6",
+      "suburb": "Bình Tân",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.48382,106.3328": {
+    "display_name": "Đường cao tốc Thành phố Hồ Chí Minh – Trung Lương, Xã Tân Hương, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Thành phố Hồ Chí Minh – Trung Lương",
+      "county": "Xã Tân Hương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.559137,106.2531": {
+    "display_name": "Xã Cù Lao Dung, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Cù Lao Dung",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78998,106.644": {
+    "display_name": "Hẻm 173 Đường Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 173 Đường Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96999,107.0068": {
+    "display_name": "Ấp 4, Xã Trảng Bom, Tỉnh Đồng Nai, 76000, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã Trảng Bom",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.19908,103.9679": {
+    "display_name": "Chez Carole, Trần Hưng Đạo, Đặc khu Phú Quốc, Tỉnh An Giang, 92506, Việt Nam",
+    "address": {
+      "amenity": "Chez Carole",
+      "road": "Trần Hưng Đạo",
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "92506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86097,106.8391": {
+    "display_name": "Đường số 9, Phường Long Bình, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "road": "Đường số 9",
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.92727,107.6799": {
+    "display_name": "Quốc lộ 14G, Xã Đông Giang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14G",
+      "town": "Xã Đông Giang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
