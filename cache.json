@@ -54871,5 +54871,74 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.96291,108.0163": {
+    "display_name": "Thôn 7, Xã Ea Kiết, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 7",
+      "county": "Xã Ea Kiết",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.26913,109.0913": {
+    "display_name": "Xã Diên Điền, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "county": "Xã Diên Điền",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.985078,105.0991": {
+    "display_name": "Khu phố 1, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.69723,107.6374": {
+    "display_name": "Đường tỉnh 725, Thôn 1 Lộc Bắc, Xã Bảo Lâm 5, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 725",
+      "quarter": "Thôn 1 Lộc Bắc",
+      "town": "Xã Bảo Lâm 5",
+      "county": "Xã Bảo Lâm 5",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35257,106.3592": {
+    "display_name": "Phường Đạo Thạnh, Tỉnh Đồng Tháp, 86000, Việt Nam",
+    "address": {
+      "county": "Phường Đạo Thạnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "86000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.85931,108.3785": {
+    "display_name": "Thôn 11, Xã Phú Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 11",
+      "county": "Xã Phú Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
