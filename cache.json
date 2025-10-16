@@ -52957,5 +52957,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.5008,108.5443": {
+    "display_name": "Xã Tam Anh, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Tam Anh",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.48527,109.0206": {
+    "display_name": "Xã Xuân Lãnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lãnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.524992,105.2717": {
+    "display_name": "Xã Vĩnh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05136,106.7815": {
+    "display_name": "Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
