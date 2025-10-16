@@ -52763,5 +52763,90 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.525278,105.2719": {
+    "display_name": "Xã Vĩnh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.68218,106.7499": {
+    "display_name": "Xã Tân Hưng, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.24702,106.3704": {
+    "display_name": "Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80794,105.3455": {
+    "display_name": "Nguyễn Văn Cừ, Hồng Ngự, Phường Hồng Ngự, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Cừ",
+      "city": "Hồng Ngự",
+      "county": "Phường Hồng Ngự",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91665,106.9298": {
+    "display_name": "Tân Cang, Phường Phước Tân, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Tân Cang",
+      "county": "Phường Phước Tân",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.23899,106.0017": {
+    "display_name": "Xã Ninh Điền, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Ninh Điền",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.41049,106.7658": {
+    "display_name": "ĐT. 871, Vàm Láng, Xã Gia Thuận, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 871",
+      "town": "Vàm Láng",
+      "county": "Xã Gia Thuận",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.613791,106.2873": {
+    "display_name": "Đường Nguyễn Kim Quang, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Kim Quang",
+      "town": "Định An",
+      "county": "Xã Đại An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
