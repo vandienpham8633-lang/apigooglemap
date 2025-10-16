@@ -55757,5 +55757,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.36066,105.513": {
+    "display_name": "Ngô Quyền, Khóm Bình Thạnh 2, Lấp Vò, Xã Lấp Vò, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Ngô Quyền",
+      "hamlet": "Khóm Bình Thạnh 2",
+      "town": "Lấp Vò",
+      "county": "Xã Lấp Vò",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78997,106.644": {
+    "display_name": "Hẻm 173 Đường Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 173 Đường Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.607035,106.2333": {
+    "display_name": "Xã An Thạnh, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã An Thạnh",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.62427,108.1187": {
+    "display_name": "Xã Ia Hrú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89399,106.7767": {
+    "display_name": "Tây A, Phường Đông Hòa, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Tây A",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
