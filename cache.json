@@ -53638,5 +53638,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.825879,105.057": {
+    "display_name": "Khu phố 4, Thứ Ba, Xã An Biên, Tỉnh An Giang, 91800, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4",
+      "town": "Thứ Ba",
+      "county": "Xã An Biên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "91800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.826294,105.0605": {
+    "display_name": "Khu phố 4, Thứ Ba, Xã An Biên, Tỉnh An Giang, 91800, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4",
+      "town": "Thứ Ba",
+      "county": "Xã An Biên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "91800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
