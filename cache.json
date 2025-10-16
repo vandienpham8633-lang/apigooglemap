@@ -54341,5 +54341,101 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.57847,106.1978": {
+    "display_name": "ĐT. 867, Xã Tân Phước 1, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 867",
+      "county": "Xã Tân Phước 1",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65132,106.5877": {
+    "display_name": "Xã Bình Chánh, Phước Lý, Xã Phước Lý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Bình Chánh",
+      "county": "Xã Phước Lý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93591,106.8092": {
+    "display_name": "Công ty TNHH Pouchen Việt Nam, Đường Nguyễn Ái Quốc, An Hoà, Thành phố Biên Hòa, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Pouchen Việt Nam",
+      "road": "Đường Nguyễn Ái Quốc",
+      "quarter": "An Hoà",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.77494,108.793": {
+    "display_name": "Quốc lộ 27B, Tân Sơn, Xã Ninh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "town": "Tân Sơn",
+      "county": "Xã Ninh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.866,106.6656": {
+    "display_name": "C4, 9A, Đường Thạnh Xuân 13, Phường Thới An, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "building": "C4",
+      "house_number": "9A",
+      "road": "Đường Thạnh Xuân 13",
+      "suburb": "Phường Thới An",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.37391,107.7209": {
+    "display_name": "Quốc lộ 1, Phường Phú Bài, Thành phố Huế, 52000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Phường Phú Bài",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "52000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65129,106.5877": {
+    "display_name": "Xã Bình Chánh, Phước Lý, Xã Phước Lý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Bình Chánh",
+      "county": "Xã Phước Lý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57307,107.6159": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
