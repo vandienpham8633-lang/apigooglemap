@@ -57063,5 +57063,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.22707,106.118": {
+    "display_name": "Khu công nghiệp Quang Châu, Phường Nếnh, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Quang Châu",
+      "suburb": "Phường Nếnh",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56249,108.9343": {
+    "display_name": "Xã Phước Hậu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Hậu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62988,106.6566": {
+    "display_name": "Cần Giuộc, Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Cần Giuộc",
+      "county": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34067,106.5916": {
+    "display_name": "Đường tỉnh 750, Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 750",
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
