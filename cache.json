@@ -54792,5 +54792,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94398,106.7395": {
+    "display_name": "Khu phố 3, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 3",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
