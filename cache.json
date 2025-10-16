@@ -52484,5 +52484,57 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06345,108.2443": {
+    "display_name": "Kova Diamond, 27, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Kova Diamond",
+      "house_number": "27",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64679,107.3299": {
+    "display_name": "Chợ Sơn Bình, Đường tỉnh 991, Tân Bình, Xã Xuân Sơn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "amenity": "Chợ Sơn Bình",
+      "road": "Đường tỉnh 991",
+      "neighbourhood": "Tân Bình",
+      "city_district": "Xã Xuân Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0634,108.2443": {
+    "display_name": "Pavilion Hotel, 32, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Pavilion Hotel",
+      "house_number": "32",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06348,108.2443": {
+    "display_name": "Kova Diamond, 27, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Kova Diamond",
+      "house_number": "27",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
