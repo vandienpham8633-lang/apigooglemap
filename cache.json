@@ -55926,5 +55926,124 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.12321,106.2926": {
+    "display_name": "Xã Nhuận Phú Tân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhuận Phú Tân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05381,106.7059": {
+    "display_name": "Đường số 51, Phú Tân 2, Phường Bình Dương, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường số 51",
+      "quarter": "Phú Tân 2",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.907872,106.377": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18982,108.5895": {
+    "display_name": "Phan Rí Cửa, Xã Phan Rí Cửa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Phan Rí Cửa",
+      "county": "Xã Phan Rí Cửa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67775,107.0768": {
+    "display_name": "Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18983,108.5895": {
+    "display_name": "Phan Rí Cửa, Xã Phan Rí Cửa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Phan Rí Cửa",
+      "county": "Xã Phan Rí Cửa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.28926,105.8669": {
+    "display_name": "Xã Lai Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Lai Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.28928,105.8669": {
+    "display_name": "Xã Lai Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Lai Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18983,108.5896": {
+    "display_name": "Phan Rí Cửa, Xã Phan Rí Cửa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Phan Rí Cửa",
+      "county": "Xã Phan Rí Cửa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18981,108.5896": {
+    "display_name": "Phan Rí Cửa, Xã Phan Rí Cửa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Phan Rí Cửa",
+      "county": "Xã Phan Rí Cửa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78994,106.644": {
+    "display_name": "Hẻm 173 Đường Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 173 Đường Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
