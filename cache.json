@@ -56312,5 +56312,82 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.64196,109.05": {
+    "display_name": "Xã Ninh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Ninh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.69769,105.0372": {
+    "display_name": "Xã Linh Hồ, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Linh Hồ",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.924077,106.6574": {
+    "display_name": "Xã Thạnh Hải, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Hải",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.44065,109.2224": {
+    "display_name": "Dân Phước, Phường Xuân Đài, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Dân Phước",
+      "county": "Phường Xuân Đài",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.99237,106.8845": {
+    "display_name": "Khu phố 4C, Phường Trảng Dài, Tỉnh Đồng Nai, 76913, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4C",
+      "county": "Phường Trảng Dài",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.50159,108.046": {
+    "display_name": "Tổ dân phố 4, Rung, Xã Krông Ana, Tỉnh Đắk Lắk, 61000, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 4",
+      "village": "Rung",
+      "county": "Xã Krông Ana",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "61000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.23199,108.068": {
+    "display_name": "Thôn 1A, Xã Ea Wy, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1A",
+      "county": "Xã Ea Wy",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
