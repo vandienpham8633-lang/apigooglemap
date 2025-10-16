@@ -56045,5 +56045,125 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.25516,109.0519": {
+    "display_name": "Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96074,108.3337": {
+    "display_name": "Xuân Thủy, Phường Mũi Né, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Xuân Thủy",
+      "county": "Phường Mũi Né",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.83372,105.7085": {
+    "display_name": "Trại Cốc, Xã Hòa Phú, Hà Nội, Việt Nam",
+    "address": {
+      "quarter": "Trại Cốc",
+      "city_district": "Xã Hòa Phú",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.49899,105.3196": {
+    "display_name": "Quốc lộ 91, Xã Bình Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 91",
+      "county": "Xã Bình Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.03848,108.3299": {
+    "display_name": "Tân Hợp, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Hợp",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18976,108.5896": {
+    "display_name": "Phan Rí Cửa, Xã Phan Rí Cửa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Phan Rí Cửa",
+      "county": "Xã Phan Rí Cửa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.56625,107.2319": {
+    "display_name": "Xã Nghĩa Thành, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Nghĩa Thành",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.69835,108.3309": {
+    "display_name": "Thôn 3, Xã Krông Pắc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Krông Pắc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.09115,108.2496": {
+    "display_name": "Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78994,106.6439": {
+    "display_name": "Hẻm 173 Đường Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 173 Đường Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.67568,107.931": {
+    "display_name": "Đường tỉnh 665, Xã Ia Pia, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 665",
+      "county": "Xã Ia Pia",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
