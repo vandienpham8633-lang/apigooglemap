@@ -54601,5 +54601,101 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93621,106.8091": {
+    "display_name": "Công ty TNHH Pouchen Việt Nam, Đường Nguyễn Ái Quốc, An Hoà, Thành phố Biên Hòa, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Pouchen Việt Nam",
+      "road": "Đường Nguyễn Ái Quốc",
+      "quarter": "An Hoà",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57292,107.6158": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.48276,107.21": {
+    "display_name": "Long Bình, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "neighbourhood": "Long Bình",
+      "town": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.69582,107.3565": {
+    "display_name": "Phường Phong Dinh, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Phong Dinh",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.72035,108.3611": {
+    "display_name": "Xã Thăng Bình, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Bình",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.00622,109.0649": {
+    "display_name": "KP.An Ninh, TT.Ngô Mây, Thôn Phú Kim, Cát Trinh, Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.An Ninh, TT.Ngô Mây",
+      "hamlet": "Thôn Phú Kim, Cát Trinh",
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.66718,109.0687": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93633,106.8091": {
+    "display_name": "Công ty TNHH Pouchen Việt Nam, Đường Nguyễn Ái Quốc, An Hoà, Thành phố Biên Hòa, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Pouchen Việt Nam",
+      "road": "Đường Nguyễn Ái Quốc",
+      "quarter": "An Hoà",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
