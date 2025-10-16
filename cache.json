@@ -57020,5 +57020,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.61092,108.9325": {
+    "display_name": "Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.18542,104.6733": {
+    "display_name": "Rạch Đùng - Tám Thước, Rạch Đùng, Xã Kiên Lương, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Rạch Đùng - Tám Thước",
+      "village": "Rạch Đùng",
+      "county": "Xã Kiên Lương",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
