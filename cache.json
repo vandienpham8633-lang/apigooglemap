@@ -51989,5 +51989,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.14337,106.552": {
+    "display_name": "Tân Lập, Phường Long Nguyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Tân Lập",
+      "city_district": "Phường Long Nguyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
