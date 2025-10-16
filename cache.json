@@ -54730,5 +54730,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.9363,106.8091": {
+    "display_name": "Công ty TNHH Pouchen Việt Nam, Đường Nguyễn Ái Quốc, An Hoà, Thành phố Biên Hòa, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Pouchen Việt Nam",
+      "road": "Đường Nguyễn Ái Quốc",
+      "quarter": "An Hoà",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.48273,107.2099": {
+    "display_name": "Long Bình, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "neighbourhood": "Long Bình",
+      "town": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.86247,107.9206": {
+    "display_name": "Xã Thượng Đức, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thượng Đức",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
