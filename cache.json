@@ -57455,5 +57455,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.81768,107.1189": {
+    "display_name": "Thôn 6, Xã Bom Bo, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Bom Bo",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34106,106.5916": {
+    "display_name": "Đường tỉnh 750, Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 750",
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55143,106.5919": {
+    "display_name": "Xã Mỹ Lệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Lệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.08696,109.3153": {
+    "display_name": "Hùng Vương, Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.3407,106.5918": {
+    "display_name": "Đường tỉnh 750, Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 750",
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
