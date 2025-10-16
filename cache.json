@@ -51978,5 +51978,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.6656,105.6741": {
+    "display_name": "Cao Thắng, Phường Trường Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Cao Thắng",
+      "city": "Phường Trường Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
