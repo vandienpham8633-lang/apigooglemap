@@ -53245,5 +53245,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.02777,107.8678": {
+    "display_name": "Xã Ia Hrung, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrung",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66385,105.453": {
+    "display_name": "Xã Phú Thọ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Phú Thọ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.54649,104.6826": {
+    "display_name": "Xã Tiên Nguyên, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Tiên Nguyên",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
