@@ -52366,5 +52366,123 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.43404,106.0383": {
+    "display_name": "Xã Trà Vong, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Trà Vong",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.869151,105.1736": {
+    "display_name": "Xã Thanh Tùng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Thanh Tùng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88718,106.9308": {
+    "display_name": "Thiên Bình, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Thiên Bình",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.4607,108.6535": {
+    "display_name": "Xã Núi Thành, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Núi Thành",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.04457,106.6446": {
+    "display_name": "Khu phố 1, Phường Hòa Lợi, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42008,104.9983": {
+    "display_name": "THPT Nguyên Trung Trực, Thái Quốc Hùng, Xã Tri Tôn, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "amenity": "THPT Nguyên Trung Trực",
+      "road": "Thái Quốc Hùng",
+      "town": "Xã Tri Tôn",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.6649,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.92697,108.6969": {
+    "display_name": "Long Hiệp, Xã Minh Long, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Long Hiệp",
+      "county": "Xã Minh Long",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.11762,108.9699": {
+    "display_name": "Bàn Thạnh Tây, Xã Hội Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Bàn Thạnh Tây",
+      "county": "Xã Hội Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75729,106.6132": {
+    "display_name": "Hẻm 637/26 Tỉnh lộ 10, Phường An Lạc, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "road": "Hẻm 637/26 Tỉnh lộ 10",
+      "city": "Phường An Lạc",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.23941,105.0384": {
+    "display_name": "Thái Tân, Xã Sơn Kiên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Thái Tân",
+      "county": "Xã Sơn Kiên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
