@@ -53376,5 +53376,89 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.509308,106.1647": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89522,106.812": {
+    "display_name": "Trung Thắng, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Trung Thắng",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53669,107.1696": {
+    "display_name": "Xã Châu Pha, Thành phố Hồ Chí Minh, 78106, Việt Nam",
+    "address": {
+      "city_district": "Xã Châu Pha",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.141491,105.5062": {
+    "display_name": "Xã Đông Hải, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đông Hải",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87465,107.0177": {
+    "display_name": "Ấp 3, Xã An Viễn, Việt Nam",
+    "address": {
+      "village": "Ấp 3",
+      "county": "Xã An Viễn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64877,107.3329": {
+    "display_name": "Sơn Thành, Xã Xuân Sơn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "neighbourhood": "Sơn Thành",
+      "city_district": "Xã Xuân Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.57946,106.5918": {
+    "display_name": "Xã Rạch Kiến, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Rạch Kiến",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.16931,108.6692": {
+    "display_name": "Buôn BLái, Xã Ia Dreh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Buôn BLái",
+      "county": "Xã Ia Dreh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
