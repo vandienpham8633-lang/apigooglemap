@@ -54998,5 +54998,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.363773,105.9494": {
+    "display_name": "Phường Khánh Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Khánh Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88598,108.1186": {
+    "display_name": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam, Đường tỉnh 609B, Xã Đại Lộc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam",
+      "road": "Đường tỉnh 609B",
+      "town": "Xã Đại Lộc",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68771,108.3855": {
+    "display_name": "Tân Lập 1, Xã Ea Phê, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Lập 1",
+      "county": "Xã Ea Phê",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
