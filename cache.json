@@ -55268,5 +55268,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.68783,108.3855": {
+    "display_name": "Tân Lập 1, Xã Ea Phê, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Lập 1",
+      "county": "Xã Ea Phê",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.284743,105.6462": {
+    "display_name": "Ba Tháng Hai, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ba Tháng Hai",
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.6649,105.7602": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.287953,105.7367": {
+    "display_name": "Nguyễn Thị Minh Khai, Phường Vĩnh Trạch, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh Khai",
+      "county": "Phường Vĩnh Trạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.70624,108.2851": {
+    "display_name": "Jung 2, Xã Krông Pắc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Jung 2",
+      "county": "Xã Krông Pắc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.08619,108.8516": {
+    "display_name": "La Hà, Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "La Hà",
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
