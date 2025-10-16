@@ -52194,5 +52194,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.41534,108.9349": {
+    "display_name": "Xã Bắc Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bắc Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88274,108.3502": {
+    "display_name": "Trust Villa, 77D, Nguyễn Duy Hiệu, Cẩm Châu, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "tourism": "Trust Villa",
+      "house_number": "77D",
+      "road": "Nguyễn Duy Hiệu",
+      "suburb": "Cẩm Châu",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
