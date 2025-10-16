@@ -53890,5 +53890,65 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93623,106.8091": {
+    "display_name": "Công ty TNHH Pouchen Việt Nam, Đường Nguyễn Ái Quốc, An Hoà, Thành phố Biên Hòa, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Pouchen Việt Nam",
+      "road": "Đường Nguyễn Ái Quốc",
+      "quarter": "An Hoà",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.41869,105.302": {
+    "display_name": "Xã Cần Đăng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cần Đăng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.826288,105.0605": {
+    "display_name": "Khu phố 4, Thứ Ba, Xã An Biên, Tỉnh An Giang, 91800, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4",
+      "town": "Thứ Ba",
+      "county": "Xã An Biên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "91800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.13559,108.219": {
+    "display_name": "Thôn 1, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78259,108.5194": {
+    "display_name": "Kông Chro, Xã Kông Chro, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Kông Chro",
+      "county": "Xã Kông Chro",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
