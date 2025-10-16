@@ -55359,5 +55359,181 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.55883,108.2568": {
+    "display_name": "Dinh Điền, Xã Chư A Thai, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Dinh Điền",
+      "county": "Xã Chư A Thai",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96624,107.5902": {
+    "display_name": "Đường tỉnh 664, Xã Ia O, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 664",
+      "county": "Xã Ia O",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.284643,105.6462": {
+    "display_name": "Ba Tháng Hai, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ba Tháng Hai",
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.70623,108.2851": {
+    "display_name": "Jung 2, Xã Krông Pắc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Jung 2",
+      "county": "Xã Krông Pắc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.95239,108.336": {
+    "display_name": "Tổ dân phố 2, Krông Năng, Xã Krông Năng, Tỉnh Đắk Lắk, 63406, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 2",
+      "town": "Krông Năng",
+      "county": "Xã Krông Năng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63406",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.7332,108.1116": {
+    "display_name": "Đường D2, Thôn 2, Phường Tân An, Tỉnh Đắk Lắk, 63000, Việt Nam",
+    "address": {
+      "road": "Đường D2",
+      "village": "Thôn 2",
+      "county": "Phường Tân An",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35929,105.9991": {
+    "display_name": "Xã Cái Bè, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Cái Bè",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.62594,108.221": {
+    "display_name": "Xã Quế Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Quế Sơn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.073837,104.9767": {
+    "display_name": "Nguyễn Ngọc Sanh, Trần Văn Thời, Xã Trần Văn Thời, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Nguyễn Ngọc Sanh",
+      "town": "Trần Văn Thời",
+      "county": "Xã Trần Văn Thời",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96523,106.6695": {
+    "display_name": "Phú Thọ 2, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, 75107, Việt Nam",
+    "address": {
+      "quarter": "Phú Thọ 2",
+      "city_district": "Phường Thủ Dầu Một",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91669,106.9299": {
+    "display_name": "Tân Cang, Phường Phước Tân, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Tân Cang",
+      "county": "Phường Phước Tân",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.073836,104.9767": {
+    "display_name": "Nguyễn Ngọc Sanh, Trần Văn Thời, Xã Trần Văn Thời, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Nguyễn Ngọc Sanh",
+      "town": "Trần Văn Thời",
+      "county": "Xã Trần Văn Thời",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75733,106.7352": {
+    "display_name": "Bến Nghé, Khu chế xuất Tân Thuận, Phường Tân Thuận, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71800, Việt Nam",
+    "address": {
+      "road": "Bến Nghé",
+      "industrial": "Khu chế xuất Tân Thuận",
+      "suburb": "Phường Tân Thuận",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75734,106.7352": {
+    "display_name": "Bến Nghé, Khu chế xuất Tân Thuận, Phường Tân Thuận, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71800, Việt Nam",
+    "address": {
+      "road": "Bến Nghé",
+      "industrial": "Khu chế xuất Tân Thuận",
+      "suburb": "Phường Tân Thuận",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.073835,104.9767": {
+    "display_name": "Nguyễn Ngọc Sanh, Trần Văn Thời, Xã Trần Văn Thời, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Nguyễn Ngọc Sanh",
+      "town": "Trần Văn Thời",
+      "county": "Xã Trần Văn Thời",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
