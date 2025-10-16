@@ -57375,5 +57375,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.45313,109.0666": {
+    "display_name": "khu phố Định Công, Phường Hoài Nhơn Đông, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Định Công, Phường Hoài Nhơn Đông",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.40014,105.711": {
+    "display_name": "Xã Đồng Lộc, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Đồng Lộc",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
