@@ -51934,5 +51934,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.0056,108.9521": {
+    "display_name": "Nguyễn Văn Trỗi, Tô Hạp, Xã Khánh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Trỗi",
+      "town": "Tô Hạp",
+      "county": "Xã Khánh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.667711,105.1894": {
+    "display_name": "Xã Vĩnh Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
