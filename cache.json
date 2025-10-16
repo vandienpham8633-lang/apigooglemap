@@ -51761,5 +51761,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.02015,105.0905": {
+    "display_name": "Mạc Cửu, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Mạc Cửu",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.11757,108.97": {
+    "display_name": "Bàn Thạnh Tây, Xã Hội Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Bàn Thạnh Tây",
+      "county": "Xã Hội Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9711,106.7186": {
+    "display_name": "Khu phố Bình Phước A, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Bình Phước A",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
