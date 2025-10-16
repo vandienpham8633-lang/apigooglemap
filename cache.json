@@ -57243,5 +57243,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79745,106.4914": {
+    "display_name": "Khu Công nghiệp Liên Minh, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
