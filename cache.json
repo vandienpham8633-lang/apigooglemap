@@ -51820,5 +51820,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.09763,106.7821": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
