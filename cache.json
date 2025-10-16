@@ -52848,5 +52848,100 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.41045,106.7658": {
+    "display_name": "ĐT. 871, Vàm Láng, Xã Gia Thuận, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 871",
+      "town": "Vàm Láng",
+      "county": "Xã Gia Thuận",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.5227,105.6602": {
+    "display_name": "ĐT. 856, Xã Ba Sao, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 856",
+      "county": "Xã Ba Sao",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.3638,107.9769": {
+    "display_name": "Xã Ngọk Bay, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Ngọk Bay",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86702,106.4355": {
+    "display_name": "Xã Mỹ Hạnh, Tỉnh Tây Ninh, 82719, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82719",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.48474,109.0202": {
+    "display_name": "Xã Xuân Lãnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lãnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66487,105.7601": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96667,109.2454": {
+    "display_name": "Xã Hòa Thịnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Thịnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.45489,107.5346": {
+    "display_name": "Phường Kim Long, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "county": "Phường Kim Long",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.1979,106.0995": {
+    "display_name": "Xã Cẩm Lạc, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Cẩm Lạc",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
