@@ -55535,5 +55535,227 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.11924,108.2142": {
+    "display_name": "Cảng Tiên Sa, Đường Yết Kiêu, Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "amenity": "Cảng Tiên Sa",
+      "road": "Đường Yết Kiêu",
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.073824,104.9767": {
+    "display_name": "Nguyễn Ngọc Sanh, Trần Văn Thời, Xã Trần Văn Thời, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Nguyễn Ngọc Sanh",
+      "town": "Trần Văn Thời",
+      "county": "Xã Trần Văn Thời",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67774,107.0768": {
+    "display_name": "Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78988,106.6441": {
+    "display_name": "Hẻm 173 Đường Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 173 Đường Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66484,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05127,105.7418": {
+    "display_name": "Nguyễn Thị Tạo, Phường Long Tuyền, Thành phố Cần Thơ, 94108, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Tạo",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94108",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.04252,109.3089": {
+    "display_name": "Đống Đa, Phú Lâm, Phường Phú Yên, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đống Đa",
+      "suburb": "Phú Lâm",
+      "county": "Phường Phú Yên",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.607087,106.2332": {
+    "display_name": "Xã An Thạnh, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã An Thạnh",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.46406,107.5936": {
+    "display_name": "Hue Sweethouse 1 Homestay, 8/27, Hà Nội, Phú Nhuận, Thuận Hóa, Huế, Phường Thuận Hoá, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "tourism": "Hue Sweethouse 1 Homestay",
+      "house_number": "8/27",
+      "road": "Hà Nội",
+      "quarter": "Phú Nhuận",
+      "suburb": "Thuận Hóa",
+      "city": "Huế",
+      "county": "Phường Thuận Hoá",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04837,108.2455": {
+    "display_name": "The Vegan Ramen, 34, Đường An Thượng 5, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, 50507, Việt Nam",
+    "address": {
+      "place": "The Vegan Ramen",
+      "house_number": "34",
+      "road": "Đường An Thượng 5",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9065,106.4216": {
+    "display_name": "Đường tỉnh 823, Hậu Nghĩa, Xã Hậu Nghĩa, Tỉnh Tây Ninh, 82719, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 823",
+      "town": "Hậu Nghĩa",
+      "county": "Xã Hậu Nghĩa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82719",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.839342,105.7147": {
+    "display_name": "ĐT. 925B, Xã Thạnh Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 925B",
+      "city_district": "Xã Thạnh Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.469,106.632": {
+    "display_name": "Nguyễn Quốc Hoan, Phường Đồng Hới, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Nguyễn Quốc Hoan",
+      "city": "Phường Đồng Hới",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.277431,105.6201": {
+    "display_name": "Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.85864,108.3743": {
+    "display_name": "Thôn 9, Xã Phú Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 9",
+      "county": "Xã Phú Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07898,108.1674": {
+    "display_name": "Đường Lâm Quang Thự, Phường Thanh Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Lâm Quang Thự",
+      "city": "Phường Thanh Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.512085,105.0117": {
+    "display_name": "Xã Biển Bạch, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Biển Bạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.56594,108.4784": {
+    "display_name": "Trường Đại học Quảng Nam, 102, Hùng Vương, Phường Tam Kỳ, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Trường Đại học Quảng Nam",
+      "house_number": "102",
+      "road": "Hùng Vương",
+      "city": "Phường Tam Kỳ",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.49336,105.4727": {
+    "display_name": "Mỹ Luông, Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Mỹ Luông",
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
