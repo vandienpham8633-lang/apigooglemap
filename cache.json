@@ -57254,5 +57254,24 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.62752,104.1442": {
+    "display_name": "Đường tỉnh 154, Xã Cao Sơn, Tỉnh Lào Cai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 154",
+      "county": "Xã Cao Sơn",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.95761,107.0538": {
+    "display_name": "Xã Phú Nghĩa, Việt Nam",
+    "address": {
+      "county": "Xã Phú Nghĩa",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
