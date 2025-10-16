@@ -54940,5 +54940,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81426,106.7912": {
+    "display_name": "Cầu Phú Hữu, Khu công nghệ cao Thành phố Hồ Chí Minh, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71350, Việt Nam",
+    "address": {
+      "road": "Cầu Phú Hữu",
+      "industrial": "Khu công nghệ cao Thành phố Hồ Chí Minh",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43966,106.5694": {
+    "display_name": "Xã Thuận Mỹ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thuận Mỹ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75865,106.6072": {
+    "display_name": "Hẻm 5 Bình Trị Đông, Phường Bình Trị Đông, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "road": "Hẻm 5 Bình Trị Đông",
+      "suburb": "Phường Bình Trị Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.8593,108.3785": {
+    "display_name": "Thôn 11, Xã Phú Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 11",
+      "county": "Xã Phú Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88521,108.1193": {
+    "display_name": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam, Đường tỉnh 609B, Xã Đại Lộc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam",
+      "road": "Đường tỉnh 609B",
+      "town": "Xã Đại Lộc",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
