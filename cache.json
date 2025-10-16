@@ -54150,5 +54150,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.6527,108.1142": {
+    "display_name": "Xã Chư Sê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Chư Sê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
