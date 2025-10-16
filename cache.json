@@ -54186,5 +54186,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63008,106.3959": {
+    "display_name": "Xã Thủ Thừa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thủ Thừa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
