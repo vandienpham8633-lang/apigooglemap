@@ -52121,5 +52121,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.46485,105.551": {
+    "display_name": "Xã Cù Lao Giêng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cù Lao Giêng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88273,108.3502": {
+    "display_name": "Trust Villa, 77D, Nguyễn Duy Hiệu, Cẩm Châu, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "tourism": "Trust Villa",
+      "house_number": "77D",
+      "road": "Nguyễn Duy Hiệu",
+      "suburb": "Cẩm Châu",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
