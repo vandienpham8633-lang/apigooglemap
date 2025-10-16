@@ -56964,5 +56964,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.66483,105.7602": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.22254,108.6377": {
+    "display_name": "Đường Tịnh Phong – Trà Bình, Xã Ba Gia, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Tịnh Phong – Trà Bình",
+      "county": "Xã Ba Gia",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.33243,103.8251": {
+    "display_name": "Đường Lý Thị Dủ, Phan Si Păng, Sa Pa, Xã Tả Van, Tỉnh Lào Cai, 31786, Việt Nam",
+    "address": {
+      "road": "Đường Lý Thị Dủ",
+      "suburb": "Phan Si Păng",
+      "town": "Sa Pa",
+      "county": "Xã Tả Van",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "postcode": "31786",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.78155,105.4666": {
+    "display_name": "Trưng Nhị, Phường Vị Thanh, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Trưng Nhị",
+      "city_district": "Phường Vị Thanh",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.12453,108.71": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
