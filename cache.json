@@ -51797,5 +51797,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.42478,105.3675": {
+    "display_name": "Hoàng Sa, An Châu, Xã An Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Hoàng Sa",
+      "town": "An Châu",
+      "county": "Xã An Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.11753,108.97": {
+    "display_name": "Bàn Thạnh Tây, Xã Hội Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Bàn Thạnh Tây",
+      "county": "Xã Hội Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
