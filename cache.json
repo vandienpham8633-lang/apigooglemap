@@ -52000,5 +52000,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.23942,105.0383": {
+    "display_name": "Thái Tân, Xã Sơn Kiên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Thái Tân",
+      "county": "Xã Sơn Kiên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.54983,107.639": {
+    "display_name": "Thuận An, Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Thuận An",
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
