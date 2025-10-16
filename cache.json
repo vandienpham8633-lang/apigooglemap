@@ -53776,5 +53776,109 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76717,106.4758": {
+    "display_name": "Khu CN Hải Sơn, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu CN Hải Sơn",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.94432,106.9542": {
+    "display_name": "Xã Cồn Tiên, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cồn Tiên",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.7818,108.5189": {
+    "display_name": "Kông Chro, Xã Kông Chro, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Kông Chro",
+      "county": "Xã Kông Chro",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.48759,105.6046": {
+    "display_name": "Mỹ Ngãi, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Mỹ Ngãi",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.46709,108.8336": {
+    "display_name": "Xã Phước Hà, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Hà",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.179187,104.8645": {
+    "display_name": "Xã Đá Bạc, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đá Bạc",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.94423,106.9545": {
+    "display_name": "Xã Cồn Tiên, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cồn Tiên",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.13564,108.219": {
+    "display_name": "Thôn 1, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.78924,108.7627": {
+    "display_name": "Thôn 1, Xã Ea Riêng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Ea Riêng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.6082,106.0033": {
+    "display_name": "Xã Tân Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
