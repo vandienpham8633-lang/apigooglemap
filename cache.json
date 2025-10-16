@@ -55346,5 +55346,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77297,106.6773": {
+    "display_name": "Hẻm 528/25 Đường Điện Biên Phủ, Khu phố 30, Phường Vườn Lài, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72406, Việt Nam",
+    "address": {
+      "road": "Hẻm 528/25 Đường Điện Biên Phủ",
+      "quarter": "Khu phố 30",
+      "suburb": "Phường Vườn Lài",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72406",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
