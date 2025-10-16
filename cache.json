@@ -56920,5 +56920,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.21734,106.077": {
+    "display_name": "Xã Nhơn Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3662,105.3879": {
+    "display_name": "Phường Long Xuyên, Tỉnh An Giang, 90100, Việt Nam",
+    "address": {
+      "municipality": "Phường Long Xuyên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.37525,105.8401": {
+    "display_name": "Đường Nguyễn Bá Đỉnh, Xã Thạch Hà, Hà Tĩnh, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Bá Đỉnh",
+      "town": "Xã Thạch Hà",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.25249,107.4654": {
+    "display_name": "Đường Be 29, Bàu Mây, Xã Tân Phú, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Be 29",
+      "village": "Bàu Mây",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
