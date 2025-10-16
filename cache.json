@@ -57042,5 +57042,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.608634,105.4333": {
+    "display_name": "Xã Lương Tâm, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Lương Tâm",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
