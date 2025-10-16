@@ -56389,5 +56389,112 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75296,106.7213": {
+    "display_name": "Hẻm 52 Nguyễn Thị Xiếu, Phường Tân Thuận, Thành phố Hồ Chí Minh, 71800, Việt Nam",
+    "address": {
+      "road": "Hẻm 52 Nguyễn Thị Xiếu",
+      "suburb": "Phường Tân Thuận",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79256,106.5862": {
+    "display_name": "Hẻm 193/26 Đường Số 6, Bình Tân, Phường Bình Tân, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 193/26 Đường Số 6",
+      "suburb": "Bình Tân",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78489,106.6607": {
+    "display_name": "Hẻm 115 Nghĩa Hưng, Phường Tân Hòa, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72117, Việt Nam",
+    "address": {
+      "road": "Hẻm 115 Nghĩa Hưng",
+      "suburb": "Phường Tân Hòa",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78996,106.6441": {
+    "display_name": "Hẻm 173 Đường Phạm Phú Thứ, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 173 Đường Phạm Phú Thứ",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.24575,106.1665": {
+    "display_name": "Đường số 102 Nguyễn Văn Linh, Phường Long Hoa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường số 102 Nguyễn Văn Linh",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.59974,109.0289": {
+    "display_name": "khu phố Bình Đê, phường Hoài Nhơn Bắc, ấp Tuý Sơn, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Bình Đê, phường Hoài Nhơn Bắc",
+      "village": "ấp Tuý Sơn",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.22717,92.18439": {
+    "display_name": "বান্দরবান, Bandarban Sadar, বান্দরবান পার্বত্য জেলা, চট্টগ্রাম বিভাগ, Băng-la-đét",
+    "address": {
+      "city": "বান্দরবান",
+      "county": "Bandarban Sadar",
+      "state_district": "বান্দরবান পার্বত্য জেলা",
+      "ISO3166-2-lvl5": "BD-01",
+      "state": "চট্টগ্রাম বিভাগ",
+      "ISO3166-2-lvl4": "BD-B",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
+  },
+  "10.98451,106.9487": {
+    "display_name": "Khu công nghiệp Sông Mây, Phường Hố Nai, Tỉnh Đồng Nai, 76000, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Sông Mây",
+      "county": "Phường Hố Nai",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.72327,107.135": {
+    "display_name": "Đường 33, Thôn 6, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Đường 33",
+      "village": "Thôn 6",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
