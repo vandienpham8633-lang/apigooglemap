@@ -57273,5 +57273,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.812582,105.8217": {
+    "display_name": "Hùng Vương, Phường Ngã Bảy, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "city_district": "Phường Ngã Bảy",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42587,106.4767": {
+    "display_name": "Xã An Lục Long, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã An Lục Long",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78872,106.797": {
+    "display_name": "Đường số 836, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường số 836",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05396,106.7414": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
