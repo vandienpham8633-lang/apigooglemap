@@ -54493,5 +54493,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93608,106.8091": {
+    "display_name": "Công ty TNHH Pouchen Việt Nam, Đường Nguyễn Ái Quốc, An Hoà, Thành phố Biên Hòa, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Pouchen Việt Nam",
+      "road": "Đường Nguyễn Ái Quốc",
+      "quarter": "An Hoà",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93627,106.8091": {
+    "display_name": "Công ty TNHH Pouchen Việt Nam, Đường Nguyễn Ái Quốc, An Hoà, Thành phố Biên Hòa, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Pouchen Việt Nam",
+      "road": "Đường Nguyễn Ái Quốc",
+      "quarter": "An Hoà",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71525,106.6017": {
+    "display_name": "Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "village": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
