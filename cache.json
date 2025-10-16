@@ -57396,5 +57396,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.47355,106.7238": {
+    "display_name": "Kỳ Nơi, Lìa, Xã Lìa, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "hamlet": "Kỳ Nơi",
+      "village": "Lìa",
+      "town": "Xã Lìa",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70512,106.566": {
+    "display_name": "Cầu Kênh C, Xã Tân Nhựt, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Cầu Kênh C",
+      "village": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.90119,105.9441": {
+    "display_name": "Xã Thần Sa, Tỉnh Thái Nguyên, Việt Nam",
+    "address": {
+      "town": "Xã Thần Sa",
+      "state": "Tỉnh Thái Nguyên",
+      "ISO3166-2-lvl4": "VN-69",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.90353,105.3984": {
+    "display_name": "QL.6, Xã Xuân Mai, Lương Sơn, Phường Kỳ Sơn, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "road": "QL.6",
+      "city_district": "Xã Xuân Mai",
+      "town": "Lương Sơn",
+      "county": "Phường Kỳ Sơn",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
