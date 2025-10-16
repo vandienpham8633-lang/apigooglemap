@@ -54804,5 +54804,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.48274,107.2099": {
+    "display_name": "Long Bình, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "neighbourhood": "Long Bình",
+      "town": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62771,106.765": {
+    "display_name": "Khu công nghiệp Hiệp Phước, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hiệp Phước",
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.26909,109.0913": {
+    "display_name": "Xã Diên Điền, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "county": "Xã Diên Điền",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.77494,108.7929": {
+    "display_name": "Quốc lộ 27B, Tân Sơn, Xã Ninh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "town": "Tân Sơn",
+      "county": "Xã Ninh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53775,108.8975": {
+    "display_name": "Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.43565,108.6535": {
+    "display_name": "Phan Châu Trinh, Xã Núi Thành, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Phan Châu Trinh",
+      "town": "Xã Núi Thành",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
