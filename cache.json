@@ -51725,5 +51725,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.11761,108.97": {
+    "display_name": "Bàn Thạnh Tây, Xã Hội Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Bàn Thạnh Tây",
+      "county": "Xã Hội Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54435,106.0032": {
+    "display_name": "Tân Biên, Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Tân Biên",
+      "county": "Xã Tân Biên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35619,106.3769": {
+    "display_name": "Học Lạc, Mỹ Tho, Phường Mỹ Tho, Tỉnh Đồng Tháp, 86000, Việt Nam",
+    "address": {
+      "road": "Học Lạc",
+      "quarter": "Mỹ Tho",
+      "city": "Mỹ Tho",
+      "county": "Phường Mỹ Tho",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "86000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
