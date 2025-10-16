@@ -55054,5 +55054,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.885087,105.747": {
+    "display_name": "Xã Thạnh Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Thạnh Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68771,108.3851": {
+    "display_name": "Tân Lập 1, Xã Ea Phê, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Lập 1",
+      "county": "Xã Ea Phê",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53773,108.8975": {
+    "display_name": "Xã Phước Hữu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Hữu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50577,104.7944": {
+    "display_name": "Xã Vĩnh Gia, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Gia",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
