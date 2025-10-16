@@ -52997,5 +52997,156 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.26144,106.14": {
+    "display_name": "Trường THCS Trường Tây, Đường số 56 Trần Phú, Hòa Thành, Phường Long Hoa, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "amenity": "Trường THCS Trường Tây",
+      "road": "Đường số 56 Trần Phú",
+      "town": "Hòa Thành",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.39531,108.0655": {
+    "display_name": "Mê Linh 2, Xã Đắk Liêng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Mê Linh 2",
+      "county": "Xã Đắk Liêng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.26297,106.5001": {
+    "display_name": "Xã Phú Thuận, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Phú Thuận",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.11465,106.5484": {
+    "display_name": "Xã An Ngãi Trung, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Ngãi Trung",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.26162,106.1401": {
+    "display_name": "Trường THCS Trường Tây, Đường số 56 Trần Phú, Hòa Thành, Phường Long Hoa, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "amenity": "Trường THCS Trường Tây",
+      "road": "Đường số 56 Trần Phú",
+      "town": "Hòa Thành",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.1147,106.5485": {
+    "display_name": "Xã An Ngãi Trung, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Ngãi Trung",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.26167,106.1401": {
+    "display_name": "Trường THCS Trường Tây, Đường số 56 Trần Phú, Hòa Thành, Phường Long Hoa, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "amenity": "Trường THCS Trường Tây",
+      "road": "Đường số 56 Trần Phú",
+      "town": "Hòa Thành",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.57062,108.4653": {
+    "display_name": "Bệnh viện Phụ sản - Nhi Quảng Nam, 46, Lý Thường Kiệt, Phường Tam Kỳ, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Phụ sản - Nhi Quảng Nam",
+      "house_number": "46",
+      "road": "Lý Thường Kiệt",
+      "city": "Phường Tam Kỳ",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.71726,109.2424": {
+    "display_name": "Xã Vạn Thắng, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Vạn Thắng",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96956,109.3458": {
+    "display_name": "Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.26161,106.1401": {
+    "display_name": "Trường THCS Trường Tây, Đường số 56 Trần Phú, Hòa Thành, Phường Long Hoa, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "amenity": "Trường THCS Trường Tây",
+      "road": "Đường số 56 Trần Phú",
+      "town": "Hòa Thành",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96732,109.3444": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.71654,109.2416": {
+    "display_name": "Xã Vạn Thắng, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Vạn Thắng",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
