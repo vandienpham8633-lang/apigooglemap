@@ -57107,5 +57107,97 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.04893,106.4008": {
+    "display_name": "Xã An Định, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Định",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.13651,108.2197": {
+    "display_name": "Thôn 1, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87185,106.7693": {
+    "display_name": "Đỗ Mười, Khu phố 7, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "road": "Đỗ Mười",
+      "quarter": "Khu phố 7",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34076,106.5917": {
+    "display_name": "Đường tỉnh 750, Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 750",
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.42492,106.6044": {
+    "display_name": "Đường tỉnh 751, Chơn Thành, Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 751",
+      "town": "Chơn Thành",
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56492,106.1653": {
+    "display_name": "Thạnh Hòa, Tân Châu, Xã Tân Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Thạnh Hòa",
+      "town": "Tân Châu",
+      "county": "Xã Tân Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62033,108.091": {
+    "display_name": "Knir, Xã Ea Ktur, Tỉnh Đắk Lắk, 02623, Việt Nam",
+    "address": {
+      "village": "Knir",
+      "county": "Xã Ea Ktur",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "02623",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.924747,105.7249": {
+    "display_name": "Đường Nguyễn Tri Phương, Xã Đông Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tri Phương",
+      "city_district": "Xã Đông Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
