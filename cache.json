@@ -60803,5 +60803,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.94847,105.7035": {
+    "display_name": "Đường Đê Mới, Phường Chương Mỹ, Phượng Nghĩa, 13400, Việt Nam",
+    "address": {
+      "road": "Đường Đê Mới",
+      "city_district": "Phường Chương Mỹ",
+      "village": "Phượng Nghĩa",
+      "postcode": "13400",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18369,106.1909": {
+    "display_name": "Xã Thạnh Đức, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Đức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.76135,105.7304": {
+    "display_name": "Phường Cửa Lò, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Cửa Lò",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80294,106.6679": {
+    "display_name": "Hẻm 202/5 Hoàng Văn Thụ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72215, Việt Nam",
+    "address": {
+      "road": "Hẻm 202/5 Hoàng Văn Thụ",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72215",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.8868,108.1105": {
+    "display_name": "H'Đing, Xã Cư M'gar, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "H'Đing",
+      "county": "Xã Cư M'gar",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
