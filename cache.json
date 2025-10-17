@@ -59295,5 +59295,91 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.87996,108.3289": {
+    "display_name": "ABC Pharmacy Hoi An, 140, Nguyễn Trường Tộ, Phố cổ Hội An, Minh An, Phường Hội An, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "amenity": "ABC Pharmacy Hoi An",
+      "house_number": "140",
+      "road": "Nguyễn Trường Tộ",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Minh An",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.85222,109.1896": {
+    "display_name": "Đường tỉnh 640, Thôn Liêm Thuận, Phước Thuận, Tuy Phước, Xã Tuy Phước Đông, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 640",
+      "hamlet": "Thôn Liêm Thuận, Phước Thuận",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27195,109.1156": {
+    "display_name": "Xã Diên Điền, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Diên Điền",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43572,106.5669": {
+    "display_name": "Xã Thuận Mỹ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thuận Mỹ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.737005,104.993": {
+    "display_name": "7 Xáng 2, Xã Đông Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "7 Xáng 2",
+      "county": "Xã Đông Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.85219,109.1897": {
+    "display_name": "Đường tỉnh 640, Thôn Liêm Thuận, Phước Thuận, Tuy Phước, Xã Tuy Phước Đông, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 640",
+      "hamlet": "Thôn Liêm Thuận, Phước Thuận",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55319,106.2528": {
+    "display_name": "Đường tỉnh 795, Tân Thuận, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 795",
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
