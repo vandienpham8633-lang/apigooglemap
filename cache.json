@@ -59997,5 +59997,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80475,106.6536": {
+    "display_name": "Đường 20 Cộng Hòa, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Đường 20 Cộng Hòa",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.12286,106.4401": {
+    "display_name": "Xã Tân Hào, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hào",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.12285,106.4401": {
+    "display_name": "Xã Tân Hào, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hào",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8048,106.6536": {
+    "display_name": "Đường 20 Cộng Hòa, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Đường 20 Cộng Hòa",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91216,108.076": {
+    "display_name": "Phường Tiến Thành, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Tiến Thành",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
