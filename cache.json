@@ -60074,5 +60074,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.08516,106.5574": {
+    "display_name": "An Thành, Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "An Thành",
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72119,106.6329": {
+    "display_name": "Phân hiệu trường Cao đẳng Lương thực - Thực phẩm tại TP.HCM, 296, Lưu Hữu Phước, Phường Phú Định, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "amenity": "Phân hiệu trường Cao đẳng Lương thực - Thực phẩm tại TP.HCM",
+      "house_number": "296",
+      "road": "Lưu Hữu Phước",
+      "suburb": "Phường Phú Định",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.479,106.3404": {
+    "display_name": "Xã Tân Hương, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14951,108.1777": {
+    "display_name": "Đường cao tốc Vĩnh Hảo - Phan Thiết, Xã Hàm Thuận Bắc, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Vĩnh Hảo - Phan Thiết",
+      "county": "Xã Hàm Thuận Bắc",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
