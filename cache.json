@@ -59536,5 +59536,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.55313,106.2528": {
+    "display_name": "Đường tỉnh 795, Tân Thuận, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 795",
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93267,109.1364": {
+    "display_name": "Đường tỉnh 631, Thôn Liêm Định, Nhơn Phong, Kim Tài, Phường An Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 631",
+      "hamlet": "Thôn Liêm Định, Nhơn Phong",
+      "village": "Kim Tài",
+      "county": "Phường An Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
