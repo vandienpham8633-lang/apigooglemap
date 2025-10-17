@@ -60255,5 +60255,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76843,106.793": {
+    "display_name": "Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.425349,105.4687": {
+    "display_name": "Phước Long, Xã Phước Long, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Phước Long",
+      "county": "Xã Phước Long",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.622346,106.3061": {
+    "display_name": "Quốc lộ 53, Định An, Xã Đại An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 53",
+      "town": "Định An",
+      "county": "Xã Đại An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
