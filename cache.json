@@ -60945,5 +60945,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.817,106.3241": {
+    "display_name": "Xã Đức Huệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Huệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.4935,105.4728": {
+    "display_name": "Mỹ Luông, Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Mỹ Luông",
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.97457,108.9508": {
+    "display_name": "Thôn Mỹ Thạch, Bình Tân, Xã Bình Hiệp, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Mỹ Thạch, Bình Tân",
+      "county": "Xã Bình Hiệp",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77127,105.2566": {
+    "display_name": "Phường Tân Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Phường Tân Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.66389,106.5138": {
+    "display_name": "An Tân, Xã Minh Đức, Việt Nam",
+    "address": {
+      "village": "An Tân",
+      "county": "Xã Minh Đức",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
