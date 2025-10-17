@@ -58120,5 +58120,74 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.57464,105.0118": {
+    "display_name": "ĐT. 948, Xã An Cư, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 948",
+      "county": "Xã An Cư",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.71223,108.3234": {
+    "display_name": "Phước An, Xã Krông Pắc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Phước An",
+      "county": "Xã Krông Pắc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67089,107.0483": {
+    "display_name": "Đường Phước Bình, Ấp 1, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Phước Bình",
+      "village": "Ấp 1",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84983,106.6575": {
+    "display_name": "Phường An Hội Đông, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "suburb": "Phường An Hội Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79478,106.429": {
+    "display_name": "ĐT. 824, Đức Hòa, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT. 824",
+      "town": "Đức Hòa",
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16772,106.6509": {
+    "display_name": "Đường Võ Thị Sáu, Khu phố 4, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Võ Thị Sáu",
+      "quarter": "Khu phố 4",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
