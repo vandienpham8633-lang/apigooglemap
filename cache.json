@@ -59123,5 +59123,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.99786,108.2646": {
+    "display_name": "Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.92706,108.6601": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.30581,106.3914": {
+    "display_name": "Xã Giao Long, Tỉnh Vĩnh Long, 86000, Việt Nam",
+    "address": {
+      "county": "Xã Giao Long",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
