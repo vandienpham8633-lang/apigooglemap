@@ -62831,5 +62831,111 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.329017,106.0495": {
+    "display_name": "Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.80185,109.1044": {
+    "display_name": "Suối Giếng, Xã Công Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Suối Giếng",
+      "county": "Xã Công Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.996415,106.5812": {
+    "display_name": "Tiệm Tôm, Xã Tân Thủy, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiệm Tôm",
+      "county": "Xã Tân Thủy",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.94388,106.9553": {
+    "display_name": "Xã Cồn Tiên, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cồn Tiên",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.80581,108.5664": {
+    "display_name": "Quốc lộ 26, Thôn 1, Xã Ea Knốp, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Thôn 1",
+      "county": "Xã Ea Knốp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.51197,107.8335": {
+    "display_name": "Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54697,105.1841": {
+    "display_name": "Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Mỹ Tây",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.6966,107.8295": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.05984,108.779": {
+    "display_name": "Chợ Chùa, Xã Nghĩa Hành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Chợ Chùa",
+      "county": "Xã Nghĩa Hành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47405,106.3625": {
+    "display_name": "Xã Tân Hương, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
