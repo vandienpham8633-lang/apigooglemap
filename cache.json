@@ -60344,5 +60344,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.85445,108.0569": {
+    "display_name": "Xã Vu Gia, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Vu Gia",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.29366,105.9174": {
+    "display_name": "Xã An Hữu, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã An Hữu",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8545,108.0569": {
+    "display_name": "Xã Vu Gia, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Vu Gia",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
