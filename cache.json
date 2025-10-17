@@ -58454,5 +58454,99 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.11537,105.6403": {
+    "display_name": "Tôn Đức Thắng, Phường Ô Môn, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Tôn Đức Thắng",
+      "city_district": "Phường Ô Môn",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.92153,108.8811": {
+    "display_name": "Thôn Hòa Trung, Bình Tường, Hòa Sơn, Xã Bình Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Trung, Bình Tường",
+      "village": "Hòa Sơn",
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.27219,106.2626": {
+    "display_name": "Tiên Thủy, Xã Tiên Thủy, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiên Thủy",
+      "county": "Xã Tiên Thủy",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12564,106.5897": {
+    "display_name": "Đường N5, KCN Mỹ Phước 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "KCN Mỹ Phước 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.302661,105.9769": {
+    "display_name": "Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82231,106.5896": {
+    "display_name": "Chốt 2 KCN Vĩnh Lộc, Đường số 2, Khu công nghiệp Vĩnh Lộc, Phường Bình Tân, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "highway": "Chốt 2 KCN Vĩnh Lộc",
+      "road": "Đường số 2",
+      "industrial": "Khu công nghiệp Vĩnh Lộc",
+      "city_district": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12566,106.5897": {
+    "display_name": "Đường N5, KCN Mỹ Phước 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "KCN Mỹ Phước 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27598,108.8106": {
+    "display_name": "Xã Tây Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tây Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
