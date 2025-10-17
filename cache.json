@@ -58971,5 +58971,135 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.03082,103.7881": {
+    "display_name": "Quốc lộ 4G, Xã Chiềng Khoong, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 4G",
+      "county": "Xã Chiềng Khoong",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.28485,105.646": {
+    "display_name": "Ba Tháng Hai, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ba Tháng Hai",
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50404,106.3994": {
+    "display_name": "Phường Tân An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Tân An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03073,106.3054": {
+    "display_name": "Đường C1, Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "road": "Đường C1",
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.21738,109.1872": {
+    "display_name": "Phước Long, Phường Nam Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "suburb": "Phước Long",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.930532,105.8827": {
+    "display_name": "Xã Châu Thành, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Châu Thành",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.32785,105.6914": {
+    "display_name": "Ấp Hưng Lợi Đông, Tân Dương, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "hamlet": "Ấp Hưng Lợi Đông",
+      "county": "Tân Dương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92845,108.1031": {
+    "display_name": "Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.58509,106.6372": {
+    "display_name": "ບ​. ກະຕູບນ້ອຍ, Seponh, Savannakhet, Lào",
+    "address": {
+      "village": "ບ​. ກະຕູບນ້ອຍ",
+      "county": "Seponh",
+      "state": "Savannakhet",
+      "ISO3166-2-lvl4": "LA-SV",
+      "country": "Lào",
+      "country_code": "la"
+    }
+  },
+  "13.92694,108.6603": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.92697,108.6603": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.92698,108.6602": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
