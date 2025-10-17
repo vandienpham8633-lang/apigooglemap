@@ -62392,5 +62392,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.4568,107.5893": {
+    "display_name": "Vĩnh Ninh, Thuận Hóa, Huế, Phường Thuận Hoá, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "quarter": "Vĩnh Ninh",
+      "suburb": "Thuận Hóa",
+      "city": "Huế",
+      "county": "Phường Thuận Hoá",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
