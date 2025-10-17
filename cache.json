@@ -59153,5 +59153,69 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.92696,108.6602": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.49484,109.1208": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.30579,106.3914": {
+    "display_name": "Xã Giao Long, Tỉnh Vĩnh Long, 86000, Việt Nam",
+    "address": {
+      "county": "Xã Giao Long",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.92704,108.6602": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.92701,108.6602": {
+    "display_name": "Xã Ya Hội, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ya Hội",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03171,106.3061": {
+    "display_name": "Đường C1, Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "road": "Đường C1",
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
