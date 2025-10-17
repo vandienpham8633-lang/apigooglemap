@@ -60469,5 +60469,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.71161,105.1964": {
+    "display_name": "Xã Sơn Lâm, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Sơn Lâm",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.21755,106.0769": {
+    "display_name": "Xã Nhơn Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.8932,107.0807": {
+    "display_name": "Quốc lộ 1, Xã Gio Linh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Xã Gio Linh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.151,109.1261": {
+    "display_name": "Thôn Hiệp An, Mỹ Chánh, Trung Xuân, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hiệp An, Mỹ Chánh",
+      "village": "Trung Xuân",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81786,106.9812": {
+    "display_name": "Thanh Bình, Xã Long Thành, 76009, Việt Nam",
+    "address": {
+      "village": "Thanh Bình",
+      "county": "Xã Long Thành",
+      "postcode": "76009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
