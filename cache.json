@@ -60395,5 +60395,79 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.87806,106.42": {
+    "display_name": "Xã Hòa Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hòa Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.66806,105.6783": {
+    "display_name": "Đinh Công Tráng, Phường Thành Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Đinh Công Tráng",
+      "city": "Phường Thành Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.21758,106.0769": {
+    "display_name": "Xã Nhơn Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.99742,109.3756": {
+    "display_name": "Phường Hòa Hiệp, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Phường Hòa Hiệp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.97058,109.3448": {
+    "display_name": "Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.28474,105.6462": {
+    "display_name": "Ba Tháng Hai, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ba Tháng Hai",
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.21924,108.7292": {
+    "display_name": "Liên Hương, Xã Liên Hương, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Liên Hương",
+      "county": "Xã Liên Hương",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
