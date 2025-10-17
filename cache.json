@@ -62196,5 +62196,78 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78889,106.7972": {
+    "display_name": "Đường số 836, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường số 836",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66565,105.059": {
+    "display_name": "Quốc lộ 91, Phường Vĩnh Tế, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 91",
+      "county": "Phường Vĩnh Tế",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07374,109.158": {
+    "display_name": "Đinh Tiên Hoàng, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "road": "Đinh Tiên Hoàng",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07351,109.1581": {
+    "display_name": "Đinh Tiên Hoàng, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "road": "Đinh Tiên Hoàng",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.70483,107.838": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.70492,107.838": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
