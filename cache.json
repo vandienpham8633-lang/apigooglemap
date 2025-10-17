@@ -60888,5 +60888,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.985093,105.0992": {
+    "display_name": "Khu phố 1, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37821,105.1469": {
+    "display_name": "Xã Vĩnh An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78023,106.7619": {
+    "display_name": "Thạnh Mỹ Lợi, Cát Lái, Phường Cát Lái, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Thạnh Mỹ Lợi",
+      "suburb": "Cát Lái",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.97458,108.9508": {
+    "display_name": "Thôn Mỹ Thạch, Bình Tân, Xã Bình Hiệp, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Mỹ Thạch, Bình Tân",
+      "county": "Xã Bình Hiệp",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01282,106.6463": {
+    "display_name": "Khu phố Hiệp An 9, Phường Chánh Hiệp, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Hiệp An 9",
+      "city_district": "Phường Chánh Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
