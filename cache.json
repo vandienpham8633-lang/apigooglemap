@@ -58199,5 +58199,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.660475,105.8391": {
+    "display_name": "Xã Mỹ Hương, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Mỹ Hương",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
