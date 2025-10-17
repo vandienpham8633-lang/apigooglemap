@@ -60522,5 +60522,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.40706,107.191": {
+    "display_name": "Phước Thuận, Xã Long Hải, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "neighbourhood": "Phước Thuận",
+      "town": "Xã Long Hải",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
