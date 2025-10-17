@@ -58209,5 +58209,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.08743,108.0717": {
+    "display_name": "Xã Hàm Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
