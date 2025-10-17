@@ -59916,5 +59916,86 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.12287,106.4402": {
+    "display_name": "Xã Tân Hào, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hào",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80376,106.6544": {
+    "display_name": "Đường 18E, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Đường 18E",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.6373,108.1718": {
+    "display_name": "Pu Huê, Xã Ea Ktur, Tỉnh Đắk Lắk, 02623, Việt Nam",
+    "address": {
+      "village": "Pu Huê",
+      "county": "Xã Ea Ktur",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "02623",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.69363,108.0622": {
+    "display_name": "70, Ngô Gia Tự, Phường Tân An, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "house_number": "70",
+      "road": "Ngô Gia Tự",
+      "county": "Phường Tân An",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.12287,106.4401": {
+    "display_name": "Xã Tân Hào, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hào",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80473,106.6536": {
+    "display_name": "Đường 20 Cộng Hòa, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Đường 20 Cộng Hòa",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80473,106.6537": {
+    "display_name": "Đường 20 Cộng Hòa, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Đường 20 Cộng Hòa",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
