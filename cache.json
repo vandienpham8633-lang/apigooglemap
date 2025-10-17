@@ -59618,5 +59618,73 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.57316,107.6159": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.284955,105.6461": {
+    "display_name": "Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55311,106.2528": {
+    "display_name": "Đường tỉnh 795, Tân Thuận, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 795",
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.22187,108.041": {
+    "display_name": "An Cư Tây, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "hamlet": "An Cư Tây",
+      "town": "Xã Chân Mây - Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77936,106.6001": {
+    "display_name": "Đường Mã Lò, Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Đường Mã Lò",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77937,106.6": {
+    "display_name": "Đường Mã Lò, Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Đường Mã Lò",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
