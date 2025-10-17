@@ -58794,5 +58794,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.12565,106.5897": {
+    "display_name": "Đường N5, KCN Mỹ Phước 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "KCN Mỹ Phước 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.284745,105.6462": {
+    "display_name": "Ba Tháng Hai, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ba Tháng Hai",
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.924118,104.9552": {
+    "display_name": "Đường tỉnh 986, Xã Phú Mỹ, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 986",
+      "county": "Xã Phú Mỹ",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.33484,108.8591": {
+    "display_name": "Quốc lộ 1, Xã Thuận Nam, Xã Vĩnh Hảo, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "village": "Xã Thuận Nam",
+      "county": "Xã Vĩnh Hảo",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
