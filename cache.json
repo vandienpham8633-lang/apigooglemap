@@ -62317,5 +62317,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78895,106.7971": {
+    "display_name": "Đường số 836, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường số 836",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.47779,107.7124": {
+    "display_name": "Xã Phú Hồ, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Hồ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.69325,106.8995": {
+    "display_name": "Xã Phú Riềng, Việt Nam",
+    "address": {
+      "county": "Xã Phú Riềng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.13703,105.1301": {
+    "display_name": "Ninh Bình, Phường Lý Văn Lâm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ninh Bình",
+      "county": "Phường Lý Văn Lâm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
