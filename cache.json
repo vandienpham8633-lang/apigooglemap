@@ -57598,5 +57598,24 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.74664,106.5641": {
+    "display_name": "Xã Lộc Thành, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Thành",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.68655,105.6948": {
+    "display_name": "Nguyễn Sỹ Sách, Phường Vinh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Nguyễn Sỹ Sách",
+      "city": "Phường Vinh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
