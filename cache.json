@@ -62653,5 +62653,120 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.92794,108.361": {
+    "display_name": "Tổ dân phố 8, Ur, Xã Krông Năng, Tỉnh Đắk Lắk, 63406, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 8",
+      "village": "Ur",
+      "county": "Xã Krông Năng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63406",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87906,108.3418": {
+    "display_name": "CoCoVIP - Limousine Buses Tickets Booking, 214, Nguyễn Duy Hiệu, Phố cổ Hội An, Minh An, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "CoCoVIP - Limousine Buses Tickets Booking",
+      "house_number": "214",
+      "road": "Nguyễn Duy Hiệu",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Minh An",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88813,106.7864": {
+    "display_name": "Tân Hoà, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Tân Hoà",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78876,106.7971": {
+    "display_name": "Đường số 836, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường số 836",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56255,108.9343": {
+    "display_name": "Xã Phước Hậu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Hậu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.41887,106.176": {
+    "display_name": "Tô Hiệu, Phường Nam Định, Tỉnh Ninh Bình, 42000, Việt Nam",
+    "address": {
+      "road": "Tô Hiệu",
+      "city": "Phường Nam Định",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "postcode": "42000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06019,107.1596": {
+    "display_name": "Dốc Mơ 3, Xã Thống Nhất, Việt Nam",
+    "address": {
+      "village": "Dốc Mơ 3",
+      "county": "Xã Thống Nhất",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.69666,107.8294": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77804,106.4818": {
+    "display_name": "Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.61652,105.3447": {
+    "display_name": "QL. 80B, Xã Phú An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "QL. 80B",
+      "county": "Xã Phú An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
