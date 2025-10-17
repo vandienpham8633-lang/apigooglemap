@@ -59868,5 +59868,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.71634,106.0521": {
+    "display_name": "Bình Phong Thạnh, Xã Mộc Hóa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Bình Phong Thạnh",
+      "county": "Xã Mộc Hóa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93266,109.1364": {
+    "display_name": "Đường tỉnh 631, Thôn Liêm Định, Nhơn Phong, Kim Tài, Phường An Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 631",
+      "hamlet": "Thôn Liêm Định, Nhơn Phong",
+      "village": "Kim Tài",
+      "county": "Phường An Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.63717,108.1717": {
+    "display_name": "Pu Huê, Xã Ea Ktur, Tỉnh Đắk Lắk, 02623, Việt Nam",
+    "address": {
+      "village": "Pu Huê",
+      "county": "Xã Ea Ktur",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "02623",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93224,109.1367": {
+    "display_name": "Thôn Thanh Danh, Nhơn Phong, Kim Tài, Phường An Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Thanh Danh, Nhơn Phong",
+      "village": "Kim Tài",
+      "county": "Phường An Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
