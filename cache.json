@@ -59381,5 +59381,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.5532,106.2528": {
+    "display_name": "Đường tỉnh 795, Tân Thuận, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 795",
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
