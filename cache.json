@@ -61188,5 +61188,111 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.50466,105.4878": {
+    "display_name": "Mỹ Luông, Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Mỹ Luông",
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.49583,107.4078": {
+    "display_name": "Xã Hồ Tràm, Thành phố Hồ Chí Minh, 78500, Việt Nam",
+    "address": {
+      "city_district": "Xã Hồ Tràm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.19768,108.2814": {
+    "display_name": "Xã Sông Lũy, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Sông Lũy",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61099,108.9326": {
+    "display_name": "Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.97461,108.9509": {
+    "display_name": "Thôn Mỹ Thạch, Bình Tân, Xã Bình Hiệp, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Mỹ Thạch, Bình Tân",
+      "county": "Xã Bình Hiệp",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81363,106.3238": {
+    "display_name": "Xã Đức Huệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Huệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.45303,109.0666": {
+    "display_name": "khu phố Định Công, Phường Hoài Nhơn Đông, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Định Công, Phường Hoài Nhơn Đông",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91177,108.076": {
+    "display_name": "Phường Tiến Thành, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Tiến Thành",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.45305,109.0666": {
+    "display_name": "khu phố Định Công, Phường Hoài Nhơn Đông, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Định Công, Phường Hoài Nhơn Đông",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.49581,107.4078": {
+    "display_name": "Xã Hồ Tràm, Thành phố Hồ Chí Minh, 78500, Việt Nam",
+    "address": {
+      "city_district": "Xã Hồ Tràm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
