@@ -59804,5 +59804,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.28657,105.5725": {
+    "display_name": "Rạch Gia - Xã Lò, Cái Đôi, Ấp Tân Định, Xã Lai Vung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Rạch Gia - Xã Lò",
+      "quarter": "Cái Đôi",
+      "hamlet": "Ấp Tân Định",
+      "town": "Xã Lai Vung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
