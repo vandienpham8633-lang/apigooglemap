@@ -60771,5 +60771,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97462,108.9508": {
+    "display_name": "Thôn Mỹ Thạch, Bình Tân, Xã Bình Hiệp, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Mỹ Thạch, Bình Tân",
+      "county": "Xã Bình Hiệp",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55088,105.152": {
+    "display_name": "Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Mỹ Tây",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.04703,108.1565": {
+    "display_name": "Thôn 1, Xã Đam Rông 2, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Đam Rông 2",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
