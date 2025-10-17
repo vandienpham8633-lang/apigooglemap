@@ -58559,5 +58559,86 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.07734,106.7612": {
+    "display_name": "Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.6559,106.5515": {
+    "display_name": "Xã Bình Chánh, Thành phố Hồ Chí Minh, Xã Mỹ Yên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Bình Chánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-37",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67223,106.7628": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12568,106.5897": {
+    "display_name": "Đường N5, KCN Mỹ Phước 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "KCN Mỹ Phước 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.46231,106.7228": {
+    "display_name": "Xã A Dơi, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã A Dơi",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8194,105.5238": {
+    "display_name": "Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78193,106.6634": {
+    "display_name": "Hikaru shop, O4E, Trường Sơn, Cư xá Bắc Hải, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72117, Việt Nam",
+    "address": {
+      "shop": "Hikaru shop",
+      "house_number": "O4E",
+      "road": "Trường Sơn",
+      "residential": "Cư xá Bắc Hải",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
