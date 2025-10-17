@@ -59561,5 +59561,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.49254,109.2824": {
+    "display_name": "Hòa Hiệp, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hòa Hiệp",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.09494,108.2285": {
+    "display_name": "Đường Nại Hiên Đông 15, Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Đường Nại Hiên Đông 15",
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.07738,106.671": {
+    "display_name": "Xã Bảo Thạnh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Bảo Thạnh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55312,106.2528": {
+    "display_name": "Đường tỉnh 795, Tân Thuận, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 795",
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.28656,105.5725": {
+    "display_name": "Rạch Gia - Xã Lò, Cái Đôi, Ấp Tân Định, Xã Lai Vung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Rạch Gia - Xã Lò",
+      "quarter": "Cái Đôi",
+      "hamlet": "Ấp Tân Định",
+      "town": "Xã Lai Vung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
