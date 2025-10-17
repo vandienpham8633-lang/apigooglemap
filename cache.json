@@ -60857,5 +60857,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.09468,108.8232": {
+    "display_name": "La Hà, Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "La Hà",
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.76136,105.7304": {
+    "display_name": "Phường Cửa Lò, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Cửa Lò",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.99111,105.2493": {
+    "display_name": "Xã Hương Cần, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Hương Cần",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
