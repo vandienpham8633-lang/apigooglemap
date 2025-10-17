@@ -60670,5 +60670,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92531,106.7321": {
+    "display_name": "Hữu Nghị, Khu công nghiệp Việt Nam - Singapore (VSIP I), Bình Đáng, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Hữu Nghị",
+      "industrial": "Khu công nghiệp Việt Nam - Singapore (VSIP I)",
+      "quarter": "Bình Đáng",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58403,106.3405": {
+    "display_name": "Xã Mỹ An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.07132,108.7929": {
+    "display_name": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38245,104.4482": {
+    "display_name": "Khu phố 3, Hà Tiên, Phường Hà Tiên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 3",
+      "city": "Hà Tiên",
+      "county": "Phường Hà Tiên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
