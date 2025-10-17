@@ -60996,5 +60996,92 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.61757,106.3273": {
+    "display_name": "Xã Phong Nha, Tỉnh Quảng Trị, 47257, Việt Nam",
+    "address": {
+      "town": "Xã Phong Nha",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "postcode": "47257",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81352,106.3235": {
+    "display_name": "Xã Đức Huệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Huệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.286805,105.0855": {
+    "display_name": "Xã Hồ Thị Kỷ, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Hồ Thị Kỷ",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.22249,108.6378": {
+    "display_name": "Đường Tịnh Phong – Trà Bình, Xã Ba Gia, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Tịnh Phong – Trà Bình",
+      "county": "Xã Ba Gia",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93987,107.2366": {
+    "display_name": "Khu phố 5, Long Khánh, Phường Long Khánh, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 5",
+      "city": "Long Khánh",
+      "county": "Phường Long Khánh",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98967,106.6686": {
+    "display_name": "Phạm Thị Tân, Khu phố 8, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "road": "Phạm Thị Tân",
+      "quarter": "Khu phố 8",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81346,106.3235": {
+    "display_name": "Xã Đức Huệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Huệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34634,105.9321": {
+    "display_name": "Xã Mỹ Đức Tây, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Đức Tây",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
