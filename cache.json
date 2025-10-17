@@ -62768,5 +62768,68 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.287954,105.7367": {
+    "display_name": "Nguyễn Thị Minh Khai, Phường Vĩnh Trạch, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh Khai",
+      "county": "Phường Vĩnh Trạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81679,106.7843": {
+    "display_name": "Đường số 20, KDC Gia Hòa, Phường Phước Long, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71350, Việt Nam",
+    "address": {
+      "road": "Đường số 20",
+      "residential": "KDC Gia Hòa",
+      "suburb": "Phường Phước Long",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85094,106.7945": {
+    "display_name": "NGUYEN THI HUONG, 16, Đường Số 210, Khu phố 15, Phường Tăng Nhơn Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71300, Việt Nam",
+    "address": {
+      "place": "NGUYEN THI HUONG",
+      "house_number": "16",
+      "road": "Đường Số 210",
+      "quarter": "Khu phố 15",
+      "suburb": "Phường Tăng Nhơn Phú",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71300",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14037,106.6302": {
+    "display_name": "Khu phố 5, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 5",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.05985,108.779": {
+    "display_name": "Chợ Chùa, Xã Nghĩa Hành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Chợ Chùa",
+      "county": "Xã Nghĩa Hành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
