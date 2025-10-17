@@ -61083,5 +61083,110 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.912,109.199": {
+    "display_name": "Thôn Tư Cung, Phước Thắng, Lương Bình, Xã Tuy Phước Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tư Cung, Phước Thắng",
+      "village": "Lương Bình",
+      "county": "Xã Tuy Phước Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.4868,105.5836": {
+    "display_name": "Kênh Mới, Mỹ Ngãi, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Kênh Mới",
+      "county": "Mỹ Ngãi",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61097,108.9326": {
+    "display_name": "Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81347,106.3237": {
+    "display_name": "Xã Đức Huệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Huệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61101,108.9326": {
+    "display_name": "Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.00952,105.6048": {
+    "display_name": "Xã Trường Thành, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trường Thành",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81357,106.3237": {
+    "display_name": "Xã Đức Huệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Huệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50464,105.4878": {
+    "display_name": "Mỹ Luông, Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Mỹ Luông",
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61106,108.9326": {
+    "display_name": "Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50465,105.4878": {
+    "display_name": "Mỹ Luông, Xã Long Điền, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Mỹ Luông",
+      "county": "Xã Long Điền",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
