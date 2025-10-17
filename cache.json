@@ -58350,5 +58350,88 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.24926,106.7115": {
+    "display_name": "Xã Tân Phú Đông, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Phú Đông",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.27216,106.2626": {
+    "display_name": "Tiên Thủy, Xã Tiên Thủy, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiên Thủy",
+      "county": "Xã Tiên Thủy",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.27217,106.2626": {
+    "display_name": "Tiên Thủy, Xã Tiên Thủy, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiên Thủy",
+      "county": "Xã Tiên Thủy",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67088,107.0482": {
+    "display_name": "Đường Phước Bình, Ấp 1, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Phước Bình",
+      "village": "Ấp 1",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.43736,106.221": {
+    "display_name": "Xã Tân Thuận, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Tân Thuận",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38198,106.0483": {
+    "display_name": "Xã Bình Phú, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93152,108.1518": {
+    "display_name": "Phường Phú Thủy, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Phú Thủy",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.8576,106.9925": {
+    "display_name": "Lê Văn Duyệt, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Lê Văn Duyệt",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
