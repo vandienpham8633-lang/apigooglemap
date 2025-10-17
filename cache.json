@@ -61637,5 +61637,202 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.6322,108.9239": {
+    "display_name": "Lương Tri, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Lương Tri",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.848302,105.1954": {
+    "display_name": "Bình Lạc, Xã Châu Thành, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Bình Lạc",
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.81419,105.8263": {
+    "display_name": "Phường Ngã Bảy, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Ngã Bảy",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.85139,109.0705": {
+    "display_name": "Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.3061,107.9904": {
+    "display_name": "Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25246,105.8573": {
+    "display_name": "Cái Tàu Hạ, Phú Hựu, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "town": "Cái Tàu Hạ",
+      "county": "Phú Hựu",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79758,106.5544": {
+    "display_name": "Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Tân Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.29404,105.5437": {
+    "display_name": "Quốc lộ 54, An Bình, Xã Lai Vung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "hamlet": "An Bình",
+      "town": "Xã Lai Vung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.15284,107.7232": {
+    "display_name": "La Hồ, Xã Khe Tre, Thành phố Huế, Việt Nam",
+    "address": {
+      "village": "La Hồ",
+      "town": "Xã Khe Tre",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90791,107.1378": {
+    "display_name": "Lộ 25, Xã Dầu Giây, Việt Nam",
+    "address": {
+      "village": "Lộ 25",
+      "county": "Xã Dầu Giây",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37114,105.5218": {
+    "display_name": "ĐT. 942, Xã Hội An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 942",
+      "county": "Xã Hội An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78869,106.7971": {
+    "display_name": "Đường số 836, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường số 836",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.70478,107.838": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97447,106.7241": {
+    "display_name": "Đường Lê Thị Trung, Khu phố Bình Phước A, An Phú, Phường An Phú, Thành phố Hồ Chí Minh, 75256, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thị Trung",
+      "quarter": "Khu phố Bình Phước A",
+      "suburb": "An Phú",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75256",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.90948,106.324": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14025,106.3127": {
+    "display_name": "Phường Gia Lộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Gia Lộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27914,108.9099": {
+    "display_name": "Trường THPT Lạc Long Quân, Hùng Vương, Khánh Vĩnh, Xã Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Lạc Long Quân",
+      "road": "Hùng Vương",
+      "town": "Khánh Vĩnh",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.552377,105.8829": {
+    "display_name": "Xã Mỹ Hương, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Mỹ Hương",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
