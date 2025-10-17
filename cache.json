@@ -57566,5 +57566,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97928,108.5851": {
+    "display_name": "Tân Định, Phường An Bình, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Tân Định",
+      "county": "Phường An Bình",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67247,105.4454": {
+    "display_name": "Xã Phú Thọ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Phú Thọ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
