@@ -59817,5 +59817,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.48413,107.56": {
+    "display_name": "An Hòa, Hương An, Phường Hương An, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "quarter": "An Hòa",
+      "suburb": "Hương An",
+      "county": "Phường Hương An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55326,106.2529": {
+    "display_name": "Đường tỉnh 795, Tân Thuận, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 795",
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.96086,105.7479": {
+    "display_name": "Đại học Phenikaa, Phố Nguyễn Trác, Phường Dương Nội, Hà Nội, 10189, Việt Nam",
+    "address": {
+      "amenity": "Đại học Phenikaa",
+      "road": "Phố Nguyễn Trác",
+      "suburb": "Phường Dương Nội",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10189",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.48412,107.5599": {
+    "display_name": "An Hòa, Hương An, Phường Hương An, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "quarter": "An Hòa",
+      "suburb": "Hương An",
+      "county": "Phường Hương An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
