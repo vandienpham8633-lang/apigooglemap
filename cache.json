@@ -62269,5 +62269,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.07345,109.1581": {
+    "display_name": "Đinh Tiên Hoàng, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "road": "Đinh Tiên Hoàng",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.06501,105.8238": {
+    "display_name": "Phường Đông Thành, Tỉnh Vĩnh Long, 94111, Việt Nam",
+    "address": {
+      "county": "Phường Đông Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79036,106.7981": {
+    "display_name": "Đường Số 882, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71350, Việt Nam",
+    "address": {
+      "road": "Đường Số 882",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.97953,105.6632": {
+    "display_name": "Xã Hưng Đạo, Hà Nội, 01234, Việt Nam",
+    "address": {
+      "city_district": "Xã Hưng Đạo",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "01234",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
