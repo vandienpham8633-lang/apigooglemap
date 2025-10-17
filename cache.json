@@ -62032,5 +62032,99 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.01416,107.6875": {
+    "display_name": "Đường Tôn Đức Thắng, Tổ dân phố 7, Gia Nghĩa, Phường Bắc Gia Nghĩa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường Tôn Đức Thắng",
+      "quarter": "Tổ dân phố 7",
+      "city": "Gia Nghĩa",
+      "county": "Phường Bắc Gia Nghĩa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.60666,105.8679": {
+    "display_name": "Phường Lê Hồ, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "city": "Phường Lê Hồ",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.45767,109.0063": {
+    "display_name": "Khu phố Đệ Đức 1 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Đệ Đức 1 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.30624,107.9903": {
+    "display_name": "Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.317406,106.0074": {
+    "display_name": "Đường Huyện 10, Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Huyện 10",
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.79023,108.108": {
+    "display_name": "Quốc lộ 14H, Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14H",
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94885,106.8887": {
+    "display_name": "Khu phố 28, Phường Long Bình, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 28",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88343,106.7841": {
+    "display_name": "B5, Lương Định Của, Tân Quý, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "building": "B5",
+      "house_number": "B5",
+      "road": "Lương Định Của",
+      "quarter": "Tân Quý",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
