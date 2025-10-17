@@ -58640,5 +58640,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.85763,106.9926": {
+    "display_name": "Lê Văn Duyệt, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Lê Văn Duyệt",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67086,107.0482": {
+    "display_name": "Đường Phước Bình, Ấp 1, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Phước Bình",
+      "village": "Ấp 1",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
