@@ -64017,5 +64017,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.5436,107.571": {
+    "display_name": "Hóa Châu, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Hóa Châu",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.7958,108.0139": {
+    "display_name": "Thôn 1A, Xã Ea M'Droh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1A",
+      "county": "Xã Ea M'Droh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.40069,106.4074": {
+    "display_name": "Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.896594,106.66": {
+    "display_name": "Xã Thạnh Hải, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Hải",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
