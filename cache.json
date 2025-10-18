@@ -66976,5 +66976,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.25291,106.134": {
+    "display_name": "Phường Nếnh, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "suburb": "Phường Nếnh",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.888045,105.9001": {
+    "display_name": "Xã An Lạc Thôn, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã An Lạc Thôn",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.284732,105.6462": {
+    "display_name": "Ba Tháng Hai, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ba Tháng Hai",
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
