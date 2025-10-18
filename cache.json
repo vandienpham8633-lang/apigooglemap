@@ -63807,5 +63807,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.43967,106.5694": {
+    "display_name": "Xã Thuận Mỹ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thuận Mỹ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.18838,106.1449": {
+    "display_name": "Xã Cái Nhum, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Cái Nhum",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66471,105.7605": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
