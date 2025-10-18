@@ -63926,5 +63926,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.40068,106.4075": {
+    "display_name": "Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77599,106.6399": {
+    "display_name": "Hẻm 236 Trịnh Đình Trọng, Khu phố 22, Phường Tân Phú, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 236 Trịnh Đình Trọng",
+      "quarter": "Khu phố 22",
+      "neighbourhood": "Khu phố 22",
+      "suburb": "Phường Tân Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.57494,106.1702": {
+    "display_name": "Thạnh Phú, Xã Tân Hội, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Thạnh Phú",
+      "county": "Xã Tân Hội",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.20674,108.9137": {
+    "display_name": "Xã Tịnh Khê, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tịnh Khê",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
