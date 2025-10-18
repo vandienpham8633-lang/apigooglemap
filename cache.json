@@ -67020,5 +67020,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77335,106.7923": {
+    "display_name": "Đường Số 39 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường Số 39 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.907838,105.5014": {
+    "display_name": "Hòa B, Xã Hòa Hưng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa B",
+      "county": "Xã Hòa Hưng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.09362,107.3863": {
+    "display_name": "Xã A Lưới 4, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã A Lưới 4",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90533,107.3653": {
+    "display_name": "Suối Cát 1, Xã Xuân Lộc, Việt Nam",
+    "address": {
+      "village": "Suối Cát 1",
+      "county": "Xã Xuân Lộc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
