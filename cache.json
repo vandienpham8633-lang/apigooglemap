@@ -63915,5 +63915,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.60083,106.4878": {
+    "display_name": "Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "county": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
