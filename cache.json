@@ -67061,5 +67061,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.81082,108.0398": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.89008,109.1152": {
+    "display_name": "Đường Đào Tấn, KV.Vĩnh Liêm, P.Bình Định, Bình Định, An Nhơn, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đào Tấn",
+      "quarter": "KV.Vĩnh Liêm, P.Bình Định",
+      "suburb": "Bình Định",
+      "town": "An Nhơn",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.81086,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
