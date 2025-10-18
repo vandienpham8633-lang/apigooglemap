@@ -63713,5 +63713,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.89316,108.9623": {
+    "display_name": "Thôn 1, Bình Nghi, Xóm Tây, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 1, Bình Nghi",
+      "village": "Xóm Tây",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
