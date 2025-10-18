@@ -64261,5 +64261,101 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.47402,108.4452": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.48097,108.448": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.33216,108.9501": {
+    "display_name": "Thôn Vĩnh Hoà, Ân Đức, Xã Hoài Ân, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vĩnh Hoà, Ân Đức",
+      "county": "Xã Hoài Ân",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.533,107.5593": {
+    "display_name": "Hóa Châu, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Hóa Châu",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.93424,108.2317": {
+    "display_name": "Phường Điện Bàn Bắc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Bắc",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.50159,109.0661": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31026,108.7572": {
+    "display_name": "Xã Vĩnh Hảo, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Hảo",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.47407,108.4451": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.53532,107.5592": {
+    "display_name": "Tỉnh lộ 4, Phú Ngạn, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 4",
+      "village": "Phú Ngạn",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
