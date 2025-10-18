@@ -66921,5 +66921,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.94415,106.9544": {
+    "display_name": "Xã Cồn Tiên, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cồn Tiên",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94245,109.2406": {
+    "display_name": "KP.Cát Tiến, TT.Cát Tiến, Cát Tiến, Xã Cát Tiến, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Cát Tiến, TT.Cát Tiến",
+      "town": "Cát Tiến",
+      "county": "Xã Cát Tiến",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
