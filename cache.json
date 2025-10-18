@@ -65050,5 +65050,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.332417,106.0401": {
+    "display_name": "Đường Nam Sông Hậu, Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Nam Sông Hậu",
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.07094,105.8106": {
+    "display_name": "2 Tháng 9, Phường Bình Minh, Tỉnh Vĩnh Long, 94111, Việt Nam",
+    "address": {
+      "road": "2 Tháng 9",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.96922,108.4536": {
+    "display_name": "Ấp Đa Thiện, Phường Lâm Viên - Đà Lạt, Tỉnh Lâm Đồng, 66100, Việt Nam",
+    "address": {
+      "neighbourhood": "Ấp Đa Thiện",
+      "county": "Phường Lâm Viên - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.695419,105.9044": {
+    "display_name": "Đường Huyện 93, Xã Thuận Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Huyện 93",
+      "city_district": "Xã Thuận Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
