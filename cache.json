@@ -66144,5 +66144,103 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.94244,109.2406": {
+    "display_name": "KP.Cát Tiến, TT.Cát Tiến, Cát Tiến, Xã Cát Tiến, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Cát Tiến, TT.Cát Tiến",
+      "town": "Cát Tiến",
+      "county": "Xã Cát Tiến",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.00919,106.5568": {
+    "display_name": "Xã Ba Tri, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Ba Tri",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.512891,105.7831": {
+    "display_name": "Xã Lâm Tân, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Lâm Tân",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25239,108.9567": {
+    "display_name": "Đường tỉnh 653D, Diên Thọ, Xã Khánh Vĩnh, Khánh Hòa, 65000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 653D",
+      "suburb": "Diên Thọ",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "65000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.59363,105.7793": {
+    "display_name": "Xã Mỹ Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Mỹ Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.22766,108.4087": {
+    "display_name": "Xã Thanh Bồng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Thanh Bồng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.77407,105.2906": {
+    "display_name": "Quốc lộ 61, Hòa Tạo, Xã Gò Quao, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 61",
+      "village": "Hòa Tạo",
+      "county": "Xã Gò Quao",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.25298,106.1341": {
+    "display_name": "Phường Nếnh, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "suburb": "Phường Nếnh",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.641753,106.565": {
+    "display_name": "Phường Trường Long Hòa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Trường Long Hòa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
