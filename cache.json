@@ -66768,5 +66768,79 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.83307,108.27": {
+    "display_name": "Xã Nam Phước, Thành phố Đà Nẵng, 51506, Việt Nam",
+    "address": {
+      "town": "Xã Nam Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.215556,105.6541": {
+    "display_name": "Xã Vĩnh Hậu, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Hậu",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.85017,106.6201": {
+    "display_name": "Lộc Ninh, Xã Lộc Ninh, Việt Nam",
+    "address": {
+      "town": "Lộc Ninh",
+      "county": "Xã Lộc Ninh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.34522,108.0007": {
+    "display_name": "Bạch Đằng, Quyết Thắng, Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Bạch Đằng",
+      "suburb": "Quyết Thắng",
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.86747,109.2169": {
+    "display_name": "Thôn Vinh Quang 1, Phước Sơn, Xã Tuy Phước Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vinh Quang 1, Phước Sơn",
+      "county": "Xã Tuy Phước Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71082,107.7154": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.630755,105.9199": {
+    "display_name": "Xã An Ninh, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã An Ninh",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
