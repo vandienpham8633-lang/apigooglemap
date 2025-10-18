@@ -65026,5 +65026,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.64332,106.5411": {
+    "display_name": "Mỹ Yên, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "village": "Mỹ Yên",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78943,105.2311": {
+    "display_name": "Bệnh viện Đa khoa khu vực Tân Châu, Tôn Đức Thắng, Phường Tân Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa khu vực Tân Châu",
+      "road": "Tôn Đức Thắng",
+      "county": "Phường Tân Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
