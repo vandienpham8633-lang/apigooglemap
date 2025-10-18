@@ -64510,5 +64510,123 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.99084,106.7086": {
+    "display_name": "Thuỷ Minh, Phường Bạch Đằng, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "hamlet": "Thuỷ Minh",
+      "city": "Phường Bạch Đằng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79873,106.8158": {
+    "display_name": "Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71350, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.77839,109.3284": {
+    "display_name": "Xã Tu Bông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tu Bông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.609327,106.4251": {
+    "display_name": "Long Thành, Xã Long Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Long Thành",
+      "county": "Xã Long Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.47407,108.4452": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.195028,105.1867": {
+    "display_name": "Nguyễn Văn Lang, Cà Mau, Phường Tân Thành, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Lang",
+      "city": "Cà Mau",
+      "county": "Phường Tân Thành",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50516,106.6382": {
+    "display_name": "Tân Lân, Xã Tân Lân, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Tân Lân",
+      "county": "Xã Tân Lân",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.47404,108.4452": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.40067,106.4074": {
+    "display_name": "Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85701,105.0847": {
+    "display_name": "Xã Nhơn Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.47404,108.4451": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
