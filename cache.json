@@ -62937,5 +62937,159 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.01477,106.4015": {
+    "display_name": "Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25155,105.1411": {
+    "display_name": "Xã Óc Eo, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Xã Óc Eo",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.3156,105.8531": {
+    "display_name": "Đường tỉnh 35, Xã Trung Giã, Hà Nội, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 35",
+      "city_district": "Xã Trung Giã",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34922,105.48": {
+    "display_name": "Xã Hội An, Tỉnh An Giang, 02963, Việt Nam",
+    "address": {
+      "county": "Xã Hội An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "02963",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.89639,109.1118": {
+    "display_name": "KV.An Ngãi, P.Nhơn Hưng, Phường An Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KV.An Ngãi, P.Nhơn Hưng",
+      "county": "Phường An Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86883,106.9074": {
+    "display_name": "Tân Mai, Phường Phước Tân, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Tân Mai",
+      "county": "Phường Phước Tân",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44572,107.6178": {
+    "display_name": "Đường Phạm Văn Thanh, Thủy Dương, Thanh Thủy, Phường Thanh Thủy, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Đường Phạm Văn Thanh",
+      "quarter": "Thủy Dương",
+      "town": "Thanh Thủy",
+      "county": "Phường Thanh Thủy",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5128,107.8341": {
+    "display_name": "Trần Hưng Đạo, KCN Lộc Sơn, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "industrial": "KCN Lộc Sơn",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.37873,106.2196": {
+    "display_name": "Xã Dương Minh Châu, Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Dương Minh Châu",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51497,106.2976": {
+    "display_name": "Xã Hưng Thạnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Thạnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06013,107.1584": {
+    "display_name": "Dốc Mơ 3, Xã Thống Nhất, Việt Nam",
+    "address": {
+      "village": "Dốc Mơ 3",
+      "county": "Xã Thống Nhất",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.22592,106.6659": {
+    "display_name": "Xã Lệ Ninh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Lệ Ninh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.51281,107.834": {
+    "display_name": "Trần Hưng Đạo, KCN Lộc Sơn, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "industrial": "KCN Lộc Sơn",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.51279,107.834": {
+    "display_name": "Trần Hưng Đạo, KCN Lộc Sơn, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "industrial": "KCN Lộc Sơn",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
