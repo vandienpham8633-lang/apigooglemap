@@ -63147,5 +63147,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89743,106.9943": {
+    "display_name": "Khu công nghiệp Giang Điền, Hoà Bình, Xã An Viễn, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Giang Điền",
+      "village": "Hoà Bình",
+      "county": "Xã An Viễn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53874,106.3517": {
+    "display_name": "Phường Khánh Hậu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Khánh Hậu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
