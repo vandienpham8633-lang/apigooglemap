@@ -63837,5 +63837,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.40069,106.4075": {
+    "display_name": "Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.20005,105.9291": {
+    "display_name": "Xã Phú Quới, Tỉnh Vĩnh Long, 85216, Việt Nam",
+    "address": {
+      "county": "Xã Phú Quới",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
