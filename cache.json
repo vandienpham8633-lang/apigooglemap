@@ -63669,5 +63669,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.34818,104.992": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.17471,105.6614": {
+    "display_name": "Quốc lộ 54, Hòa Định, Xã Phong Hòa, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "hamlet": "Hòa Định",
+      "village": "Xã Phong Hòa",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0327,106.3018": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
