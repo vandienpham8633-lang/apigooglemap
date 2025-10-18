@@ -64357,5 +64357,158 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.965692,106.3193": {
+    "display_name": "Phường Long Đức, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Long Đức",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.22041,106.3543": {
+    "display_name": "Âu Cơ, Phường An Hội, Tỉnh Vĩnh Long, 07584, Việt Nam",
+    "address": {
+      "road": "Âu Cơ",
+      "county": "Phường An Hội",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "07584",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.93272,105.251": {
+    "display_name": "Nguyễn Văn Rỗ, Xã Giồng Riềng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Nguyễn Văn Rỗ",
+      "county": "Xã Giồng Riềng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.00136,107.052": {
+    "display_name": "Xuân Hòa, Xã Bến Hải, Tỉnh Quảng Trị, 47000, Việt Nam",
+    "address": {
+      "village": "Xuân Hòa",
+      "town": "Xã Bến Hải",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "postcode": "47000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35087,105.9964": {
+    "display_name": "Xã Cái Bè, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Cái Bè",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51778,106.6763": {
+    "display_name": "Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.831021,106.1386": {
+    "display_name": "Quốc lộ 54, Xã Phong Thạnh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.1172,106.6271": {
+    "display_name": "887, Xã Tân Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "887",
+      "county": "Xã Tân Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.40873,105.8856": {
+    "display_name": "Đường bộ ven biển Hà Tĩnh, Hộ Độ, Phường Trần Phú, Hà Tĩnh, Việt Nam",
+    "address": {
+      "road": "Đường bộ ven biển Hà Tĩnh",
+      "village": "Hộ Độ",
+      "city": "Phường Trần Phú",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74581,108.1578": {
+    "display_name": "Quốc lộ 14, Ko H'Neh, Xã Cuôr Đăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Ko H'Neh",
+      "county": "Xã Cuôr Đăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.16888,108.0953": {
+    "display_name": "Tỉnh Quảng Ninh, Việt Nam",
+    "address": {
+      "state": "Tỉnh Quảng Ninh",
+      "ISO3166-2-lvl4": "VN-13",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.47413,108.4452": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.42954,107.5415": {
+    "display_name": "Thôn 1, Xã Đạ Huoai, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Đạ Huoai",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.4741,108.4452": {
+    "display_name": "Ma Rin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Rin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
