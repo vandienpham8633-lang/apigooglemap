@@ -66300,5 +66300,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.25234,108.9567": {
+    "display_name": "Đường tỉnh 653D, Diên Thọ, Xã Khánh Vĩnh, Khánh Hòa, 65000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 653D",
+      "suburb": "Diên Thọ",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "65000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66485,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
