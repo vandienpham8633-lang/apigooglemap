@@ -66635,5 +66635,98 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.55407,103.3351": {
+    "display_name": "Đường tỉnh 130, Bản Chi Bú, Khổng Lào, Xã Khổng Lào, Tỉnh Lai Châu, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 130",
+      "hamlet": "Bản Chi Bú",
+      "village": "Khổng Lào",
+      "county": "Xã Khổng Lào",
+      "state": "Tỉnh Lai Châu",
+      "ISO3166-2-lvl4": "VN-01",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.34523,108.709": {
+    "display_name": "Làng K4, Vĩnh Sơn, Xã Vĩnh Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Làng K4, Vĩnh Sơn",
+      "county": "Xã Vĩnh Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.08827,106.8229": {
+    "display_name": "Đường Vành đai 4, Khu phố Xóm Đèn, Ấp 1, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Vành đai 4",
+      "quarter": "Khu phố Xóm Đèn",
+      "village": "Ấp 1",
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.47025,109.2891": {
+    "display_name": "Nhà máy Nhiệt điện Vân Phong, Phường Đông Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "industrial": "Nhà máy Nhiệt điện Vân Phong",
+      "county": "Phường Đông Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57303,107.616": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.03708,105.779": {
+    "display_name": "11, Hẻm 1 Nguyễn Thần Hiến, Ninh Kiều, Phường Ninh Kiều, Thành phố Cần Thơ, 94111, Việt Nam",
+    "address": {
+      "house_number": "11",
+      "road": "Hẻm 1 Nguyễn Thần Hiến",
+      "suburb": "Ninh Kiều",
+      "city_district": "Phường Ninh Kiều",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.95396,106.1931": {
+    "display_name": "Xã Cẩm Giang, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "town": "Xã Cẩm Giang",
+      "city": "Thành phố Hải Phòng",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74084,108.2477": {
+    "display_name": "Tân Đức, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Đức",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
