@@ -64218,5 +64218,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.67465,108.0397": {
+    "display_name": "Xã Quế Phước, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Quế Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.31737,109.2679": {
+    "display_name": "Phú Sơn, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Sơn",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59676,106.4852": {
+    "display_name": "Xã Nhựt Tảo, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Nhựt Tảo",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02374,106.3065": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
