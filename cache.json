@@ -64146,5 +64146,77 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.67147,106.7175": {
+    "display_name": "Xã Khe Sanh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Khe Sanh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.54367,107.5709": {
+    "display_name": "Hóa Châu, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Hóa Châu",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.90916,108.1471": {
+    "display_name": "Đrao, Xã Ea Tul, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đrao",
+      "county": "Xã Ea Tul",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.20677,108.9136": {
+    "display_name": "Xã Tịnh Khê, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tịnh Khê",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.883,106.6874": {
+    "display_name": "Xã Lộc Quang, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Quang",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.77839,109.3285": {
+    "display_name": "Xã Tu Bông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tu Bông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.67629,107.999": {
+    "display_name": "Quốc lộ 28, Thôn 4, Xã Đinh Trang Thượng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28",
+      "village": "Thôn 4",
+      "county": "Xã Đinh Trang Thượng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
