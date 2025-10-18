@@ -63971,5 +63971,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.55485,105.4905": {
+    "display_name": "Nguyễn Huệ, Thanh Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "town": "Thanh Bình",
+      "county": "Thanh Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80241,107.866": {
+    "display_name": "Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.96888,108.4526": {
+    "display_name": "Nguyên Tử Lực, Ấp Đa Thiện, Phường Lâm Viên - Đà Lạt, Tỉnh Lâm Đồng, 66100, Việt Nam",
+    "address": {
+      "road": "Nguyên Tử Lực",
+      "neighbourhood": "Ấp Đa Thiện",
+      "county": "Phường Lâm Viên - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.54358,107.571": {
+    "display_name": "Hóa Châu, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Hóa Châu",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
