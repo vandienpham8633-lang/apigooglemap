@@ -66436,5 +66436,156 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77622,106.6826": {
+    "display_name": "Nguyễn Thượng Hiền, Khu phố 33, Phường Vườn Lài, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70001, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thượng Hiền",
+      "quarter": "Khu phố 33",
+      "suburb": "Phường Vườn Lài",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70001",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.41655,106.3522": {
+    "display_name": "Xã Lương Hòa Lạc, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Lương Hòa Lạc",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.67085,105.6749": {
+    "display_name": "Phường Thành Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Thành Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27916,108.9099": {
+    "display_name": "Trường THPT Lạc Long Quân, Hùng Vương, Khánh Vĩnh, Xã Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Lạc Long Quân",
+      "road": "Hùng Vương",
+      "town": "Khánh Vĩnh",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.76931,109.216": {
+    "display_name": "Khu vực, Ngô Mây, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55111, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Ngô Mây",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.594801,104.9338": {
+    "display_name": "Khu phố 2, Thứ Mười Một, Xã An Minh, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 2",
+      "town": "Thứ Mười Một",
+      "county": "Xã An Minh",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.35134,106.0829": {
+    "display_name": "Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.08556,106.5702": {
+    "display_name": "PV Oil, Đường Hồ Chí Minh nhánh Tây, Xã Kim Ngân, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "amenity": "PV Oil",
+      "road": "Đường Hồ Chí Minh nhánh Tây",
+      "town": "Xã Kim Ngân",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.12517,105.6094": {
+    "display_name": "Ô Môn, Phường Ô Môn, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "suburb": "Ô Môn",
+      "city_district": "Phường Ô Môn",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.2524,108.9567": {
+    "display_name": "Đường tỉnh 653D, Diên Thọ, Xã Khánh Vĩnh, Khánh Hòa, 65000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 653D",
+      "suburb": "Diên Thọ",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "65000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07049,106.6258": {
+    "display_name": "Khu phố 4, Phường Hòa Lợi, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.24856,106.142": {
+    "display_name": "Khu công nghiệp Vân Trung, Phường Nếnh, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Vân Trung",
+      "suburb": "Phường Nếnh",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34711,106.0822": {
+    "display_name": "Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
