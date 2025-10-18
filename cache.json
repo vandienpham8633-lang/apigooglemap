@@ -66842,5 +66842,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.34516,108.0007": {
+    "display_name": "Bạch Đằng, Quyết Thắng, Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Bạch Đằng",
+      "suburb": "Quyết Thắng",
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.46437,107.8573": {
+    "display_name": "Tổ dân phố 3, Đắk Mâm, Xã Krông Nô, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 3",
+      "town": "Đắk Mâm",
+      "county": "Xã Krông Nô",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.15165,108.8525": {
+    "display_name": "Xã Tịnh Khê, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tịnh Khê",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.670502,106.4608": {
+    "display_name": "ĐT. 914, Xã Long Hữu, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 914",
+      "county": "Xã Long Hữu",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
