@@ -66888,5 +66888,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.36481,108.5639": {
+    "display_name": "Thôn 6, Xã Sơn Lang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Sơn Lang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.00664,104.7161": {
+    "display_name": "Xã Đoàn Kết, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "county": "Xã Đoàn Kết",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.46425,107.8573": {
+    "display_name": "Tổ dân phố 3, Đắk Mâm, Xã Krông Nô, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 3",
+      "town": "Đắk Mâm",
+      "county": "Xã Krông Nô",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
