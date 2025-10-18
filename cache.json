@@ -63412,5 +63412,162 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.67029,109.002": {
+    "display_name": "Xã Xuân Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Xã Xuân Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.22963,105.7368": {
+    "display_name": "Phường Quỳnh Mai, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Quỳnh Mai",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.01964,105.757": {
+    "display_name": "Hẻm Liên Tổ 4-5, Phường Tân An, Thành phố Cần Thơ, 94000, Việt Nam",
+    "address": {
+      "road": "Hẻm Liên Tổ 4-5",
+      "city_district": "Phường Tân An",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.47734,106.1319": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61469,109.1486": {
+    "display_name": "Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.23685,108.1133": {
+    "display_name": "Ba Yang, Xã Krông Nô, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ba Yang",
+      "county": "Xã Krông Nô",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.62664,105.8236": {
+    "display_name": "Xã Tiên Trang, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Tiên Trang",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.06332,108.0875": {
+    "display_name": "Xã Kon Gang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Kon Gang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37918,106.4614": {
+    "display_name": "Xã Tân Thuận Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Thuận Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03127,106.3027": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.40162,108.8075": {
+    "display_name": "Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.19941,108.2591": {
+    "display_name": "Drai, Xã Ea Drăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Drai",
+      "county": "Xã Ea Drăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.22325,106.2168": {
+    "display_name": "Xã Thạnh Đức, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Đức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.2508,106.2417": {
+    "display_name": "Xã Cầu Khởi, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Cầu Khởi",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929865,105.742": {
+    "display_name": "Xã Đông Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
