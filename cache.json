@@ -63091,5 +63091,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.9849,109.0845": {
+    "display_name": "Thôn Phú Gia, Cát Tường, Phú Gia, Xã Xuân An, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Phú Gia, Cát Tường",
+      "village": "Phú Gia",
+      "county": "Xã Xuân An",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.11197,108.8989": {
+    "display_name": "Xã An Phú, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã An Phú",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43356,105.6913": {
+    "display_name": "3 Tháng 2, Mỹ Thọ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "3 Tháng 2",
+      "town": "Mỹ Thọ",
+      "county": "Mỹ Thọ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.40229,107.6299": {
+    "display_name": "Phường Thanh Thủy, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thanh Thủy",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15672,107.6182": {
+    "display_name": "Thôn 4, Xã Tánh Linh, Tỉnh Lâm Đồng, 77556, Việt Nam",
+    "address": {
+      "village": "Thôn 4",
+      "county": "Xã Tánh Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77556",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
