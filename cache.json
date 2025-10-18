@@ -67262,5 +67262,190 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.78779,106.6472": {
+    "display_name": "Hẻm 192 Hồng Lạc, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72117, Việt Nam",
+    "address": {
+      "road": "Hẻm 192 Hồng Lạc",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.75082,108.3634": {
+    "display_name": "Xã Thăng Bình, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Bình",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.40129,108.804": {
+    "display_name": "Bình Thuận, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Bình Thuận",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.641786,106.565": {
+    "display_name": "Phường Trường Long Hòa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Trường Long Hòa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.435902,105.0503": {
+    "display_name": "Xã Biển Bạch, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Biển Bạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88086,107.4461": {
+    "display_name": "Ấp 4, Xã Xuân Hòa, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã Xuân Hòa",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.79771,108.6619": {
+    "display_name": "Quốc lộ 26, Ea Tê, Xã M'Drắk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ea Tê",
+      "county": "Xã M'Drắk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66731,106.5393": {
+    "display_name": "Mỹ Yên, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "village": "Mỹ Yên",
+      "county": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42371,105.9724": {
+    "display_name": "Xã Hậu Mỹ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Hậu Mỹ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.615867,105.0409": {
+    "display_name": "ĐT. 965B, Xã U Minh Thượng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 965B",
+      "county": "Xã U Minh Thượng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98829,108.7933": {
+    "display_name": "Quốc lộ 19, Thôn Thượng Sơn, Tây Thuận, Đồng Vắt, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Thượng Sơn, Tây Thuận",
+      "village": "Đồng Vắt",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66932,106.5902": {
+    "display_name": "Xã Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Xã Bình Chánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.9802,108.1647": {
+    "display_name": "Đrây Huê, Xã Cư Pơng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đrây Huê",
+      "county": "Xã Cư Pơng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09711,107.6751": {
+    "display_name": "Lạc Tín, Lạc Tánh, Xã Tánh Linh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Lạc Tín",
+      "town": "Lạc Tánh",
+      "county": "Xã Tánh Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.320635,105.1098": {
+    "display_name": "Thới Bình, Xã Thới Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Thới Bình",
+      "county": "Xã Thới Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.79772,108.6619": {
+    "display_name": "Quốc lộ 26, Ea Tê, Xã M'Drắk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ea Tê",
+      "county": "Xã M'Drắk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.46777,106.8801": {
+    "display_name": "Tân Phú, Xã Đồng Phú, Việt Nam",
+    "address": {
+      "town": "Tân Phú",
+      "county": "Xã Đồng Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
