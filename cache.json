@@ -64876,5 +64876,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.85861,107.4292": {
+    "display_name": "Xã Xuân Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Hòa",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.27597,107.9727": {
+    "display_name": "Phước An, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "village": "Phước An",
+      "town": "Xã Chân Mây - Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13935,106.6658": {
+    "display_name": "Khu phố 9, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 9",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01379,106.4": {
+    "display_name": "Xã Thái Mỹ, Thành phố Hồ Chí Minh, Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "city_district": "Xã Thái Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-37",
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57295,107.6159": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
