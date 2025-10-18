@@ -63569,5 +63569,105 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.22962,105.7368": {
+    "display_name": "Phường Quỳnh Mai, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "city": "Phường Quỳnh Mai",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03141,106.3024": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.67034,109.0021": {
+    "display_name": "Xã Xuân Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Xã Xuân Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.29377,106.3051": {
+    "display_name": "Xã Lộc Ninh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.17709,106.2795": {
+    "display_name": "Xã Kỳ Khang, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Kỳ Khang",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.86508,108.7625": {
+    "display_name": "Phước Hòa, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Hòa",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73286,106.6199": {
+    "display_name": "27/8, Hẻm 28 Ngô Y Linh, An Lạc, Phường An Lạc, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "house_number": "27/8",
+      "road": "Hẻm 28 Ngô Y Linh",
+      "suburb": "An Lạc",
+      "city": "Phường An Lạc",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.06204,108.0869": {
+    "display_name": "Đường tỉnh 670B, Xã Kon Gang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 670B",
+      "county": "Xã Kon Gang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8784,108.3395": {
+    "display_name": "Nguyễn Duy Hiệu, Phố cổ Hội An, Minh An, Phường Hội An Đông, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Duy Hiệu",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Minh An",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
