@@ -63323,5 +63323,94 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.23674,108.1134": {
+    "display_name": "Ba Yang, Xã Krông Nô, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ba Yang",
+      "county": "Xã Krông Nô",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.530146,106.1805": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.15865,106.6522": {
+    "display_name": "Đường Bắc Nam, Xã Thạnh Trị, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đường Bắc Nam",
+      "county": "Xã Thạnh Trị",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.78606,106.3968": {
+    "display_name": "Xã Quảng Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.90782,108.069": {
+    "display_name": "An Phú, Xã Cư M'gar, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "An Phú",
+      "county": "Xã Cư M'gar",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.82758,107.1057": {
+    "display_name": "Đặng Dung, Phường Nam Đông Hà, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đặng Dung",
+      "city": "Phường Nam Đông Hà",
+      "county": "Phường Nam Đông Hà",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0314,106.3027": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69534,105.397": {
+    "display_name": "ĐT. 844, Xã An Long, Tỉnh Đồng Tháp, 88000, Việt Nam",
+    "address": {
+      "road": "ĐT. 844",
+      "county": "Xã An Long",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "88000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
