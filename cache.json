@@ -66943,5 +66943,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.92513,109.1575": {
+    "display_name": "Lê Duẩn, Phường Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Lê Duẩn",
+      "suburb": "Phường Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.69671,107.8294": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.69665,107.8294": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
