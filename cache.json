@@ -66242,5 +66242,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06669,108.2308": {
+    "display_name": "Nhà thờ An Hải, Cao Bá Quát, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "amenity": "Nhà thờ An Hải",
+      "road": "Cao Bá Quát",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94528,108.853": {
+    "display_name": "Thôn Tả Giang 1, Tây Giang, Bình Liên, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tả Giang 1, Tây Giang",
+      "village": "Bình Liên",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25228,108.9568": {
+    "display_name": "Đường tỉnh 653D, Diên Thọ, Xã Khánh Vĩnh, Khánh Hòa, 65000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 653D",
+      "suburb": "Diên Thọ",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "65000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76834,106.7929": {
+    "display_name": "Đường Số 57 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "road": "Đường Số 57 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66486,105.7602": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
