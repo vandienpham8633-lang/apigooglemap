@@ -67095,5 +67095,172 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.6271,105.6579": {
+    "display_name": "Xã Phương Thịnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Phương Thịnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98827,108.7933": {
+    "display_name": "Quốc lộ 19, Thôn Thượng Sơn, Tây Thuận, Đồng Vắt, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Thượng Sơn, Tây Thuận",
+      "village": "Đồng Vắt",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.758929,106.3694": {
+    "display_name": "Xã Nhị Trường, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhị Trường",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.435905,105.0503": {
+    "display_name": "Xã Biển Bạch, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Biển Bạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.751086,105.9177": {
+    "display_name": "Xã Kế Sách, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Kế Sách",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.615941,105.0409": {
+    "display_name": "ĐT. 965B, Xã U Minh Thượng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 965B",
+      "county": "Xã U Minh Thượng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8883,106.9288": {
+    "display_name": "Phường Phước Tân, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Phường Phước Tân",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.753894,106.4416": {
+    "display_name": "Xã Hiệp Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hiệp Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.06123,107.1671": {
+    "display_name": "Xã Bù Gia Mập, Việt Nam",
+    "address": {
+      "county": "Xã Bù Gia Mập",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96005,108.0058": {
+    "display_name": "Phường Hội Phú, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "county": "Phường Hội Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.89423,109.0529": {
+    "display_name": "Thôn Quan Quang, Nhơn Khánh, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Quan Quang, Nhơn Khánh",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83815,106.6099": {
+    "display_name": "Lê Đức Anh, Xã Bà Điểm, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Lê Đức Anh",
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.17747,106.0213": {
+    "display_name": "Yên Thịnh, Xã Yên Mô, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "town": "Yên Thịnh",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.424119,104.9122": {
+    "display_name": "Xã U Minh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã U Minh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.435909,105.0503": {
+    "display_name": "Xã Biển Bạch, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Biển Bạch",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.616005,105.0409": {
+    "display_name": "ĐT. 965B, Xã U Minh Thượng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 965B",
+      "county": "Xã U Minh Thượng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
