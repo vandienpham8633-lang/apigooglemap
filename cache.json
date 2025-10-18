@@ -63167,5 +63167,84 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.55694,105.5399": {
+    "display_name": "Xã Bình Thành, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Bình Thành",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78854,106.7806": {
+    "display_name": "Đường Số 31, Phường Bình Trưng, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường Số 31",
+      "suburb": "Phường Bình Trưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.95845,108.2544": {
+    "display_name": "Đường Trần Hưng Đạo, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Trần Hưng Đạo",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.15312,108.6623": {
+    "display_name": "Đưng K'Si, Xã Lạc Dương, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đưng K'Si",
+      "county": "Xã Lạc Dương",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12179,106.6468": {
+    "display_name": "Đường DI4, Khu phố 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường DI4",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.29413,107.9763": {
+    "display_name": "Phú Thuận, Xã Quảng Phú, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Phú Thuận",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98486,109.0847": {
+    "display_name": "Thôn Kiều Huyên, Cát Tân, Ngô Mây, Xã Xuân An, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Kiều Huyên, Cát Tân",
+      "town": "Ngô Mây",
+      "county": "Xã Xuân An",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
