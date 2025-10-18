@@ -66587,5 +66587,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.98781,106.6502": {
+    "display_name": "Lạc Long Quân, Chánh Lộc 2, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "road": "Lạc Long Quân",
+      "quarter": "Chánh Lộc 2",
+      "city_district": "Phường Thủ Dầu Một",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98781,106.6501": {
+    "display_name": "Lạc Long Quân, Chánh Lộc 2, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "road": "Lạc Long Quân",
+      "quarter": "Chánh Lộc 2",
+      "city_district": "Phường Thủ Dầu Một",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55312,106.6761": {
+    "display_name": "Nguyên trung, Đường tỉnh 826C, Xã Phước Vĩnh Tây, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "shop": "Nguyên trung",
+      "road": "Đường tỉnh 826C",
+      "county": "Xã Phước Vĩnh Tây",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.69947,106.8786": {
+    "display_name": "Xã Hướng Hiệp, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hướng Hiệp",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
