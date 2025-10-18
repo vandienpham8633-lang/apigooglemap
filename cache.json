@@ -67009,5 +67009,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.924865,105.205": {
+    "display_name": "Tân Thành, Xã Châu Thành, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Tân Thành",
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
