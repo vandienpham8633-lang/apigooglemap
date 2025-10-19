@@ -67744,5 +67744,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.77088,108.276": {
+    "display_name": "Đường tỉnh 666, Xã Kon Chiêng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 666",
+      "county": "Xã Kon Chiêng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.89803,108.9601": {
+    "display_name": "Hùng Vương, Thôn 1, Bình Nghi, Xóm Tây, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "hamlet": "Thôn 1, Bình Nghi",
+      "village": "Xóm Tây",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.67941,108.0434": {
+    "display_name": "Thôn 11, Xã Đinh Trang Thượng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 11",
+      "county": "Xã Đinh Trang Thượng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.99498,106.8684": {
+    "display_name": "Khu phố 4B, Phường Trảng Dài, Tỉnh Đồng Nai, 76913, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4B",
+      "county": "Phường Trảng Dài",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.30104,106.9161": {
+    "display_name": "Ấp Gia Biện, Xã Phú Giáo, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Ấp Gia Biện",
+      "city_district": "Xã Phú Giáo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
