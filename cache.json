@@ -71174,5 +71174,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.60031,106.4787": {
+    "display_name": "Xã Bình Đức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "county": "Xã Bình Đức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63557,106.8304": {
+    "display_name": "Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
