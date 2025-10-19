@@ -73028,5 +73028,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.55401,109.0023": {
+    "display_name": "Hải Thượng Lãn Ông, Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Hải Thượng Lãn Ông",
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.911418,105.0368": {
+    "display_name": "Xẻo Dinh, Xã Tây Yên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Xẻo Dinh",
+      "county": "Xã Tây Yên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.72783,108.2607": {
+    "display_name": "Xã Quế Sơn Trung, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Quế Sơn Trung",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
