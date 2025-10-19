@@ -73061,5 +73061,21 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.88713,106.6997": {
+    "display_name": "Xã Lộc Quang, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Quang",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00428,107.0298": {
+    "display_name": "Xã Đăk Ơ, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Ơ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
