@@ -67932,5 +67932,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80571,105.1181": {
+    "display_name": "Xã Vĩnh Hậu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Hậu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.21571,108.8978": {
+    "display_name": "Xã Đông Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đông Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.49573,104.6116": {
+    "display_name": "QL. N1, Cả Ngay, Xã Giang Thành, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "QL. N1",
+      "village": "Cả Ngay",
+      "county": "Xã Giang Thành",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09568,108.8866": {
+    "display_name": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.28885,107.8364": {
+    "display_name": "Quốc lộ 1, Thôn Bạch Thạch, Xã Lộc An, Thành phố Huế, 53000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "hamlet": "Thôn Bạch Thạch",
+      "town": "Xã Lộc An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "53000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
