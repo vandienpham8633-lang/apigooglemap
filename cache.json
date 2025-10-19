@@ -71378,5 +71378,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.00761,108.1621": {
+    "display_name": "Xã KDang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã KDang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.56674,108.4936": {
+    "display_name": "Phan Đình Phùng, Phường Tam Kỳ, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Phan Đình Phùng",
+      "city": "Phường Tam Kỳ",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
