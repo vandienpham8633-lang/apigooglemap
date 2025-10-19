@@ -72255,5 +72255,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.922417,106.0493": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
