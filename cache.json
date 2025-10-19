@@ -72445,5 +72445,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.97911,108.2498": {
+    "display_name": "Đường Nguyễn Minh Châu, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Minh Châu",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.28108,106.3201": {
+    "display_name": "Phường Sơn Đông, Tỉnh Vĩnh Long, 93000, Việt Nam",
+    "address": {
+      "county": "Phường Sơn Đông",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "93000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
