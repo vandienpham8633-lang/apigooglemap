@@ -73232,5 +73232,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.08371,106.7658": {
+    "display_name": "越南-LODESTAR, Đường tỉnh 747B, Ông Đông, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "shop": "越南-LODESTAR",
+      "road": "Đường tỉnh 747B",
+      "quarter": "Ông Đông",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.99406,105.9817": {
+    "display_name": "Xã Như Quỳnh, Tỉnh Hưng Yên, 17710, Việt Nam",
+    "address": {
+      "town": "Xã Như Quỳnh",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "postcode": "17710",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.57008,109.0653": {
+    "display_name": "KP.Thiện Chánh 1, P.Tam Quan Bắc, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Thiện Chánh 1, P.Tam Quan Bắc",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
