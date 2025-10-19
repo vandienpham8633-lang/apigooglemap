@@ -73077,5 +73077,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.6512,105.7731": {
+    "display_name": "Võ Văn Kiệt, Xã Trường Xuân, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "county": "Xã Trường Xuân",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
