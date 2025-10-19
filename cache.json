@@ -71598,5 +71598,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.61287,108.0393": {
+    "display_name": "Thôn 1, Phường Ea Kao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Phường Ea Kao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42051,104.4527": {
+    "display_name": "Bà Lý, Hà Tiên, Phường Hà Tiên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Bà Lý",
+      "city": "Hà Tiên",
+      "county": "Phường Hà Tiên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89792,106.7663": {
+    "display_name": "Bình Minh 2, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Bình Minh 2",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75069,107.7102": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.57612,105.3515": {
+    "display_name": "Chu Văn An, Phú Mỹ, Xã Phú Tân, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Chu Văn An",
+      "town": "Phú Mỹ",
+      "county": "Xã Phú Tân",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
