@@ -69854,5 +69854,145 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.06998,108.6968": {
+    "display_name": "Xã Ia Dreh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Dreh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9218,107.2463": {
+    "display_name": "Khu phố 4, Long Khánh, Phường Long Khánh, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4",
+      "city": "Long Khánh",
+      "county": "Phường Long Khánh",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93618,107.0203": {
+    "display_name": "Tân Phát, Xã An Viễn, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Tân Phát",
+      "county": "Xã An Viễn",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.689816,104.878": {
+    "display_name": "Xã Đất Mũi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đất Mũi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34826,104.992": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.946948,105.1408": {
+    "display_name": "Xã Trần Phán, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Trần Phán",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.331115,106.0399": {
+    "display_name": "Đường Nam Sông Hậu, Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Nam Sông Hậu",
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25619,106.5122": {
+    "display_name": "Xã Lộc Thuận, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Thuận",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.961014,105.9242": {
+    "display_name": "Đường Võ Thị Sáu, Trà Ôn, Xã Trà Ôn, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đường Võ Thị Sáu",
+      "town": "Trà Ôn",
+      "county": "Xã Trà Ôn",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.5387,109.0391": {
+    "display_name": "Đường Quang Trung, KP.Phụng Du 2, P.Hoài Hảo, Phường Hoài Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "KP.Phụng Du 2, P.Hoài Hảo",
+      "county": "Phường Hoài Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.973115,105.6887": {
+    "display_name": "Xã Nhơn Ái, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhơn Ái",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.76692,107.1572": {
+    "display_name": "Xã Ái Tử, Tỉnh Quảng Trị, 48000, Việt Nam",
+    "address": {
+      "town": "Xã Ái Tử",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "postcode": "48000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59112,106.4029": {
+    "display_name": "Tân Thuận, Xã Tân Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
