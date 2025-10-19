@@ -73519,5 +73519,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.527703,105.1386": {
+    "display_name": "Xã U Minh Thượng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã U Minh Thượng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.46659,109.2283": {
+    "display_name": "Quốc lộ 1, Phước Lý, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "village": "Phước Lý",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07854,108.1275": {
+    "display_name": "422, Đường Âu Cơ, Phường Liên Chiểu, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "422",
+      "road": "Đường Âu Cơ",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
