@@ -72380,5 +72380,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63042,107.0486": {
+    "display_name": "Khu công nghiệp Mỹ Xuân A2, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Mỹ Xuân A2",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35324,105.7896": {
+    "display_name": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35324,105.7895": {
+    "display_name": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
