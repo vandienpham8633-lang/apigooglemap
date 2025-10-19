@@ -70611,5 +70611,113 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.84824,108.39": {
+    "display_name": "Xã Duy Nghĩa, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Nghĩa",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79088,106.7876": {
+    "display_name": "Đường Nguyễn Duy Trinh, Phường Long Trường, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Duy Trinh",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.60139,108.384": {
+    "display_name": "Xã Tây Hồ, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Tây Hồ",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.10953,108.8986": {
+    "display_name": "Xã An Phú, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã An Phú",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.781792,105.0672": {
+    "display_name": "Tây Sơn 3, Xã An Biên, Tỉnh An Giang, 91800, Việt Nam",
+    "address": {
+      "village": "Tây Sơn 3",
+      "county": "Xã An Biên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "91800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.95549,108.4246": {
+    "display_name": "Ấp Đa Trung, Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng, 66113, Việt Nam",
+    "address": {
+      "neighbourhood": "Ấp Đa Trung",
+      "county": "Phường Cam Ly - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91602,108.088": {
+    "display_name": "Phường Tiến Thành, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Tiến Thành",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.95548,108.4246": {
+    "display_name": "Ấp Đa Trung, Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng, 66113, Việt Nam",
+    "address": {
+      "neighbourhood": "Ấp Đa Trung",
+      "county": "Phường Cam Ly - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93286,108.285": {
+    "display_name": "Phường Mũi Né, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Mũi Né",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93285,108.285": {
+    "display_name": "Phường Mũi Né, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Mũi Né",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
