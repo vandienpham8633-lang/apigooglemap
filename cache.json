@@ -70473,5 +70473,113 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.98219,106.6816": {
+    "display_name": "Khu phố 8, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75107, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 8",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01707,106.4319": {
+    "display_name": "Hẻm 26, Xã Thái Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Hẻm 26",
+      "city_district": "Xã Thái Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15088,106.5901": {
+    "display_name": "Khu phố 2, Phường Bến Cát, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 2",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.78949,106.2424": {
+    "display_name": "Xã Tuyên Hóa, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Tuyên Hóa",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.495685,105.5055": {
+    "display_name": "Xã Ninh Quới, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Ninh Quới",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.1504,106.6094": {
+    "display_name": "Đường NB4A, Khu phố 3, Phường Bến Cát, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường NB4A",
+      "quarter": "Khu phố 3",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80871,107.0006": {
+    "display_name": "Khu tái định cư Lộc An - Bình Sơn, Suối Trầu, Xã Long Thành, Việt Nam",
+    "address": {
+      "residential": "Khu tái định cư Lộc An - Bình Sơn",
+      "village": "Suối Trầu",
+      "county": "Xã Long Thành",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.495686,105.5055": {
+    "display_name": "Xã Ninh Quới, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Ninh Quới",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.7551,106.9939": {
+    "display_name": "Xã Cam Lộ, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cam Lộ",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.75508,106.9939": {
+    "display_name": "Xã Cam Lộ, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Cam Lộ",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
