@@ -73652,5 +73652,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.17149,106.0952": {
+    "display_name": "Đường Trần Hưng Đạo, Cầu Ngà, Phường Nam Sơn, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Trần Hưng Đạo",
+      "quarter": "Cầu Ngà",
+      "suburb": "Phường Nam Sơn",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
