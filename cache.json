@@ -72821,5 +72821,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.22451,106.7244": {
+    "display_name": "Xã Phước Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Phước Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.689627,104.8779": {
+    "display_name": "Xã Đất Mũi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đất Mũi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13778,107.501": {
+    "display_name": "Thôn 3, Xã Hoài Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Hoài Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25243,108.9567": {
+    "display_name": "Đường tỉnh 653D, Diên Thọ, Xã Khánh Vĩnh, Khánh Hòa, 65000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 653D",
+      "suburb": "Diên Thọ",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "65000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
