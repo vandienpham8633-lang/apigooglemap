@@ -72341,5 +72341,44 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.82296,106.6751": {
+    "display_name": "Nguyễn Văn Công, Phường Hạnh Thông, Thành phố Hồ Chí Minh, 70048, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Công",
+      "suburb": "Phường Hạnh Thông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70048",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72135,106.6329": {
+    "display_name": "Phân hiệu trường Cao đẳng Lương thực - Thực phẩm tại TP.HCM, 296, Lưu Hữu Phước, Phường Phú Định, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "amenity": "Phân hiệu trường Cao đẳng Lương thực - Thực phẩm tại TP.HCM",
+      "house_number": "296",
+      "road": "Lưu Hữu Phước",
+      "suburb": "Phường Phú Định",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75673,106.616": {
+    "display_name": "575/9a, Hẻm 575 Tỉnh lộ 10, Phường Bình Trị Đông, Phường An Lạc, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "house_number": "575/9a",
+      "road": "Hẻm 575 Tỉnh lộ 10",
+      "suburb": "Phường Bình Trị Đông",
+      "city": "Phường An Lạc",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
