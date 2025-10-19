@@ -68950,5 +68950,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.30156,108.9971": {
+    "display_name": "Khánh Xuân, Xã Diên Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Khánh Xuân",
+      "county": "Xã Diên Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44055,107.7869": {
+    "display_name": "Xã Phú Vinh, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vinh",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.07639,108.7896": {
+    "display_name": "Thôn Vĩnh Định, Vĩnh Thịnh, Xã Vĩnh Thịnh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vĩnh Định, Vĩnh Thịnh",
+      "county": "Xã Vĩnh Thịnh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.0764,108.7897": {
+    "display_name": "Thôn Vĩnh Định, Vĩnh Thịnh, Xã Vĩnh Thịnh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vĩnh Định, Vĩnh Thịnh",
+      "county": "Xã Vĩnh Thịnh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.250421,105.2582": {
+    "display_name": "Xã Phong Thạnh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
