@@ -72513,5 +72513,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "-6.589596,108.3957": {
+    "display_name": "Prajawinangun Kulon, Kabupaten Cirebon, Tỉnh Tây Java, Jawa, Indonesia",
+    "address": {
+      "village": "Prajawinangun Kulon",
+      "county": "Kabupaten Cirebon",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
+  },
+  "15.9352,108.3088": {
+    "display_name": "Đường Võ Nguyên Giáp, Hà Quảng Đông, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Võ Nguyên Giáp",
+      "hamlet": "Hà Quảng Đông",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3532,105.7896": {
+    "display_name": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
