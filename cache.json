@@ -71398,5 +71398,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.90229,106.3069": {
+    "display_name": "Xã Song Lộc, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Song Lộc",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62263,105.0898": {
+    "display_name": "Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Mỹ Tây",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62267,105.0898": {
+    "display_name": "Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Mỹ Tây",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
