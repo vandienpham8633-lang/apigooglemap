@@ -67721,5 +67721,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.63789,108.3091": {
+    "display_name": "Quốc lộ 20, Đại Ninh, Xã Ninh Gia, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 20",
+      "village": "Đại Ninh",
+      "county": "Xã Ninh Gia",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.73374,108.3623": {
+    "display_name": "Phê, Xã Ea Phê, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phê",
+      "county": "Xã Ea Phê",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
