@@ -69766,5 +69766,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.86873,108.2134": {
+    "display_name": "Quốc lộ 27, Ngọc Sơn 2, Xã Phú Sơn Lâm Hà, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27",
+      "village": "Ngọc Sơn 2",
+      "county": "Xã Phú Sơn Lâm Hà",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.43349,107.7094": {
+    "display_name": "Phú Đa, Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Phú Đa",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.63913,106.7677": {
+    "display_name": "Xã Khe Sanh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Khe Sanh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53168,105.6264": {
+    "display_name": "ĐT. 846, Mỹ Ngãi, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 846",
+      "county": "Mỹ Ngãi",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.8687,108.2135": {
+    "display_name": "Quốc lộ 27, Ngọc Sơn 2, Xã Phú Sơn Lâm Hà, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27",
+      "village": "Ngọc Sơn 2",
+      "county": "Xã Phú Sơn Lâm Hà",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
