@@ -73461,5 +73461,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.99296,109.0586": {
+    "display_name": "KP.An Kiều, TT.Ngô Mây, Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.An Kiều, TT.Ngô Mây",
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
