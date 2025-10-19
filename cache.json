@@ -69821,5 +69821,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59692,106.4852": {
+    "display_name": "Xã Nhựt Tảo, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Nhựt Tảo",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
