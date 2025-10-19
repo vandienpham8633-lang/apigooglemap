@@ -72042,5 +72042,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.06345,108.3113": {
+    "display_name": "Đường tỉnh 715, Xã Hòa Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 715",
+      "county": "Xã Hòa Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06115,106.3645": {
+    "display_name": "Đường tỉnh 787, Phường Gia Lộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 787",
+      "county": "Phường Gia Lộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53515,105.0452": {
+    "display_name": "Phường Chi Lăng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Phường Chi Lăng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53504,105.0452": {
+    "display_name": "Phường Chi Lăng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Phường Chi Lăng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.88111,106.5588": {
+    "display_name": "Phường An Phong, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "city": "Phường An Phong",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
