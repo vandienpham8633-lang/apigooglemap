@@ -72265,5 +72265,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.9158,108.3409": {
+    "display_name": "Thôn 1, Phường Cam Ly - Đà Lạt, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Phường Cam Ly - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
