@@ -69481,5 +69481,234 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59503,106.5775": {
+    "display_name": "Rạch Kiến, Xã Rạch Kiến, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Rạch Kiến",
+      "county": "Xã Rạch Kiến",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.23938,106.1397": {
+    "display_name": "Trần Phú, Phường Long Hoa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.05306,108.2389": {
+    "display_name": "Bodhicitta, 23b, Đường Nguyễn Văn Thoại, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "amenity": "Bodhicitta",
+      "house_number": "23b",
+      "road": "Đường Nguyễn Văn Thoại",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.90476,108.9674": {
+    "display_name": "Xóm Tây, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Xóm Tây",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.4699,107.8864": {
+    "display_name": "Thôn 3, Xã Hòa Bắc, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Hòa Bắc",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55117,105.4046": {
+    "display_name": "Nguyễn Huệ, Chợ Mới, Xã Chợ Mới, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Huệ",
+      "town": "Chợ Mới",
+      "county": "Xã Chợ Mới",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54678,105.184": {
+    "display_name": "Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Mỹ Tây",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.325006,105.7787": {
+    "display_name": "ĐT. 976, Xã Hưng Hội, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "ĐT. 976",
+      "county": "Xã Hưng Hội",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.331153,106.0399": {
+    "display_name": "Đường Nam Sông Hậu, Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Nam Sông Hậu",
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.44277,105.4661": {
+    "display_name": "Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34822,104.992": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.45896,108.3931": {
+    "display_name": "Xã Ia Hiao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hiao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64386,106.4981": {
+    "display_name": "Trần Thế Sinh, Bến Lức, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Trần Thế Sinh",
+      "town": "Bến Lức",
+      "county": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.977652,106.0669": {
+    "display_name": "Xã Hòa Bình, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34011,106.1824": {
+    "display_name": "Xã Ngũ Hiệp, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Ngũ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.58523,107.9749": {
+    "display_name": "Đồng Tâm, Xã Ea Na, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đồng Tâm",
+      "county": "Xã Ea Na",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77479,106.5747": {
+    "display_name": "Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "village": "Xã Tân Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05154,105.718": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.28389,108.2873": {
+    "display_name": "Ta Ly, Xã Ea Hiao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ta Ly",
+      "county": "Xã Ea Hiao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.08883,109.1936": {
+    "display_name": "Thôn Chánh Thiện, Cát Thành, Xã Cát Tiến, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Chánh Thiện, Cát Thành",
+      "county": "Xã Cát Tiến",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.45885,108.393": {
+    "display_name": "Xã Ia Hiao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hiao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
