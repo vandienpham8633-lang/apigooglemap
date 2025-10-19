@@ -70270,5 +70270,104 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.81779,106.4435": {
+    "display_name": "Xã Quảng Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06911,106.7529": {
+    "display_name": "Vĩnh Lợi, Bà Tri, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Vĩnh Lợi",
+      "quarter": "Bà Tri",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42691,106.7018": {
+    "display_name": "Xã Tân Đông, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93559,108.1005": {
+    "display_name": "Lương Ngọc Quyền, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Lương Ngọc Quyền",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.99002,108.1108": {
+    "display_name": "Lê Hồng Phong, Đak Đoa, Xã Đak Đoa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Lê Hồng Phong",
+      "town": "Đak Đoa",
+      "county": "Xã Đak Đoa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.9476,108.127": {
+    "display_name": "Xã Đak Đoa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Đak Đoa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.5731,107.6159": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.296813,105.6972": {
+    "display_name": "Bạc Liêu, Phường Bạc Liêu, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "city": "Bạc Liêu",
+      "county": "Phường Bạc Liêu",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.20653,108.1781": {
+    "display_name": "Đung A, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đung A",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
