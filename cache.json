@@ -73576,5 +73576,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.896635,106.66": {
+    "display_name": "Xã Thạnh Hải, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Hải",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.30992,105.8046": {
+    "display_name": "Hải Hà, Phường Nghi Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "village": "Hải Hà",
+      "city": "Phường Nghi Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94889,107.2747": {
+    "display_name": "Ruộng Hời, 18 Gia Đình, Phường Bảo Vinh, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Ruộng Hời",
+      "village": "18 Gia Đình",
+      "county": "Phường Bảo Vinh",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.80672,107.9889": {
+    "display_name": "Thôn 12, Xã Ea Nuôl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 12",
+      "county": "Xã Ea Nuôl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.896604,106.66": {
+    "display_name": "Xã Thạnh Hải, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Hải",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92923,105.0634": {
+    "display_name": "Đường tỉnh 957, Long Bình, Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 957",
+      "town": "Long Bình",
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.7172,107.1409": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
