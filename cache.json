@@ -72724,5 +72724,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.913049,106.3455": {
+    "display_name": "Trà Vinh, Phường Trà Vinh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "city": "Trà Vinh",
+      "county": "Phường Trà Vinh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96009,106.5186": {
+    "display_name": "Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
