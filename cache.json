@@ -71710,5 +71710,101 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.77993,108.5231": {
+    "display_name": "Lạc Lâm Làng, Xã Ka Đô, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Lạc Lâm Làng",
+      "county": "Xã Ka Đô",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.45186,107.5626": {
+    "display_name": "Huế, Phường Thuận Hoá, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "city": "Huế",
+      "county": "Phường Thuận Hoá",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.902168,105.0875": {
+    "display_name": "Xã Quách Phẩm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Quách Phẩm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34962,106.1609": {
+    "display_name": "Xã Long Tiên, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Tiên",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.73546,108.3835": {
+    "display_name": "Xã Thăng Bình, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Bình",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.81504,109.1383": {
+    "display_name": "Thôn Ngọc Thạnh 1, Phước An, Xã Tuy Phước Tây, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Ngọc Thạnh 1, Phước An",
+      "county": "Xã Tuy Phước Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03062,107.1663": {
+    "display_name": "Tây Kim, Xã Gia Kiệm, Việt Nam",
+    "address": {
+      "village": "Tây Kim",
+      "county": "Xã Gia Kiệm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07882,109.1897": {
+    "display_name": "Nguyễn Tất Thành, Phường Bắc Cam Ranh, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "suburb": "Phường Bắc Cam Ranh",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75072,107.7102": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
