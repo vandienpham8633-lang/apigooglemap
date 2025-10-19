@@ -71206,5 +71206,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.963928,105.7676": {
+    "display_name": "Phường Cái Răng, Thành phố Cần Thơ, 94908, Việt Nam",
+    "address": {
+      "city_district": "Phường Cái Răng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94908",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.1808,105.0791": {
+    "display_name": "Hiệp Tân, Xã Mỹ Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hiệp Tân",
+      "county": "Xã Mỹ Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.08873,105.036": {
+    "display_name": "Quốc lộ 4C, Sín Sỏi Hồ, Xã Cán Tỷ, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 4C",
+      "village": "Sín Sỏi Hồ",
+      "town": "Xã Cán Tỷ",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81451,106.3232": {
+    "display_name": "Xã Đức Huệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Huệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.18078,105.0792": {
+    "display_name": "Hiệp Tân, Xã Mỹ Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hiệp Tân",
+      "county": "Xã Mỹ Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
