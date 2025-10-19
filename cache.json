@@ -70581,5 +70581,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.52153,106.444": {
+    "display_name": "Xã Vĩnh Công, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Công",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93292,108.285": {
+    "display_name": "Phường Mũi Né, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Mũi Né",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35815,106.5054": {
+    "display_name": "Xã An Thạnh Thủy, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã An Thạnh Thủy",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
