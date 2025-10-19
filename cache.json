@@ -67447,5 +67447,93 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.97999,108.1642": {
+    "display_name": "Đrây Huê, Xã Cư Pơng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đrây Huê",
+      "county": "Xã Cư Pơng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.46777,106.88": {
+    "display_name": "Tân Phú, Xã Đồng Phú, Việt Nam",
+    "address": {
+      "town": "Tân Phú",
+      "county": "Xã Đồng Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59959,106.3647": {
+    "display_name": "ĐT. 817, Xã Mỹ Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT. 817",
+      "county": "Xã Mỹ Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.28898,107.8366": {
+    "display_name": "Quốc lộ 1, Thôn Bạch Thạch, Xã Lộc An, Thành phố Huế, 53000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "hamlet": "Thôn Bạch Thạch",
+      "town": "Xã Lộc An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "53000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.999,106.7607": {
+    "display_name": "Cây Da, Phường Tân Khánh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Cây Da",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.320505,105.1098": {
+    "display_name": "Thới Bình, Xã Thới Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Thới Bình",
+      "county": "Xã Thới Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.896601,106.66": {
+    "display_name": "Xã Thạnh Hải, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Hải",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78662,106.653": {
+    "display_name": "Lê Minh Xuân, Phường Tân Hòa, Thành phố Hồ Chí Minh, 72117, Việt Nam",
+    "address": {
+      "road": "Lê Minh Xuân",
+      "suburb": "Phường Tân Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
