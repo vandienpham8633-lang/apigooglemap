@@ -72777,5 +72777,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.48143,108.9584": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.846882,105.4363": {
+    "display_name": "Voi Sơn, Xã Hòa Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Voi Sơn",
+      "county": "Xã Hòa Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25244,108.9566": {
+    "display_name": "Đường tỉnh 653D, Diên Thọ, Xã Khánh Vĩnh, Khánh Hòa, 65000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 653D",
+      "suburb": "Diên Thọ",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "65000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57264,107.5035": {
+    "display_name": "Xã Quảng Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
