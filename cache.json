@@ -72435,5 +72435,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.97911,108.2496": {
+    "display_name": "Đường Nguyễn Minh Châu, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Minh Châu",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
