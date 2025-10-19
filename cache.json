@@ -72202,5 +72202,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87239,106.5945": {
+    "display_name": "Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "city_district": "Xã Xuân Thới Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.62714,107.032": {
+    "display_name": "Xã Đồng Tâm, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Tâm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "24.66447,91.74261": {
+    "display_name": "বালাগঞ্জ উপজেলা, সিলেট জেলা, সিলেট বিভাগ, Băng-la-đét",
+    "address": {
+      "county": "বালাগঞ্জ উপজেলা",
+      "state_district": "সিলেট জেলা",
+      "ISO3166-2-lvl5": "BD-60",
+      "state": "সিলেট বিভাগ",
+      "ISO3166-2-lvl4": "BD-G",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
   }
 }
