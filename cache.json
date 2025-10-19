@@ -72093,5 +72093,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.20593,106.0011": {
+    "display_name": "Ấp Đồn, Xã Yên Trung, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "quarter": "Ấp Đồn",
+      "suburb": "Xã Yên Trung",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.62713,107.032": {
+    "display_name": "Xã Đồng Tâm, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Tâm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.00677,108.1525": {
+    "display_name": "Xã Bà Nà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Bà Nà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75068,107.7102": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
