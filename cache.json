@@ -69081,5 +69081,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77241,106.6188": {
+    "display_name": "481, Hương lộ 2, Phường Bình Trị Đông, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "house_number": "481",
+      "road": "Hương lộ 2",
+      "suburb": "Phường Bình Trị Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.29957,106.1055": {
+    "display_name": "Thành phố Tây Ninh, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "city": "Thành phố Tây Ninh",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.29958,106.1055": {
+    "display_name": "Thành phố Tây Ninh, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "city": "Thành phố Tây Ninh",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53878,106.3515": {
+    "display_name": "Phường Khánh Hậu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Khánh Hậu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16078,107.2696": {
+    "display_name": "Ấp 4, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
