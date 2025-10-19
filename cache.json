@@ -67912,5 +67912,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03162,106.9431": {
+    "display_name": "Xã Tân An, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Tân An",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.5388,106.3515": {
+    "display_name": "Phường Khánh Hậu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Khánh Hậu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
