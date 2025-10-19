@@ -73122,5 +73122,80 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.44038,106.4786": {
+    "display_name": "744, Ấp Tân Bình, Xã Minh Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "744",
+      "village": "Ấp Tân Bình",
+      "city_district": "Xã Minh Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.68582,120.3641": {
+    "display_name": "193號, 仁心路, 埤内, 考潭里, Nhân Vũ, Cao Hùng, 814, Đài Loan",
+    "address": {
+      "house_number": "193號",
+      "road": "仁心路",
+      "neighbourhood": "埤内",
+      "suburb": "Nhân Vũ",
+      "city": "Cao Hùng",
+      "ISO3166-2-lvl4": "TW-KHH",
+      "postcode": "814",
+      "country": "Đài Loan",
+      "country_code": "tw"
+    }
+  },
+  "10.87971,106.7624": {
+    "display_name": "Đường Suối Cái, Đường số 5, Bình Đường 1, Phường Linh Xuân, Phường Dĩ An, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "highway": "Đường Suối Cái",
+      "road": "Đường số 5",
+      "quarter": "Bình Đường 1",
+      "suburb": "Phường Linh Xuân",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80063,107.8659": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78648,106.6871": {
+    "display_name": "Hẻm 193 Nam Kỳ Khởi Nghĩa, Phường Xuân Hòa, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70150, Việt Nam",
+    "address": {
+      "road": "Hẻm 193 Nam Kỳ Khởi Nghĩa",
+      "suburb": "Phường Xuân Hòa",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.2056,107.8489": {
+    "display_name": "Ia Ly, Xã Ia Ly, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Ia Ly",
+      "county": "Xã Ia Ly",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
