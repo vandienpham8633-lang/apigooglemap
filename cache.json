@@ -71806,5 +71806,173 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.22252,108.6378": {
+    "display_name": "Đường Tịnh Phong – Trà Bình, Xã Ba Gia, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Tịnh Phong – Trà Bình",
+      "county": "Xã Ba Gia",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.92599,109.1984": {
+    "display_name": "Thôn Vân Triêm, Cát Chánh, Xã Ngô Mây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vân Triêm, Cát Chánh",
+      "county": "Xã Ngô Mây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52876,106.9092": {
+    "display_name": "Bình Thiện, Đồng Xoài, Phường Bình Phước, Tỉnh Đồng Nai, 67111, Việt Nam",
+    "address": {
+      "quarter": "Bình Thiện",
+      "city": "Đồng Xoài",
+      "county": "Phường Bình Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "67111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27917,108.9099": {
+    "display_name": "Trường THPT Lạc Long Quân, Hùng Vương, Khánh Vĩnh, Xã Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Lạc Long Quân",
+      "road": "Hùng Vương",
+      "town": "Khánh Vĩnh",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.40644,105.4193": {
+    "display_name": "Trần Hưng Đạo, Phường Bình Đức, Tỉnh An Giang, 90040, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "municipality": "Phường Bình Đức",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90040",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82426,106.8279": {
+    "display_name": "Hẻm 268 Đường Lò Lu, Phường Long Phước, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "road": "Hẻm 268 Đường Lò Lu",
+      "suburb": "Phường Long Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.66585,106.3953": {
+    "display_name": "Xã Đồng Bằng, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Đồng Bằng",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.03245,109.2409": {
+    "display_name": "Xã Phú Hòa 1, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Phú Hòa 1",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.27252,103.9649": {
+    "display_name": "Đặc khu Phú Quốc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.0325,109.2409": {
+    "display_name": "Xã Phú Hòa 1, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Phú Hòa 1",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93802,106.8149": {
+    "display_name": "Bửu Hoà 1, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "quarter": "Bửu Hoà 1",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93799,106.815": {
+    "display_name": "Bửu Hoà 1, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "quarter": "Bửu Hoà 1",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.03253,109.2409": {
+    "display_name": "Xã Phú Hòa 1, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Phú Hòa 1",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93805,106.8149": {
+    "display_name": "Bửu Hoà 1, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "quarter": "Bửu Hoà 1",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.03252,109.2409": {
+    "display_name": "Xã Phú Hòa 1, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Phú Hòa 1",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
