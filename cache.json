@@ -72930,5 +72930,69 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.847573,106.1233": {
+    "display_name": "Xã Phong Thạnh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.62067,106.7147": {
+    "display_name": "Tân Hà, Tân Liên, Xã Tân Lập, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "hamlet": "Tân Hà",
+      "village": "Tân Liên",
+      "town": "Xã Tân Lập",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44116,107.7939": {
+    "display_name": "Xã Phú Vinh, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vinh",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.11921,105.4609": {
+    "display_name": "Xã Long Điền, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85868,106.6304": {
+    "display_name": "Phường Trung Mỹ Tây, Thuận An, Thành phố Hồ Chí Minh, 71507, Việt Nam",
+    "address": {
+      "suburb": "Phường Trung Mỹ Tây",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.164099,105.5774": {
+    "display_name": "Tuyến Ven Biển, Xã Vĩnh Hậu, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Tuyến Ven Biển",
+      "county": "Xã Vĩnh Hậu",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
