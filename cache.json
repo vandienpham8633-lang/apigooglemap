@@ -70369,5 +70369,109 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.29724,105.6989": {
+    "display_name": "Đường 23 Tháng 8, Bạc Liêu, Phường Bạc Liêu, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "road": "Đường 23 Tháng 8",
+      "city": "Bạc Liêu",
+      "county": "Phường Bạc Liêu",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.297235,105.6989": {
+    "display_name": "Đường 23 Tháng 8, Bạc Liêu, Phường Bạc Liêu, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "road": "Đường 23 Tháng 8",
+      "city": "Bạc Liêu",
+      "county": "Phường Bạc Liêu",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80145,106.6299": {
+    "display_name": "Hẻm 16/9 Đường Trần Văn Ơn, Khu phố 28, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 16/9 Đường Trần Văn Ơn",
+      "quarter": "Khu phố 28",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.81773,106.4436": {
+    "display_name": "Xã Quảng Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.8178,106.4435": {
+    "display_name": "Xã Quảng Trạch, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Trạch",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58236,107.5622": {
+    "display_name": "Dự án mở rộng Quốc lộ 55, Xã Bình Châu, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Dự án mở rộng Quốc lộ 55",
+      "city_district": "Xã Bình Châu",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0318,106.7638": {
+    "display_name": "Khánh Lộc, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Lộc",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80144,106.6299": {
+    "display_name": "Hẻm 16/9 Đường Trần Văn Ơn, Khu phố 28, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 16/9 Đường Trần Văn Ơn",
+      "quarter": "Khu phố 28",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57306,107.6159": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
