@@ -69831,5 +69831,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.84562,106.7597": {
+    "display_name": "Đường số 8, Khu phố 6, Phường Thủ Đức, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71221, Việt Nam",
+    "address": {
+      "road": "Đường số 8",
+      "quarter": "Khu phố 6",
+      "suburb": "Phường Thủ Đức",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71221",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.72326,107.1349": {
+    "display_name": "Đường 33, Thôn 6, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Đường 33",
+      "village": "Thôn 6",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
