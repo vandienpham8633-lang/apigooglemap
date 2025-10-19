@@ -71974,5 +71974,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99128,106.8564": {
+    "display_name": "Khu phố 3A, Phường Trảng Dài, Tỉnh Đồng Nai, 76116, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 3A",
+      "county": "Phường Trảng Dài",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76116",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05344,106.771": {
+    "display_name": "Đường tỉnh 746, Bình Khánh, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 746",
+      "quarter": "Bình Khánh",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3484,106.3355": {
+    "display_name": "Ngô Gia Tự, Phường Trung An, Tỉnh Đồng Tháp, 86000, Việt Nam",
+    "address": {
+      "road": "Ngô Gia Tự",
+      "county": "Phường Trung An",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "86000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.57181,107.1418": {
+    "display_name": "Xã Phước Sơn, Việt Nam",
+    "address": {
+      "county": "Xã Phước Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27918,108.9099": {
+    "display_name": "Trường THPT Lạc Long Quân, Hùng Vương, Khánh Vĩnh, Xã Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Lạc Long Quân",
+      "road": "Hùng Vương",
+      "town": "Khánh Vĩnh",
+      "county": "Xã Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
