@@ -71356,5 +71356,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.922948,105.1036": {
+    "display_name": "Trần Hoài Anh, Vĩnh Hội, Xã Bình An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Trần Hoài Anh",
+      "village": "Vĩnh Hội",
+      "county": "Xã Bình An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
