@@ -71195,5 +71195,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.964027,105.7676": {
+    "display_name": "Phường Cái Răng, Thành phố Cần Thơ, 94908, Việt Nam",
+    "address": {
+      "city_district": "Phường Cái Răng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94908",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
