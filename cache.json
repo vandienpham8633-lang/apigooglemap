@@ -72647,5 +72647,82 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8518,106.6133": {
+    "display_name": "Song Hành Quốc Lộ 22, Phường Trung Mỹ Tây, Xã Bà Điểm, Thành phố Hồ Chí Minh, 71507, Việt Nam",
+    "address": {
+      "road": "Song Hành Quốc Lộ 22",
+      "suburb": "Phường Trung Mỹ Tây",
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.789282,105.6494": {
+    "display_name": "Xã Hòa An, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Hòa An",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90548,107.3651": {
+    "display_name": "Suối Cát 1, Xã Xuân Lộc, Việt Nam",
+    "address": {
+      "village": "Suối Cát 1",
+      "county": "Xã Xuân Lộc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.833,108.2701": {
+    "display_name": "Xã Nam Phước, Thành phố Đà Nẵng, 51506, Việt Nam",
+    "address": {
+      "town": "Xã Nam Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.28292,108.8065": {
+    "display_name": "Xã Tây Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tây Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.28905,107.8364": {
+    "display_name": "Quốc lộ 1, Thôn Bạch Thạch, Xã Lộc An, Thành phố Huế, 53000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "hamlet": "Thôn Bạch Thạch",
+      "town": "Xã Lộc An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "53000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90897,106.4672": {
+    "display_name": "Xã Đức Lập, Tỉnh Tây Ninh, 82719, Việt Nam",
+    "address": {
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82719",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
