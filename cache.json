@@ -71656,5 +71656,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.671768,105.8706": {
+    "display_name": "Xã Hồ Đắc Kiện, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Hồ Đắc Kiện",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.02051,108.8904": {
+    "display_name": "ĐT.624B, Xã Mỏ Cày, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "ĐT.624B",
+      "county": "Xã Mỏ Cày",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89708,106.7153": {
+    "display_name": "Đồng An 1, Bình Hòa, Phường Bình Hòa, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "quarter": "Đồng An 1",
+      "suburb": "Bình Hòa",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75067,107.7102": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09571,105.7159": {
+    "display_name": "Phường Thới An Đông, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới An Đông",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
