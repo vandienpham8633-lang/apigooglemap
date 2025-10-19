@@ -71504,5 +71504,91 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.76376,108.3937": {
+    "display_name": "Tân Hiệp, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Tân Hiệp",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.9799,108.1634": {
+    "display_name": "Đrây Huê, Xã Cư Pơng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đrây Huê",
+      "county": "Xã Cư Pơng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.28104,106.32": {
+    "display_name": "Phường Sơn Đông, Tỉnh Vĩnh Long, 93000, Việt Nam",
+    "address": {
+      "county": "Phường Sơn Đông",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "93000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.2598,108.0938": {
+    "display_name": "Kon Sơ Lăng, Xã Ia Khươl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Kon Sơ Lăng",
+      "county": "Xã Ia Khươl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.453137,106.1211": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55745,107.8411": {
+    "display_name": "Thanh Hương 3, Phường 1 Bảo Lộc, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thanh Hương 3",
+      "county": "Phường 1 Bảo Lộc",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.28485,106.5205": {
+    "display_name": "Xã Tân Thới, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Thới",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.10768,106.6626": {
+    "display_name": "Phường Hòa Lợi, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
