@@ -70902,5 +70902,83 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.03189,105.3229": {
+    "display_name": "Tân Thạnh, Xã Tân Hiệp, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Tân Thạnh",
+      "county": "Xã Tân Hiệp",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85408,105.058": {
+    "display_name": "Đường tỉnh 957, Xã Nhơn Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 957",
+      "county": "Xã Nhơn Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.06833,105.7282": {
+    "display_name": "Phường Long Tuyền, Thành phố Cần Thơ, 94108, Việt Nam",
+    "address": {
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94108",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05148,105.7181": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79654,107.6669": {
+    "display_name": "Xã Đức Cơ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Đức Cơ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8287,108.0723": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47206,107.216": {
+    "display_name": "SVĐ An Ngãi, An Lộc, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "leisure": "SVĐ An Ngãi",
+      "road": "An Lộc",
+      "neighbourhood": "An Lộc",
+      "town": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
