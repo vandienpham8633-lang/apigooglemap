@@ -71143,5 +71143,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.60236,106.6488": {
+    "display_name": "Tân Long, Xã Lao Bảo, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Tân Long",
+      "town": "Xã Lao Bảo",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.80469,108.3706": {
+    "display_name": "Xã Thăng An, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng An",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.15717,106.2777": {
+    "display_name": "Xã Nhuận Phú Tân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhuận Phú Tân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
