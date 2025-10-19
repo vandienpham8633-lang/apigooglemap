@@ -73473,5 +73473,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.71603,109.2324": {
+    "display_name": "Xã Vạn Thắng, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Vạn Thắng",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.49083,109.2485": {
+    "display_name": "Phú Mỹ, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Mỹ",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82408,106.5648": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79234,106.7127": {
+    "display_name": "Lô A, 39, Ngô Tất Tố, Phường Thạnh Mỹ Tây, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72308, Việt Nam",
+    "address": {
+      "building": "Lô A",
+      "house_number": "39",
+      "road": "Ngô Tất Tố",
+      "suburb": "Phường Thạnh Mỹ Tây",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72308",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
