@@ -72414,5 +72414,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.55645,106.363": {
+    "display_name": "Xã Mỹ An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.80775,108.4372": {
+    "display_name": "Đarahoa, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đarahoa",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
