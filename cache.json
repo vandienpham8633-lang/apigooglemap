@@ -67802,5 +67802,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.05152,105.7182": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.49783,108.4532": {
+    "display_name": "Ma Lin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Lin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.79792,108.6619": {
+    "display_name": "Quốc lộ 26, Ea Tê, Xã M'Drắk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ea Tê",
+      "county": "Xã M'Drắk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.7979,108.6619": {
+    "display_name": "Quốc lộ 26, Ea Tê, Xã M'Drắk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ea Tê",
+      "county": "Xã M'Drắk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12889,106.7073": {
+    "display_name": "Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
