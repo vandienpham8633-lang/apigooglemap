@@ -69137,5 +69137,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.10066,107.6432": {
+    "display_name": "Xã Long Quảng, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Long Quảng",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.448143,105.6676": {
+    "display_name": "Xã Vĩnh Lợi, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Lợi",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
