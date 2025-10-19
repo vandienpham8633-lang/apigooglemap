@@ -73197,5 +73197,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.24574,106.1665": {
+    "display_name": "Đường số 102 Nguyễn Văn Linh, Phường Long Hoa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường số 102 Nguyễn Văn Linh",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74488,106.9211": {
+    "display_name": "Đường số 1, KCN Nhơn Trạch, Trầu, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "road": "Đường số 1",
+      "industrial": "KCN Nhơn Trạch",
+      "village": "Trầu",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84797,107.7806": {
+    "display_name": "Xã Tân Lập, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
