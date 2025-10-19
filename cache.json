@@ -71493,5 +71493,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.28103,106.32": {
+    "display_name": "Phường Sơn Đông, Tỉnh Vĩnh Long, 93000, Việt Nam",
+    "address": {
+      "county": "Phường Sơn Đông",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "93000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
