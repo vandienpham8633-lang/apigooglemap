@@ -72466,5 +72466,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.907877,106.377": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.9542,107.1605": {
+    "display_name": "Phường Hà Tu, Hạ Long, Tỉnh Quảng Ninh, 01040, Việt Nam",
+    "address": {
+      "suburb": "Phường Hà Tu",
+      "city": "Hạ Long",
+      "state": "Tỉnh Quảng Ninh",
+      "ISO3166-2-lvl4": "VN-13",
+      "postcode": "01040",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.48282,107.2099": {
+    "display_name": "Long Bình, Xã Long Điền, Thành phố Hồ Chí Minh, 78107, Việt Nam",
+    "address": {
+      "neighbourhood": "Long Bình",
+      "town": "Xã Long Điền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
