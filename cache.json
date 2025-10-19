@@ -71590,5 +71590,13 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.02029,107.2097": {
+    "display_name": "Xã Gia Kiệm, Việt Nam",
+    "address": {
+      "county": "Xã Gia Kiệm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
