@@ -73111,5 +73111,16 @@
       "country": "Indonesia",
       "country_code": "id"
     }
+  },
+  "18.66842,105.6792": {
+    "display_name": "Đinh Công Tráng, Phường Thành Vinh, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Đinh Công Tráng",
+      "city": "Phường Thành Vinh",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
