@@ -72746,5 +72746,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.54641,106.0119": {
+    "display_name": "Tân Biên, Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Tân Biên",
+      "county": "Xã Tân Biên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.698532,106.319": {
+    "display_name": "Xã Long Hiệp, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Long Hiệp",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.434466,106.1517": {
+    "display_name": "Xã Lịch Hội Thượng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Lịch Hội Thượng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
