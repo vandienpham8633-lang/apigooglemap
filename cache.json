@@ -72152,5 +72152,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99961,106.7077": {
+    "display_name": "Bình Hoà 2, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Bình Hoà 2",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.41101,107.6752": {
+    "display_name": "Đường Nguyễn Tất Thành, Phú Bài, Hương Thủy, Phường Phú Bài, Thành phố Huế, 52000, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tất Thành",
+      "suburb": "Phú Bài",
+      "city": "Hương Thủy",
+      "county": "Phường Phú Bài",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "52000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.775,108.793": {
+    "display_name": "Quốc lộ 27B, Tân Sơn, Xã Ninh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "town": "Tân Sơn",
+      "county": "Xã Ninh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9996,106.7077": {
+    "display_name": "Bình Hoà 2, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Bình Hoà 2",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
