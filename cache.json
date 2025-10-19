@@ -73088,5 +73088,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92203,108.0149": {
+    "display_name": "Xã Hàm Kiệm, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Kiệm",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "-6.589473,108.3958": {
+    "display_name": "Prajawinangun Kulon, Kabupaten Cirebon, Tỉnh Tây Java, Jawa, Indonesia",
+    "address": {
+      "village": "Prajawinangun Kulon",
+      "county": "Kabupaten Cirebon",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
   }
 }
