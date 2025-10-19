@@ -68750,5 +68750,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.05148,105.7182": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.66114,108.1062": {
+    "display_name": "Nguyễn Lương Bằng, Thôn 9, Phường Tân Lập, Tỉnh Đắk Lắk, 64113, Việt Nam",
+    "address": {
+      "road": "Nguyễn Lương Bằng",
+      "village": "Thôn 9",
+      "county": "Phường Tân Lập",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "64113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.5963,106.6452": {
+    "display_name": "Quốc lộ 9, Duy Hòa, Tân Liên, Xã Lao Bảo, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 9",
+      "hamlet": "Duy Hòa",
+      "village": "Tân Liên",
+      "town": "Xã Lao Bảo",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05151,105.7182": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
