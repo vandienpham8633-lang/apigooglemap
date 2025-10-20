@@ -75195,5 +75195,140 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8614,106.6628": {
+    "display_name": "Đỗ Mười, Phường Thới An, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "road": "Đỗ Mười",
+      "suburb": "Phường Thới An",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.44818,106.1135": {
+    "display_name": "Phường Thanh Hòa, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Phường Thanh Hòa",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.605717,105.735": {
+    "display_name": "Xã Mỹ Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Mỹ Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55742,106.5766": {
+    "display_name": "Đường tỉnh 245, Khu phố 6, Sóc 5, Xã Tân Khai, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 245",
+      "quarter": "Khu phố 6",
+      "village": "Sóc 5",
+      "county": "Xã Tân Khai",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64589,106.5387": {
+    "display_name": "Đường Bờ Kênh Ấp 2, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Đường Bờ Kênh Ấp 2",
+      "village": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47525,105.6749": {
+    "display_name": "Mỹ Trà, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Mỹ Trà",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.57164,106.7038": {
+    "display_name": "Xã Phước Vĩnh Tây, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Phước Vĩnh Tây",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.874875,105.1063": {
+    "display_name": "Xã Quách Phẩm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Quách Phẩm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.44484,106.6261": {
+    "display_name": "Phường Bình Xuân, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Phường Bình Xuân",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.922735,105.1178": {
+    "display_name": "Cây Me, Vĩnh Hòa 1, Xã Bình An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Cây Me",
+      "village": "Vĩnh Hòa 1",
+      "county": "Xã Bình An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.50547,109.0849": {
+    "display_name": "KP.Ca Công, P.Hoài Hương, Khóm Thiện Đức, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Ca Công, P.Hoài Hương",
+      "village": "Khóm Thiện Đức",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.88451,90.39928": {
+    "display_name": "টঙ্গী, Gazipur Sadar, গাজীপুর জেলা, ঢাকা বিভাগ, 1231, Băng-la-đét",
+    "address": {
+      "town": "টঙ্গী",
+      "county": "Gazipur Sadar",
+      "state_district": "গাজীপুর জেলা",
+      "ISO3166-2-lvl5": "BD-18",
+      "state": "ঢাকা বিভাগ",
+      "ISO3166-2-lvl4": "BD-C",
+      "postcode": "1231",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
   }
 }
