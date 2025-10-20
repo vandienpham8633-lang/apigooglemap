@@ -73905,5 +73905,146 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.25926,106.6228": {
+    "display_name": "Bàu Bàng, Xã Bàu Bàng, Thành phố Hồ Chí Minh, 75751, Việt Nam",
+    "address": {
+      "quarter": "Bàu Bàng",
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75751",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.689726,104.8776": {
+    "display_name": "Xã Đất Mũi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đất Mũi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.880604,106.4286": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78969,105.0657": {
+    "display_name": "An Phú, Xã An Phú, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "An Phú",
+      "county": "Xã An Phú",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96746,109.3444": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.61001,107.95": {
+    "display_name": "Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.48366,105.5529": {
+    "display_name": "Xã Cù Lao Giêng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cù Lao Giêng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.35642,108.696": {
+    "display_name": "Hà Thiên, Làng K3, Vĩnh Sơn, Xã Vĩnh Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Hà Thiên",
+      "village": "Làng K3, Vĩnh Sơn",
+      "county": "Xã Vĩnh Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03436,106.7487": {
+    "display_name": "Khánh Tân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Tân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.684806,105.7929": {
+    "display_name": "Hương Lô 20, Xã Long Hưng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Hương Lô 20",
+      "city_district": "Xã Long Hưng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.284734,105.6462": {
+    "display_name": "Ba Tháng Hai, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ba Tháng Hai",
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.861164,105.8313": {
+    "display_name": "Phường Đại Thành, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Đại Thành",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.8577,106.9925": {
+    "display_name": "Lê Văn Duyệt, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Lê Văn Duyệt",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
