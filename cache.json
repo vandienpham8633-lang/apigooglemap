@@ -74754,5 +74754,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.51411,107.5713": {
+    "display_name": "Đường Trần Tiễn Thành, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Trần Tiễn Thành",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96687,109.3445": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
