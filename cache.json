@@ -74889,5 +74889,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.278736,105.7269": {
+    "display_name": "Võ Thị Chính, Bạc Liêu, Phường Bạc Liêu, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "road": "Võ Thị Chính",
+      "city": "Bạc Liêu",
+      "county": "Phường Bạc Liêu",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82812,106.6162": {
+    "display_name": "Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.22083,105.9628": {
+    "display_name": "Phường Phước Hậu, Tỉnh Vĩnh Long, 85112, Việt Nam",
+    "address": {
+      "county": "Phường Phước Hậu",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85112",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
