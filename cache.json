@@ -73789,5 +73789,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.82279,104.991": {
+    "display_name": "6 Đình, Xã Đông Thái, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "6 Đình",
+      "county": "Xã Đông Thái",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
