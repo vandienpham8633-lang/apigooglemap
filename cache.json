@@ -74604,5 +74604,89 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.96753,109.345": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8616,106.6052": {
+    "display_name": "Song Hành Quốc Lộ 22, Xã Bà Điểm, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "road": "Song Hành Quốc Lộ 22",
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77604,106.6399": {
+    "display_name": "Hẻm 236 Trịnh Đình Trọng, Khu phố 22, Phường Tân Phú, Thành phố Hồ Chí Minh, 72012, Việt Nam",
+    "address": {
+      "road": "Hẻm 236 Trịnh Đình Trọng",
+      "quarter": "Khu phố 22",
+      "neighbourhood": "Khu phố 22",
+      "suburb": "Phường Tân Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72012",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09637,108.8862": {
+    "display_name": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.30263,105.9011": {
+    "display_name": "Tân Lâm Hương, Phường Hà Huy Tập, Hà Tĩnh, 45100, Việt Nam",
+    "address": {
+      "village": "Tân Lâm Hương",
+      "city": "Phường Hà Huy Tập",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "postcode": "45100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96756,109.3444": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96755,109.3444": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
