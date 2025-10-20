@@ -76078,5 +76078,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.60808,106.0033": {
+    "display_name": "Xã Tân Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
