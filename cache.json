@@ -76168,5 +76168,122 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.17712,106.9707": {
+    "display_name": "Xã Sen Ngư, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Sen Ngư",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75073,107.7106": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.89447,106.8127": {
+    "display_name": "Xã Bến Quan, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Bến Quan",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66478,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34815,104.9919": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.907779,106.377": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.70476,107.8378": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.30742,105.8049": {
+    "display_name": "Hải Hà, Phường Nghi Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "village": "Hải Hà",
+      "city": "Phường Nghi Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91892,106.6661": {
+    "display_name": "Đường Rạch Nhum, Xã Đông Thạnh, Thành phố Hồ Chí Minh, 75214, Việt Nam",
+    "address": {
+      "road": "Đường Rạch Nhum",
+      "city_district": "Xã Đông Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75214",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.96441,109.0908": {
+    "display_name": "Hòa Bình, Xã Cam An, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Hòa Bình",
+      "county": "Xã Cam An",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.79761,108.6619": {
+    "display_name": "Quốc lộ 26, Ea Tê, Xã M'Drắk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ea Tê",
+      "county": "Xã M'Drắk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
