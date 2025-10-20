@@ -76391,5 +76391,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8281,106.6161": {
+    "display_name": "Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7887,106.7971": {
+    "display_name": "Đường số 836, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường số 836",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
