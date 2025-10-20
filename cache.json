@@ -73757,5 +73757,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92929,105.0632": {
+    "display_name": "Đường tỉnh 957, Long Bình, Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 957",
+      "town": "Long Bình",
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.48225,106.0245": {
+    "display_name": "Xã Thạnh Bình, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Bình",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.689573,104.878": {
+    "display_name": "Xã Đất Mũi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đất Mũi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
