@@ -76538,5 +76538,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.66583,107.3716": {
+    "display_name": "TL.4, Phong Dinh, Phường Phong Dinh, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "TL.4",
+      "town": "Phong Dinh",
+      "county": "Phường Phong Dinh",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.54155,109.1027": {
+    "display_name": "Xã Hòa Trí, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Trí",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
