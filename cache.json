@@ -74360,5 +74360,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.34816,104.9921": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950737,106.095": {
+    "display_name": "ĐT. 911, Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 911",
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.17714,106.968": {
+    "display_name": "Đường ven biển Hà Trung - Mạch Nước, Liêm Bắc, Liêm Nam, Xã Sen Ngư, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường ven biển Hà Trung - Mạch Nước",
+      "residential": "Liêm Bắc",
+      "hamlet": "Liêm Nam",
+      "town": "Xã Sen Ngư",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
