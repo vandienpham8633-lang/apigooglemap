@@ -76527,5 +76527,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.909039,106.5629": {
+    "display_name": "An Qui, Xã An Qui, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "village": "An Qui",
+      "county": "Xã An Qui",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
