@@ -75700,5 +75700,90 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.29306,106.235": {
+    "display_name": "ĐH. 01, Tiên Thủy, Xã Tiên Thủy, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐH. 01",
+      "town": "Tiên Thủy",
+      "county": "Xã Tiên Thủy",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58759,105.1908": {
+    "display_name": "ĐT. 945, Xã Vĩnh Thạnh Trung, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 945",
+      "county": "Xã Vĩnh Thạnh Trung",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.75924,109.2013": {
+    "display_name": "Khu vực, Quang Trung, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Quang Trung",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53853,108.9832": {
+    "display_name": "Quốc lộ 26, Ninh Tây, Xã Tây Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ninh Tây",
+      "county": "Xã Tây Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59925,104.9598": {
+    "display_name": "Trà Sư, Xuân Phú, Tịnh Biên, Phường Tịnh Biên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Trà Sư",
+      "residential": "Xuân Phú",
+      "town": "Tịnh Biên",
+      "county": "Phường Tịnh Biên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.06441,108.7936": {
+    "display_name": "637, Thôn Định Quang, Vĩnh Quang, Định Quang, Xã Vĩnh Quang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "637",
+      "hamlet": "Thôn Định Quang, Vĩnh Quang",
+      "village": "Định Quang",
+      "county": "Xã Vĩnh Quang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.7599,108.3965": {
+    "display_name": "Tân Hiệp, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Tân Hiệp",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
