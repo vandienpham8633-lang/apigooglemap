@@ -75340,5 +75340,140 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.90256,109.1101": {
+    "display_name": "KV.Tiên Hoà, P.Nhơn Hưng, Phường An Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KV.Tiên Hoà, P.Nhơn Hưng",
+      "county": "Phường An Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3048,103.9335": {
+    "display_name": "Đặc khu Phú Quốc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76231,106.9916": {
+    "display_name": "Ấp 3, Xã Long Thành, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "village": "Ấp 3",
+      "county": "Xã Long Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73348,106.2856": {
+    "display_name": "Xã Tân Long, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Long",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7121,105.1192": {
+    "display_name": "Đống Đa, Châu Đốc, Phường Châu Đốc, Tỉnh An Giang, 89888, Việt Nam",
+    "address": {
+      "road": "Đống Đa",
+      "city": "Châu Đốc",
+      "county": "Phường Châu Đốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "89888",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.23623,105.0897": {
+    "display_name": "Xã Thắng Mố, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Thắng Mố",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80075,106.6595": {
+    "display_name": "Cộng Hoà, Phường Tân Sơn Nhất, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Cộng Hoà",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55743,106.5766": {
+    "display_name": "Đường tỉnh 245, Khu phố 6, Sóc 5, Xã Tân Khai, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 245",
+      "quarter": "Khu phố 6",
+      "village": "Sóc 5",
+      "county": "Xã Tân Khai",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.84537,106.5677": {
+    "display_name": "Xã Lộc Tấn, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Tấn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80105,106.6524": {
+    "display_name": "Hẻm 2 Quách Văn Tuấn, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Hẻm 2 Quách Văn Tuấn",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80107,106.6524": {
+    "display_name": "Hẻm 2 Quách Văn Tuấn, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Hẻm 2 Quách Văn Tuấn",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80109,106.6524": {
+    "display_name": "Hẻm 2 Quách Văn Tuấn, Phường Bảy Hiền, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "road": "Hẻm 2 Quách Văn Tuấn",
+      "suburb": "Phường Bảy Hiền",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
