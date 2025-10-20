@@ -76045,5 +76045,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.06441,108.7935": {
+    "display_name": "Thôn Định Thái, Vĩnh Quang, Định Quang, Xã Vĩnh Quang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Định Thái, Vĩnh Quang",
+      "village": "Định Quang",
+      "county": "Xã Vĩnh Quang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
