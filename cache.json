@@ -74291,5 +74291,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.34825,104.9921": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.79883,109.3228": {
+    "display_name": "Quốc lộ 1, Xã Tu Bông, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Tu Bông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
