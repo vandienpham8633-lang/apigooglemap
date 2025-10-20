@@ -75880,5 +75880,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.38639,108.0368": {
+    "display_name": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39079,107.1108": {
+    "display_name": "Hàn Thuyên, Nam Đồng, Phường Rạch Dừa, Thành phố Hồ Chí Minh, 78000, Việt Nam",
+    "address": {
+      "road": "Hàn Thuyên",
+      "neighbourhood": "Nam Đồng",
+      "city_district": "Phường Rạch Dừa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.46948,107.5572": {
+    "display_name": "Kim Long, Phường Kim Long, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "suburb": "Kim Long",
+      "county": "Phường Kim Long",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.88209,103.7647": {
+    "display_name": "Ba. Phiêng Púng, Xã Chiềng Khoong, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "village": "Ba. Phiêng Púng",
+      "county": "Xã Chiềng Khoong",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
