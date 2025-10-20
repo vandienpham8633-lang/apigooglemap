@@ -76057,5 +76057,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.37396,103.8488": {
+    "display_name": "Đặc khu Phú Quốc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.90213,109.0348": {
+    "display_name": "Thôn Phụ Ngọc, Nhơn Phúc, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Phụ Ngọc, Nhơn Phúc",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
