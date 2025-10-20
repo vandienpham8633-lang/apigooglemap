@@ -76319,5 +76319,43 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.53913,107.4132": {
+    "display_name": "Trung tâm Y Tế  Xuyên Mộc, Quốc lộ 55, Thạnh Sơn, Xã Hồ Tràm, Thành phố Hồ Chí Minh, 78500, Việt Nam",
+    "address": {
+      "amenity": "Trung tâm Y Tế  Xuyên Mộc",
+      "road": "Quốc lộ 55",
+      "neighbourhood": "Thạnh Sơn",
+      "city_district": "Xã Hồ Tràm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.10165,106.5374": {
+    "display_name": "Dòng Sỏi, Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Dòng Sỏi",
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.06439,108.7936": {
+    "display_name": "637, Thôn Định Quang, Vĩnh Quang, Định Quang, Xã Vĩnh Quang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "637",
+      "hamlet": "Thôn Định Quang, Vĩnh Quang",
+      "village": "Định Quang",
+      "county": "Xã Vĩnh Quang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
