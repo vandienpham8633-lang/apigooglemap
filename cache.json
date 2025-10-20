@@ -73800,5 +73800,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.67795,105.0904": {
+    "display_name": "Lê Đại Cương, Phường Vĩnh Tế, Tỉnh An Giang, 89888, Việt Nam",
+    "address": {
+      "road": "Lê Đại Cương",
+      "county": "Phường Vĩnh Tế",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "89888",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.689678,104.878": {
+    "display_name": "Xã Đất Mũi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đất Mũi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.321,106.5785": {
+    "display_name": "Xã Vĩnh Hựu, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Hựu",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79757,106.5596": {
+    "display_name": "Đường Vĩnh Lộc, Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "road": "Đường Vĩnh Lộc",
+      "village": "Xã Tân Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
