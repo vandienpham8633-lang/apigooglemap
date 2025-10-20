@@ -75173,5 +75173,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.03008,108.8562": {
+    "display_name": "Du Dai, Xã Tây Khánh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Du Dai",
+      "county": "Xã Tây Khánh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59639,108.3361": {
+    "display_name": "Cư Păm, Xã Dang Kang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Cư Păm",
+      "county": "Xã Dang Kang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
