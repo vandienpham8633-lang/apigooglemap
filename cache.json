@@ -75537,5 +75537,135 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.34819,104.992": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.572732,106.2252": {
+    "display_name": "Xã Cù Lao Dung, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Cù Lao Dung",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.793578,104.9861": {
+    "display_name": "Đồng Giữa, Xã Đông Thái, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Đồng Giữa",
+      "county": "Xã Đông Thái",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53843,108.9832": {
+    "display_name": "Quốc lộ 26, Ninh Tây, Xã Tây Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ninh Tây",
+      "county": "Xã Tây Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.86217,104.8119": {
+    "display_name": "Cái Đôi Vàm, Xã Cái Đôi Vàm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Cái Đôi Vàm",
+      "county": "Xã Cái Đôi Vàm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59994,108.9338": {
+    "display_name": "Xã Phước Hậu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Hậu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05142,105.7181": {
+    "display_name": "Nguyễn Văn Linh, Phường Long Tuyền, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Phường Long Tuyền",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80886,106.606": {
+    "display_name": "Đường số 3, Phường Bình Hưng Hòa, Thuận An, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Đường số 3",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.19559,109.1704": {
+    "display_name": "Phường Nam Nha Trang, Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "suburb": "Phường Nam Nha Trang",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34127,107.4296": {
+    "display_name": "Bàu Chim, Xã Tà Lài, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Bàu Chim",
+      "county": "Xã Tà Lài",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79143,105.1832": {
+    "display_name": "Xã Tân An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Tân An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.90709,108.9062": {
+    "display_name": "Xã Lân Phong, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Lân Phong",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
