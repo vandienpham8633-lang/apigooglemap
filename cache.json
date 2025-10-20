@@ -75926,5 +75926,80 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.38622,108.0368": {
+    "display_name": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43198,105.8611": {
+    "display_name": "Xã Thanh Mỹ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Thanh Mỹ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95363,106.9517": {
+    "display_name": "Bùi Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "village": "Bùi Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58021,108.9952": {
+    "display_name": "Trần Quốc Thảo, Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Trần Quốc Thảo",
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.38622,108.0366": {
+    "display_name": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.06442,108.7935": {
+    "display_name": "Thôn Định Thái, Vĩnh Quang, Định Quang, Xã Vĩnh Quang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Định Thái, Vĩnh Quang",
+      "village": "Định Quang",
+      "county": "Xã Vĩnh Quang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43028,105.3832": {
+    "display_name": "An Châu, Xã An Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "An Châu",
+      "county": "Xã An Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
