@@ -73714,5 +73714,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.02168,106.4015": {
+    "display_name": "Đ. An Đước, Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đ. An Đước",
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.22685,108.3667": {
+    "display_name": "Xã Tây Trà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tây Trà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.57254,109.0247": {
+    "display_name": "khu phố An Sơn, phường Tam Quan, khu phố Tuý Hạnh, Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố An Sơn, phường Tam Quan",
+      "village": "khu phố Tuý Hạnh",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.58638,108.4657": {
+    "display_name": "Quốc lộ 1, Phường Bàn Thạch, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "city": "Phường Bàn Thạch",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
