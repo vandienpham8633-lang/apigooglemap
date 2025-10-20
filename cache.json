@@ -75330,5 +75330,15 @@
       "country": "Băng-la-đét",
       "country_code": "bd"
     }
+  },
+  "11.41244,108.8859": {
+    "display_name": "Xã Thuận Nam, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Xã Thuận Nam",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
