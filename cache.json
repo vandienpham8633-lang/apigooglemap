@@ -74924,5 +74924,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.82849,106.3215": {
+    "display_name": "ĐT.211, Xã Trà Lĩnh, Tỉnh Cao Bằng, Việt Nam",
+    "address": {
+      "road": "ĐT.211",
+      "town": "Xã Trà Lĩnh",
+      "state": "Tỉnh Cao Bằng",
+      "ISO3166-2-lvl4": "VN-04",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94498,107.2724": {
+    "display_name": "Ruộng Lớn, Ruộng Tre, Phường Bảo Vinh, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Ruộng Lớn",
+      "village": "Ruộng Tre",
+      "county": "Phường Bảo Vinh",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82792,106.6163": {
+    "display_name": "Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85517,106.5932": {
+    "display_name": "Xã Bà Điểm, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94496,107.2725": {
+    "display_name": "Ruộng Lớn, Ruộng Tre, Phường Bảo Vinh, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Ruộng Lớn",
+      "village": "Ruộng Tre",
+      "county": "Phường Bảo Vinh",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43575,106.5669": {
+    "display_name": "Xã Thuận Mỹ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thuận Mỹ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
