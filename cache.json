@@ -75526,5 +75526,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.34118,107.4296": {
+    "display_name": "Bàu Chim, Xã Tà Lài, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Bàu Chim",
+      "county": "Xã Tà Lài",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
