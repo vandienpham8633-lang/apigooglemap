@@ -75496,5 +75496,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.34814,104.992": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.3465,107.4331": {
+    "display_name": "Ấp 2, Xã Tà Lài, Việt Nam",
+    "address": {
+      "village": "Ấp 2",
+      "county": "Xã Tà Lài",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.70119,107.1563": {
+    "display_name": "Hải Lệ, Phường Quảng Trị, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Hải Lệ",
+      "city": "Phường Quảng Trị",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
