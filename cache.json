@@ -75667,5 +75667,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.85475,106.9969": {
+    "display_name": "Sư Vạn Hạnh, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Sư Vạn Hạnh",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53846,108.9831": {
+    "display_name": "Quốc lộ 26, Ninh Tây, Xã Tây Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ninh Tây",
+      "county": "Xã Tây Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.185255,105.1589": {
+    "display_name": "Trần Bình Trọng, Cà Mau, Phường Tân Thành, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Trần Bình Trọng",
+      "city": "Cà Mau",
+      "county": "Phường Tân Thành",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
