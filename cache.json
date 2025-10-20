@@ -74394,5 +74394,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.60802,106.0034": {
+    "display_name": "Xã Tân Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.9929,105.983": {
+    "display_name": "Khu Phố Dầu, Xã Như Quỳnh, Tỉnh Hưng Yên, 17710, Việt Nam",
+    "address": {
+      "hamlet": "Khu Phố Dầu",
+      "town": "Xã Như Quỳnh",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "postcode": "17710",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
