@@ -75025,5 +75025,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94489,107.2725": {
+    "display_name": "Ruộng Lớn, Ruộng Tre, Phường Bảo Vinh, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Ruộng Lớn",
+      "village": "Ruộng Tre",
+      "county": "Phường Bảo Vinh",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.61589,105.0409": {
+    "display_name": "ĐT. 965B, Xã U Minh Thượng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 965B",
+      "county": "Xã U Minh Thượng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
