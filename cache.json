@@ -74688,5 +74688,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80534,105.2869": {
+    "display_name": "Xã Long Khánh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Khánh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96687,109.3446": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
