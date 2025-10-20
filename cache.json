@@ -75475,5 +75475,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.87404,107.1986": {
+    "display_name": "Thôn 4, Xã Bom Bo, Việt Nam",
+    "address": {
+      "village": "Thôn 4",
+      "county": "Xã Bom Bo",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.0644,108.7935": {
+    "display_name": "Thôn Định Thái, Vĩnh Quang, Định Quang, Xã Vĩnh Quang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Định Thái, Vĩnh Quang",
+      "village": "Định Quang",
+      "county": "Xã Vĩnh Quang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
