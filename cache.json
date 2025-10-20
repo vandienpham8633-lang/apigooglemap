@@ -76357,5 +76357,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.87612,105.2994": {
+    "display_name": "Xã Đô Lương, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Đô Lương",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.24526,104.5906": {
+    "display_name": "Ba Hòn, Xã Kiên Lương, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Ba Hòn",
+      "county": "Xã Kiên Lương",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94879,106.7532": {
+    "display_name": "Tân Phước, Tân Đông Hiệp, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Tân Phước",
+      "suburb": "Tân Đông Hiệp",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
