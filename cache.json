@@ -76285,5 +76285,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.24855,109.1919": {
+    "display_name": "Bệnh viện Đa khoa Khánh Hòa, Quang Trung, Phước Hòa, Phường Nha Trang, Khánh Hòa, 57100, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa Khánh Hòa",
+      "road": "Quang Trung",
+      "suburb": "Phước Hòa",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.12215,108.7074": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.650989,105.5346": {
+    "display_name": "Xã Xà Phiên, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Xà Phiên",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
