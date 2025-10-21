@@ -77078,5 +77078,65 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.59693,108.9501": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64411,107.311": {
+    "display_name": "Trường THPT Nguyễn Văn Cừ, Đường tỉnh 991, Tân Bình, Xã Xuân Sơn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Văn Cừ",
+      "road": "Đường tỉnh 991",
+      "neighbourhood": "Tân Bình",
+      "city_district": "Xã Xuân Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95151,107.4033": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5969,108.9501": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.6454,107.3112": {
+    "display_name": "Trường THPT Nguyễn Văn Cừ, Đường tỉnh 991, Tân Bình, Xã Xuân Sơn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Văn Cừ",
+      "road": "Đường tỉnh 991",
+      "neighbourhood": "Tân Bình",
+      "city_district": "Xã Xuân Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
