@@ -80268,5 +80268,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.670838,106.5396": {
+    "display_name": "Phường Trường Long Hòa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Trường Long Hòa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
