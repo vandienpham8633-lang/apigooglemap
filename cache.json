@@ -77364,5 +77364,64 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.52009,106.1128": {
+    "display_name": "Đường tỉnh 793, Xã Thạnh Bình, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 793",
+      "county": "Xã Thạnh Bình",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.597,108.9499": {
+    "display_name": "Tháp Chàm, Minh Mạng, Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "railway": "Tháp Chàm",
+      "road": "Minh Mạng",
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76125,106.572": {
+    "display_name": "Tỉnh lộ 10, Xã Bình Lợi, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 10",
+      "village": "Xã Bình Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76116,106.572": {
+    "display_name": "Tỉnh lộ 10, Xã Bình Lợi, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 10",
+      "village": "Xã Bình Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59697,108.9499": {
+    "display_name": "Tháp Chàm, Minh Mạng, Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "railway": "Tháp Chàm",
+      "road": "Minh Mạng",
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
