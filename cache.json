@@ -78956,5 +78956,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.36611,108.4642": {
+    "display_name": "Xã Ia Sao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Sao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
