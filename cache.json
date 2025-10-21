@@ -79926,5 +79926,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.88117,102.6961": {
+    "display_name": "Nà Khoa, Xã Nà Hỳ, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "suburb": "Nà Khoa",
+      "county": "Xã Nà Hỳ",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
