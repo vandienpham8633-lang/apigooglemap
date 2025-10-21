@@ -80333,5 +80333,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.96714,109.3456": {
+    "display_name": "Đông Hòa, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Đông Hòa",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.92524,108.1947": {
+    "display_name": "Phường Điện Bàn Bắc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Bắc",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
