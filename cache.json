@@ -77731,5 +77731,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.70365,107.3173": {
+    "display_name": "Ấp 3, Xã Sông Ray, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 3",
+      "county": "Xã Sông Ray",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
