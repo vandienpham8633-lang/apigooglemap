@@ -77183,5 +77183,83 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75357,106.4848": {
+    "display_name": "Mai Bá Hương, Xã Bình Lợi, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Mai Bá Hương",
+      "village": "Xã Bình Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59695,108.95": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.61348,107.9476": {
+    "display_name": "Tuôr, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tuôr",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.61344,107.9476": {
+    "display_name": "Tuôr, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tuôr",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95148,107.4031": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59693,108.95": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.61332,107.9475": {
+    "display_name": "Tuôr, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tuôr",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
