@@ -77351,5 +77351,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.5969,108.9499": {
+    "display_name": "Tháp Chàm, Minh Mạng, Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "railway": "Tháp Chàm",
+      "road": "Minh Mạng",
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
