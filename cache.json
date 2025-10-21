@@ -78851,5 +78851,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.3787,108.9727": {
+    "display_name": "KP.Du Tự, TT.Tăng Bạt Hổ, Tăng Bạt Hổ, Xã Hoài Ân, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Du Tự, TT.Tăng Bạt Hổ",
+      "town": "Tăng Bạt Hổ",
+      "county": "Xã Hoài Ân",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35906,106.0146": {
+    "display_name": "Cái Bè, Xã Cái Bè, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "town": "Cái Bè",
+      "county": "Xã Cái Bè",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
