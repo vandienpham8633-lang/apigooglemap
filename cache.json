@@ -76832,5 +76832,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.47948,106.2657": {
+    "display_name": "ĐT454, Xã Thư Trì, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "road": "ĐT454",
+      "town": "Xã Thư Trì",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.58156,103.3295": {
+    "display_name": "Xã Chiềng Sinh, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Chiềng Sinh",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
