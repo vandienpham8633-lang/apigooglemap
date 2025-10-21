@@ -78552,5 +78552,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.47514,109.104": {
+    "display_name": "KP. Kim Giao Trung, Phường Hoài Nhơn Đông, khu phố Kim Giao Nam, Phường Hoài Nhơn Đông, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP. Kim Giao Trung, Phường Hoài Nhơn Đông",
+      "hamlet": "khu phố Kim Giao Nam, Phường Hoài Nhơn Đông",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96735,109.3476": {
+    "display_name": "Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
