@@ -76670,5 +76670,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.02261,108.2498": {
+    "display_name": "Bệnh viện Phụ sản - Nhi Đà Nẵng, Đường Lê Văn Hiến, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng, 50507, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Phụ sản - Nhi Đà Nẵng",
+      "road": "Đường Lê Văn Hiến",
+      "city": "Phường Ngũ Hành Sơn",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
