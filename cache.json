@@ -76866,5 +76866,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.96701,105.805": {
+    "display_name": "Đường vành đai phía tây Cần Thơ, Phường Hưng Phú, Thành phố Cần Thơ, 94200, Việt Nam",
+    "address": {
+      "road": "Đường vành đai phía tây Cần Thơ",
+      "city_district": "Phường Hưng Phú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.50156,109.1072": {
+    "display_name": "Ninh Phụng, Phường Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Ninh Phụng",
+      "county": "Phường Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.93338,105.2004": {
+    "display_name": "Tân Thành, Xã Châu Thành, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Tân Thành",
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
