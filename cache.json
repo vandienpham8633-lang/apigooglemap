@@ -79994,5 +79994,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.00718,108.1646": {
+    "display_name": "Xã KDang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã KDang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.94051,109.185": {
+    "display_name": "Nguyễn Trường Tộ, Phường Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trường Tộ",
+      "suburb": "Phường Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
