@@ -76657,5 +76657,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.212,109.0323": {
+    "display_name": "Đường cao tốc Hoài Nhơn - Quy Nhơn, Thôn An Lạc 1, Mỹ Hòa, Hội Khánh, Xã Phù Mỹ Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường cao tốc Hoài Nhơn - Quy Nhơn",
+      "hamlet": "Thôn An Lạc 1, Mỹ Hòa",
+      "village": "Hội Khánh",
+      "county": "Xã Phù Mỹ Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
