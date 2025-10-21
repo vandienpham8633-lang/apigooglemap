@@ -80071,5 +80071,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.9406,109.185": {
+    "display_name": "Nguyễn Trường Tộ, Phường Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trường Tộ",
+      "suburb": "Phường Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.13625,108.22": {
+    "display_name": "Thôn 1, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
