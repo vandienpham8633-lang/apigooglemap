@@ -79744,5 +79744,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "8.597435,104.7666": {
+    "display_name": "Xã Đất Mũi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Đất Mũi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.22371,107.6761": {
+    "display_name": "Thôn 7, Xã Nghị Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 7",
+      "county": "Xã Nghị Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.90189,109.0354": {
+    "display_name": "Thôn Phụ Ngọc, Nhơn Phúc, Phường Bình Định, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Phụ Ngọc, Nhơn Phúc",
+      "county": "Phường Bình Định",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56308,107.3513": {
+    "display_name": "Đường tỉnh 721, Tổ dân phố 3, Thôn 2, Xã Cát Tiên 2, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 721",
+      "quarter": "Tổ dân phố 3",
+      "village": "Thôn 2",
+      "county": "Xã Cát Tiên 2",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
