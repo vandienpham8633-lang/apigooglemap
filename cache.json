@@ -78432,5 +78432,102 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80065,107.8661": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.88417,103.4396": {
+    "display_name": "Xã Sáng Nhè, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Sáng Nhè",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.51623,107.5366": {
+    "display_name": "Phường Kim Trà, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Kim Trà",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37695,106.487": {
+    "display_name": "Xã Tân Thuận Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Thuận Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.20433,104.8988": {
+    "display_name": "ĐT. 969B, Sư Nam, Hòn Đất, Xã Hòn Đất, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 969B",
+      "quarter": "Sư Nam",
+      "town": "Hòn Đất",
+      "county": "Xã Hòn Đất",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27134,109.1102": {
+    "display_name": "Xã Diên Điền, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Diên Điền",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.59976,109.0288": {
+    "display_name": "khu phố Bình Đê, phường Hoài Nhơn Bắc, ấp Tuý Sơn, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Bình Đê, phường Hoài Nhơn Bắc",
+      "village": "ấp Tuý Sơn",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.27131,109.1102": {
+    "display_name": "Xã Diên Điền, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Diên Điền",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94976,108.6162": {
+    "display_name": "Tân Định, Phường An Bình, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Tân Định",
+      "county": "Phường An Bình",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
