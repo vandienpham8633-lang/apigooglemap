@@ -78168,5 +78168,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95134,107.4029": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95118,107.4027": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77922,106.6546": {
+    "display_name": "Hẻm 373/1 Đường Lý Thường Kiệt, Phường Tân Hòa, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 373/1 Đường Lý Thường Kiệt",
+      "suburb": "Phường Tân Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
