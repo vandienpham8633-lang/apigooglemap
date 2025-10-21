@@ -79132,5 +79132,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.29566,106.074": {
+    "display_name": "Phường Thanh Điền, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Thanh Điền",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03671,108.1319": {
+    "display_name": "Xã Hàm Liêm, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Liêm",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
