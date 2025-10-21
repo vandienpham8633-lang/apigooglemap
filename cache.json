@@ -78966,5 +78966,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.651003,105.5346": {
+    "display_name": "Xã Xà Phiên, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Xà Phiên",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
