@@ -78607,5 +78607,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.55906,107.3497": {
+    "display_name": "Đường tỉnh 721, Tổ dân phố 3, Thôn 2, Xã Cát Tiên 2, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 721",
+      "quarter": "Tổ dân phố 3",
+      "village": "Thôn 2",
+      "county": "Xã Cát Tiên 2",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96604,109.3469": {
+    "display_name": "Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79053,106.2725": {
+    "display_name": "Xã Đức Huệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Đức Huệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.70497,107.8382": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
