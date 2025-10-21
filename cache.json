@@ -77522,5 +77522,34 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.88972,106.9922": {
+    "display_name": "Ấp 5, Xã An Viễn, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã An Viễn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.0788,109.1896": {
+    "display_name": "Nguyễn Tất Thành, Phường Bắc Cam Ranh, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "suburb": "Phường Bắc Cam Ranh",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00419,107.03": {
+    "display_name": "Xã Đăk Ơ, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Ơ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
