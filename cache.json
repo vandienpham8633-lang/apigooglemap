@@ -76760,5 +76760,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.13214,108.7964": {
+    "display_name": "Lê Hồng Phong, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Lê Hồng Phong",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.87166,109.153": {
+    "display_name": "Thôn Luật Chánh, Phước Hiệp, Xã Tuy Phước Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Luật Chánh, Phước Hiệp",
+      "county": "Xã Tuy Phước Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
