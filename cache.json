@@ -77138,5 +77138,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.59692,108.95": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5969,108.95": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95151,107.403": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58502,108.9754": {
+    "display_name": "Trương Định, Phường Bảo An, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Trương Định",
+      "suburb": "Phường Bảo An",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
