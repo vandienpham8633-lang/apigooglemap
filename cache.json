@@ -78120,5 +78120,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.64622,106.5387": {
+    "display_name": "Đường Bờ Kênh Ấp 2, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Đường Bờ Kênh Ấp 2",
+      "village": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64086,107.048": {
+    "display_name": "Trường Mẫu giáo Mỹ Xuân, Lê Hồng Phong, Phường Phú Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "amenity": "Trường Mẫu giáo Mỹ Xuân",
+      "road": "Lê Hồng Phong",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95152,107.4031": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.72161,109.2101": {
+    "display_name": "Khu vực, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
