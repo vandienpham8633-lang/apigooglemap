@@ -79009,5 +79009,107 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.09813,106.7821": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25301,109.0961": {
+    "display_name": "Đường Nguyễn Thái Học, Diên Khánh, Xã Diên Khánh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Thái Học",
+      "town": "Diên Khánh",
+      "county": "Xã Diên Khánh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82476,108.2094": {
+    "display_name": "Xã Duy Xuyên, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Xuyên",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.24084,108.1145": {
+    "display_name": "Quốc lộ 27, Gung Dang, Xã Krông Nô, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27",
+      "village": "Gung Dang",
+      "county": "Xã Krông Nô",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.92285,105.1178": {
+    "display_name": "Cây Me, Vĩnh Hòa 1, Xã Bình An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Cây Me",
+      "village": "Vĩnh Hòa 1",
+      "county": "Xã Bình An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53845,108.9831": {
+    "display_name": "Quốc lộ 26, Ninh Tây, Xã Tây Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ninh Tây",
+      "county": "Xã Tây Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.49021,106.5746": {
+    "display_name": "Cần Đước, Xã Cần Đước, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Cần Đước",
+      "county": "Xã Cần Đước",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.14824,109.2689": {
+    "display_name": "Phường Bình Kiến, Tỉnh Đắk Lắk, 56120, Việt Nam",
+    "address": {
+      "county": "Phường Bình Kiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "56120",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82477,108.2094": {
+    "display_name": "Xã Duy Xuyên, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Xuyên",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
