@@ -78585,5 +78585,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.70482,107.8383": {
+    "display_name": "Đường tỉnh 663, Xã Ia Boòng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 663",
+      "county": "Xã Ia Boòng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.8285,106.3215": {
+    "display_name": "ĐT.211, Xã Trà Lĩnh, Tỉnh Cao Bằng, Việt Nam",
+    "address": {
+      "road": "ĐT.211",
+      "town": "Xã Trà Lĩnh",
+      "state": "Tỉnh Cao Bằng",
+      "ISO3166-2-lvl4": "VN-04",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
