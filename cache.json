@@ -79700,5 +79700,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.85749,106.9926": {
+    "display_name": "Lê Văn Duyệt, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Lê Văn Duyệt",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15328,106.59": {
+    "display_name": "Đường 30 Tháng 4, Khu phố 2, Phường Bến Cát, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường 30 Tháng 4",
+      "quarter": "Khu phố 2",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
