@@ -77434,5 +77434,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.33645,109.1935": {
+    "display_name": "Vĩnh Lương, Phường Bắc Nha Trang, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Vĩnh Lương",
+      "county": "Phường Bắc Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.41639,109.2205": {
+    "display_name": "Phường Xuân Đài, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Phường Xuân Đài",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
