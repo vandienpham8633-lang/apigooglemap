@@ -78238,5 +78238,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.72168,109.2099": {
+    "display_name": "Khu vực, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
