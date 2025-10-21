@@ -76614,5 +76614,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.66833,106.8196": {
+    "display_name": "Xã Long Hà, Việt Nam",
+    "address": {
+      "county": "Xã Long Hà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76867,106.6705": {
+    "display_name": "Bệnh viện Nhi đồng 1, 532, Đường Lý Thái Tổ, Khu phố 24, Phường Vườn Lài, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72712, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Nhi đồng 1",
+      "house_number": "532",
+      "road": "Đường Lý Thái Tổ",
+      "quarter": "Khu phố 24",
+      "suburb": "Phường Vườn Lài",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72712",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
