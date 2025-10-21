@@ -78051,5 +78051,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.64627,106.5386": {
+    "display_name": "Đường Bờ Kênh Ấp 2, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Đường Bờ Kênh Ấp 2",
+      "village": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.65989,106.2264": {
+    "display_name": "Đường tỉnh 794, Đông Lợi, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 794",
+      "hamlet": "Đông Lợi",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.44365,106.2528": {
+    "display_name": "Xã Tân Phước 3, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Phước 3",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95138,107.403": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
