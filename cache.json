@@ -76637,5 +76637,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.34574,106.6151": {
+    "display_name": "Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35901,108.7708": {
+    "display_name": "Xã Bình Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Bình Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
