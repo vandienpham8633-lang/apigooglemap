@@ -78806,5 +78806,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.82798,106.6161": {
+    "display_name": "Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09802,106.7821": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55904,107.3499": {
+    "display_name": "Thôn 3, Xã Cát Tiên 2, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Cát Tiên 2",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.30309,107.2042": {
+    "display_name": "Quốc lộ 14, Xã A Lưới 1, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "town": "Xã A Lưới 1",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
