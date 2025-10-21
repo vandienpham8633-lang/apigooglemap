@@ -76570,5 +76570,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.97501,109.392": {
+    "display_name": "Quốc lộ 29, Phường Hòa Hiệp, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 29",
+      "county": "Phường Hòa Hiệp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.25332,109.1168": {
+    "display_name": "Diêu Viên, Xã Tuy An Tây, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Diêu Viên",
+      "county": "Xã Tuy An Tây",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59741,106.5656": {
+    "display_name": "Rạch Kiến, Xã Rạch Kiến, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Rạch Kiến",
+      "county": "Xã Rạch Kiến",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58506,108.9754": {
+    "display_name": "Trương Định, Phường Bảo An, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Trương Định",
+      "suburb": "Phường Bảo An",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
