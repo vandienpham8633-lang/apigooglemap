@@ -76682,5 +76682,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95026,106.5538": {
+    "display_name": "Đường Số 64, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Số 64",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43644,105.4575": {
+    "display_name": "Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
