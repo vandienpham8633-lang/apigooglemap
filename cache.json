@@ -77261,5 +77261,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7687,106.6705": {
+    "display_name": "Bệnh viện Nhi đồng 1, 532, Đường Lý Thái Tổ, Khu phố 24, Phường Vườn Lài, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72712, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Nhi đồng 1",
+      "house_number": "532",
+      "road": "Đường Lý Thái Tổ",
+      "quarter": "Khu phố 24",
+      "suburb": "Phường Vườn Lài",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72712",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.61333,107.9475": {
+    "display_name": "Tuôr, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tuôr",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59689,108.95": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00412,107.0301": {
+    "display_name": "Xã Đăk Ơ, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Ơ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.22119,105.5245": {
+    "display_name": "Xã Trung Hưng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trung Hưng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
