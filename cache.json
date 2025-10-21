@@ -78309,5 +78309,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.64615,106.5386": {
+    "display_name": "Đường Bờ Kênh Ấp 2, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Đường Bờ Kênh Ấp 2",
+      "village": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.30968,107.578": {
+    "display_name": "Thuận Tân, Xã Thuận Hạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thuận Tân",
+      "county": "Xã Thuận Hạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.30854,107.5774": {
+    "display_name": "Thôn 8, Xã Đức An, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Xã Đức An",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64624,106.5386": {
+    "display_name": "Đường Bờ Kênh Ấp 2, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Đường Bờ Kênh Ấp 2",
+      "village": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
