@@ -77811,5 +77811,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95186,107.4033": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.8852,102.7008": {
+    "display_name": "Nà Khoa, Xã Nà Hỳ, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "suburb": "Nà Khoa",
+      "county": "Xã Nà Hỳ",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87053,106.8056": {
+    "display_name": "Trường Đại học An ninh Nhân dân, Xa lộ Hà Nội, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Trường Đại học An ninh Nhân dân",
+      "road": "Xa lộ Hà Nội",
+      "suburb": "Phường Tăng Nhơn Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95147,107.4029": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
