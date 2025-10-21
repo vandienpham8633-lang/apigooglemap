@@ -76715,5 +76715,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.3767,107.981": {
+    "display_name": "Trường Cao đẳng Cộng đồng Kon Tum, Đường Phan Đình Phùng, Trung Tín, Phường Đăk Cấm, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "amenity": "Trường Cao đẳng Cộng đồng Kon Tum",
+      "road": "Đường Phan Đình Phùng",
+      "village": "Trung Tín",
+      "county": "Phường Đăk Cấm",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.56407,109.0666": {
+    "display_name": "KP.Thiện Chánh, P.Tam Quan Bắc, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Thiện Chánh, P.Tam Quan Bắc",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
