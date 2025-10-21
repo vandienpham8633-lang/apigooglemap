@@ -79789,5 +79789,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8712,106.7293": {
+    "display_name": "Khu phố 23, Phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 23",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.29577,106.074": {
+    "display_name": "Phường Thanh Điền, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Thanh Điền",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
