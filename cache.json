@@ -79198,5 +79198,91 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.29569,106.074": {
+    "display_name": "Phường Thanh Điền, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Thanh Điền",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53404,106.3144": {
+    "display_name": "ĐT. 865, Xã Hưng Thạnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 865",
+      "county": "Xã Hưng Thạnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91916,106.7844": {
+    "display_name": "Đường N8, Khu phố Đông An, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 76106, Việt Nam",
+    "address": {
+      "road": "Đường N8",
+      "quarter": "Khu phố Đông An",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15325,106.59": {
+    "display_name": "Đường 30 Tháng 4, Khu phố 2, Phường Bến Cát, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường 30 Tháng 4",
+      "quarter": "Khu phố 2",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64311,107.7484": {
+    "display_name": "Đường D1, La Gi, Phường Phước Hội, Tỉnh Lâm Đồng, 77650, Việt Nam",
+    "address": {
+      "road": "Đường D1",
+      "town": "La Gi",
+      "county": "Phường Phước Hội",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77650",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56788,107.3535": {
+    "display_name": "Đường tỉnh 721, Tổ dân phố 3, Thôn 2, Xã Cát Tiên 2, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 721",
+      "quarter": "Tổ dân phố 3",
+      "village": "Thôn 2",
+      "county": "Xã Cát Tiên 2",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91922,106.7844": {
+    "display_name": "Đường N8, Khu phố Đông An, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 76106, Việt Nam",
+    "address": {
+      "road": "Đường N8",
+      "quarter": "Khu phố Đông An",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
