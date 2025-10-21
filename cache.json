@@ -77478,5 +77478,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.59688,108.95": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.4656,107.6735": {
+    "display_name": "Quốc lộ 14, Thôn 3, Xã Đức Lập, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 3",
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07881,109.1896": {
+    "display_name": "Nguyễn Tất Thành, Phường Bắc Cam Ranh, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "suburb": "Phường Bắc Cam Ranh",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8897,106.9922": {
+    "display_name": "Ấp 6, Xã An Viễn, Việt Nam",
+    "address": {
+      "village": "Ấp 6",
+      "county": "Xã An Viễn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
