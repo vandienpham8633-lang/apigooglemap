@@ -77423,5 +77423,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76118,106.572": {
+    "display_name": "Tỉnh lộ 10, Xã Bình Lợi, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 10",
+      "village": "Xã Bình Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
