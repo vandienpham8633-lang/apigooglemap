@@ -28978,11 +28978,12 @@
     }
   },
   "10.79707,106.6157": {
-    "display_name": "Hẻm 549 Tân Kỳ Tân Quý, Tân Sơn Nhì, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "display_name": "Hẻm 549 Tân Kỳ Tân Quý, Khu phố 18, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
     "address": {
       "road": "Hẻm 549 Tân Kỳ Tân Quý",
-      "suburb": "Tân Sơn Nhì",
-      "city": "Phường Tân Sơn Nhì",
+      "quarter": "Khu phố 18",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
       "ISO3166-2-lvl4": "VN-SG",
       "postcode": "72011",
       "country": "Việt Nam",
