@@ -79937,5 +79937,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.27028,105.4354": {
+    "display_name": "Quốc lộ 80, Xã Phú Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 80",
+      "town": "Xã Phú Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.28412,108.2885": {
+    "display_name": "Ta Ly, Xã Ea Hiao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ta Ly",
+      "county": "Xã Ea Hiao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.34955,107.9979": {
+    "display_name": "Phan Bội Châu, Quyết Thắng, Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Phan Bội Châu",
+      "suburb": "Quyết Thắng",
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.84694,108.3155": {
+    "display_name": "Duy Phước, Xã Nam Phước, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "hamlet": "Duy Phước",
+      "town": "Xã Nam Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.245706,105.1773": {
+    "display_name": "Phường An Xuyên, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường An Xuyên",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
