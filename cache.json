@@ -78720,5 +78720,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.64279,108.4223": {
+    "display_name": "Xã Thăng Điền, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Điền",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
