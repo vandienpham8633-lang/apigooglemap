@@ -80278,5 +80278,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.12511,106.6403": {
+    "display_name": "Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
