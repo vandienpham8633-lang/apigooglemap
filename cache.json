@@ -80167,5 +80167,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.94056,109.185": {
+    "display_name": "Nguyễn Trường Tộ, Phường Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trường Tộ",
+      "suburb": "Phường Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.13635,108.2197": {
+    "display_name": "Thôn 1, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 1",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67766,107.0769": {
+    "display_name": "Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.79012,108.1079": {
+    "display_name": "My Son Temple, Quốc lộ 14H, Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "tourism": "My Son Temple",
+      "road": "Quốc lộ 14H",
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
