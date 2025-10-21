@@ -79845,5 +79845,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.53388,106.3144": {
+    "display_name": "ĐT. 865, Xã Hưng Thạnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 865",
+      "county": "Xã Hưng Thạnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47515,109.104": {
+    "display_name": "KP. Kim Giao Trung, Phường Hoài Nhơn Đông, khu phố Kim Giao Nam, Phường Hoài Nhơn Đông, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP. Kim Giao Trung, Phường Hoài Nhơn Đông",
+      "hamlet": "khu phố Kim Giao Nam, Phường Hoài Nhơn Đông",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.59373,108.5322": {
+    "display_name": "Quốc lộ 40B, Phường Quảng Phú, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 40B",
+      "city_district": "Phường Quảng Phú",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
