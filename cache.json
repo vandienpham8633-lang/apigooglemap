@@ -77316,5 +77316,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81787,106.6745": {
+    "display_name": "Hẻm 187-189 Bạch Đằng, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 70048, Việt Nam",
+    "address": {
+      "road": "Hẻm 187-189 Bạch Đằng",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70048",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9515,107.4032": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59691,108.95": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
