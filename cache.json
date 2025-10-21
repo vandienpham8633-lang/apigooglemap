@@ -77994,5 +77994,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.951,107.4027": {
+    "display_name": "Trung Nghĩa, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Trung Nghĩa",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.44367,106.2528": {
+    "display_name": "Xã Tân Phước 3, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Phước 3",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96716,109.3446": {
+    "display_name": "Trường THPT Nguyễn Công Trứ, Quốc lộ 1, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Nguyễn Công Trứ",
+      "road": "Quốc lộ 1",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.99955,107.989": {
+    "display_name": "Sun World Bà Nà Hills, Wine Cellar, Xã Bà Nà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "tourism": "Sun World Bà Nà Hills",
+      "road": "Wine Cellar",
+      "town": "Xã Bà Nà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64622,106.5386": {
+    "display_name": "Đường Bờ Kênh Ấp 2, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Đường Bờ Kênh Ấp 2",
+      "village": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
