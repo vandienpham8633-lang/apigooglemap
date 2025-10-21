@@ -76900,5 +76900,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.06401,106.6737": {
+    "display_name": "Phường Bình Dương, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78204,106.7507": {
+    "display_name": "Đường 52 - BTT, Khu phố 23, Phường Bình Trưng, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Đường 52 - BTT",
+      "quarter": "Khu phố 23",
+      "suburb": "Phường Bình Trưng",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
