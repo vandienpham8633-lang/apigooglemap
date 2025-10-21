@@ -78898,5 +78898,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.09806,106.782": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7897,105.0656": {
+    "display_name": "An Phú, Xã An Phú, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "An Phú",
+      "county": "Xã An Phú",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
