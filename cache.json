@@ -79593,5 +79593,69 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.534,106.3144": {
+    "display_name": "ĐT. 865, Xã Hưng Thạnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 865",
+      "county": "Xã Hưng Thạnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.907877,106.3771": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.907861,106.3771": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91915,106.7844": {
+    "display_name": "Đường N8, Khu phố Đông An, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 76106, Việt Nam",
+    "address": {
+      "road": "Đường N8",
+      "quarter": "Khu phố Đông An",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.907866,106.3771": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.907891,106.3771": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
