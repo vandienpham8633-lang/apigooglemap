@@ -82950,5 +82950,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.9464,108.2532": {
+    "display_name": "Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
