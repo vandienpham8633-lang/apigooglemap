@@ -81074,5 +81074,69 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.66492,105.7604": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7962,106.6807": {
+    "display_name": "Trường Tiểu học Trung Nhất, Hẻm 243 Phan Đình Phùng, Phường Cầu Kiệu, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72210, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Trung Nhất",
+      "road": "Hẻm 243 Phan Đình Phùng",
+      "suburb": "Phường Cầu Kiệu",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72210",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456578,106.0881": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.550635,106.1445": {
+    "display_name": "ĐH.34, Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐH.34",
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.361916,106.0754": {
+    "display_name": "Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.1327,105.7308": {
+    "display_name": "Xã Tân Quới, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Quới",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
