@@ -83438,5 +83438,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.58568,109.1201": {
+    "display_name": "Mỹ Tường, Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Mỹ Tường",
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.22377,107.6761": {
+    "display_name": "Thôn 7, Xã Nghị Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 7",
+      "county": "Xã Nghị Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
