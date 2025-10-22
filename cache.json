@@ -82239,5 +82239,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "8.915445,104.9335": {
+    "display_name": "Xã Nguyễn Việt Khái, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Nguyễn Việt Khái",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
