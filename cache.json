@@ -82971,5 +82971,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.48367,105.5529": {
+    "display_name": "Xã Cù Lao Giêng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cù Lao Giêng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.53775,107.5035": {
+    "display_name": "Xã Đan Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Đan Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.14269,108.7443": {
+    "display_name": "Xã Nghĩa Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Nghĩa Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53861,108.9832": {
+    "display_name": "Quốc lộ 26, Ninh Tây, Xã Tây Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ninh Tây",
+      "county": "Xã Tây Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.602058,104.9323": {
+    "display_name": "Đường tỉnh 965B, Mương Đào B, Xã Vân Khánh, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 965B",
+      "village": "Mương Đào B",
+      "county": "Xã Vân Khánh",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
