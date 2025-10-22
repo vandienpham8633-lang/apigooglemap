@@ -83349,5 +83349,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.15351,106.3791": {
+    "display_name": "Xã Hưng Thuận, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Thuận",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5857,109.1202": {
+    "display_name": "Mỹ Tường, Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Mỹ Tường",
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88939,106.3886": {
+    "display_name": "Đường tỉnh 823, Xã Hậu Nghĩa, Xã Hòa Khánh, Tỉnh Tây Ninh, 82706, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 823",
+      "town": "Xã Hậu Nghĩa",
+      "county": "Xã Hòa Khánh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
