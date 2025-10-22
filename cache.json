@@ -82786,5 +82786,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.56143,109.067": {
+    "display_name": "KP.Cửu Lợi Bắc, P.Tam Quan Nam, khu phố Tân Thành, Hoài Nhơn, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Cửu Lợi Bắc, P.Tam Quan Nam",
+      "village": "khu phố Tân Thành, Hoài Nhơn",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.30926,106.0865": {
+    "display_name": "Đường tỉnh 786, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 786",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.17261,105.5826": {
+    "display_name": "Phường Thới Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
