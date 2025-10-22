@@ -82651,5 +82651,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.958,106.9297": {
+    "display_name": "Đường Điều Xiển, Khu phố 36, Phường Long Bình, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Điều Xiển",
+      "quarter": "Khu phố 36",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.30924,106.0865": {
+    "display_name": "Đường tỉnh 786, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 786",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.76897,109.2231": {
+    "display_name": "Núc Níc House, 45, Hoàng Diệu, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "amenity": "Núc Níc House",
+      "house_number": "45",
+      "road": "Hoàng Diệu",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
