@@ -80588,5 +80588,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97107,106.5542": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
