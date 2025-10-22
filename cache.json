@@ -83406,5 +83406,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.12434,108.71": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
