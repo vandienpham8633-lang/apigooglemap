@@ -82429,5 +82429,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.76908,109.2234": {
+    "display_name": "Núc Níc House, 45, Hoàng Diệu, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "amenity": "Núc Níc House",
+      "house_number": "45",
+      "road": "Hoàng Diệu",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.76898,109.2231": {
+    "display_name": "Núc Níc House, 45, Hoàng Diệu, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "amenity": "Núc Níc House",
+      "house_number": "45",
+      "road": "Hoàng Diệu",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.76884,109.2232": {
+    "display_name": "Núc Níc House, 45, Hoàng Diệu, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "amenity": "Núc Níc House",
+      "house_number": "45",
+      "road": "Hoàng Diệu",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
