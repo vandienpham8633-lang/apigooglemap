@@ -81831,5 +81831,71 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.43043,106.3244": {
+    "display_name": "Tân Hiệp, Xã Châu Thành, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "town": "Tân Hiệp",
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.57505,107.6125": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.56427,109.0667": {
+    "display_name": "KP.Thiện Chánh, P.Tam Quan Bắc, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Thiện Chánh, P.Tam Quan Bắc",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.26352,107.9368": {
+    "display_name": "Thuỷ Cam, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "village": "Thuỷ Cam",
+      "town": "Xã Chân Mây - Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.77509,108.5755": {
+    "display_name": "Tiến Đông, Xã Ea Knốp, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tiến Đông",
+      "county": "Xã Ea Knốp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.98597,108.2599": {
+    "display_name": "Tổ dân phố 14, Thôn 6, Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Thôn 6",
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
