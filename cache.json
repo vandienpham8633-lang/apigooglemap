@@ -82639,5 +82639,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.30919,106.0866": {
+    "display_name": "Đường tỉnh 786, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 786",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
