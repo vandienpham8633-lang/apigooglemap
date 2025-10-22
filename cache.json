@@ -82716,5 +82716,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82111,106.9573": {
+    "display_name": "Đường Nguyễn Hiền, Phước Long, Phường Phước Bình, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Hiền",
+      "town": "Phước Long",
+      "county": "Phường Phước Bình",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95816,106.9302": {
+    "display_name": "Đường Điều Xiển, Khu phố 36, Phường Long Bình, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Điều Xiển",
+      "quarter": "Khu phố 36",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.57499,109.0595": {
+    "display_name": "KP.Thiện Chánh 2, P.Tam Quan Bắc, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Thiện Chánh 2, P.Tam Quan Bắc",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
