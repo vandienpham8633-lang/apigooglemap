@@ -82582,5 +82582,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97105,106.5542": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97086,106.5543": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98486,106.5779": {
+    "display_name": "Nguyễn Thị Minh, Xã Bình Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh",
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.64314,108.3118": {
+    "display_name": "Xã Đồng Dương, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Đồng Dương",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9711,106.5544": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
