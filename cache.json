@@ -83785,5 +83785,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.905347,106.1146": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.11431,108.8975": {
+    "display_name": "Xã An Phú, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã An Phú",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.08302,106.0013": {
+    "display_name": "Xã Hòa Hiệp, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Hiệp",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.25775,108.48": {
+    "display_name": "Đường Quốc lộ 1 – Trà Phong, Trà Xuân, Xã Trà Bồng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Quốc lộ 1 – Trà Phong",
+      "town": "Trà Xuân",
+      "county": "Xã Trà Bồng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
