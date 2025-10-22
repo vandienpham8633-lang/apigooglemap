@@ -81763,5 +81763,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.986,108.2599": {
+    "display_name": "Tổ dân phố 14, Thôn 6, Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Thôn 6",
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.31181,105.622": {
+    "display_name": "Đường Nguyễn Tất Thành, Khu công nghiệp Khai Quang, Vĩnh Yên, Phường Vĩnh Phúc, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tất Thành",
+      "industrial": "Khu công nghiệp Khai Quang",
+      "city": "Vĩnh Yên",
+      "county": "Phường Vĩnh Phúc",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.05681,108.0896": {
+    "display_name": "Xã Kon Gang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Kon Gang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
