@@ -83383,5 +83383,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.48987,109.118": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8699,106.805": {
+    "display_name": "Trường Đại học Công nghệ Thông tin, Xa lộ Hà Nội, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Trường Đại học Công nghệ Thông tin",
+      "road": "Xa lộ Hà Nội",
+      "suburb": "Phường Tăng Nhơn Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
