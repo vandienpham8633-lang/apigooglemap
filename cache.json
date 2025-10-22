@@ -82959,5 +82959,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.9537,107.9888": {
+    "display_name": "Hoàng Sa, Phường Diên Hồng, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Hoàng Sa",
+      "county": "Phường Diên Hồng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
