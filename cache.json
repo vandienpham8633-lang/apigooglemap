@@ -83842,5 +83842,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.12457,108.71": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58617,109.1222": {
+    "display_name": "Mỹ Tường, Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Mỹ Tường",
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.73681,107.1888": {
+    "display_name": "Phường Quảng Trị, Tỉnh Quảng Trị, 48000, Việt Nam",
+    "address": {
+      "city": "Phường Quảng Trị",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "postcode": "48000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80078,107.866": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.1245,108.71": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87898,106.8146": {
+    "display_name": "Bến xe Miền Đông Mới, Xa lộ Hà Nội, Tân Lập, Phường Long Bình, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Bến xe Miền Đông Mới",
+      "road": "Xa lộ Hà Nội",
+      "quarter": "Tân Lập",
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
