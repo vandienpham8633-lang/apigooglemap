@@ -80827,5 +80827,65 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.02015,106.5373": {
+    "display_name": "Đường Số 490, Xã Nhuận Đức, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Số 490",
+      "city_district": "Xã Nhuận Đức",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.291301,105.7125": {
+    "display_name": "Trường Đại học Bạc Liêu, 178, Võ Thị Sáu, Bạc Liêu, Phường Bạc Liêu, Tỉnh Cà Mau, 97000, Việt Nam",
+    "address": {
+      "amenity": "Trường Đại học Bạc Liêu",
+      "house_number": "178",
+      "road": "Võ Thị Sáu",
+      "city": "Bạc Liêu",
+      "county": "Phường Bạc Liêu",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "postcode": "97000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00676,106.7673": {
+    "display_name": "Cây Chàm, Phường Tân Khánh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Cây Chàm",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02967,106.3136": {
+    "display_name": "Đường N5, Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.37536,107.8082": {
+    "display_name": "Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vang",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
