@@ -81537,5 +81537,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.72165,109.21": {
+    "display_name": "Khu vực, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.52502,105.9042": {
+    "display_name": "Xã Đốc Binh Kiều, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đốc Binh Kiều",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.52512,105.9043": {
+    "display_name": "Xã Đốc Binh Kiều, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đốc Binh Kiều",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.692413,106.3167": {
+    "display_name": "Xã Hàm Giang, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Giang",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.50664,106.5979": {
+    "display_name": "Đường Võ Xuân Cẩn, Phường Đồng Thuận, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường Võ Xuân Cẩn",
+      "city": "Phường Đồng Thuận",
+      "county": "Phường Đồng Thuận",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
