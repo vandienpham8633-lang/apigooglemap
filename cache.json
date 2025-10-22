@@ -80777,5 +80777,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.03561,109.1736": {
+    "display_name": "Quốc lộ 1, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.03546,109.1735": {
+    "display_name": "Quốc lộ 1, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25307,109.096": {
+    "display_name": "Đường Nguyễn Thái Học, Diên Khánh, Xã Diên Khánh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Thái Học",
+      "town": "Diên Khánh",
+      "county": "Xã Diên Khánh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97103,106.5543": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
