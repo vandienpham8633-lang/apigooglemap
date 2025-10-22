@@ -82407,5 +82407,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97101,108.029": {
+    "display_name": "Lê Duẩn, Phường Hội Phú, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Lê Duẩn",
+      "county": "Phường Hội Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.85153,108.1598": {
+    "display_name": "Xã Gò Nổi, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Gò Nổi",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
