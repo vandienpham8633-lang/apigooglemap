@@ -83283,5 +83283,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.0065,108.1544": {
+    "display_name": "Đrây Huê, Xã Cư Pơng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đrây Huê",
+      "county": "Xã Cư Pơng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.89509,106.0222": {
+    "display_name": "Xã Đồng Lê, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Đồng Lê",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58572,109.1202": {
+    "display_name": "Mỹ Tường, Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Mỹ Tường",
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.03783,109.2356": {
+    "display_name": "Đường Huyện 25, Xã Phú Hòa 1, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Huyện 25",
+      "county": "Xã Phú Hòa 1",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79327,109.1874": {
+    "display_name": "Khu vực, Nhơn Phú, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Nhơn Phú",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
