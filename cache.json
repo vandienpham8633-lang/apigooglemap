@@ -83460,5 +83460,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.78212,108.1974": {
+    "display_name": "Gram B, Xã Cuôr Đăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Gram B",
+      "county": "Xã Cuôr Đăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.30962,105.8046": {
+    "display_name": "Hải Hà, Phường Nghi Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "village": "Hải Hà",
+      "city": "Phường Nghi Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
