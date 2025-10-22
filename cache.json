@@ -81233,5 +81233,93 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.4252,107.8576": {
+    "display_name": "Xã Ia Lâu, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Lâu",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98488,106.5779": {
+    "display_name": "Nguyễn Thị Minh, Xã Bình Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh",
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.69814,108.0745": {
+    "display_name": "Đường Lê Duẩn, Chư Sê, Xã Chư Sê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Lê Duẩn",
+      "town": "Chư Sê",
+      "county": "Xã Chư Sê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.692583,106.3168": {
+    "display_name": "Xã Hàm Giang, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Giang",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.979399,105.8024": {
+    "display_name": "Phường Hưng Phú, Thành phố Cần Thơ, 94200, Việt Nam",
+    "address": {
+      "city_district": "Phường Hưng Phú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.98602,108.2598": {
+    "display_name": "Tổ dân phố 14, Thôn 6, Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Thôn 6",
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.875328,105.2244": {
+    "display_name": "Xã Thanh Tùng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Thanh Tùng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.4124,107.786": {
+    "display_name": "Thôn 4, Sa Thầy, Xã Sa Thầy, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 4",
+      "town": "Sa Thầy",
+      "county": "Xã Sa Thầy",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
