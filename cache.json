@@ -81722,5 +81722,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.13592,107.8881": {
+    "display_name": "Kanh Chop, Xã Ia Phí, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Kanh Chop",
+      "county": "Xã Ia Phí",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31539,106.563": {
+    "display_name": "Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.58947,107.5842": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.5895,107.5842": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
