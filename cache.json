@@ -82896,5 +82896,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.7828,108.0909": {
+    "display_name": "Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.71598,108.2359": {
+    "display_name": "Quốc lộ 26, Phước An, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "town": "Phước An",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
