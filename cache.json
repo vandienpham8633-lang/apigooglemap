@@ -80974,5 +80974,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.39349,107.8279": {
+    "display_name": "Quốc lộ 49B, Xã Vĩnh Lộc, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 49B",
+      "town": "Xã Vĩnh Lộc",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66489,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
