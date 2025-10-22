@@ -82865,5 +82865,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91887,106.9209": {
+    "display_name": "Đường Phan Đăng Lưu, Phường Long Bình, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Phan Đăng Lưu",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.78305,108.091": {
+    "display_name": "Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.78287,108.091": {
+    "display_name": "Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
