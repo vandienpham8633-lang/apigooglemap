@@ -81931,5 +81931,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.72164,109.21": {
+    "display_name": "Khu vực, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9257,106.8055": {
+    "display_name": "Đường Nguyễn Văn Lung, Cầu Hang, Phường Biên Hòa, Tỉnh Đồng Nai, 76106, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Văn Lung",
+      "quarter": "Cầu Hang",
+      "county": "Phường Biên Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.72166,109.21": {
+    "display_name": "Khu vực, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
