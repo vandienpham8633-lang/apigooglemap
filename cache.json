@@ -81667,5 +81667,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.98596,108.2599": {
+    "display_name": "Tổ dân phố 14, Thôn 6, Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Thôn 6",
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.98599,108.2599": {
+    "display_name": "Tổ dân phố 14, Thôn 6, Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Thôn 6",
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.3154,106.563": {
+    "display_name": "Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.7549,107.9864": {
+    "display_name": "Xã Ia Tôr, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Tôr",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.390491,105.4952": {
+    "display_name": "ĐT. 979B, Xã Vĩnh Thanh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "ĐT. 979B",
+      "county": "Xã Vĩnh Thanh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
