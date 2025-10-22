@@ -81591,5 +81591,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.30933,108.1872": {
+    "display_name": "Xã Trà Tân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Trà Tân",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.37011,108.9737": {
+    "display_name": "647, Xã Phú Mỡ, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "647",
+      "county": "Xã Phú Mỡ",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.41492,107.9423": {
+    "display_name": "Thôn 9, Xã Đăk Hà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 9",
+      "county": "Xã Đăk Hà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.51823,107.54": {
+    "display_name": "Phường Kim Trà, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Kim Trà",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.55861,106.5875": {
+    "display_name": "Đường tỉnh 830, Mỹ Lệ, Xã Mỹ Lệ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 830",
+      "village": "Mỹ Lệ",
+      "county": "Xã Mỹ Lệ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.98598,108.2599": {
+    "display_name": "Tổ dân phố 14, Thôn 6, Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Thôn 6",
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98064,108.2443": {
+    "display_name": "Phường Mũi Né, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Mũi Né",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
