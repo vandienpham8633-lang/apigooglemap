@@ -82749,5 +82749,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.30918,106.0865": {
+    "display_name": "Đường tỉnh 786, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 786",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.74879,109.2094": {
+    "display_name": "Ngô Tất Tố, Khu vực, Ghềnh Ráng, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "road": "Ngô Tất Tố",
+      "quarter": "Khu vực",
+      "suburb": "Ghềnh Ráng",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
