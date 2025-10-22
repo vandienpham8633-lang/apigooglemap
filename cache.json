@@ -82058,5 +82058,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.26984,108.6505": {
+    "display_name": "Xã Tuy Phong, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tuy Phong",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
