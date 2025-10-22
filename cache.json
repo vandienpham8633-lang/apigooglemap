@@ -80691,5 +80691,65 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.34825,104.992": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97097,106.5544": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97096,106.5543": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97095,106.5544": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87889,106.8145": {
+    "display_name": "Bến xe Miền Đông Mới, Xa lộ Hà Nội, Tân Lập, Phường Long Bình, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Bến xe Miền Đông Mới",
+      "road": "Xa lộ Hà Nội",
+      "quarter": "Tân Lập",
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
