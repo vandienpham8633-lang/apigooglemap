@@ -81461,5 +81461,81 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.98487,106.5779": {
+    "display_name": "Nguyễn Thị Minh, Xã Bình Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh",
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.52204,105.673": {
+    "display_name": "Xã Ba Sao, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Ba Sao",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.52203,105.673": {
+    "display_name": "Xã Ba Sao, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Ba Sao",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.522,105.673": {
+    "display_name": "Xã Ba Sao, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Ba Sao",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.42189,107.6606": {
+    "display_name": "Đường Nguyễn Tất Thành, Thủy Châu, Phường Hương Thủy, Hương Thủy, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Tất Thành",
+      "quarter": "Thủy Châu",
+      "suburb": "Phường Hương Thủy",
+      "city": "Hương Thủy",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.986,108.2598": {
+    "display_name": "Tổ dân phố 14, Thôn 6, Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Thôn 6",
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.52473,105.9046": {
+    "display_name": "Xã Đốc Binh Kiều, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đốc Binh Kiều",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
