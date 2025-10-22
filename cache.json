@@ -82918,5 +82918,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.78303,108.091": {
+    "display_name": "Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.572387,106.2251": {
+    "display_name": "Xã Cù Lao Dung, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Cù Lao Dung",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
