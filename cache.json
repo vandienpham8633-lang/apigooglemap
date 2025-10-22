@@ -82127,5 +82127,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.98601,108.2598": {
+    "display_name": "Tổ dân phố 14, Thôn 6, Xã Pơng Drang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Thôn 6",
+      "county": "Xã Pơng Drang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80404,106.8057": {
+    "display_name": "Đường 82, Phường Long Trường, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71350, Việt Nam",
+    "address": {
+      "road": "Đường 82",
+      "suburb": "Phường Long Trường",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.56422,109.0667": {
+    "display_name": "KP.Thiện Chánh, P.Tam Quan Bắc, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Thiện Chánh, P.Tam Quan Bắc",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
