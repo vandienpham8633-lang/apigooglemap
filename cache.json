@@ -83545,5 +83545,182 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91987,106.7353": {
+    "display_name": "Bình Đáng, Phường Bình Hòa, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Bình Đáng",
+      "city_district": "Phường Bình Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82444,106.8095": {
+    "display_name": "Lò Lu, Phường Long Phước, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "road": "Lò Lu",
+      "suburb": "Phường Long Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.0643,105.8237": {
+    "display_name": "Phường Đông Thành, Tỉnh Vĩnh Long, 94111, Việt Nam",
+    "address": {
+      "county": "Phường Đông Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.58665,108.0067": {
+    "display_name": "Xã Ia Ko, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Ko",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.23728,108.712": {
+    "display_name": "Liên Hương, Xã Liên Hương, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Liên Hương",
+      "county": "Xã Liên Hương",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80071,107.8658": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95595,108.0743": {
+    "display_name": "Phường Bình Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Bình Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.6274,106.4892": {
+    "display_name": "Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "town": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.55964,109.0424": {
+    "display_name": "Lý Tự Trọng, KP.7, P.Tam Quan, Tam Quan, Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Lý Tự Trọng",
+      "quarter": "KP.7, P.Tam Quan",
+      "suburb": "Tam Quan",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66503,106.4592": {
+    "display_name": "ĐT. 830, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "ĐT. 830",
+      "town": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47553,105.5921": {
+    "display_name": "Lê Thị Kính, Cao Lãnh, Phường Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Lê Thị Kính",
+      "city": "Cao Lãnh",
+      "county": "Phường Cao Lãnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.9438,108.4383": {
+    "display_name": "DALAT BUS TICKET AND OPEN TOUR, 109, Phan Bội Châu, Khu Golf Valley, Đà Lạt, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, 66100, Việt Nam",
+    "address": {
+      "shop": "DALAT BUS TICKET AND OPEN TOUR",
+      "house_number": "109",
+      "road": "Phan Bội Châu",
+      "neighbourhood": "Khu Golf Valley",
+      "city": "Đà Lạt",
+      "county": "Phường Xuân Hương - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87556,106.7415": {
+    "display_name": "Trường THPT Bình Chiểu, Đường Ngọc Lan, Khu phố 33, Phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Bình Chiểu",
+      "road": "Đường Ngọc Lan",
+      "quarter": "Khu phố 33",
+      "suburb": "Phường Tam Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.24954,108.5882": {
+    "display_name": "Đường Quốc lộ 1 – Trà Phong, Xã Đông Trà Bồng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Quốc lộ 1 – Trà Phong",
+      "county": "Xã Đông Trà Bồng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.99003,108.1107": {
+    "display_name": "Đak Đoa, Xã Đak Đoa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Đak Đoa",
+      "county": "Xã Đak Đoa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
