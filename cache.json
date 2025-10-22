@@ -80887,5 +80887,92 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.96541,107.2798": {
+    "display_name": "18 Gia Đình, Phường Bảo Vinh, Việt Nam",
+    "address": {
+      "village": "18 Gia Đình",
+      "county": "Phường Bảo Vinh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.27538,107.2336": {
+    "display_name": "Đường Quỳnh Trên, A Ngo, Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Quỳnh Trên",
+      "village": "A Ngo",
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96546,107.2799": {
+    "display_name": "18 Gia Đình, Phường Bảo Vinh, Việt Nam",
+    "address": {
+      "village": "18 Gia Đình",
+      "county": "Phường Bảo Vinh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.27539,107.2336": {
+    "display_name": "Đường Quỳnh Trên, A Ngo, Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Quỳnh Trên",
+      "village": "A Ngo",
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.08745,109.2007": {
+    "display_name": "Đường Đường Huyện 22, Ngọc Sơn Đông, Xã Phú Hòa 2, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Đường Huyện 22",
+      "hamlet": "Ngọc Sơn Đông",
+      "county": "Xã Phú Hòa 2",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.0875,109.2007": {
+    "display_name": "Đường Đường Huyện 22, Ngọc Sơn Đông, Xã Phú Hòa 2, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Đường Huyện 22",
+      "hamlet": "Ngọc Sơn Đông",
+      "county": "Xã Phú Hòa 2",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.08755,109.2008": {
+    "display_name": "Đường Đường Huyện 22, Ngọc Sơn Đông, Xã Phú Hòa 2, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Đường Huyện 22",
+      "hamlet": "Ngọc Sơn Đông",
+      "county": "Xã Phú Hòa 2",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96542,107.2799": {
+    "display_name": "18 Gia Đình, Phường Bảo Vinh, Việt Nam",
+    "address": {
+      "village": "18 Gia Đình",
+      "county": "Phường Bảo Vinh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
