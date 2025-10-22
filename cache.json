@@ -81798,5 +81798,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.98489,106.5779": {
+    "display_name": "Nguyễn Thị Minh, Xã Bình Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh",
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.24081,108.1805": {
+    "display_name": "Thôn 6, Xã Ea Drăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Ea Drăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.43045,106.3244": {
+    "display_name": "Tân Hiệp, Xã Châu Thành, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "town": "Tân Hiệp",
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
