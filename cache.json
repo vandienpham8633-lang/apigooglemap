@@ -83416,5 +83416,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57221,108.9981": {
+    "display_name": "Hoàng Diệu, Phường Đông Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Hoàng Diệu",
+      "suburb": "Phường Đông Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58568,109.1202": {
+    "display_name": "Mỹ Tường, Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Mỹ Tường",
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
