@@ -84816,5 +84816,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59715,106.4854": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "county": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78478,106.7547": {
+    "display_name": "Khu phố 22, Phường Bình Trưng, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 22",
+      "suburb": "Phường Bình Trưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09334,107.217": {
+    "display_name": "Đồn Điền 1, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Đồn Điền 1",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03183,107.2865": {
+    "display_name": "Ấp 5, Xã Xuân Bắc, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Xuân Bắc",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
