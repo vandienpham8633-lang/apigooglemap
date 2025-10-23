@@ -84179,5 +84179,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.53126,107.6924": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.91951,105.6065": {
+    "display_name": "Xã An Châu, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã An Châu",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
