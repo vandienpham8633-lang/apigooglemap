@@ -85755,5 +85755,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.71692,106.7019": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
