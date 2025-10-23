@@ -84151,5 +84151,33 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.77929,109.1842": {
+    "display_name": "Tây Sơn, Khu vực, Nhơn Phú, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55111, Việt Nam",
+    "address": {
+      "road": "Tây Sơn",
+      "quarter": "Khu vực",
+      "suburb": "Nhơn Phú",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77943,109.1842": {
+    "display_name": "Tây Sơn, Khu vực, Nhơn Phú, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55111, Việt Nam",
+    "address": {
+      "road": "Tây Sơn",
+      "quarter": "Khu vực",
+      "suburb": "Nhơn Phú",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
