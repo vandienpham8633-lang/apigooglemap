@@ -86444,5 +86444,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.61096,108.9326": {
+    "display_name": "Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87914,108.3419": {
+    "display_name": "CoCoVIP - Limousine Buses Tickets Booking, 214, Nguyễn Duy Hiệu, Phố cổ Hội An, Minh An, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "CoCoVIP - Limousine Buses Tickets Booking",
+      "house_number": "214",
+      "road": "Nguyễn Duy Hiệu",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Minh An",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.17724,106.9709": {
+    "display_name": "Xã Sen Ngư, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Sen Ngư",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77334,106.7922": {
+    "display_name": "Đường Số 35 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường Số 35 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72481,105.2754": {
+    "display_name": "QL. 80B, Xã Phú Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "QL. 80B",
+      "county": "Xã Phú Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
