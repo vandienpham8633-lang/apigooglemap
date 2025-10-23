@@ -86338,5 +86338,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.37996,104.4485": {
+    "display_name": "Khu phố 3, Hà Tiên, Phường Hà Tiên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 3",
+      "city": "Hà Tiên",
+      "county": "Phường Hà Tiên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
