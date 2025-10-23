@@ -86139,5 +86139,161 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.95414,107.9776": {
+    "display_name": "Trần Nhật Duật, Diêu Phú, Phường Diên Hồng, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Trần Nhật Duật",
+      "village": "Diêu Phú",
+      "county": "Phường Diên Hồng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82798,108.0714": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15326,106.59": {
+    "display_name": "Đường 30 Tháng 4, Khu phố 2, Phường Bến Cát, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường 30 Tháng 4",
+      "quarter": "Khu phố 2",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.52676,107.6992": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07196,109.1944": {
+    "display_name": "Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.774566,105.047": {
+    "display_name": "Xã Năm Căn, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Năm Căn",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.343833,105.0363": {
+    "display_name": "Xã Nguyễn Phích, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Nguyễn Phích",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87904,108.3418": {
+    "display_name": "CoCoVIP - Limousine Buses Tickets Booking, 214, Nguyễn Duy Hiệu, Phố cổ Hội An, Minh An, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "CoCoVIP - Limousine Buses Tickets Booking",
+      "house_number": "214",
+      "road": "Nguyễn Duy Hiệu",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Minh An",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64035,107.0475": {
+    "display_name": "Phường Phú Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.799045,106.383": {
+    "display_name": "Xã Nhị Trường, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhị Trường",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.12431,108.7099": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86161,106.6658": {
+    "display_name": "Đỗ Mười, Phường Thới An, Thuận An, Thành phố Hồ Chí Minh, 71516, Việt Nam",
+    "address": {
+      "road": "Đỗ Mười",
+      "suburb": "Phường Thới An",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71516",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.916135,106.3441": {
+    "display_name": "Đồng Khởi, Trà Vinh, Phường Trà Vinh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đồng Khởi",
+      "city": "Trà Vinh",
+      "county": "Phường Trà Vinh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.99341,109.179": {
+    "display_name": "Xã Sơn Thành, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Thành",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
