@@ -85032,5 +85032,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.91991,108.3262": {
+    "display_name": "Đường Võ Nguyên Giáp, Phường Điện Bàn Đông, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "road": "Đường Võ Nguyên Giáp",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.91986,108.3262": {
+    "display_name": "Đường Võ Nguyên Giáp, Phường Điện Bàn Đông, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "road": "Đường Võ Nguyên Giáp",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
