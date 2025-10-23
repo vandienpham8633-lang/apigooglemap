@@ -85721,5 +85721,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97019,109.1063": {
+    "display_name": "Thôn Chánh Hoà, Cát Tường, Phú Gia, Xã Xuân An, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Chánh Hoà, Cát Tường",
+      "village": "Phú Gia",
+      "county": "Xã Xuân An",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9754,106.7197": {
+    "display_name": "Khu phố Bình Phước A, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Bình Phước A",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.31027,107.1922": {
+    "display_name": "Xã A Lưới 1, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã A Lưới 1",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
