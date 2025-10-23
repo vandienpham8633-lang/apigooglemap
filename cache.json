@@ -84046,5 +84046,110 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.65595,107.3939": {
+    "display_name": "Phường Phong Dinh, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Phong Dinh",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.56889,108.5266": {
+    "display_name": "Xã Tam Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Tam Xuân",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.3077,108.1888": {
+    "display_name": "Xã Trà My, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Trà My",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.60293,106.6288": {
+    "display_name": "Đường Đh 20, Mỹ Lộc, Xã Mỹ Lộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Đh 20",
+      "village": "Mỹ Lộc",
+      "county": "Xã Mỹ Lộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.28054,106.3694": {
+    "display_name": "Đường Cách Mạng Tháng Tám, Khu phố 4B, Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Cách Mạng Tháng Tám",
+      "quarter": "Khu phố 4B",
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68819,107.0165": {
+    "display_name": "Long Phú, Xã Phước Thái, Việt Nam",
+    "address": {
+      "village": "Long Phú",
+      "county": "Xã Phước Thái",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51989,105.3375": {
+    "display_name": "Xã Nhơn Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3617,106.0164": {
+    "display_name": "Xã Cái Bè, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Cái Bè",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.689101,105.4879": {
+    "display_name": "Xã Vĩnh Thuận Đông, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Thuận Đông",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.2806,106.3694": {
+    "display_name": "Đường Cách Mạng Tháng Tám, Khu phố 4B, Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Cách Mạng Tháng Tám",
+      "quarter": "Khu phố 4B",
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
