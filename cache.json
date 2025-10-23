@@ -84486,5 +84486,85 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.16792,107.6844": {
+    "display_name": "Xã Nam Đông, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Nam Đông",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.445,106.744": {
+    "display_name": "Xã Gia Thuận, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Gia Thuận",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89114,106.7218": {
+    "display_name": "Đường số 2, Khu chế xuất Linh Trung II, Khu phố 7, Phường Tam Bình, Thuận An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường số 2",
+      "industrial": "Khu chế xuất Linh Trung II",
+      "quarter": "Khu phố 7",
+      "suburb": "Phường Tam Bình",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.13191,108.7961": {
+    "display_name": "Lê Hồng Phong, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Lê Hồng Phong",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.59375,108.5139": {
+    "display_name": "Phường Quảng Phú, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city_district": "Phường Quảng Phú",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.60685,107.8591": {
+    "display_name": "Hẻm 1182 Nguyễn Văn Cừ, Thôn 10 Lộc Ngãi, Thôn 4, Xã Bảo Lâm 1, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Hẻm 1182 Nguyễn Văn Cừ",
+      "quarter": "Thôn 10 Lộc Ngãi",
+      "village": "Thôn 4",
+      "county": "Xã Bảo Lâm 1",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8321,106.6638": {
+    "display_name": "Hẻm 51 Thống Nhất, Phường Thông Tây Hội, Thuận An, Thành phố Hồ Chí Minh, 72100, Việt Nam",
+    "address": {
+      "road": "Hẻm 51 Thống Nhất",
+      "suburb": "Phường Thông Tây Hội",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
