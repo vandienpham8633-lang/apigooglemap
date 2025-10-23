@@ -86650,5 +86650,66 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.41306,107.1312": {
+    "display_name": "Hẻm 1007 Ba Mươi Tháng Tư, Cảng Tàu Côn Đảo, Phường Phước Thắng, Thành phố Hồ Chí Minh, 78000, Việt Nam",
+    "address": {
+      "road": "Hẻm 1007 Ba Mươi Tháng Tư",
+      "industrial": "Cảng Tàu Côn Đảo",
+      "city_district": "Phường Phước Thắng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.5156,108.5147": {
+    "display_name": "Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77824,106.4818": {
+    "display_name": "Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.92545,108.1948": {
+    "display_name": "Phường Điện Bàn Bắc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Điện Bàn Bắc",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37137,106.5859": {
+    "display_name": "Xã Đồng Sơn, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Sơn",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35961,106.756": {
+    "display_name": "Xã Tân Điền, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Điền",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
