@@ -84286,5 +84286,66 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.05052,108.1635": {
+    "display_name": "Đường Hoàng Minh Thảo, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Hoàng Minh Thảo",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08979,108.139": {
+    "display_name": "Phường Hải Vân, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "city": "Phường Hải Vân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89113,106.7217": {
+    "display_name": "Đường số 2, Khu chế xuất Linh Trung II, Khu phố 7, Phường Tam Bình, Thuận An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường số 2",
+      "industrial": "Khu chế xuất Linh Trung II",
+      "quarter": "Khu phố 7",
+      "suburb": "Phường Tam Bình",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.953184,106.5197": {
+    "display_name": "Thủy Sản, Thạnh Phú, Xã Thạnh Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Thủy Sản",
+      "town": "Thạnh Phú",
+      "county": "Xã Thạnh Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89112,106.7217": {
+    "display_name": "Đường số 2, Khu chế xuất Linh Trung II, Khu phố 7, Phường Tam Bình, Thuận An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường số 2",
+      "industrial": "Khu chế xuất Linh Trung II",
+      "quarter": "Khu phố 7",
+      "suburb": "Phường Tam Bình",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
