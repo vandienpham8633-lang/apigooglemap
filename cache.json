@@ -85346,5 +85346,162 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.68087,105.1187": {
+    "display_name": "Quốc lộ 91, Châu Đốc, Phường Châu Đốc, Tỉnh An Giang, 90512, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 91",
+      "city": "Châu Đốc",
+      "county": "Phường Châu Đốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90512",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78626,109.2092": {
+    "display_name": "Trần Hưng Đạo, Khu vực, Đống Đa, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55111, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "quarter": "Khu vực",
+      "suburb": "Đống Đa",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77529,106.6003": {
+    "display_name": "Hẻm 16 Ao Đôi, Phường Bình Trị Đông, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "road": "Hẻm 16 Ao Đôi",
+      "suburb": "Phường Bình Trị Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35992,106.2255": {
+    "display_name": "ĐH.35, Xã Vĩnh Kim, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐH.35",
+      "county": "Xã Vĩnh Kim",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.60577,105.8461": {
+    "display_name": "Đồng Bẩm, Phường Linh Sơn, Tỉnh Thái Nguyên, Việt Nam",
+    "address": {
+      "suburb": "Đồng Bẩm",
+      "city": "Phường Linh Sơn",
+      "state": "Tỉnh Thái Nguyên",
+      "ISO3166-2-lvl4": "VN-69",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.35935,106.0971": {
+    "display_name": "Trần Văn Trà, Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Trần Văn Trà",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96439,106.9199": {
+    "display_name": "Khu phố 10, Ngũ Phúc, Phường Hố Nai, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 10",
+      "village": "Ngũ Phúc",
+      "county": "Phường Hố Nai",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.833485,106.6346": {
+    "display_name": "Xã Thạnh Phong, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Phong",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.22248,108.6378": {
+    "display_name": "Đường Tịnh Phong – Trà Bình, Xã Ba Gia, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Tịnh Phong – Trà Bình",
+      "county": "Xã Ba Gia",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.06249,106.033": {
+    "display_name": "Xã Trà Côn, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Trà Côn",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.63924,108.4612": {
+    "display_name": "Xã Thăng Trường, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Trường",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.3149,107.4779": {
+    "display_name": "Đa Tôn, Xã Phú Lâm, Việt Nam",
+    "address": {
+      "village": "Đa Tôn",
+      "county": "Xã Phú Lâm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.4267,106.0347": {
+    "display_name": "Xã Trà Vong, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Trà Vong",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88702,108.2908": {
+    "display_name": "Đường Hùng Vương, Thanh Hà, Phường Hội An Tây, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "road": "Đường Hùng Vương",
+      "suburb": "Thanh Hà",
+      "city": "Phường Hội An Tây",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
