@@ -84393,5 +84393,98 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.88596,102.7004": {
+    "display_name": "Nà Khoa, Xã Nà Hỳ, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "suburb": "Nà Khoa",
+      "county": "Xã Nà Hỳ",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.27396,105.9281": {
+    "display_name": "Phường Tân Ngãi, Tỉnh Vĩnh Long, 85040, Việt Nam",
+    "address": {
+      "county": "Phường Tân Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85040",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.13203,108.7964": {
+    "display_name": "Lê Hồng Phong, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Lê Hồng Phong",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89109,106.7217": {
+    "display_name": "Đường số 2, Khu chế xuất Linh Trung II, Khu phố 7, Phường Tam Bình, Thuận An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường số 2",
+      "industrial": "Khu chế xuất Linh Trung II",
+      "quarter": "Khu phố 7",
+      "suburb": "Phường Tam Bình",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.16785,107.6844": {
+    "display_name": "Xã Nam Đông, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Nam Đông",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56889,105.9911": {
+    "display_name": "Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Biên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.60677,107.8595": {
+    "display_name": "Hẻm 1182 Nguyễn Văn Cừ, Thôn 10 Lộc Ngãi, Thôn 4, Xã Bảo Lâm 1, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Hẻm 1182 Nguyễn Văn Cừ",
+      "quarter": "Thôn 10 Lộc Ngãi",
+      "village": "Thôn 4",
+      "county": "Xã Bảo Lâm 1",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.01096,105.0891": {
+    "display_name": "Trần Thái Tông, Thông Chữ, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Trần Thái Tông",
+      "quarter": "Thông Chữ",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
