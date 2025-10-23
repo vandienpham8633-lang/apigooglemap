@@ -86350,5 +86350,99 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.90336,108.3218": {
+    "display_name": "Alê Gõ, Xã Ea Drông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Alê Gõ",
+      "county": "Xã Ea Drông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68526,106.5765": {
+    "display_name": "Bùi Thanh Khiết, Ấp 59, Xã Tân Nhựt, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Bùi Thanh Khiết",
+      "village": "Ấp 59",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75138,106.6527": {
+    "display_name": "Bến xe Chợ Lớn, Trang Tử, Khu phố 29, Phường Chợ Lớn, Thành phố Hồ Chí Minh, 73000, Việt Nam",
+    "address": {
+      "amenity": "Bến xe Chợ Lớn",
+      "road": "Trang Tử",
+      "quarter": "Khu phố 29",
+      "suburb": "Phường Chợ Lớn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70563,106.738": {
+    "display_name": "Hẻm 7 Đường Chuyên Dùng Chính, Phường Phú Thuận, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "road": "Hẻm 7 Đường Chuyên Dùng Chính",
+      "city": "Phường Phú Thuận",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07198,109.1944": {
+    "display_name": "Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7374,106.9434": {
+    "display_name": "Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.70757,107.1242": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64036,107.0475": {
+    "display_name": "Phường Phú Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
