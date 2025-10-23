@@ -84347,5 +84347,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.41781,109.0071": {
+    "display_name": "Sơn Hải, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Sơn Hải",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87605,106.6445": {
+    "display_name": "Hiệp Thành 22, Tân Thới Hiệp, Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "road": "Hiệp Thành 22",
+      "suburb": "Tân Thới Hiệp",
+      "city": "Phường Tân Thới Hiệp",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.908823,105.7672": {
+    "display_name": "Xã Đông Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8912,106.7217": {
+    "display_name": "Khu chế xuất Linh Trung II, Khu phố 7, Phường Tam Bình, Thuận An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "industrial": "Khu chế xuất Linh Trung II",
+      "quarter": "Khu phố 7",
+      "suburb": "Phường Tam Bình",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
