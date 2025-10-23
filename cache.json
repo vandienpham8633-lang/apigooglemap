@@ -85776,5 +85776,158 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.915998,106.3439": {
+    "display_name": "Đồng Khởi, Trà Vinh, Phường Trà Vinh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đồng Khởi",
+      "city": "Trà Vinh",
+      "county": "Phường Trà Vinh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86689,106.5897": {
+    "display_name": "Đường Lê Thị My, Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thị My",
+      "city_district": "Xã Xuân Thới Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.52407,106.1035": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15324,106.59": {
+    "display_name": "Đường 30 Tháng 4, Khu phố 2, Phường Bến Cát, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường 30 Tháng 4",
+      "quarter": "Khu phố 2",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38903,105.4267": {
+    "display_name": "Bùi Văn Danh, Phường Long Xuyên, Tỉnh An Giang, 90040, Việt Nam",
+    "address": {
+      "road": "Bùi Văn Danh",
+      "municipality": "Phường Long Xuyên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90040",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70434,105.3821": {
+    "display_name": "Xã An Long, Tỉnh Đồng Tháp, 88000, Việt Nam",
+    "address": {
+      "county": "Xã An Long",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "88000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.528115,105.1454": {
+    "display_name": "Xã U Minh Thượng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã U Minh Thượng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.85764,106.9924": {
+    "display_name": "Lê Văn Duyệt, Phường Phước Long, Việt Nam",
+    "address": {
+      "road": "Lê Văn Duyệt",
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.84455,107.1315": {
+    "display_name": "Xã Triệu Bình, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Triệu Bình",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.10426,108.8024": {
+    "display_name": "Nghĩa Lộ, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Nghĩa Lộ",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70434,105.3822": {
+    "display_name": "Xã An Long, Tỉnh Đồng Tháp, 88000, Việt Nam",
+    "address": {
+      "county": "Xã An Long",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "88000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70432,105.3822": {
+    "display_name": "Xã An Long, Tỉnh Đồng Tháp, 88000, Việt Nam",
+    "address": {
+      "county": "Xã An Long",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "88000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.55108,108.4077": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70433,105.3822": {
+    "display_name": "Xã An Long, Tỉnh Đồng Tháp, 88000, Việt Nam",
+    "address": {
+      "county": "Xã An Long",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "88000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
