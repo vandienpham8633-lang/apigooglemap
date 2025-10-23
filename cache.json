@@ -86534,5 +86534,89 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.905364,106.1146": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7608,106.6022": {
+    "display_name": "Hẻm 130/26 Lê Đình Cẩn, Phường Tân Tạo, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "road": "Hẻm 130/26 Lê Đình Cẩn",
+      "suburb": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97541,106.7196": {
+    "display_name": "Khu phố Bình Phước A, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Bình Phước A",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61091,108.9326": {
+    "display_name": "Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.916086,106.344": {
+    "display_name": "Đồng Khởi, Trà Vinh, Phường Trà Vinh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Đồng Khởi",
+      "city": "Trà Vinh",
+      "county": "Phường Trà Vinh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.12364,107.8939": {
+    "display_name": "Đường tỉnh 661, Kanh Chop, Plei Mrông Yô, Xã Ia Phí, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 661",
+      "hamlet": "Kanh Chop",
+      "village": "Plei Mrông Yô",
+      "county": "Xã Ia Phí",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87907,108.3421": {
+    "display_name": "CoCoVIP - Limousine Buses Tickets Booking, 214, Nguyễn Duy Hiệu, Phố cổ Hội An, Minh An, Phường Hội An, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "amenity": "CoCoVIP - Limousine Buses Tickets Booking",
+      "house_number": "214",
+      "road": "Nguyễn Duy Hiệu",
+      "quarter": "Phố cổ Hội An",
+      "suburb": "Minh An",
+      "city": "Phường Hội An",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
