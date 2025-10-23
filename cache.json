@@ -85929,5 +85929,68 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.09311,107.217": {
+    "display_name": "Đồn Điền 1, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Đồn Điền 1",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97169,106.5552": {
+    "display_name": "Đường Hồ Văn Tắng, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Hồ Văn Tắng",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.5513,108.4082": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09811,105.7159": {
+    "display_name": "Phường Thới An Đông, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới An Đông",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.862583,104.8115": {
+    "display_name": "Cái Đôi Vàm, Xã Cái Đôi Vàm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Cái Đôi Vàm",
+      "county": "Xã Cái Đôi Vàm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71729,106.7016": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
