@@ -85766,5 +85766,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.62721,105.0267": {
+    "display_name": "Xã Linh Hồ, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Linh Hồ",
+      "state": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
