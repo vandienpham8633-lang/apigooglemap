@@ -86072,5 +86072,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.04282,108.8909": {
+    "display_name": "Thống Nhất, Xã Suối Trai, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thống Nhất",
+      "county": "Xã Suối Trai",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47189,105.3866": {
+    "display_name": "Xã Nhơn Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.383041,105.1263": {
+    "display_name": "Đường tỉnh 983, Xã Thới Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 983",
+      "county": "Xã Thới Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80904,106.7616": {
+    "display_name": "The Cloudest - Swim, Dine & Vibe, 141P, Võ Nguyên Giáp, Khu phố 14, Phường Bình Trưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "amenity": "The Cloudest - Swim, Dine & Vibe",
+      "house_number": "141P",
+      "road": "Võ Nguyên Giáp",
+      "quarter": "Khu phố 14",
+      "suburb": "Phường Bình Trưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.19554,106.2005": {
+    "display_name": "Xã Vĩnh Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
