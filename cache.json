@@ -86059,5 +86059,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.13155,107.8906": {
+    "display_name": "Đường tỉnh 661, Kanh Chop, Plei Mrông Yô, Xã Ia Phí, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 661",
+      "hamlet": "Kanh Chop",
+      "village": "Plei Mrông Yô",
+      "county": "Xã Ia Phí",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
