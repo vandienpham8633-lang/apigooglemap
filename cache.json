@@ -84973,5 +84973,64 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.96066,105.7366": {
+    "display_name": "Đô Nghĩa - Tuyến 22B, Đường vành đai 4, Phường Yên Nghĩa, Xã An Khánh, Hà Nội, 10189, Việt Nam",
+    "address": {
+      "highway": "Đô Nghĩa - Tuyến 22B",
+      "road": "Đường vành đai 4",
+      "suburb": "Phường Yên Nghĩa",
+      "city_district": "Xã An Khánh",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10189",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.50663,106.5979": {
+    "display_name": "Đường Võ Xuân Cẩn, Phường Đồng Thuận, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường Võ Xuân Cẩn",
+      "city": "Phường Đồng Thuận",
+      "county": "Phường Đồng Thuận",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.598426,104.9143": {
+    "display_name": "Đường tỉnh 965B, Mương Đào B, Xã Vân Khánh, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 965B",
+      "village": "Mương Đào B",
+      "county": "Xã Vân Khánh",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91886,106.5657": {
+    "display_name": "Cầu An Hạ 1, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Cầu An Hạ 1",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.57912,109.1269": {
+    "display_name": "Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
