@@ -85303,5 +85303,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.83349,106.6346": {
+    "display_name": "Xã Thạnh Phong, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Phong",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01465,106.7698": {
+    "display_name": "Tân Lương, Phường Tân Khánh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Tân Lương",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91881,106.5657": {
+    "display_name": "Cầu An Hạ 1, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Cầu An Hạ 1",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95035,106.5533": {
+    "display_name": "Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
