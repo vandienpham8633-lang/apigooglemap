@@ -83978,5 +83978,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.51796,108.461": {
+    "display_name": "Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
