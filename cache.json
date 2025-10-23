@@ -85503,5 +85503,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "8.650403,105.0513": {
+    "display_name": "Xã Phan Ngọc Hiển, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phan Ngọc Hiển",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98259,109.084": {
+    "display_name": "Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87527,106.6732": {
+    "display_name": "Phường Thới An, Thuận An, Thành phố Hồ Chí Minh, 71515, Việt Nam",
+    "address": {
+      "suburb": "Phường Thới An",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71515",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
