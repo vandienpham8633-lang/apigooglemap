@@ -86501,5 +86501,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92272,106.3072": {
+    "display_name": "Hiệp Hòa, Xã Hiệp Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Hiệp Hòa",
+      "county": "Xã Hiệp Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
