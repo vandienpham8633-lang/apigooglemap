@@ -88682,5 +88682,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.6649,105.7601": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.02015,108.8679": {
+    "display_name": "Xã Long Phụng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Long Phụng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
