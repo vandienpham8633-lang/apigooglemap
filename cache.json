@@ -89303,5 +89303,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.44029,109.0192": {
+    "display_name": "Đường Đô Đốc Bảo, KP.2, P.Bồng Sơn, Phường Bồng Sơn, Thị xã Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đô Đốc Bảo",
+      "quarter": "KP.2, P.Bồng Sơn",
+      "suburb": "Phường Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00764,109.2149": {
+    "display_name": "Đường vào Sân Bay Cam Ranh, Phường Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường vào Sân Bay Cam Ranh",
+      "suburb": "Phường Bắc Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.58665,108.4391": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.284721,105.6461": {
+    "display_name": "Ba Tháng Hai, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Ba Tháng Hai",
+      "town": "Hòa Bình",
+      "county": "Xã Hòa Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
