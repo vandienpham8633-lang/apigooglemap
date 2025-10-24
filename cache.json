@@ -88900,5 +88900,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.077,106.1753": {
+    "display_name": "Quốc lộ 22, Xã Bến Cầu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 22",
+      "town": "Xã Bến Cầu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95806,106.9299": {
+    "display_name": "Đường Điều Xiển, Khu phố 36, Phường Long Bình, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Điều Xiển",
+      "quarter": "Khu phố 36",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
