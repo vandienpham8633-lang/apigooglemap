@@ -89197,5 +89197,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.13675,108.1225": {
+    "display_name": "Đường Nguyễn Văn Cừ, Hòa Hiệp Bắc, Phường Hải Vân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Văn Cừ",
+      "quarter": "Hòa Hiệp Bắc",
+      "city": "Phường Hải Vân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61134,108.9328": {
+    "display_name": "Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
