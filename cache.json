@@ -88482,5 +88482,82 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.29264,109.2382": {
+    "display_name": "Quốc lộ 1, Phong Phú, Xã Ô Loan, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "village": "Phong Phú",
+      "county": "Xã Ô Loan",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25867,106.368": {
+    "display_name": "Phường Phú Tân, Tỉnh Vĩnh Long, 86116, Việt Nam",
+    "address": {
+      "county": "Phường Phú Tân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86116",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21494,109.1745": {
+    "display_name": "Thôn Hòa Hội Bắc, Mỹ Thành, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Hội Bắc, Mỹ Thành",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.47027,108.3837": {
+    "display_name": "Sô Ma Hang, Xã Ia Hiao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Sô Ma Hang",
+      "county": "Xã Ia Hiao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.09863,105.6768": {
+    "display_name": "Xã Quỳnh Phú, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Quỳnh Phú",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21495,109.1745": {
+    "display_name": "Thôn Hòa Hội Bắc, Mỹ Thành, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Hội Bắc, Mỹ Thành",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21496,109.1745": {
+    "display_name": "Thôn Hòa Hội Bắc, Mỹ Thành, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Hội Bắc, Mỹ Thành",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
