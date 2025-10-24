@@ -89507,5 +89507,66 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79877,106.4905": {
+    "display_name": "Khu Công nghiệp Liên Minh, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.56167,108.5105": {
+    "display_name": "Phường Hương Trà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Hương Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09677,105.7163": {
+    "display_name": "Phường Thới An Đông, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới An Đông",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.22077,105.9275": {
+    "display_name": "Quốc lộ 8C, Xã Cẩm Duệ, Hà Tĩnh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 8C",
+      "town": "Xã Cẩm Duệ",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.81093,108.0398": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37128,106.5859": {
+    "display_name": "Xã Đồng Sơn, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Sơn",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
