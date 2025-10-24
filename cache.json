@@ -87794,5 +87794,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82291,108.8582": {
+    "display_name": "Quốc lộ 27B, Trà Co 1, Phước Thắng, Xã Bác Ái, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "hamlet": "Trà Co 1",
+      "village": "Phước Thắng",
+      "county": "Xã Bác Ái",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21549,109.1746": {
+    "display_name": "Thôn Hòa Hội Bắc, Mỹ Thành, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Hội Bắc, Mỹ Thành",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21556,109.1746": {
+    "display_name": "Thôn Hòa Hội Bắc, Mỹ Thành, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Hội Bắc, Mỹ Thành",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
