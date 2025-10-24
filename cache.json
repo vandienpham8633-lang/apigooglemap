@@ -89475,5 +89475,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.53808,108.9516": {
+    "display_name": "Quốc lộ 1, Xã Ninh Phước, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Xã Ninh Phước",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37132,106.5859": {
+    "display_name": "Xã Đồng Sơn, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Sơn",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42702,105.464": {
+    "display_name": "Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
