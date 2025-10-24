@@ -89408,5 +89408,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.5189,106.6632": {
+    "display_name": "Xã Phước Vĩnh Tây, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Phước Vĩnh Tây",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92955,108.0912": {
+    "display_name": "tina, 110, Lê Thị Hồng Gấm, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "amenity": "tina",
+      "house_number": "110",
+      "road": "Lê Thị Hồng Gấm",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
