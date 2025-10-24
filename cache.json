@@ -88201,5 +88201,88 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.52573,107.7047": {
+    "display_name": "Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.37532,107.8082": {
+    "display_name": "Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vang",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37139,106.5859": {
+    "display_name": "Xã Đồng Sơn, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Sơn",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.6399,107.4992": {
+    "display_name": "Phường Phong Quảng, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Phường Phong Quảng",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.20675,107.8308": {
+    "display_name": "Thôn 6, Xã Ea Rốk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Ea Rốk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.63994,107.4991": {
+    "display_name": "Phường Phong Quảng, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Phường Phong Quảng",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95107,107.4036": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.63993,107.4991": {
+    "display_name": "Phường Phong Quảng, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Phường Phong Quảng",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
