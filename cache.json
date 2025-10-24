@@ -90452,5 +90452,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.905336,106.1147": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.24811,105.9068": {
+    "display_name": "Phường Tân Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Tân Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90164,106.8556": {
+    "display_name": "Khu phố 5, Phường Long Hưng, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 5",
+      "county": "Phường Long Hưng",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.50397,106.1386": {
+    "display_name": "Tân Châu, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Châu",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
