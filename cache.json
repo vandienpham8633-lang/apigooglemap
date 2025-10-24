@@ -88846,5 +88846,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.36218,105.3684": {
+    "display_name": "Xã An Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã An Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07706,106.1752": {
+    "display_name": "Quốc lộ 22, Xã Bến Cầu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 22",
+      "town": "Xã Bến Cầu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
