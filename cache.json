@@ -89239,5 +89239,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63095,106.4717": {
+    "display_name": "ĐT. 832, Xã Bình Đức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "ĐT. 832",
+      "county": "Xã Bình Đức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.207887,104.9944": {
+    "display_name": "Xã Khánh An, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Khánh An",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.11859,107.9283": {
+    "display_name": "Đắk Snao, Xã Quảng Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đắk Snao",
+      "county": "Xã Quảng Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
