@@ -86852,5 +86852,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.54838,106.39": {
+    "display_name": "Nguyễn Thị Bảy, Tân An, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Bảy",
+      "city": "Tân An",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.343942,105.3105": {
+    "display_name": "Xã Phong Hiệp, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phong Hiệp",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54839,106.39": {
+    "display_name": "Nguyễn Thị Bảy, Tân An, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Bảy",
+      "city": "Tân An",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
