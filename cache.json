@@ -87899,5 +87899,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.66479,105.7603": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8078,106.6625": {
+    "display_name": "KoTo Cafe, 49, Hậu Giang, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "shop": "KoTo Cafe",
+      "house_number": "49",
+      "road": "Hậu Giang",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
