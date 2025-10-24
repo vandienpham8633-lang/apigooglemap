@@ -88604,5 +88604,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.03683,105.5965": {
+    "display_name": "217, Xã Cốc Pàng, Tỉnh Cao Bằng, Việt Nam",
+    "address": {
+      "road": "217",
+      "town": "Xã Cốc Pàng",
+      "state": "Tỉnh Cao Bằng",
+      "ISO3166-2-lvl4": "VN-04",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.99,108.1109": {
+    "display_name": "Lê Hồng Phong, Đak Đoa, Xã Đak Đoa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Lê Hồng Phong",
+      "town": "Đak Đoa",
+      "county": "Xã Đak Đoa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75781,106.9447": {
+    "display_name": "Mỹ Khoan, Chợ, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "quarter": "Mỹ Khoan",
+      "village": "Chợ",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.49537,106.465": {
+    "display_name": "Xã Tầm Vu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tầm Vu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
