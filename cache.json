@@ -89006,5 +89006,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97253,106.9521": {
+    "display_name": "An Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.19643,108.8766": {
+    "display_name": "Xã Đông Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đông Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94615,108.8548": {
+    "display_name": "Quốc lộ 19, Thôn Tả Giang 1, Tây Giang, Bình Liên, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Tả Giang 1, Tây Giang",
+      "village": "Bình Liên",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.46482,105.346": {
+    "display_name": "Xã Bình Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Bình Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92693,106.8938": {
+    "display_name": "Đường số 5, Khu công nghiệp Loteco, Phường Long Bình, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "road": "Đường số 5",
+      "industrial": "Khu công nghiệp Loteco",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
