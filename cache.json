@@ -89272,5 +89272,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.91304,107.5168": {
+    "display_name": "Xã Avương, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Avương",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
