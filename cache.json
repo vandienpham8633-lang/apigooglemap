@@ -89062,5 +89062,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.55529,105.4861": {
+    "display_name": "Trần Thị Nhượng, Thanh Bình, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Trần Thị Nhượng",
+      "town": "Thanh Bình",
+      "county": "Thanh Bình",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.30777,108.1887": {
+    "display_name": "Xã Trà My, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Trà My",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
