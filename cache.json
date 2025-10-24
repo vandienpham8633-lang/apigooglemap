@@ -86921,5 +86921,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.37542,107.8083": {
+    "display_name": "Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vang",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54837,106.39": {
+    "display_name": "Nguyễn Thị Bảy, Tân An, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Bảy",
+      "city": "Tân An",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
