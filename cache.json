@@ -88796,5 +88796,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.19344,108.1539": {
+    "display_name": "Đắk Rơ Mút, Xã Krông Nô, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đắk Rơ Mút",
+      "county": "Xã Krông Nô",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80784,106.6625": {
+    "display_name": "KoTo Cafe, 49, Hậu Giang, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "shop": "KoTo Cafe",
+      "house_number": "49",
+      "road": "Hậu Giang",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
