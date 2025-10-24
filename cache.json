@@ -88738,5 +88738,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.47687,105.9497": {
+    "display_name": "Xã Hậu Mỹ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Hậu Mỹ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
