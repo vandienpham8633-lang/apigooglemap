@@ -89177,5 +89177,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97248,106.9522": {
+    "display_name": "An Chu, Xã Bình Minh, 76000, Việt Nam",
+    "address": {
+      "village": "An Chu",
+      "county": "Xã Bình Minh",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.340513,105.3064": {
+    "display_name": "Xã Phong Hiệp, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phong Hiệp",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
