@@ -87398,5 +87398,141 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.59669,108.9499": {
+    "display_name": "Đô Vinh, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Đô Vinh",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08501,108.0841": {
+    "display_name": "Đường Số 1, Khu công nghệ cao Đà Nẵng, Phường Liên Chiểu, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "road": "Đường Số 1",
+      "industrial": "Khu công nghệ cao Đà Nẵng",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86002,106.5642": {
+    "display_name": "Trần Thị Nhờ, Xã Bà Điểm, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "road": "Trần Thị Nhờ",
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92671,106.7459": {
+    "display_name": "Chiêu Liêu A, Phường Dĩ An, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Chiêu Liêu A",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82137,106.5965": {
+    "display_name": "Khu công nghiệp Vĩnh Lộc, Phường Bình Tân, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Vĩnh Lộc",
+      "suburb": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75725,106.7221": {
+    "display_name": "Hẻm 54 Trần Xuân Soạn, Phường Tân Thuận, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71800, Việt Nam",
+    "address": {
+      "road": "Hẻm 54 Trần Xuân Soạn",
+      "suburb": "Phường Tân Thuận",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.67857,108.0762": {
+    "display_name": "Chư Sê, Xã Chư Sê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Chư Sê",
+      "county": "Xã Chư Sê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.885036,105.5886": {
+    "display_name": "Xã Tân Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Tân Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.89886,108.3597": {
+    "display_name": "ĐT.603B, Cẩm An, Phường Hội An Tây, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "road": "ĐT.603B",
+      "suburb": "Cẩm An",
+      "city": "Phường Hội An Tây",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21548,109.1747": {
+    "display_name": "Thôn Hòa Hội Bắc, Mỹ Thành, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Hội Bắc, Mỹ Thành",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.54952,105.0125": {
+    "display_name": "Hạ Hòa, Xã Hạ Hòa, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "town": "Hạ Hòa",
+      "county": "Xã Hạ Hòa",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.42142,105.72": {
+    "display_name": "Xã Phú Lộc, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Phú Lộc",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
