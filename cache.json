@@ -90327,5 +90327,75 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.04447,105.3053": {
+    "display_name": "Đá Nổi A, Xã Tân Hiệp, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Đá Nổi A",
+      "county": "Xã Tân Hiệp",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.31805,107.7861": {
+    "display_name": "Miếu Nha, Xã Lộc An, Thành phố Huế, Việt Nam",
+    "address": {
+      "village": "Miếu Nha",
+      "town": "Xã Lộc An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68129,105.3787": {
+    "display_name": "Xã Tân Long, Tỉnh Đồng Tháp, 81615, Việt Nam",
+    "address": {
+      "county": "Xã Tân Long",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81615",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83678,106.6413": {
+    "display_name": "Hẻm 25/88 Bùi Quang Là, Phường An Hội Tây, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Hẻm 25/88 Bùi Quang Là",
+      "suburb": "Phường An Hội Tây",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83676,106.6412": {
+    "display_name": "Hẻm 25/88 Bùi Quang Là, Phường An Hội Tây, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Hẻm 25/88 Bùi Quang Là",
+      "suburb": "Phường An Hội Tây",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35956,108.8094": {
+    "display_name": "Võ Văn Kiệt, Công ty Cổ phần Thép Hòa Phát Dung Quất, Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
