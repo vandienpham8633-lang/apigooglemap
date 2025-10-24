@@ -87364,5 +87364,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.52543,108.3319": {
+    "display_name": "Phú Thiện, Xã Phú Thiện, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Phú Thiện",
+      "county": "Xã Phú Thiện",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.89885,108.3597": {
+    "display_name": "ĐT.603B, Cẩm An, Phường Hội An Tây, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "road": "ĐT.603B",
+      "suburb": "Cẩm An",
+      "city": "Phường Hội An Tây",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
