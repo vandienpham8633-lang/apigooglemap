@@ -87387,5 +87387,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.52544,108.3319": {
+    "display_name": "Phú Thiện, Xã Phú Thiện, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Phú Thiện",
+      "county": "Xã Phú Thiện",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
