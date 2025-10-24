@@ -88190,5 +88190,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.70696,108.3148": {
+    "display_name": "Phước An, Xã Krông Pắc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Phước An",
+      "county": "Xã Krông Pắc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
