@@ -86987,5 +86987,100 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.83236,106.4575": {
+    "display_name": "Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54838,106.3901": {
+    "display_name": "Nguyễn Thị Bảy, Tân An, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Bảy",
+      "city": "Tân An",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44183,107.677": {
+    "display_name": "Xã Phú Hồ, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Hồ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96721,109.3456": {
+    "display_name": "Đông Hòa, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Đông Hòa",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.22746,108.1451": {
+    "display_name": "Xã Đak Sơmei, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Đak Sơmei",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.42398,108.941": {
+    "display_name": "Thôn Mỹ Thành, Ân Mỹ, khu phố Mỹ Đức, Xã Ân Hảo, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Mỹ Thành, Ân Mỹ",
+      "village": "khu phố Mỹ Đức",
+      "county": "Xã Ân Hảo",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.11957,105.8934": {
+    "display_name": "Xã Đông Anh, Hà Nội, 10165, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Anh",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10165",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09564,108.8866": {
+    "display_name": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0601,107.1593": {
+    "display_name": "Dốc Mơ 2, Xã Thống Nhất, Việt Nam",
+    "address": {
+      "village": "Dốc Mơ 2",
+      "county": "Xã Thống Nhất",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
