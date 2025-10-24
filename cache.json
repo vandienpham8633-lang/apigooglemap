@@ -88932,5 +88932,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.0603,107.1596": {
+    "display_name": "Dốc Mơ 3, Xã Thống Nhất, Việt Nam",
+    "address": {
+      "village": "Dốc Mơ 3",
+      "county": "Xã Thống Nhất",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
