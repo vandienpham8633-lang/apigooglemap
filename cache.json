@@ -90397,5 +90397,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.83443,107.2573": {
+    "display_name": "Cam Tiên, Xã Cẩm Mỹ, Việt Nam",
+    "address": {
+      "village": "Cam Tiên",
+      "county": "Xã Cẩm Mỹ",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
