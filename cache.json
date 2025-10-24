@@ -87923,5 +87923,95 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.215,109.1745": {
+    "display_name": "Thôn Hòa Hội Bắc, Mỹ Thành, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Hội Bắc, Mỹ Thành",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.232947,105.4561": {
+    "display_name": "Giá Rai, Phường Giá Rai, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Giá Rai",
+      "county": "Phường Giá Rai",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.66497,105.7601": {
+    "display_name": "Xã Quảng Ngọc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Quảng Ngọc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.11959,105.8934": {
+    "display_name": "Xã Đông Anh, Hà Nội, 10165, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Anh",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10165",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.20686,107.8307": {
+    "display_name": "Thôn 6, Xã Ea Rốk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Ea Rốk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.67608,109.2151": {
+    "display_name": "Vạn Giã, Xã Vạn Ninh, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Vạn Giã",
+      "county": "Xã Vạn Ninh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80778,106.6625": {
+    "display_name": "KoTo Cafe, 49, Hậu Giang, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "shop": "KoTo Cafe",
+      "house_number": "49",
+      "road": "Hậu Giang",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.20682,107.8307": {
+    "display_name": "Thôn 6, Xã Ea Rốk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Ea Rốk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
