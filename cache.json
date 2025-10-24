@@ -89464,5 +89464,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.51295,107.5705": {
+    "display_name": "Đường Trần Tiễn Thành, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Trần Tiễn Thành",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
