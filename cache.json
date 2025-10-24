@@ -87829,5 +87829,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91853,106.5681": {
+    "display_name": "Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21552,109.1747": {
+    "display_name": "Thôn Hòa Hội Bắc, Mỹ Thành, Xã An Lương, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Hội Bắc, Mỹ Thành",
+      "county": "Xã An Lương",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80779,106.6625": {
+    "display_name": "KoTo Cafe, 49, Hậu Giang, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "shop": "KoTo Cafe",
+      "house_number": "49",
+      "road": "Hậu Giang",
+      "suburb": "Phường Tân Sơn Nhất",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
