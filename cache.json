@@ -90616,5 +90616,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90164,106.8555": {
+    "display_name": "Khu phố 5, Phường Long Hưng, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 5",
+      "county": "Phường Long Hưng",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79548,109.183": {
+    "display_name": "Hùng Vương, Khu vực, Nhơn Phú, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "quarter": "Khu vực",
+      "suburb": "Nhơn Phú",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
