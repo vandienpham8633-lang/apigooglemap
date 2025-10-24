@@ -89907,5 +89907,80 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.53271,105.5933": {
+    "display_name": "Xã Đức Thọ, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Đức Thọ",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83683,106.6414": {
+    "display_name": "Hẻm 79/83 Đường Bùi Quang Là, Phường An Hội Tây, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Hẻm 79/83 Đường Bùi Quang Là",
+      "suburb": "Phường An Hội Tây",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68819,105.0746": {
+    "display_name": "Phường Vĩnh Tế, Tỉnh An Giang, 89888, Việt Nam",
+    "address": {
+      "county": "Phường Vĩnh Tế",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "89888",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50373,106.0646": {
+    "display_name": "Xã Thạnh Phú, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Phú",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.80153,108.3566": {
+    "display_name": "Xã Thăng An, Thành phố Đà Nẵng, 05103, Việt Nam",
+    "address": {
+      "town": "Xã Thăng An",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "05103",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.09539,106.3564": {
+    "display_name": "Lộc Khê 4, Phường Gia Lộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Lộc Khê 4",
+      "county": "Phường Gia Lộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.5852,108.4336": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
