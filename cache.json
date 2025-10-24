@@ -89432,5 +89432,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.08827,105.8916": {
+    "display_name": "ĐT. 905, Xã Song Phú, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 905",
+      "county": "Xã Song Phú",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.51296,107.5705": {
+    "display_name": "Đường Trần Tiễn Thành, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Trần Tiễn Thành",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.72718,106.86": {
+    "display_name": "Xã Hướng Hiệp, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hướng Hiệp",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
