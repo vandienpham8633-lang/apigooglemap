@@ -90226,5 +90226,74 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.9295,108.0915": {
+    "display_name": "tina, 110, Lê Thị Hồng Gấm, Phan Thiết, Phường Phan Thiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "amenity": "tina",
+      "house_number": "110",
+      "road": "Lê Thị Hồng Gấm",
+      "city": "Phan Thiết",
+      "county": "Phường Phan Thiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.870954,106.012": {
+    "display_name": "Xã An Phú Tân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Phú Tân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16019,106.7693": {
+    "display_name": "Chòi Dúng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Chòi Dúng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.423821,105.5273": {
+    "display_name": "Phước Long, Xã Phước Long, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Phước Long",
+      "county": "Xã Phước Long",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.32902,107.8292": {
+    "display_name": "Rắc, Ya Ly, Xã Ya Ly, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Rắc",
+      "village": "Ya Ly",
+      "county": "Xã Ya Ly",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74515,106.6375": {
+    "display_name": "Hẻm 240/127 Nguyễn Văn Luông, Phường Bình Phú, Thành phố Hồ Chí Minh, 71910, Việt Nam",
+    "address": {
+      "road": "Hẻm 240/127 Nguyễn Văn Luông",
+      "suburb": "Phường Bình Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71910",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
