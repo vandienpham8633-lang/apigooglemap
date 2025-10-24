@@ -89122,5 +89122,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.26712,109.138": {
+    "display_name": "Hòa Lộc, Xã Tuy An Tây, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hòa Lộc",
+      "county": "Xã Tuy An Tây",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34741,106.0828": {
+    "display_name": "Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.19648,108.8768": {
+    "display_name": "Xã Đông Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đông Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.99278,106.6719": {
+    "display_name": "Khu phố 8, Khu phố 6, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 8",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.4307,107.698": {
+    "display_name": "Phường Hương Thủy, Phú Đa, Hương Thủy, Thành phố Huế, Việt Nam",
+    "address": {
+      "suburb": "Phường Hương Thủy",
+      "town": "Phú Đa",
+      "city": "Hương Thủy",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
