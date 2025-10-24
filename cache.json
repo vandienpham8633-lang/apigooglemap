@@ -89815,5 +89815,97 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.58578,105.1823": {
+    "display_name": "Xã Vĩnh Thạnh Trung, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Thạnh Trung",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65473,106.6489": {
+    "display_name": "Xã Hưng Long, Thành phố Hồ Chí Minh, 71812, Việt Nam",
+    "address": {
+      "city_district": "Xã Hưng Long",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71812",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.454865,106.0888": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.544997,105.6331": {
+    "display_name": "Xã Tân Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Tân Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.923281,106.0142": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8032,105.1149": {
+    "display_name": "Xã Phú Hữu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Phú Hữu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37128,106.586": {
+    "display_name": "Xã Đồng Sơn, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Sơn",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56432,106.4394": {
+    "display_name": "Cây Khế, Xã Tân Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Cây Khế",
+      "county": "Xã Tân Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50433,105.1118": {
+    "display_name": "Xã Thạnh Mỹ Tây, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Mỹ Tây",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
