@@ -86711,5 +86711,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.54613,105.5583": {
+    "display_name": "Quốc lộ 15, Xã Đức Minh, Hà Tĩnh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 15",
+      "town": "Xã Đức Minh",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.976762,105.0394": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95142,107.4029": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.41302,107.1312": {
+    "display_name": "Hẻm 1007 Ba Mươi Tháng Tư, Cảng Tàu Côn Đảo, Phường Phước Thắng, Thành phố Hồ Chí Minh, 78000, Việt Nam",
+    "address": {
+      "road": "Hẻm 1007 Ba Mươi Tháng Tư",
+      "industrial": "Cảng Tàu Côn Đảo",
+      "city_district": "Phường Phước Thắng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.37138,106.5859": {
+    "display_name": "Xã Đồng Sơn, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Sơn",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
