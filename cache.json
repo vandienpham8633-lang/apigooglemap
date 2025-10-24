@@ -90406,5 +90406,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.03467,108.2279": {
+    "display_name": "Làng Thể thao Tuyên Sơn, Nại Nam 2, Phường Hòa Cường, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "leisure": "Làng Thể thao Tuyên Sơn",
+      "road": "Nại Nam 2",
+      "city": "Phường Hòa Cường",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.36629,108.6719": {
+    "display_name": "Đường tỉnh 637, Làng K2, Vĩnh Sơn, Xã Vĩnh Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 637",
+      "village": "Làng K2, Vĩnh Sơn",
+      "county": "Xã Vĩnh Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7056,106.738": {
+    "display_name": "Hẻm 7 Đường Chuyên Dùng Chính, Phường Phú Thuận, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "road": "Hẻm 7 Đường Chuyên Dùng Chính",
+      "city": "Phường Phú Thuận",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58289,109.1276": {
+    "display_name": "Mỹ Tường, Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Mỹ Tường",
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
