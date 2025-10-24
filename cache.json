@@ -89084,5 +89084,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.69145,108.0544": {
+    "display_name": "Trần Nhật Duật, Tổ dân phố 7, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "road": "Trần Nhật Duật",
+      "suburb": "Tổ dân phố 7",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.8765,109.1422": {
+    "display_name": "Thôn Lộc Ngãi, Phước Quang, Xã Tuy Phước Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Lộc Ngãi, Phước Quang",
+      "county": "Xã Tuy Phước Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
