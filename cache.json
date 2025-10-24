@@ -88284,5 +88284,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.27994,109.2475": {
+    "display_name": "Xã Ô Loan, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Ô Loan",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
