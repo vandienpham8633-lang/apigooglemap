@@ -88650,5 +88650,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.0369,105.5966": {
+    "display_name": "217, Xã Cốc Pàng, Tỉnh Cao Bằng, Việt Nam",
+    "address": {
+      "road": "217",
+      "town": "Xã Cốc Pàng",
+      "state": "Tỉnh Cao Bằng",
+      "ISO3166-2-lvl4": "VN-04",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.19345,108.1539": {
+    "display_name": "Đắk Rơ Mút, Xã Krông Nô, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đắk Rơ Mút",
+      "county": "Xã Krông Nô",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.02024,108.8677": {
+    "display_name": "Xã Long Phụng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Long Phụng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
