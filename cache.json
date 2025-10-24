@@ -89282,5 +89282,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.29777,107.9942": {
+    "display_name": "Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.86304,105.8138": {
+    "display_name": "Ngõ 04 Đường Số 02 Thôn Nam Bình, Xã Hoằng Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "road": "Ngõ 04 Đường Số 02 Thôn Nam Bình",
+      "town": "Xã Hoằng Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
