@@ -88559,5 +88559,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.11062,106.5774": {
+    "display_name": "Phường Long Nguyên, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "city_district": "Phường Long Nguyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
