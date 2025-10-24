@@ -90688,5 +90688,29 @@
       "country": "Indonesia",
       "country_code": "id"
     }
+  },
+  "11.57229,104.9173": {
+    "display_name": "វិថី ឧកញ៉ា អ៊ីង ប៊ុនហ៊ូវ (១០៨), សង្កាត់វត្តភ្នំ, Quận Daun Penh, Phnôm Pênh, 120211, Cao Miên",
+    "address": {
+      "road": "វិថី ឧកញ៉ា អ៊ីង ប៊ុនហ៊ូវ (១០៨)",
+      "village": "សង្កាត់វត្តភ្នំ",
+      "town": "Quận Daun Penh",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "120211",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "39.23726,-123.15": {
+    "display_name": "CA 20, Mendocino County, Ca Li, Hoa Kỳ",
+    "address": {
+      "road": "CA 20",
+      "county": "Mendocino County",
+      "state": "Ca Li",
+      "ISO3166-2-lvl4": "US-CA",
+      "country": "Hoa Kỳ",
+      "country_code": "us"
+    }
   }
 }
