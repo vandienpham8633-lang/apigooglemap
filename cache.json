@@ -90295,5 +90295,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.53464,107.9555": {
+    "display_name": "Thôn 5B, Xã Hòa Ninh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 5B",
+      "county": "Xã Hòa Ninh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.74509,108.3473": {
+    "display_name": "Nghĩa Hiệp, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Nghĩa Hiệp",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929923,106.3103": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
