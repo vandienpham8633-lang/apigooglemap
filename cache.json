@@ -90154,5 +90154,67 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97594,106.72": {
+    "display_name": "Khu phố Bình Phước A, Phường An Phú, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Bình Phước A",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.93046,108.2687": {
+    "display_name": "Đường số 6, Khu công nghiệp Điện Nam – Điện Ngọc, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường số 6",
+      "industrial": "Khu công nghiệp Điện Nam – Điện Ngọc",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95795,106.9283": {
+    "display_name": "Đường Điều Xiển, Khu phố 36, Phường Long Bình, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Điều Xiển",
+      "quarter": "Khu phố 36",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "24.3163,54.63293": {
+    "display_name": "3, شارع العَجائِب, بني ياس, Abu Dhabi, أبوظبي, Abu Dhabi, 24407, Các Tiểu vương quốc Ả Rập Thống nhất",
+    "address": {
+      "house_number": "3",
+      "road": "شارع العَجائِب",
+      "suburb": "بني ياس",
+      "city": "Abu Dhabi",
+      "county": "أبوظبي",
+      "state": "Abu Dhabi",
+      "ISO3166-2-lvl4": "AE-AZ",
+      "postcode": "24407",
+      "country": "Các Tiểu vương quốc Ả Rập Thống nhất",
+      "country_code": "ae"
+    }
+  },
+  "10.77959,106.677": {
+    "display_name": "Hẻm 377 Cách mạng tháng 8, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70150, Việt Nam",
+    "address": {
+      "road": "Hẻm 377 Cách mạng tháng 8",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
