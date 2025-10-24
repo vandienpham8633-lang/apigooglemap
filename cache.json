@@ -89360,5 +89360,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.72683,106.9851": {
+    "display_name": "Xóm Gò – Bà Ký, Xã Long Phước, Việt Nam",
+    "address": {
+      "village": "Xóm Gò – Bà Ký",
+      "county": "Xã Long Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.68448,106.2339": {
+    "display_name": "Đông Hiệp, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Đông Hiệp",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
