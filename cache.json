@@ -90507,5 +90507,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86487,106.7787": {
+    "display_name": "Đường số 15, Khu chế xuất Linh Trung I, Khu phố 14, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "road": "Đường số 15",
+      "industrial": "Khu chế xuất Linh Trung I",
+      "quarter": "Khu phố 14",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.28671,105.5726": {
+    "display_name": "Rạch Gia - Xã Lò, Cái Đôi, Ấp Tân Định, Xã Lai Vung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Rạch Gia - Xã Lò",
+      "quarter": "Cái Đôi",
+      "hamlet": "Ấp Tân Định",
+      "town": "Xã Lai Vung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79549,109.183": {
+    "display_name": "Hùng Vương, Khu vực, Nhơn Phú, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "quarter": "Khu vực",
+      "suburb": "Nhơn Phú",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
