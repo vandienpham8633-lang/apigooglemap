@@ -88941,5 +88941,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.24811,105.9066": {
+    "display_name": "Phường Tân Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Tân Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06024,107.1594": {
+    "display_name": "Dốc Mơ 3, Xã Thống Nhất, Việt Nam",
+    "address": {
+      "village": "Dốc Mơ 3",
+      "county": "Xã Thống Nhất",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.01461,108.8704": {
+    "display_name": "ĐT.624B, Xã Mỏ Cày, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "ĐT.624B",
+      "county": "Xã Mỏ Cày",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86567,106.6525": {
+    "display_name": "Phường Thới An, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "suburb": "Phường Thới An",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
