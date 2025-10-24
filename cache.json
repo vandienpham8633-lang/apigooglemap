@@ -87082,5 +87082,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90659,106.6325": {
+    "display_name": "Đường Đt 2-5, Xã Đông Thạnh, Thành phố Hồ Chí Minh, 71716, Việt Nam",
+    "address": {
+      "road": "Đường Đt 2-5",
+      "city_district": "Xã Đông Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71716",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.96716,109.3456": {
+    "display_name": "Đông Hòa, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Đông Hòa",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06015,107.1596": {
+    "display_name": "Dốc Mơ 3, Xã Thống Nhất, Việt Nam",
+    "address": {
+      "village": "Dốc Mơ 3",
+      "county": "Xã Thống Nhất",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.35583,107.9985": {
+    "display_name": "Bệnh viện Đa khoa tỉnh Quảng Ngãi 2, 224, Bà Triệu, Quang Trung, Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa tỉnh Quảng Ngãi 2",
+      "house_number": "224",
+      "road": "Bà Triệu",
+      "suburb": "Quang Trung",
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
