@@ -89109,5 +89109,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.44028,109.0192": {
+    "display_name": "Đường Đô Đốc Bảo, KP.2, P.Bồng Sơn, Phường Bồng Sơn, Thị xã Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đô Đốc Bảo",
+      "quarter": "KP.2, P.Bồng Sơn",
+      "suburb": "Phường Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
