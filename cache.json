@@ -90216,5 +90216,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.28295,108.8065": {
+    "display_name": "Xã Tây Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tây Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
