@@ -96514,5 +96514,204 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79835,106.4911": {
+    "display_name": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM, Đường Tỉnh 825, Khu Công nghiệp Liên Minh, Xã Đức Hòa, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "office": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM",
+      "road": "Đường Tỉnh 825",
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "town": "Xã Đức Hòa",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63201,106.7311": {
+    "display_name": "KDC Long Hậu, Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "residential": "KDC Long Hậu",
+      "town": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.36042,106.057": {
+    "display_name": "Xã Châu Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.530252,106.1805": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.92388,107.6299": {
+    "display_name": "Xã Đông Giang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Đông Giang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.22667,108.0885": {
+    "display_name": "chùalăng Cô, An Cư Đông, Lăng Cô, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "amenity": "chùalăng Cô",
+      "road": "An Cư Đông",
+      "town": "Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.530137,106.1806": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63219,106.7312": {
+    "display_name": "KDC Long Hậu, Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "residential": "KDC Long Hậu",
+      "town": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.36038,106.0569": {
+    "display_name": "Xã Châu Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.98003,108.1467": {
+    "display_name": "Xã Hòa Vang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hòa Vang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.530105,106.1806": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.49012,108.3631": {
+    "display_name": "Xã Tiên Phước, Thành phố Đà Nẵng, 52606, Việt Nam",
+    "address": {
+      "town": "Xã Tiên Phước",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "52606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.2266,108.0886": {
+    "display_name": "chùalăng Cô, An Cư Đông, Lăng Cô, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "amenity": "chùalăng Cô",
+      "road": "An Cư Đông",
+      "town": "Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08351,108.2182": {
+    "display_name": "Đường Ngô Chi Lan, Thanh Bình, Phường Hải Châu, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Đường Ngô Chi Lan",
+      "quarter": "Thanh Bình",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98588,108.0078": {
+    "display_name": "Pleiku, Phường Pleiku, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "city": "Pleiku",
+      "county": "Phường Pleiku",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80068,107.8662": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.45188,109.2211": {
+    "display_name": "Lương Văn Chánh, Sông Cầu, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Lương Văn Chánh",
+      "town": "Sông Cầu",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.50401,106.1386": {
+    "display_name": "Tân Châu, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Châu",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
