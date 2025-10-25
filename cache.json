@@ -96954,5 +96954,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.33886,105.8656": {
+    "display_name": "Phường Thành Sen, Hà Tĩnh, 45100, Việt Nam",
+    "address": {
+      "city": "Phường Thành Sen",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "postcode": "45100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.71784,107.9899": {
+    "display_name": "Thôn 8, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53313,108.9486": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53314,108.9486": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
