@@ -95092,5 +95092,98 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.9511,106.662": {
+    "display_name": "Phú Thọ 5, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, 75107, Việt Nam",
+    "address": {
+      "quarter": "Phú Thọ 5",
+      "city_district": "Phường Thủ Dầu Một",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.24827,105.9069": {
+    "display_name": "Phường Tân Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Tân Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05615,107.574": {
+    "display_name": "Xã Trà Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Trà Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.4418,107.6205": {
+    "display_name": "Kiệt 203 Nguyễn Tất Thành, Thủy Dương, Thanh Thủy, Phường Thanh Thủy, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Kiệt 203 Nguyễn Tất Thành",
+      "quarter": "Thủy Dương",
+      "town": "Thanh Thủy",
+      "county": "Phường Thanh Thủy",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.909,108.2663": {
+    "display_name": "Hùng Vương, Buôn Hồ, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "town": "Buôn Hồ",
+      "county": "Phường Buôn Hồ",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.04601,109.2504": {
+    "display_name": "Mỹ Thành, Xã Phú Hòa 1, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "hamlet": "Mỹ Thành",
+      "county": "Xã Phú Hòa 1",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08354,108.2182": {
+    "display_name": "Đường Ngô Chi Lan, Thanh Bình, Phường Hải Châu, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Đường Ngô Chi Lan",
+      "quarter": "Thanh Bình",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.33403,108.9031": {
+    "display_name": "Đường ven biển Ninh Thuận, Phước Diêm, Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường ven biển Ninh Thuận",
+      "village": "Phước Diêm",
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
