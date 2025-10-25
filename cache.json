@@ -91194,5 +91194,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.45878,109.0724": {
+    "display_name": "hương lộ 8 (Bình Chương - Hoài Hải), khu phố Xuân Khánh, Phường Hoài Nhơn Đông, Khánh Trạch, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "hương lộ 8 (Bình Chương - Hoài Hải)",
+      "hamlet": "khu phố Xuân Khánh, Phường Hoài Nhơn Đông",
+      "village": "Khánh Trạch",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94582,109.0827": {
+    "display_name": "Đướng Trương Vãn Đa, KV.Châu Thành, P.Nhơn Thành, Bắc Thượng, Phường An Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng Trương Vãn Đa",
+      "quarter": "KV.Châu Thành, P.Nhơn Thành",
+      "village": "Bắc Thượng",
+      "county": "Phường An Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88522,108.0974": {
+    "display_name": "Xã Ia Băng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Băng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.34496,109.2642": {
+    "display_name": "Phú Hội, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Hội",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
