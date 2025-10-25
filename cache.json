@@ -91926,5 +91926,68 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.2708,109.0295": {
+    "display_name": "Đường tỉnh 653C, Thôn Thượng, Xã Diên Lâm, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 653C",
+      "village": "Thôn Thượng",
+      "county": "Xã Diên Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59428,107.9422": {
+    "display_name": "Đường CN 10, Khu công nghiệp Hòa Phú, Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 10",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.5942,107.9423": {
+    "display_name": "Đường CN 10, Khu công nghiệp Hòa Phú, Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 10",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.44799,108.6024": {
+    "display_name": "Khu Phức Hợp Chu Lai - Trường Hải, Xã Núi Thành, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "industrial": "Khu Phức Hợp Chu Lai - Trường Hải",
+      "town": "Xã Núi Thành",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59421,107.9424": {
+    "display_name": "Đường CN 10, Khu công nghiệp Hòa Phú, Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 10",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
