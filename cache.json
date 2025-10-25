@@ -93646,5 +93646,84 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.17313,106.6816": {
+    "display_name": "Xã Thạnh Phước, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Phước",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.10709,108.1056": {
+    "display_name": "Thôn 8, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35964,108.8095": {
+    "display_name": "Võ Văn Kiệt, Công ty Cổ phần Thép Hòa Phát Dung Quất, Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81995,105.515": {
+    "display_name": "Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.19388,108.3702": {
+    "display_name": "Quốc lộ 1, Xã Lương Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Lương Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73642,106.5852": {
+    "display_name": "Đường Số 7, Khu công nghiệp Tân Tạo, Phường Tân Tạo, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Đường Số 7",
+      "industrial": "Khu công nghiệp Tân Tạo",
+      "suburb": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950626,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
