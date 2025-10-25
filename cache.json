@@ -97030,5 +97030,68 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.05258,108.1496": {
+    "display_name": "Hòa Khánh Nam, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "quarter": "Hòa Khánh Nam",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44143,107.6213": {
+    "display_name": "Kiệt 237 Nguyễn Tất Thành, Thủy Dương, Thanh Thủy, Phường Thanh Thủy, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Kiệt 237 Nguyễn Tất Thành",
+      "quarter": "Thủy Dương",
+      "town": "Thanh Thủy",
+      "county": "Phường Thanh Thủy",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08356,108.2182": {
+    "display_name": "Đường Ngô Chi Lan, Thanh Bình, Phường Hải Châu, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "road": "Đường Ngô Chi Lan",
+      "quarter": "Thanh Bình",
+      "city": "Phường Hải Châu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79766,106.6352": {
+    "display_name": "Hẻm 91/26 Trần Tấn, Khu phố 45, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 91/26 Trần Tấn",
+      "quarter": "Khu phố 45",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8026,106.489": {
+    "display_name": "Đường Tỉnh 825, Khu Công nghiệp Liên Minh, Xã Đức Hòa, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Tỉnh 825",
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "town": "Xã Đức Hòa",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
