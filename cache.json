@@ -91374,5 +91374,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.47285,109.0329": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68787,108.3853": {
+    "display_name": "Tân Lập 1, Xã Ea Phê, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Lập 1",
+      "county": "Xã Ea Phê",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25505,104.6031": {
+    "display_name": "Xà Ngách, Xã Kiên Lương, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Xà Ngách",
+      "county": "Xã Kiên Lương",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
