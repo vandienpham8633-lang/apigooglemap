@@ -95648,5 +95648,105 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.929704,105.7577": {
+    "display_name": "Xã Đông Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7514,106.6713": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.997052,105.0965": {
+    "display_name": "Khu phố 2, Rạch Giá, Phường Rạch Giá, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 2",
+      "city": "Rạch Giá",
+      "county": "Phường Rạch Giá",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929667,105.7577": {
+    "display_name": "Xã Đông Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.5449,105.4931": {
+    "display_name": "Xã Sơn Tiến, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Sơn Tiến",
+      "village": "Xã Sơn Tiến",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76832,106.7931": {
+    "display_name": "Đường Số 57 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "road": "Đường Số 57 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76833,106.7931": {
+    "display_name": "Đường Số 57 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "road": "Đường Số 57 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55048,109.0228": {
+    "display_name": "Phường Đông Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Đông Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.421628,105.9214": {
+    "display_name": "Xã Ngọc Tố, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Ngọc Tố",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
