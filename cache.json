@@ -97470,5 +97470,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.19789,108.9619": {
+    "display_name": "Xã Tây Sơn, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
