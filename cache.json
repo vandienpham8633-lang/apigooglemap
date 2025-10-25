@@ -95489,5 +95489,164 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.97421,105.9703": {
+    "display_name": "Xã Nga Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Nga Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82312,106.9058": {
+    "display_name": "Đường Duơng Diên Nghệ, Long Khánh 2, Xã An Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Duơng Diên Nghệ",
+      "quarter": "Long Khánh 2",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.14362,107.7347": {
+    "display_name": "La Hồ, Xã Khe Tre, Thành phố Huế, Việt Nam",
+    "address": {
+      "village": "La Hồ",
+      "town": "Xã Khe Tre",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.1611,108.125": {
+    "display_name": "Quốc lộ 40B, Xã Nam Trà My, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 40B",
+      "town": "Xã Nam Trà My",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75143,106.6713": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.83762,105.047": {
+    "display_name": "Bào Trâm, Xã Tây Yên, Tỉnh An Giang, 91800, Việt Nam",
+    "address": {
+      "village": "Bào Trâm",
+      "county": "Xã Tây Yên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "91800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.16008,108.748": {
+    "display_name": "Tịnh Hà, Xã Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Tịnh Hà",
+      "county": "Xã Sơn Tịnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929887,105.7579": {
+    "display_name": "Xã Đông Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76834,106.7931": {
+    "display_name": "Đường Số 57 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "road": "Đường Số 57 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75137,106.6713": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.506922,105.5359": {
+    "display_name": "Xã Ninh Quới, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Ninh Quới",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.362898,105.1173": {
+    "display_name": "Thới Bình, Xã Thới Bình, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Thới Bình",
+      "county": "Xã Thới Bình",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.02675,105.5887": {
+    "display_name": "Xã Cốc Pàng, Tỉnh Cao Bằng, Việt Nam",
+    "address": {
+      "town": "Xã Cốc Pàng",
+      "state": "Tỉnh Cao Bằng",
+      "ISO3166-2-lvl4": "VN-04",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929708,105.7579": {
+    "display_name": "Xã Đông Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
