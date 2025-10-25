@@ -94711,5 +94711,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.12442,108.808": {
+    "display_name": "Lê Trung Đình, Nguyễn Nghiêm, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Lê Trung Đình",
+      "suburb": "Nguyễn Nghiêm",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05229,106.4939": {
+    "display_name": "Gót Chàng, Xã Nhuận Đức, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Gót Chàng",
+      "city_district": "Xã Nhuận Đức",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
