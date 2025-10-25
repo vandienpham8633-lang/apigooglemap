@@ -94812,5 +94812,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.37684,109.0201": {
+    "display_name": "KP.Lại Đức, P.Hoài Đức, Phường Bồng Sơn, khu phố Lại Đức, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Lại Đức, P.Hoài Đức",
+      "suburb": "Phường Bồng Sơn",
+      "village": "khu phố Lại Đức",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
