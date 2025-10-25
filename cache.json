@@ -92120,5 +92120,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.01459,106.4015": {
+    "display_name": "Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
