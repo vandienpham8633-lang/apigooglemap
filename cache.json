@@ -91689,5 +91689,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.05231,106.494": {
+    "display_name": "Gót Chàng, Xã Nhuận Đức, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Gót Chàng",
+      "city_district": "Xã Nhuận Đức",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05235,106.494": {
+    "display_name": "Gót Chàng, Xã Nhuận Đức, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Gót Chàng",
+      "city_district": "Xã Nhuận Đức",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.927283,106.3406": {
+    "display_name": "Trà Vinh, Phường Trà Vinh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "city": "Trà Vinh",
+      "county": "Phường Trà Vinh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
