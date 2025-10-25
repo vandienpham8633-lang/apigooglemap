@@ -91989,5 +91989,43 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.72821,106.6853": {
+    "display_name": "Nguyễn Văn Linh, Xã Bình Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Linh",
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47286,109.0329": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.5943,107.9422": {
+    "display_name": "Đường CN 10, Khu công nghiệp Hòa Phú, Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 10",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
