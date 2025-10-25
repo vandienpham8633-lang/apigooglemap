@@ -94865,5 +94865,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.53259,107.1126": {
+    "display_name": "Phường Tân Hải, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tân Hải",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
