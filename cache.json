@@ -94982,5 +94982,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.18097,105.0791": {
+    "display_name": "Hiệp Tân, Xã Mỹ Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hiệp Tân",
+      "county": "Xã Mỹ Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.37539,107.8082": {
+    "display_name": "Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vang",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.781698,105.0671": {
+    "display_name": "Tây Sơn 3, Xã An Biên, Tỉnh An Giang, 91800, Việt Nam",
+    "address": {
+      "village": "Tây Sơn 3",
+      "county": "Xã An Biên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "91800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
