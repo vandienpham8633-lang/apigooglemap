@@ -91275,5 +91275,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.16947,108.3623": {
+    "display_name": "Trà Phong, Xã Tây Trà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Trà Phong",
+      "county": "Xã Tây Trà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.376549,105.5696": {
+    "display_name": "Xã Châu Thới, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Châu Thới",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94581,109.0827": {
+    "display_name": "Đướng Trương Vãn Đa, KV.Châu Thành, P.Nhơn Thành, Bắc Thượng, Phường An Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng Trương Vãn Đa",
+      "quarter": "KV.Châu Thành, P.Nhơn Thành",
+      "village": "Bắc Thượng",
+      "county": "Phường An Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
