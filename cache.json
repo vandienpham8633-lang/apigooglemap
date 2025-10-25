@@ -96788,5 +96788,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.50054,109.107": {
+    "display_name": "Ninh Phụng, Phường Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Ninh Phụng",
+      "county": "Phường Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09732,105.2226": {
+    "display_name": "Kinh 3A, Tân Thạnh, Xã Thạnh Đông, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Kinh 3A",
+      "village": "Tân Thạnh",
+      "county": "Xã Thạnh Đông",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94981,109.1641": {
+    "display_name": "Thôn Hòa Tây, Nhơn Hạnh, Phường An Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Hòa Tây, Nhơn Hạnh",
+      "county": "Phường An Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09726,105.2226": {
+    "display_name": "Kinh 3A, Tân Thạnh, Xã Thạnh Đông, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Kinh 3A",
+      "village": "Tân Thạnh",
+      "county": "Xã Thạnh Đông",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09728,105.2226": {
+    "display_name": "Kinh 3A, Tân Thạnh, Xã Thạnh Đông, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Kinh 3A",
+      "village": "Tân Thạnh",
+      "county": "Xã Thạnh Đông",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
