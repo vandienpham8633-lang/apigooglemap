@@ -97205,5 +97205,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.69904,108.0635": {
+    "display_name": "Đường Nguyễn Thượng Hiền, Phường Tân An, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Thượng Hiền",
+      "county": "Phường Tân An",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51185,108.9455": {
+    "display_name": "Đặc khu Phú Quý, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Đặc khu Phú Quý",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
