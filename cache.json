@@ -93497,5 +93497,154 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.457603,106.0877": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.55531,107.9558": {
+    "display_name": "An Na, Xã Ea Na, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "An Na",
+      "county": "Xã Ea Na",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83354,106.7688": {
+    "display_name": "112C, Đường số 61, Phường Phước Long, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71211, Việt Nam",
+    "address": {
+      "house_number": "112C",
+      "road": "Đường số 61",
+      "suburb": "Phường Phước Long",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71211",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950626,106.0346": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950621,106.0346": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.10707,108.1057": {
+    "display_name": "Thôn 8, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77184,106.6298": {
+    "display_name": "Hẻm 68 Cây Keo, Khu phố 28, Phường Phú Thạnh, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "road": "Hẻm 68 Cây Keo",
+      "quarter": "Khu phố 28",
+      "suburb": "Phường Phú Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950615,106.0346": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03426,106.7626": {
+    "display_name": "Đường Lê Quang Định, Bình Khánh, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Lê Quang Định",
+      "quarter": "Bình Khánh",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.70305,107.433": {
+    "display_name": "Phong Phú, Phường Phong Phú, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Phong Phú",
+      "county": "Phường Phong Phú",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950602,106.0346": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.10708,108.1057": {
+    "display_name": "Thôn 8, Xã Ea Khăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Xã Ea Khăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77183,106.6299": {
+    "display_name": "Hẻm 1 Nguyễn Mỹ Ca, Khu phố 28, Phường Phú Thạnh, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "road": "Hẻm 1 Nguyễn Mỹ Ca",
+      "quarter": "Khu phố 28",
+      "suburb": "Phường Phú Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
