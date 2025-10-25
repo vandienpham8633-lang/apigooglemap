@@ -94612,5 +94612,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.01025,107.8943": {
+    "display_name": "Xã Ia Hrung, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrung",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
