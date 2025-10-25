@@ -91513,5 +91513,95 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06344,108.2443": {
+    "display_name": "Kova Diamond, 27, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Kova Diamond",
+      "house_number": "27",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88396,107.733": {
+    "display_name": "Xã Ia Krêl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Krêl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.915635,106.0771": {
+    "display_name": "Xã Cầu Kè, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Cầu Kè",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.786504,105.4684": {
+    "display_name": "Lê Hồng Phong, Phường Vị Tân, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Lê Hồng Phong",
+      "city_district": "Phường Vị Tân",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31756,106.164": {
+    "display_name": "Phường Ninh Thạnh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "county": "Phường Ninh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.473,109.033": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.03235,105.1281": {
+    "display_name": "Nguyễn Hữu Cảnh, Xã Thạnh Lộc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Hữu Cảnh",
+      "county": "Xã Thạnh Lộc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65467,106.649": {
+    "display_name": "Xã Hưng Long, Thành phố Hồ Chí Minh, 71812, Việt Nam",
+    "address": {
+      "city_district": "Xã Hưng Long",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71812",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
