@@ -91309,5 +91309,70 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.99048,106.8001": {
+    "display_name": "Xã Thiện Hưng, Việt Nam",
+    "address": {
+      "county": "Xã Thiện Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.16952,108.3624": {
+    "display_name": "Trà Phong, Xã Tây Trà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Trà Phong",
+      "county": "Xã Tây Trà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.24381,106.1027": {
+    "display_name": "Xã Đồng Thịnh, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "town": "Xã Đồng Thịnh",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.52077,108.8981": {
+    "display_name": "Thôn Vạn Xuân, An Hòa, Long Khánh, Xã An Hòa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Vạn Xuân, An Hòa",
+      "village": "Long Khánh",
+      "county": "Xã An Hòa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47299,109.033": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.03561,108.1445": {
+    "display_name": "Thôn 2, Xã Đam Rông 2, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 2",
+      "county": "Xã Đam Rông 2",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
