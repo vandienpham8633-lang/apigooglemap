@@ -96932,5 +96932,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.52355,104.9587": {
+    "display_name": "Xã An Cư, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã An Cư",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12288,106.7154": {
+    "display_name": "Khu phố 6, Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 6",
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
