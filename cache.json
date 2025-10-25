@@ -96031,5 +96031,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "8.813194,105.1223": {
+    "display_name": "Xã Tam Giang, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tam Giang",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
