@@ -92986,5 +92986,112 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.0636,105.8242": {
+    "display_name": "Phường Đông Thành, Tỉnh Vĩnh Long, 94111, Việt Nam",
+    "address": {
+      "county": "Phường Đông Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.17087,105.5819": {
+    "display_name": "Phường Thới Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79997,105.2468": {
+    "display_name": "Trần Hưng Đạo, Phường Tân Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Trần Hưng Đạo",
+      "county": "Phường Tân Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456614,106.092": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.45665,106.092": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456647,106.092": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07549,106.7654": {
+    "display_name": "Tuấn thành công, quang vinh 2, Đường tỉnh 747B, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "shop": "Tuấn thành công",
+      "house_number": "quang vinh 2",
+      "road": "Đường tỉnh 747B",
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.4567,106.092": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456603,106.092": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56251,108.9367": {
+    "display_name": "Đường tỉnh 703, Phường Bảo An, Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 703",
+      "suburb": "Phường Bảo An",
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
