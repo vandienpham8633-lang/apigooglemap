@@ -92703,5 +92703,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.119319,105.4608": {
+    "display_name": "Xã Long Điền, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Long Điền",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
