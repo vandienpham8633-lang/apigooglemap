@@ -97438,5 +97438,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.76037,107.2709": {
+    "display_name": "Xã Hùng Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hùng Sơn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13522,106.5265": {
+    "display_name": "Rạch Bắp, Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Rạch Bắp",
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
