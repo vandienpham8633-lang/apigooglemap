@@ -94940,5 +94940,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.600156,105.1351": {
+    "display_name": "Xã U Minh Thượng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã U Minh Thượng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
