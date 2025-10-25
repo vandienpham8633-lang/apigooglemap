@@ -97347,5 +97347,96 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.60622,105.9946": {
+    "display_name": "Xã Tân Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13485,106.5267": {
+    "display_name": "Rạch Bắp, Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Rạch Bắp",
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.9274,106.7205": {
+    "display_name": "Xã Tân Tiến, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tiến",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.99972,106.8051": {
+    "display_name": "ĐT.759B, Xã Thiện Hưng, Việt Nam",
+    "address": {
+      "road": "ĐT.759B",
+      "county": "Xã Thiện Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.54073,108.056": {
+    "display_name": "Đường tỉnh 690, Lô 13, Xã Ea Na, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 690",
+      "village": "Lô 13",
+      "county": "Xã Ea Na",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8643,106.9174": {
+    "display_name": "Long Khánh 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Long Khánh 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929698,106.3135": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.27021,108.1004": {
+    "display_name": "Kon Sơ Lăng, Xã Ia Khươl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Kon Sơ Lăng",
+      "county": "Xã Ia Khươl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51665,108.5468": {
+    "display_name": "Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
