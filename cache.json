@@ -92713,5 +92713,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94164,108.0821": {
+    "display_name": "Phan Thiết, Lê Duẩn ( ra ga Phan Thiết ), Phường Bình Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "railway": "Phan Thiết",
+      "road": "Lê Duẩn ( ra ga Phan Thiết )",
+      "county": "Phường Bình Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06349,108.2443": {
+    "display_name": "Kova Diamond, 27, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Kova Diamond",
+      "house_number": "27",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
