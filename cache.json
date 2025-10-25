@@ -94855,5 +94855,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94591,106.2446": {
+    "display_name": "Xã Mỹ Quý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Quý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
