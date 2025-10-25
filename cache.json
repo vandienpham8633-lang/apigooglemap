@@ -95185,5 +95185,79 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.75997,107.2631": {
+    "display_name": "Xã Hùng Sơn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hùng Sơn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.65765,108.0058": {
+    "display_name": "Quốc lộ 28, Thôn 4, Xã Đinh Trang Thượng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28",
+      "village": "Thôn 4",
+      "county": "Xã Đinh Trang Thượng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16018,106.7693": {
+    "display_name": "Chòi Dúng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Chòi Dúng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.25157,108.8725": {
+    "display_name": "Thôn Bình Sơn, Ân Nghĩa, Bình Sơn, Xã Kim Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Bình Sơn, Ân Nghĩa",
+      "village": "Bình Sơn",
+      "county": "Xã Kim Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.83328,106.7139": {
+    "display_name": "Xã Lộc Quang, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Quang",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.98673,109.3744": {
+    "display_name": "Phường Hòa Hiệp, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Phường Hòa Hiệp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14889,107.5767": {
+    "display_name": "Thôn 3, Xã Đức Linh, Tỉnh Lâm Đồng, 77556, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Đức Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77556",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
