@@ -94622,5 +94622,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97625,106.6189": {
+    "display_name": "Xã Bình Mỹ, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.01023,107.8943": {
+    "display_name": "Xã Ia Hrung, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Hrung",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
