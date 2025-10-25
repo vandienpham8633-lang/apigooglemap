@@ -97093,5 +97093,90 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.969735,106.4366": {
+    "display_name": "Xã Đại Điền, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Đại Điền",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.05051,108.1636": {
+    "display_name": "Đường Hoàng Minh Thảo, Phường Hòa Khánh, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Hoàng Minh Thảo",
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.98158,108.1482": {
+    "display_name": "Xã Hòa Vang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hòa Vang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.807245,106.2828": {
+    "display_name": "ĐT. 912, Xã Hùng Hòa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "ĐT. 912",
+      "county": "Xã Hùng Hòa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09727,105.2226": {
+    "display_name": "Kinh 3A, Tân Thạnh, Xã Thạnh Đông, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Kinh 3A",
+      "village": "Tân Thạnh",
+      "county": "Xã Thạnh Đông",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.626637,105.3993": {
+    "display_name": "Xã Lương Tâm, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Lương Tâm",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31735,106.164": {
+    "display_name": "Phường Ninh Thạnh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "county": "Phường Ninh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34811,104.9921": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
