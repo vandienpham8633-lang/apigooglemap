@@ -97178,5 +97178,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99265,107.1457": {
+    "display_name": "Lê Lợi 2, Xã Gia Kiệm, Việt Nam",
+    "address": {
+      "village": "Lê Lợi 2",
+      "county": "Xã Gia Kiệm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.96303,108.2194": {
+    "display_name": "Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38761,108.5101": {
+    "display_name": "Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
