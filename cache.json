@@ -95259,5 +95259,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.57081,107.5772": {
+    "display_name": "Hóa Châu, Phường Hoá Châu, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Hóa Châu",
+      "county": "Phường Hoá Châu",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76835,106.7929": {
+    "display_name": "Đường Số 57 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "road": "Đường Số 57 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.10405,106.8417": {
+    "display_name": "KCN Đất Cuốc (Khu A), Xã Bắc Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "KCN Đất Cuốc (Khu A)",
+      "city_district": "Xã Bắc Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
