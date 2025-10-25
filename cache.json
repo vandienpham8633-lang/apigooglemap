@@ -94932,5 +94932,13 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.79931,106.6727": {
+    "display_name": "Xã Lộc Hưng, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
