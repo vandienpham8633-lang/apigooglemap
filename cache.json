@@ -94748,5 +94748,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.80379,109.0912": {
+    "display_name": "Suối Giếng, Xã Công Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Suối Giếng",
+      "county": "Xã Công Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
