@@ -95039,5 +95039,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.59525,106.873": {
+    "display_name": "Đường tỉnh 586, Xã Đakrông, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 586",
+      "town": "Xã Đakrông",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.13284,108.7139": {
+    "display_name": "Đường Quảng Ngãi – Thạch Nham, Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Quảng Ngãi – Thạch Nham",
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16021,106.7694": {
+    "display_name": "Chòi Dúng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Chòi Dúng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35322,105.7895": {
+    "display_name": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16019,106.7694": {
+    "display_name": "Chòi Dúng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Chòi Dúng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
