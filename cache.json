@@ -94970,5 +94970,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.53826,108.9515": {
+    "display_name": "Quốc lộ 1, Xã Ninh Phước, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Xã Ninh Phước",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
