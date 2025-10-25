@@ -96041,5 +96041,66 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.2541,105.1494": {
+    "display_name": "Xã Óc Eo, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Xã Óc Eo",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.23323,108.0851": {
+    "display_name": "Lăng Cô, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25413,105.1494": {
+    "display_name": "Xã Óc Eo, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Xã Óc Eo",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.05989,109.2706": {
+    "display_name": "Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.31861,103.8885": {
+    "display_name": "Đặc khu Phú Quốc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3186,103.8885": {
+    "display_name": "Đặc khu Phú Quốc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
