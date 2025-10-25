@@ -96846,5 +96846,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.57414,108.2643": {
+    "display_name": "Xã Sơn Cẩm Hà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Sơn Cẩm Hà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.91439,107.932": {
+    "display_name": "Xã Gào, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Gào",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.97668,108.0137": {
+    "display_name": "Nguyễn Tất Thành, Pleiku, Phường Pleiku, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "city": "Pleiku",
+      "county": "Phường Pleiku",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
