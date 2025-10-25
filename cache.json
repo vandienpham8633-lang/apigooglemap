@@ -94542,5 +94542,75 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.65532,108.9956": {
+    "display_name": "Xã Xuân Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Xã Xuân Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.64362,108.8594": {
+    "display_name": "ĐH.01, Thôn 5, An Trung, Xã An Vinh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "ĐH.01",
+      "hamlet": "Thôn 5, An Trung",
+      "county": "Xã An Vinh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72592,106.5839": {
+    "display_name": "Đường số 11, Ấp 26, Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Đường số 11",
+      "village": "Ấp 26",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.83389,107.8598": {
+    "display_name": "Tul B, Xã Ea Wer, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tul B",
+      "county": "Xã Ea Wer",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.13661,108.7672": {
+    "display_name": "Tịnh Hà, Xã Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Tịnh Hà",
+      "county": "Xã Sơn Tịnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72591,106.5839": {
+    "display_name": "Đường số 11, Ấp 26, Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Đường số 11",
+      "village": "Ấp 26",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
