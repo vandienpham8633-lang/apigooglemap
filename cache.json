@@ -94299,5 +94299,147 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.83342,106.7697": {
+    "display_name": "106/2, Đường Số 79, Phường Phước Long, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71211, Việt Nam",
+    "address": {
+      "house_number": "106/2",
+      "road": "Đường Số 79",
+      "suburb": "Phường Phước Long",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71211",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.67755,108.1424": {
+    "display_name": "Ea Kmăt, Xã Ea Knuếc, Tỉnh Đắk Lắk, 63000, Việt Nam",
+    "address": {
+      "village": "Ea Kmăt",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69434,105.1273": {
+    "display_name": "Mậu Thân, Châu Đốc, Phường Châu Đốc, Tỉnh An Giang, 90512, Việt Nam",
+    "address": {
+      "road": "Mậu Thân",
+      "city": "Châu Đốc",
+      "county": "Phường Châu Đốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90512",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98963,106.6926": {
+    "display_name": "Hẻm 633 Phú Lợi, Khu phố 9, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "road": "Hẻm 633 Phú Lợi",
+      "quarter": "Khu phố 9",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.793744,106.0297": {
+    "display_name": "Xã Nhơn Mỹ, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhơn Mỹ",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35963,108.8095": {
+    "display_name": "Võ Văn Kiệt, Công ty Cổ phần Thép Hòa Phát Dung Quất, Thuận Phước, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Võ Văn Kiệt",
+      "industrial": "Công ty Cổ phần Thép Hòa Phát Dung Quất",
+      "village": "Thuận Phước",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98965,106.6926": {
+    "display_name": "Hẻm 633 Phú Lợi, Khu phố 9, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "road": "Hẻm 633 Phú Lợi",
+      "quarter": "Khu phố 9",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.65545,108.9957": {
+    "display_name": "Xã Xuân Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Xã Xuân Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69444,105.1276": {
+    "display_name": "Mậu Thân, Châu Đốc, Phường Châu Đốc, Tỉnh An Giang, 90512, Việt Nam",
+    "address": {
+      "road": "Mậu Thân",
+      "city": "Châu Đốc",
+      "county": "Phường Châu Đốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90512",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.4926,108.3191": {
+    "display_name": "Đường tỉnh 692, Quảng Đông, Xã Hòa Sơn, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 692",
+      "village": "Quảng Đông",
+      "county": "Xã Hòa Sơn",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00527,106.4331": {
+    "display_name": "Xã Thái Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Thái Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51185,108.9454": {
+    "display_name": "Đặc khu Phú Quý, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Đặc khu Phú Quý",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
