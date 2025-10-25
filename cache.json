@@ -93126,5 +93126,83 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86748,106.6873": {
+    "display_name": "Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71516, Việt Nam",
+    "address": {
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71516",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91913,106.7844": {
+    "display_name": "Đường N8, Khu phố Đông An, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 76106, Việt Nam",
+    "address": {
+      "road": "Đường N8",
+      "quarter": "Khu phố Đông An",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950536,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86743,106.6873": {
+    "display_name": "Phường An Phú Đông, Thuận An, Thành phố Hồ Chí Minh, 71516, Việt Nam",
+    "address": {
+      "suburb": "Phường An Phú Đông",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71516",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.95062,106.0345": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.59496,106.8731": {
+    "display_name": "Xã Đakrông, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Đakrông",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.59525,106.8731": {
+    "display_name": "Đường tỉnh 586, Xã Đakrông, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 586",
+      "town": "Xã Đakrông",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
