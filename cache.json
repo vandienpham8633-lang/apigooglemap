@@ -91722,5 +91722,101 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.76286,107.2519": {
+    "display_name": "Mỹ Khê, Xã Triệu Cơ, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Mỹ Khê",
+      "town": "Xã Triệu Cơ",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59423,107.9423": {
+    "display_name": "Đường CN 10, Khu công nghiệp Hòa Phú, Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 10",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47281,109.0329": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.18823,106.2733": {
+    "display_name": "Xã Kỳ Anh, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Kỳ Anh",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.73143,105.625": {
+    "display_name": "Xã Nghi Lộc, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Nghi Lộc",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47287,109.0329": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59408,107.9423": {
+    "display_name": "Đường CN 10, Khu công nghiệp Hòa Phú, Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 10",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59397,107.9424": {
+    "display_name": "Đường CN 10, Khu công nghiệp Hòa Phú, Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 10",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
