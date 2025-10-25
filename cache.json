@@ -91445,5 +91445,73 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80956,107.1897": {
+    "display_name": "Ấp 1, Xã Xuân Đường, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "county": "Xã Xuân Đường",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87824,106.602": {
+    "display_name": "Tân Xuân 1, Xã Hóc Môn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "road": "Tân Xuân 1",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.18826,108.6938": {
+    "display_name": "Phú Túc, Xã Phú Túc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Phú Túc",
+      "county": "Xã Phú Túc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47288,109.033": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.31758,106.164": {
+    "display_name": "Phường Ninh Thạnh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "county": "Phường Ninh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.928705,106.3043": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
