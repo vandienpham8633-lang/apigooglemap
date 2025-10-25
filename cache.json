@@ -90829,5 +90829,129 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.63165,108.0037": {
+    "display_name": "Tổ dân phố 11, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 11",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.06402,107.8852": {
+    "display_name": "Lạc Long Quân, Thành Công, Thôn 7, Xã Ea Súp, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Lạc Long Quân",
+      "suburb": "Thành Công",
+      "village": "Thôn 7",
+      "county": "Xã Ea Súp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.46866,109.1384": {
+    "display_name": "Phường Hòa Thắng, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Hòa Thắng",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34538,106.1735": {
+    "display_name": "Xã Long Tiên, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Tiên",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94588,109.0827": {
+    "display_name": "Đướng Trương Vãn Đa, KV.Châu Thành, P.Nhơn Thành, Bắc Thượng, Phường An Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng Trương Vãn Đa",
+      "quarter": "KV.Châu Thành, P.Nhơn Thành",
+      "village": "Bắc Thượng",
+      "county": "Phường An Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.6282,108.5352": {
+    "display_name": "Thôn 2, Xã Ea Ô, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 2",
+      "county": "Xã Ea Ô",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78753,106.5903": {
+    "display_name": "Hẻm 129/43/14 Liên khu 5-6, Phường Bình Tân, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 129/43/14 Liên khu 5-6",
+      "suburb": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.2267,108.7843": {
+    "display_name": "Xã Thọ Phong, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Thọ Phong",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.57871,105.6201": {
+    "display_name": "Xã Hưng Nguyên Nam, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Hưng Nguyên Nam",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.26202,105.9451": {
+    "display_name": "Vĩnh Long, Phường Long Châu, Tỉnh Vĩnh Long, 85040, Việt Nam",
+    "address": {
+      "city": "Vĩnh Long",
+      "county": "Phường Long Châu",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85040",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68786,108.3853": {
+    "display_name": "Tân Lập 1, Xã Ea Phê, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Lập 1",
+      "county": "Xã Ea Phê",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
