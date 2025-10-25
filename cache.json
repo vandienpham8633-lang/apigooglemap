@@ -94735,5 +94735,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.12444,108.808": {
+    "display_name": "Lê Trung Đình, Nguyễn Nghiêm, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Lê Trung Đình",
+      "suburb": "Nguyễn Nghiêm",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
