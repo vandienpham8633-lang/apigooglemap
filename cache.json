@@ -91241,5 +91241,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.94766,108.662": {
+    "display_name": "An Khê, Phường An Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "An Khê",
+      "county": "Phường An Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.45877,109.0724": {
+    "display_name": "hương lộ 8 (Bình Chương - Hoài Hải), khu phố Xuân Khánh, Phường Hoài Nhơn Đông, Khánh Trạch, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "hương lộ 8 (Bình Chương - Hoài Hải)",
+      "hamlet": "khu phố Xuân Khánh, Phường Hoài Nhơn Đông",
+      "village": "Khánh Trạch",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.376623,105.5696": {
+    "display_name": "Xã Châu Thới, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Châu Thới",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
