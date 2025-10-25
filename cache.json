@@ -94824,5 +94824,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.34522,106.2971": {
+    "display_name": "Xã Cầu Khởi, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Cầu Khởi",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93575,106.2425": {
+    "display_name": "ĐT. 838, Xã Mỹ Quý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT. 838",
+      "county": "Xã Mỹ Quý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94592,106.2446": {
+    "display_name": "Xã Mỹ Quý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Quý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
