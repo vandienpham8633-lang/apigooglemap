@@ -93996,5 +93996,181 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87859,106.7628": {
+    "display_name": "Khu phố 17, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 17",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93044,106.8744": {
+    "display_name": "Công ty TNHH Điện máy Aqua Việt Nam, Đường 19A, Khu công nghiệp Biên Hòa 2, Tân Bình, Thành phố Biên Hòa, Phường Trấn Biên, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Điện máy Aqua Việt Nam",
+      "road": "Đường 19A",
+      "industrial": "Khu công nghiệp Biên Hòa 2",
+      "quarter": "Tân Bình",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Trấn Biên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456623,106.0921": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950582,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.985021,106.332": {
+    "display_name": "Phường Long Đức, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Long Đức",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.45663,106.0921": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950572,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.985029,106.332": {
+    "display_name": "Phường Long Đức, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Long Đức",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456615,106.092": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90202,106.7453": {
+    "display_name": "Thống Nhất 2, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Thống Nhất 2",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.953406,105.8922": {
+    "display_name": "Xã Lục Sĩ Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lục Sĩ Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90205,106.7453": {
+    "display_name": "Thống Nhất 2, Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "quarter": "Thống Nhất 2",
+      "suburb": "Dĩ An",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.953415,105.8923": {
+    "display_name": "Xã Lục Sĩ Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lục Sĩ Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456622,106.0921": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.953406,105.8923": {
+    "display_name": "Xã Lục Sĩ Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lục Sĩ Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.953412,105.8923": {
+    "display_name": "Xã Lục Sĩ Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lục Sĩ Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
