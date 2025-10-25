@@ -96996,5 +96996,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.25118,108.7809": {
+    "display_name": "Quốc lộ 1, Bình Hiệp, Xã Đông Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "village": "Bình Hiệp",
+      "county": "Xã Đông Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80058,107.8655": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80056,107.8655": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
