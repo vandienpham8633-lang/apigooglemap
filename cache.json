@@ -94172,5 +94172,132 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.95341,105.8923": {
+    "display_name": "Xã Lục Sĩ Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lục Sĩ Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.19856,105.6391": {
+    "display_name": "Xã Phong Hòa, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "village": "Xã Phong Hòa",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950602,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456625,106.0921": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87348,105.1133": {
+    "display_name": "Xã Phú Hữu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Phú Hữu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950592,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456652,106.092": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77305,106.9586": {
+    "display_name": "Cầu Xéo, Ấp 4, Xã Long Thành, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "quarter": "Cầu Xéo",
+      "village": "Ấp 4",
+      "county": "Xã Long Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950597,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950595,106.0346": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.38435,107.0513": {
+    "display_name": "Xã La Lay, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã La Lay",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.38427,107.0514": {
+    "display_name": "Xã La Lay, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã La Lay",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
