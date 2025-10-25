@@ -97480,5 +97480,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.04415,108.1": {
+    "display_name": "Phường Hòa Khánh, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.67403,108.728": {
+    "display_name": "Thôn 5, Xã Krông Á, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 5",
+      "county": "Xã Krông Á",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98793,107.3665": {
+    "display_name": "Gia Lào, Xã Xuân Thành, Việt Nam",
+    "address": {
+      "village": "Gia Lào",
+      "county": "Xã Xuân Thành",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.2501,106.1479": {
+    "display_name": "Đường số 30 Ngô Quyền, Phường Long Hoa, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "road": "Đường số 30 Ngô Quyền",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
