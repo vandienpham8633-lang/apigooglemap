@@ -100119,5 +100119,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.3496,106.437": {
+    "display_name": "Chợ Gạo, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "town": "Chợ Gạo",
+      "county": "Chợ Gạo",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
