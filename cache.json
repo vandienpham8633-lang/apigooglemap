@@ -99624,5 +99624,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.475271,106.0681": {
+    "display_name": "Lao Vên, Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "hamlet": "Lao Vên",
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.23662,105.0898": {
+    "display_name": "Xã Thắng Mố, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Thắng Mố",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
