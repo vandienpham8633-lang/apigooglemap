@@ -99171,5 +99171,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.17721,106.9709": {
+    "display_name": "Xã Sen Ngư, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Sen Ngư",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.17722,106.9709": {
+    "display_name": "Xã Sen Ngư, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Sen Ngư",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.1772,106.9709": {
+    "display_name": "Xã Sen Ngư, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Sen Ngư",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
