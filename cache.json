@@ -101547,5 +101547,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.922936,106.3515": {
+    "display_name": "Phường Hòa Thuận, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Hòa Thuận",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.50806,106.2956": {
+    "display_name": "Đường tỉnh 795, Tân Thuận, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 795",
+      "hamlet": "Tân Thuận",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.36361,103.0274": {
+    "display_name": "Phường Mường Thanh, Tỉnh Điện Biên, 32000, Việt Nam",
+    "address": {
+      "county": "Phường Mường Thanh",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "postcode": "32000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77458,106.6326": {
+    "display_name": "Công ty Nhựa Tân Phú, Lũy Bán Bích, Khu phố 23, Phường Phú Thạnh, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "highway": "Công ty Nhựa Tân Phú",
+      "road": "Lũy Bán Bích",
+      "quarter": "Khu phố 23",
+      "suburb": "Phường Phú Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
