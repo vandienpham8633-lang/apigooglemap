@@ -101594,5 +101594,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.61425,109.2044": {
+    "display_name": "Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.922916,106.3514": {
+    "display_name": "Phường Hòa Thuận, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Hòa Thuận",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
