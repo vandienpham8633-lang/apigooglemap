@@ -98145,5 +98145,154 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57069,108.9989": {
+    "display_name": "Trần Nhân Tông, Phường Đông Hải, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Trần Nhân Tông",
+      "suburb": "Phường Đông Hải",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.97622,108.8716": {
+    "display_name": "Mộ Đức, Xã Mộ Đức, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Mộ Đức",
+      "county": "Xã Mộ Đức",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.24663,104.5862": {
+    "display_name": "Ba Hòn, Xã Kiên Lương, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Ba Hòn",
+      "county": "Xã Kiên Lương",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77717,106.6225": {
+    "display_name": "Hẻm 102 Bình Long, Khu phố 14, Phường Phú Thạnh, Thành phố Hồ Chí Minh, 72031, Việt Nam",
+    "address": {
+      "road": "Hẻm 102 Bình Long",
+      "quarter": "Khu phố 14",
+      "suburb": "Phường Phú Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72031",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74561,106.5397": {
+    "display_name": "Đường Số 2, Khu công nghiệp Lê Minh Xuân, Xã Bình Lợi, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Số 2",
+      "industrial": "Khu công nghiệp Lê Minh Xuân",
+      "village": "Xã Bình Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15519,106.4497": {
+    "display_name": "Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.618,104.9526": {
+    "display_name": "Lê Hồng Phong, Xuân Biên, Tịnh Biên, Phường Tịnh Biên, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Lê Hồng Phong",
+      "residential": "Xuân Biên",
+      "town": "Tịnh Biên",
+      "county": "Phường Tịnh Biên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21898,109.1603": {
+    "display_name": "Thôn Chánh Trực, Mỹ Thọ, Chánh Trực, Xã Phù Mỹ Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Chánh Trực, Mỹ Thọ",
+      "village": "Chánh Trực",
+      "county": "Xã Phù Mỹ Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.926787,106.3357": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.26791,108.816": {
+    "display_name": "Quốc lộ 27C, Xã Nam Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Nam Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.28952,109.1693": {
+    "display_name": "Phường Tây Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "suburb": "Phường Tây Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.91635,109.1581": {
+    "display_name": "Đường 3 Tháng 4, Phường Cam Linh, Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường 3 Tháng 4",
+      "suburb": "Phường Cam Linh",
+      "city": "Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.37777,108.4492": {
+    "display_name": "Quốc lộ 25, Xã Ia Sao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "county": "Xã Ia Sao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
