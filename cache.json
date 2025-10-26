@@ -99685,5 +99685,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.88665,108.9198": {
+    "display_name": "Quốc lộ 24, Xã Lân Phong, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 24",
+      "county": "Xã Lân Phong",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.37535,107.8083": {
+    "display_name": "Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vang",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
