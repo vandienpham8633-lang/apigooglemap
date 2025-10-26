@@ -102046,5 +102046,88 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.77001,106.8473": {
+    "display_name": "Xã Hướng Hiệp, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hướng Hiệp",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.76996,106.8472": {
+    "display_name": "Xã Hướng Hiệp, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hướng Hiệp",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.95756,109.184": {
+    "display_name": "Mỹ Phú, Xã Hòa Mỹ, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Mỹ Phú",
+      "county": "Xã Hòa Mỹ",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.85763,109.0803": {
+    "display_name": "KV.Trung Ái, P.Nhơn Hòa, Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KV.Trung Ái, P.Nhơn Hòa",
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50539,105.4995": {
+    "display_name": "Xã Cù Lao Giêng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cù Lao Giêng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.85756,109.0803": {
+    "display_name": "KV.Trung Ái, P.Nhơn Hòa, Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KV.Trung Ái, P.Nhơn Hòa",
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0791,106.2776": {
+    "display_name": "Phường Gò Dầu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Phường Gò Dầu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50537,105.4995": {
+    "display_name": "Xã Cù Lao Giêng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Cù Lao Giêng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
