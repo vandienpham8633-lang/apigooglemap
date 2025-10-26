@@ -99706,5 +99706,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.14241,106.6539": {
+    "display_name": "Đường DG2, Khu phố 8, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường DG2",
+      "quarter": "Khu phố 8",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.37538,107.8082": {
+    "display_name": "Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vang",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84081,106.6565": {
+    "display_name": "Hẻm 153/34 Lê Văn Thọ, Phường Thông Tây Hội, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "road": "Hẻm 153/34 Lê Văn Thọ",
+      "suburb": "Phường Thông Tây Hội",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
