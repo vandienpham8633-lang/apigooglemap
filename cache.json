@@ -98862,5 +98862,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.28936,109.1796": {
+    "display_name": "Phường Tây Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "suburb": "Phường Tây Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15481,106.5036": {
+    "display_name": "Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
