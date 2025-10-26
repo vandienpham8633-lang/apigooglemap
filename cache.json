@@ -98756,5 +98756,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.84804,106.7985": {
+    "display_name": "Chung cư Man Thiện - C5, 15676, Man Thiện, Khu phố 15, Phường Tăng Nhơn Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71300, Việt Nam",
+    "address": {
+      "building": "Chung cư Man Thiện - C5",
+      "house_number": "15676",
+      "road": "Man Thiện",
+      "quarter": "Khu phố 15",
+      "suburb": "Phường Tăng Nhơn Phú",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71300",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
