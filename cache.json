@@ -102452,5 +102452,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.45783,107.536": {
+    "display_name": "Phường Kim Long, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "county": "Phường Kim Long",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.14844,104.8543": {
+    "display_name": "Lình Huỳnh, Xã Hòn Đất, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Lình Huỳnh",
+      "county": "Xã Hòn Đất",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950656,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
