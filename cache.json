@@ -97970,5 +97970,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.37783,108.4492": {
+    "display_name": "Quốc lộ 25, Xã Ia Sao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "county": "Xã Ia Sao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.0882,108.617": {
+    "display_name": "Xã Sơn Hạ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Hạ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25056,109.0372": {
+    "display_name": "Quốc lộ 27C, Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.457245,105.9585": {
+    "display_name": "Xã Ngọc Tố, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Ngọc Tố",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
