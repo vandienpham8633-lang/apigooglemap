@@ -100335,5 +100335,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.6319,108.4123": {
+    "display_name": "Thôn 8, Xã Tân Tiến, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 8",
+      "county": "Xã Tân Tiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77881,109.2469": {
+    "display_name": "Đống Đa, Cảng Quy Nhơn, Hải Cảng, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Đống Đa",
+      "industrial": "Cảng Quy Nhơn",
+      "suburb": "Hải Cảng",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
