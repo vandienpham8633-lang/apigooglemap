@@ -98078,5 +98078,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.69943,108.2135": {
+    "display_name": "Kreh A, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Kreh A",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.37779,108.4492": {
+    "display_name": "Quốc lộ 25, Xã Ia Sao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "county": "Xã Ia Sao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25032,109.0371": {
+    "display_name": "Quốc lộ 27C, Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15495,106.4495": {
+    "display_name": "Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.37778,108.4492": {
+    "display_name": "Quốc lộ 25, Xã Ia Sao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "county": "Xã Ia Sao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25082,109.037": {
+    "display_name": "Quốc lộ 27C, Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
