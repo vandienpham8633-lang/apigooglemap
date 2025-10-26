@@ -101614,5 +101614,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.19089,109.2228": {
+    "display_name": "Phường Nam Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "suburb": "Phường Nam Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82308,106.9056": {
+    "display_name": "Đường Duơng Diên Nghệ, Long Khánh 2, Xã An Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Duơng Diên Nghệ",
+      "quarter": "Long Khánh 2",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.98005,108.1464": {
+    "display_name": "Xã Hòa Vang, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hòa Vang",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
