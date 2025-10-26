@@ -99894,5 +99894,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.09093,108.2971": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
