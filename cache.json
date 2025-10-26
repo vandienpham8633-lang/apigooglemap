@@ -98013,5 +98013,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.10291,106.2322": {
+    "display_name": "Xã Quới Thiện, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Quới Thiện",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.42183,108.4221": {
+    "display_name": "Ayun Pa, Phường Ayun Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Ayun Pa",
+      "county": "Phường Ayun Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.3778,108.4492": {
+    "display_name": "Quốc lộ 25, Xã Ia Sao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "county": "Xã Ia Sao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.37782,108.4492": {
+    "display_name": "Quốc lộ 25, Xã Ia Sao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "county": "Xã Ia Sao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
