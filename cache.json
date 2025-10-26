@@ -98965,5 +98965,117 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.00476,106.72": {
+    "display_name": "Chợ Tân Phước Khánh, Đường tỉnh 746, Khánh Thạnh, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "amenity": "Chợ Tân Phước Khánh",
+      "road": "Đường tỉnh 746",
+      "quarter": "Khánh Thạnh",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00476,106.7201": {
+    "display_name": "Chợ Tân Phước Khánh, Đường Lý Tự Trọng, Khánh Hoà, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "shop": "Chợ Tân Phước Khánh",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Khánh Hoà",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00473,106.72": {
+    "display_name": "Chợ Tân Phước Khánh, Đường tỉnh 746, Khánh Thạnh, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "amenity": "Chợ Tân Phước Khánh",
+      "road": "Đường tỉnh 746",
+      "quarter": "Khánh Thạnh",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00469,106.72": {
+    "display_name": "Chợ Tân Phước Khánh, Đường tỉnh 746, Khánh Thạnh, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "amenity": "Chợ Tân Phước Khánh",
+      "road": "Đường tỉnh 746",
+      "quarter": "Khánh Thạnh",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00471,106.72": {
+    "display_name": "Chợ Tân Phước Khánh, Đường tỉnh 746, Khánh Thạnh, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "amenity": "Chợ Tân Phước Khánh",
+      "road": "Đường tỉnh 746",
+      "quarter": "Khánh Thạnh",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00473,106.7199": {
+    "display_name": "Chợ Tân Phước Khánh, Đường tỉnh 746, Khánh Thạnh, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "amenity": "Chợ Tân Phước Khánh",
+      "road": "Đường tỉnh 746",
+      "quarter": "Khánh Thạnh",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00477,106.7199": {
+    "display_name": "Chợ Tân Phước Khánh, Đường Lý Tự Trọng, Khánh Hoà, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "shop": "Chợ Tân Phước Khánh",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Khánh Hoà",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00476,106.7199": {
+    "display_name": "Chợ Tân Phước Khánh, Đường Lý Tự Trọng, Khánh Hoà, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "shop": "Chợ Tân Phước Khánh",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Khánh Hoà",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
