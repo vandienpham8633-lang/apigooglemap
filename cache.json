@@ -99115,5 +99115,33 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.00481,106.7199": {
+    "display_name": "Chợ Tân Phước Khánh, Đường Lý Tự Trọng, Khánh Hoà, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "shop": "Chợ Tân Phước Khánh",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Khánh Hoà",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00483,106.7199": {
+    "display_name": "Chợ Tân Phước Khánh, Đường Lý Tự Trọng, Khánh Hoà, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "shop": "Chợ Tân Phước Khánh",
+      "road": "Đường Lý Tự Trọng",
+      "quarter": "Khánh Hoà",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
