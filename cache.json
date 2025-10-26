@@ -101337,5 +101337,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8442,106.8168": {
+    "display_name": "Phường Long Bình, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87086,105.0977": {
+    "display_name": "Xã Phú Hữu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Phú Hữu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.6586,107.786": {
+    "display_name": "Thôn 2, Tân Cảnh, Xã Đăk Tô, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 2",
+      "village": "Tân Cảnh",
+      "county": "Xã Đăk Tô",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73654,106.5493": {
+    "display_name": "Đường Số 01A, Ấp 2, Xã Tân Nhựt, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Số 01A",
+      "village": "Ấp 2",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.61434,109.2045": {
+    "display_name": "Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
