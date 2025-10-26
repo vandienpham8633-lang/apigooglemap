@@ -98056,5 +98056,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.37785,108.4492": {
+    "display_name": "Quốc lộ 25, Xã Ia Sao, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "county": "Xã Ia Sao",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.82195,108.4438": {
+    "display_name": "Ea Kdruôil, Xã Ea Kar, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ea Kdruôil",
+      "county": "Xã Ea Kar",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
