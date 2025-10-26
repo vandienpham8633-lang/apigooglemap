@@ -98782,5 +98782,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.6278,107.9924": {
+    "display_name": "Tổ dân phố 14, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.29,108.0297": {
+    "display_name": "Buốc, Xã Nam Ka, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Buốc",
+      "county": "Xã Nam Ka",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94381,106.7157": {
+    "display_name": "Hoà Lân 2, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Hoà Lân 2",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94383,106.7158": {
+    "display_name": "Hoà Lân 2, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Hoà Lân 2",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
