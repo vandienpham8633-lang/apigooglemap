@@ -98649,5 +98649,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.11093,105.6894": {
+    "display_name": "Xã Ô Diên, Hà Nội, Việt Nam",
+    "address": {
+      "city_district": "Xã Ô Diên",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
