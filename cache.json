@@ -101659,5 +101659,73 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91913,106.7845": {
+    "display_name": "Đường N8, Khu phố Đông An, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 76106, Việt Nam",
+    "address": {
+      "road": "Đường N8",
+      "quarter": "Khu phố Đông An",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.91856,108.4297": {
+    "display_name": "Xã Sơn Tây Hạ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Tây Hạ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14272,107.5039": {
+    "display_name": "Đường số 1, Khu phố 10, Thôn 3, Xã Hoài Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường số 1",
+      "quarter": "Khu phố 10",
+      "village": "Thôn 3",
+      "county": "Xã Hoài Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.922597,105.447": {
+    "display_name": "Trảng Tranh, Xã Hòa Hưng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Trảng Tranh",
+      "county": "Xã Hòa Hưng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01774,106.927": {
+    "display_name": "Ấp 3, Xã Tân An, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 3",
+      "county": "Xã Tân An",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35069,104.9924": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
