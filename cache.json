@@ -99298,5 +99298,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82285,108.8582": {
+    "display_name": "Quốc lộ 27B, Trà Co 1, Phước Thắng, Xã Bác Ái, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "hamlet": "Trà Co 1",
+      "village": "Phước Thắng",
+      "county": "Xã Bác Ái",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.56134,108.2223": {
+    "display_name": "Ko Êmông A, Xã Dray Bhăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ko Êmông A",
+      "county": "Xã Dray Bhăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.5613,108.2223": {
+    "display_name": "Ko Êmông A, Xã Dray Bhăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ko Êmông A",
+      "county": "Xã Dray Bhăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.578491,105.7307": {
+    "display_name": "Xã Mỹ Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Mỹ Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82284,108.8582": {
+    "display_name": "Quốc lộ 27B, Trà Co 1, Phước Thắng, Xã Bác Ái, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "hamlet": "Trà Co 1",
+      "village": "Phước Thắng",
+      "county": "Xã Bác Ái",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
