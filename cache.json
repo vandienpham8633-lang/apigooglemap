@@ -98595,5 +98595,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.39626,106.77": {
+    "display_name": "Vàm Láng, Xã Gia Thuận, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "town": "Vàm Láng",
+      "county": "Xã Gia Thuận",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51186,108.9455": {
+    "display_name": "Đặc khu Phú Quý, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Đặc khu Phú Quý",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.58345,108.4699": {
+    "display_name": "Bệnh viện Đa khoa Minh Thiện, Đường Phan Bội Châu, Phường Bàn Thạch, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "highway": "Bệnh viện Đa khoa Minh Thiện",
+      "road": "Đường Phan Bội Châu",
+      "city": "Phường Bàn Thạch",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
