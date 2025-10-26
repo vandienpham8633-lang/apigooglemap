@@ -100659,5 +100659,97 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.84638,108.0902": {
+    "display_name": "Xã Vu Gia, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Vu Gia",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.114518,104.8749": {
+    "display_name": "Xã Khánh Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Khánh Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.85364,107.9532": {
+    "display_name": "Đường tỉnh 609, Tân An, Xã Thượng Đức, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 609",
+      "hamlet": "Tân An",
+      "town": "Xã Thượng Đức",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.39216,106.8267": {
+    "display_name": "Xã Đồng Phú, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Phú",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77877,109.2469": {
+    "display_name": "Đống Đa, Cảng Quy Nhơn, Hải Cảng, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Đống Đa",
+      "industrial": "Cảng Quy Nhơn",
+      "suburb": "Hải Cảng",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.409621,105.4338": {
+    "display_name": "Xã Vĩnh Phước, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Phước",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76046,106.7062": {
+    "display_name": "Hẻm 122 Đường Tôn Đản, Phường Khánh Hội, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72800, Việt Nam",
+    "address": {
+      "road": "Hẻm 122 Đường Tôn Đản",
+      "suburb": "Phường Khánh Hội",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93628,106.7676": {
+    "display_name": "Tân Thắng, Tân Đông Hiệp, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Tân Thắng",
+      "suburb": "Tân Đông Hiệp",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
