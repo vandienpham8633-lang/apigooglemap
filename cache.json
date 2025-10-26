@@ -101914,5 +101914,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.750264,105.4607": {
+    "display_name": "Quốc lộ 61C, Phường Vị Thanh, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 61C",
+      "city_district": "Phường Vị Thanh",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86439,106.9174": {
+    "display_name": "Long Khánh 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Long Khánh 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.11479,106.6077": {
+    "display_name": "Khu phố 5, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 5",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78932,107.7161": {
+    "display_name": "Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
