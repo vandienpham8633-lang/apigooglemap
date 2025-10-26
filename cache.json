@@ -98659,5 +98659,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91975,106.9468": {
+    "display_name": "Bắc Sơn - Long Thành, Phú Sơn, Phường Phước Tân, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Bắc Sơn - Long Thành",
+      "village": "Phú Sơn",
+      "county": "Phường Phước Tân",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.649478,105.0631": {
+    "display_name": "Xã U Minh Thượng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã U Minh Thượng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94382,106.7158": {
+    "display_name": "Hoà Lân 2, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Hoà Lân 2",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5504,106.256": {
+    "display_name": "Ấp 1, Xã Tân Thành, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Ấp 1",
+      "county": "Xã Tân Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04414,108.0998": {
+    "display_name": "Phường Hòa Khánh, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
