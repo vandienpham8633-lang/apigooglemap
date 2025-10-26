@@ -101958,5 +101958,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.22881,108.8577": {
+    "display_name": "Xã Đông Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đông Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88577,108.0743": {
+    "display_name": "Xã Hà Nha, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hà Nha",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.51091,107.4887": {
+    "display_name": "Tổ dân phố 1B, Đạ Tẻh, Xã Đạ Tẻh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 1B",
+      "town": "Đạ Tẻh",
+      "county": "Xã Đạ Tẻh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92513,106.6421": {
+    "display_name": "Xã Bình Mỹ, Thành phố Hồ Chí Minh, 75212, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75212",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
