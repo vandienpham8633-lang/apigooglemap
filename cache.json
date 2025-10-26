@@ -100605,5 +100605,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.829,106.0614": {
+    "display_name": "Xã Xuân Trúc, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "town": "Xã Xuân Trúc",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.114482,104.875": {
+    "display_name": "Xã Khánh Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Khánh Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.22758,104.7912": {
+    "display_name": "Vàm Rầy, Xã Bình Sơn, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Vàm Rầy",
+      "county": "Xã Bình Sơn",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.16089,109.066": {
+    "display_name": "Thôn Trung Thành 3, Mỹ Quang, Phù Mỹ, Xã Phù Mỹ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Trung Thành 3, Mỹ Quang",
+      "town": "Phù Mỹ",
+      "county": "Xã Phù Mỹ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.22128,108.3333": {
+    "display_name": "Krái, Xã Ea Hiao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Krái",
+      "county": "Xã Ea Hiao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
