@@ -102001,5 +102001,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.2502,109.0372": {
+    "display_name": "Quốc lộ 27C, Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.56063,105.9342": {
+    "display_name": "Xã Nhơn Ninh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
