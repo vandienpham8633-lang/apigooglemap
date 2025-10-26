@@ -100863,5 +100863,170 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.1764,109.0613": {
+    "display_name": "Xã Suối Dầu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Suối Dầu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75129,106.6713": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78025,105.1599": {
+    "display_name": "Xã Châu Phong, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Châu Phong",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.42062,104.9793": {
+    "display_name": "Xã Tri Tôn, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Xã Tri Tôn",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.17217,106.2124": {
+    "display_name": "Xã Hưng Khánh Trung, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Khánh Trung",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87033,106.9173": {
+    "display_name": "Quốc lộ 51, Long Khánh 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 51",
+      "quarter": "Long Khánh 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91982,106.8807": {
+    "display_name": "Tân Bình, Thành phố Biên Hòa, Phường Trấn Biên, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "quarter": "Tân Bình",
+      "city": "Thành phố Biên Hòa",
+      "county": "Phường Trấn Biên",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0542,108.1157": {
+    "display_name": "Phường Hòa Khánh, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "city": "Phường Hòa Khánh",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.17638,109.0612": {
+    "display_name": "Xã Suối Dầu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Suối Dầu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.1764,109.0612": {
+    "display_name": "Xã Suối Dầu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Suối Dầu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98306,108.0226": {
+    "display_name": "Phường Bình Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Bình Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.17639,109.0612": {
+    "display_name": "Xã Suối Dầu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Suối Dầu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77877,109.247": {
+    "display_name": "Đống Đa, Cảng Quy Nhơn, Hải Cảng, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Đống Đa",
+      "industrial": "Cảng Quy Nhơn",
+      "suburb": "Hải Cảng",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.17634,109.0613": {
+    "display_name": "Xã Suối Dầu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Suối Dầu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97832,108.0145": {
+    "display_name": "Phường Bình Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Phường Bình Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
