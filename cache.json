@@ -99993,5 +99993,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.29011,108.0296": {
+    "display_name": "Buốc, Xã Nam Ka, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Buốc",
+      "county": "Xã Nam Ka",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.50576,104.7944": {
+    "display_name": "Xã Vĩnh Gia, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Gia",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85612,106.5977": {
+    "display_name": "Xã Bà Điểm, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
