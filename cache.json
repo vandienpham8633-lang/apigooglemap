@@ -98883,5 +98883,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.28906,109.1797": {
+    "display_name": "Phường Tây Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "suburb": "Phường Tây Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
