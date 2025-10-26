@@ -101793,5 +101793,82 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.12229,107.6342": {
+    "display_name": "Xã Long Quảng, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Long Quảng",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.83279,108.3256": {
+    "display_name": "Xã Duy Nghĩa, Thành phố Đà Nẵng, 64000, Việt Nam",
+    "address": {
+      "town": "Xã Duy Nghĩa",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "64000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82288,106.9056": {
+    "display_name": "Đường Duơng Diên Nghệ, Long Khánh 2, Xã An Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Duơng Diên Nghệ",
+      "quarter": "Long Khánh 2",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.28985,108.0296": {
+    "display_name": "Buốc, Xã Nam Ka, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Buốc",
+      "county": "Xã Nam Ka",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.59391,109.0515": {
+    "display_name": "Xã Ninh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Ninh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92511,106.6421": {
+    "display_name": "Xã Bình Mỹ, Thành phố Hồ Chí Minh, 75212, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75212",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55681,106.1524": {
+    "display_name": "Thạnh Quới, Tân Châu, Xã Tân Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Thạnh Quới",
+      "town": "Tân Châu",
+      "county": "Xã Tân Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
