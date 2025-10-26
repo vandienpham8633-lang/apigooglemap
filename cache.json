@@ -100025,5 +100025,99 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.03231,104.9552": {
+    "display_name": "Xã Quản Bạ, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Quản Bạ",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.978864,105.3019": {
+    "display_name": "Xã Tân Thuận, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Thuận",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.530194,106.1805": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.93714,109.0784": {
+    "display_name": "Phường Ba Ngòi, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Ba Ngòi",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.38427,109.1154": {
+    "display_name": "Long Thạch, Xã Đồng Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Long Thạch",
+      "county": "Xã Đồng Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.744,106.6758": {
+    "display_name": "Đường Cao Lỗ, Khu phố 41, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Đường Cao Lỗ",
+      "quarter": "Khu phố 41",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.03227,104.9551": {
+    "display_name": "Xã Quản Bạ, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Quản Bạ",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34963,106.4369": {
+    "display_name": "Chợ Gạo, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Chợ Gạo",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.03226,104.9551": {
+    "display_name": "Xã Quản Bạ, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Quản Bạ",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
