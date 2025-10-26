@@ -101028,5 +101028,111 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.9671,109.3465": {
+    "display_name": "Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.17628,109.0612": {
+    "display_name": "Xã Suối Dầu, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Suối Dầu",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.83661,106.9457": {
+    "display_name": "Phước Long, Phường Phước Bình, Việt Nam",
+    "address": {
+      "town": "Phước Long",
+      "county": "Phường Phước Bình",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.580122,105.8726": {
+    "display_name": "ĐT. 938, Xã Mỹ Hương, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 938",
+      "city_district": "Xã Mỹ Hương",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25047,109.0371": {
+    "display_name": "Quốc lộ 27C, Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.464716,105.6279": {
+    "display_name": "Xã Vĩnh Lợi, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Lợi",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77414,109.2275": {
+    "display_name": "Quê Hương 2 restaurant, 185, Lê Hồng Phong, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "amenity": "Quê Hương 2 restaurant",
+      "house_number": "185",
+      "road": "Lê Hồng Phong",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77413,109.2274": {
+    "display_name": "Quê Hương 2 restaurant, 185, Lê Hồng Phong, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "amenity": "Quê Hương 2 restaurant",
+      "house_number": "185",
+      "road": "Lê Hồng Phong",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.328331,105.6288": {
+    "display_name": "Xã Vĩnh Mỹ, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Mỹ",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
