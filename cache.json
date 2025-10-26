@@ -98564,5 +98564,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.59887,107.9841": {
+    "display_name": "Thôn 5, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 5",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.978831,105.3019": {
+    "display_name": "Xã Tân Thuận, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Thuận",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78756,108.2793": {
+    "display_name": "Xã Kon Chiêng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Kon Chiêng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
