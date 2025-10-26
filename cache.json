@@ -97883,5 +97883,92 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.11905,106.344": {
+    "display_name": "Khu công nghiệp Phước Đông, Phường Gia Lộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Phước Đông",
+      "county": "Phường Gia Lộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.39653,108.902": {
+    "display_name": "Đường tỉnh 654, Soi Mít, Xã Trung Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 654",
+      "village": "Soi Mít",
+      "county": "Xã Trung Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.58392,107.3667": {
+    "display_name": "Phường Phong Điền, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Phong Điền",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.39488,106.9874": {
+    "display_name": "Trung tâm Y tế huyện Đakrông - cơ sở 2, Quốc lộ 14, Xã Tà Rụt, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "amenity": "Trung tâm Y tế huyện Đakrông - cơ sở 2",
+      "road": "Quốc lộ 14",
+      "town": "Xã Tà Rụt",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.53279,108.4802": {
+    "display_name": "Phường Hương Trà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Hương Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25043,109.0372": {
+    "display_name": "Quốc lộ 27C, Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07398,107.4991": {
+    "display_name": "Thôn 3, Xã Trà Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 3",
+      "county": "Xã Trà Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.51182,106.6383": {
+    "display_name": "Xã Tân Lân, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Tân Lân",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
