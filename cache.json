@@ -102340,5 +102340,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75765,106.5951": {
+    "display_name": "Phường Tân Tạo, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "suburb": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
