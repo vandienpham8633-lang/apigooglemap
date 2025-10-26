@@ -98627,5 +98627,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.84655,107.1616": {
+    "display_name": "Ấp 2, Xã Xuân Quế, Việt Nam",
+    "address": {
+      "village": "Ấp 2",
+      "county": "Xã Xuân Quế",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
