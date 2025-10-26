@@ -98851,5 +98851,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87061,106.9579": {
+    "display_name": "Long Đức 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Long Đức 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
