@@ -98894,5 +98894,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.28906,109.1798": {
+    "display_name": "Phường Tây Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "suburb": "Phường Tây Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62798,107.9925": {
+    "display_name": "Tổ dân phố 14, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 14",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01839,106.9694": {
+    "display_name": "Cây Xoài, Xã Tân An, Tỉnh Đồng Nai, 76000, Việt Nam",
+    "address": {
+      "village": "Cây Xoài",
+      "county": "Xã Tân An",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
