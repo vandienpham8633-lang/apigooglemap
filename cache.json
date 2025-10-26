@@ -102387,5 +102387,70 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.950617,106.0346": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.00995,108.1555": {
+    "display_name": "Xã Bà Nà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Bà Nà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.437219,105.181": {
+    "display_name": "Xã Trí Phải, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Trí Phải",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79143,106.9977": {
+    "display_name": "KCN Lộc An - Bình Sơn (quy hoạch), Bưng Môn, Xã Long Thành, 76206, Việt Nam",
+    "address": {
+      "industrial": "KCN Lộc An - Bình Sơn (quy hoạch)",
+      "village": "Bưng Môn",
+      "county": "Xã Long Thành",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.956148,106.4643": {
+    "display_name": "Xã Quới Điền, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Quới Điền",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.41308,107.1314": {
+    "display_name": "Hẻm 1007 Ba Mươi Tháng Tư, Cảng Tàu Côn Đảo, Phường Phước Thắng, Thành phố Hồ Chí Minh, 78000, Việt Nam",
+    "address": {
+      "road": "Hẻm 1007 Ba Mươi Tháng Tư",
+      "industrial": "Cảng Tàu Côn Đảo",
+      "city_district": "Phường Phước Thắng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
