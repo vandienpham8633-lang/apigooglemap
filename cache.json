@@ -101870,5 +101870,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.67767,107.0767": {
+    "display_name": "Xã Châu Đức, Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "city_district": "Xã Châu Đức",
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67768,107.0766": {
+    "display_name": "Xã Châu Đức, Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "city_district": "Xã Châu Đức",
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34575,106.6151": {
+    "display_name": "Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16004,106.7694": {
+    "display_name": "Chòi Dúng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Chòi Dúng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
