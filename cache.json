@@ -99445,5 +99445,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7514,106.6714": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
