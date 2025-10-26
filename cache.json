@@ -102309,5 +102309,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.71712,107.141": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
