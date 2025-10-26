@@ -101392,5 +101392,75 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.40372,105.645": {
+    "display_name": "ĐT. 849, Tân Thuận B, Mỹ An Hưng, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 849",
+      "hamlet": "Tân Thuận B",
+      "county": "Mỹ An Hưng",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.04464,105.3314": {
+    "display_name": "Thạnh Tây, Xã Tân Hiệp, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Thạnh Tây",
+      "county": "Xã Tân Hiệp",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77883,109.2469": {
+    "display_name": "Đống Đa, Cảng Quy Nhơn, Hải Cảng, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Đống Đa",
+      "industrial": "Cảng Quy Nhơn",
+      "suburb": "Hải Cảng",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.61428,109.2045": {
+    "display_name": "Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.848735,105.4994": {
+    "display_name": "Kênh Giữa, Xã Hòa Hưng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Kênh Giữa",
+      "county": "Xã Hòa Hưng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84424,106.8167": {
+    "display_name": "Phường Long Bình, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
