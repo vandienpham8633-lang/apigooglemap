@@ -99753,5 +99753,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.18822,106.2733": {
+    "display_name": "Xã Kỳ Anh, Hà Tĩnh, Việt Nam",
+    "address": {
+      "town": "Xã Kỳ Anh",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.43861,107.7268": {
+    "display_name": "Phú Đa, Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Phú Đa",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.56145,109.0111": {
+    "display_name": "Làng Canh Thành, Canh Hòa, Xã Vân Canh, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Làng Canh Thành, Canh Hòa",
+      "county": "Xã Vân Canh",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.4435,107.7297": {
+    "display_name": "Đường Tạ Quang Cự, Phú Đa, Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Tạ Quang Cự",
+      "town": "Phú Đa",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
