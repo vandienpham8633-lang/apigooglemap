@@ -98468,5 +98468,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.839182,105.4046": {
+    "display_name": "Mương Đào, Xã Hòa Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Mương Đào",
+      "county": "Xã Hòa Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39185,106.0109": {
+    "display_name": "Xã Hội Cư, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Hội Cư",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.28955,109.1694": {
+    "display_name": "Phường Tây Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "suburb": "Phường Tây Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
