@@ -99846,5 +99846,53 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59013,106.3714": {
+    "display_name": "Xã Mỹ Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.09088,108.2971": {
+    "display_name": "Xã Ayun, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ayun",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75142,106.671": {
+    "display_name": "35, Đường Nguyễn Văn Đừng, Khu phố 10, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "house_number": "35",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 10",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75138,106.6711": {
+    "display_name": "35, Đường Nguyễn Văn Đừng, Khu phố 10, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "house_number": "35",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 10",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
