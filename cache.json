@@ -99356,5 +99356,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.21426,106.7501": {
+    "display_name": "Xã Tân Phú Đông, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Phú Đông",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.13157,107.8455": {
+    "display_name": "Thôn 19, Xã Ea Súp, Tỉnh Đắk Lắk, 63700, Việt Nam",
+    "address": {
+      "village": "Thôn 19",
+      "county": "Xã Ea Súp",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63700",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
