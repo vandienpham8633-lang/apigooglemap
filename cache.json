@@ -100163,5 +100163,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.46938,109.1837": {
+    "display_name": "Hòa Thắng, Phường Hòa Thắng, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Hòa Thắng",
+      "county": "Phường Hòa Thắng",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.98197,108.7739": {
+    "display_name": "Quốc lộ 29, Chung, Xã Ea Ly, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 29",
+      "village": "Chung",
+      "county": "Xã Ea Ly",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
