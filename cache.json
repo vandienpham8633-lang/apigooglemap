@@ -98636,5 +98636,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.05492,108.1735": {
+    "display_name": "Bến Xe Trung Tâm Đà Nẵng, Đường Nguyễn Văn Tạo, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "amenity": "Bến Xe Trung Tâm Đà Nẵng",
+      "road": "Đường Nguyễn Văn Tạo",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
