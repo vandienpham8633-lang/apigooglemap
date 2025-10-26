@@ -100284,5 +100284,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86438,106.9174": {
+    "display_name": "Long Khánh 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Long Khánh 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77882,109.2469": {
+    "display_name": "Đống Đa, Cảng Quy Nhơn, Hải Cảng, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Đống Đa",
+      "industrial": "Cảng Quy Nhơn",
+      "suburb": "Hải Cảng",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.419494,105.5722": {
+    "display_name": "Xã Vĩnh Thanh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Thanh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.77885,109.2469": {
+    "display_name": "Đống Đa, Cảng Quy Nhơn, Hải Cảng, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "road": "Đống Đa",
+      "industrial": "Cảng Quy Nhơn",
+      "suburb": "Hải Cảng",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
