@@ -99982,5 +99982,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.26391,109.0968": {
+    "display_name": "Diên Khánh, Xã Diên Khánh, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Diên Khánh",
+      "county": "Xã Diên Khánh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
