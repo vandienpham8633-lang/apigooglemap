@@ -99378,5 +99378,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.54616,105.5583": {
+    "display_name": "Quốc lộ 15, Xã Đức Minh, Hà Tĩnh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 15",
+      "town": "Xã Đức Minh",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90545,107.3933": {
+    "display_name": "Tam Hiệp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Tam Hiệp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
