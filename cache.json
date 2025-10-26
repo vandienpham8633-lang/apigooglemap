@@ -101462,5 +101462,90 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.61429,109.2045": {
+    "display_name": "Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.515001,105.2636": {
+    "display_name": "Phan Văn Bảy, Vĩnh Thuận, Xã Vĩnh Phong, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Phan Văn Bảy",
+      "town": "Vĩnh Thuận",
+      "county": "Xã Vĩnh Phong",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.228226,105.292": {
+    "display_name": "Xã Phong Thạnh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84424,106.8168": {
+    "display_name": "Phường Long Bình, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.814504,106.0107": {
+    "display_name": "Đường Nam Sông Hậu, Xã Thới An Hội, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Nam Sông Hậu",
+      "city_district": "Xã Thới An Hội",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.35016,108.0901": {
+    "display_name": "Xã Trà Đốc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Trà Đốc",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.228283,105.292": {
+    "display_name": "Xã Phong Thạnh, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phong Thạnh",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84423,106.8167": {
+    "display_name": "Phường Long Bình, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
