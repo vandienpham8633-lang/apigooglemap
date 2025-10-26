@@ -99536,5 +99536,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.28662,105.5726": {
+    "display_name": "Rạch Gia - Xã Lò, Cái Đôi, Ấp Tân Định, Xã Lai Vung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "Rạch Gia - Xã Lò",
+      "quarter": "Cái Đôi",
+      "hamlet": "Ấp Tân Định",
+      "town": "Xã Lai Vung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.09729,105.2225": {
+    "display_name": "Kinh 3A, Tân Thạnh, Xã Thạnh Đông, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Kinh 3A",
+      "village": "Tân Thạnh",
+      "county": "Xã Thạnh Đông",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
