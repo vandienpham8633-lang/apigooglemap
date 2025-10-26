@@ -102319,5 +102319,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.36391,108.9597": {
+    "display_name": "Bến Khế, Xã Bắc Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Bến Khế",
+      "county": "Xã Bắc Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.17264,105.5826": {
+    "display_name": "Phường Thới Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
