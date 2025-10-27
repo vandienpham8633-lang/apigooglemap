@@ -104042,5 +104042,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.34812,104.9921": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.2249,106.6944": {
+    "display_name": "Đường tỉnh 741B, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 741B",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.992194,105.1016": {
+    "display_name": "Xã Tân Hưng, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hưng",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
