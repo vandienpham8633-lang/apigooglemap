@@ -104738,5 +104738,103 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90254,106.8079": {
+    "display_name": "Trường THPT Bình An, Đường Bình Thung, Bình Thung 1, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Bình An",
+      "road": "Đường Bình Thung",
+      "quarter": "Bình Thung 1",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.02024,108.8679": {
+    "display_name": "Xã Long Phụng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Long Phụng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62124,106.7021": {
+    "display_name": "Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63536,106.831": {
+    "display_name": "Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01192,106.8293": {
+    "display_name": "Bình Thạnh, Phường Tân Triều, Tỉnh Đồng Nai, 76913, Việt Nam",
+    "address": {
+      "quarter": "Bình Thạnh",
+      "county": "Phường Tân Triều",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.00002,108.2058": {
+    "display_name": "98, Đường Nguyễn Bảo, Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "house_number": "98",
+      "road": "Đường Nguyễn Bảo",
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.891609,106.3868": {
+    "display_name": "Xã Hưng Mỹ, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Mỹ",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59431,107.0488": {
+    "display_name": "Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82399,108.0669": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
