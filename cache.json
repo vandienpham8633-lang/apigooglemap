@@ -103635,5 +103635,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.47311,109.0329": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47303,109.033": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
