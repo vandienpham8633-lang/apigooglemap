@@ -105171,5 +105171,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92512,106.642": {
+    "display_name": "Xã Bình Mỹ, Thành phố Hồ Chí Minh, 75212, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75212",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79682,106.607": {
+    "display_name": "Hẻm 80/58 đường số 12, Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 80/58 đường số 12",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79685,106.607": {
+    "display_name": "Hẻm 80/58 đường số 12, Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 80/58 đường số 12",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
