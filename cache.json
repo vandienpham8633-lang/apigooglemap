@@ -104317,5 +104317,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91866,106.3235": {
+    "display_name": "ĐT. 822, Hiệp Hòa, Xã Hiệp Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT. 822",
+      "town": "Hiệp Hòa",
+      "county": "Xã Hiệp Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.57952,108.9982": {
+    "display_name": "Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
