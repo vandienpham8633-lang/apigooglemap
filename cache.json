@@ -104395,5 +104395,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.24468,105.5593": {
+    "display_name": "Phường Thuận Hưng, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thuận Hưng",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
