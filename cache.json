@@ -105394,5 +105394,110 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7681,106.4757": {
+    "display_name": "Khu CN Hải Sơn, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu CN Hải Sơn",
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.92563,109.3628": {
+    "display_name": "Quốc lộ 1, Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.57683,106.3852": {
+    "display_name": "ĐT. 817, Xã Thủ Thừa, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT. 817",
+      "town": "Xã Thủ Thừa",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74553,106.6175": {
+    "display_name": "Đường số 5, Phường An Lạc, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "road": "Đường số 5",
+      "suburb": "Phường An Lạc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.51751,106.8826": {
+    "display_name": "Trường Chinh, Tân Trà 2, Đồng Xoài, Phường Bình Phước, Tỉnh Đồng Nai, 67110, Việt Nam",
+    "address": {
+      "road": "Trường Chinh",
+      "quarter": "Tân Trà 2",
+      "city": "Đồng Xoài",
+      "county": "Phường Bình Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "67110",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.89317,108.3286": {
+    "display_name": "Tân An, Phường Hội An Tây, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "suburb": "Tân An",
+      "city": "Phường Hội An Tây",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.40428,106.3356": {
+    "display_name": "Xã Châu Thành, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5382,108.9514": {
+    "display_name": "Quốc lộ 1, Xã Ninh Phước, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Xã Ninh Phước",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.24888,109.1847": {
+    "display_name": "Trần Đường, Phường Tây Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "road": "Trần Đường",
+      "suburb": "Phường Tây Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
