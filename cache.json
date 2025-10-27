@@ -105216,5 +105216,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.95706,107.9213": {
+    "display_name": "Xã Sông Vàng, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Sông Vàng",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.20205,107.3637": {
+    "display_name": "Ấp 4, Xã Phú Hòa, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã Phú Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
