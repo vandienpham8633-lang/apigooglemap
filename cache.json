@@ -103661,5 +103661,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.22846,104.7314": {
+    "display_name": "Đường ven biển, Giồng Kè, Xã Bình Giang, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường ven biển",
+      "village": "Giồng Kè",
+      "county": "Xã Bình Giang",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
