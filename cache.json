@@ -105510,5 +105510,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.86729,106.7474": {
+    "display_name": "Hoàng Đồng, Phường Tam Thanh, Tỉnh Lạng Sơn, 00251, Việt Nam",
+    "address": {
+      "suburb": "Hoàng Đồng",
+      "state": "Tỉnh Lạng Sơn",
+      "ISO3166-2-lvl4": "VN-09",
+      "postcode": "00251",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
