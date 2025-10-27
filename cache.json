@@ -103195,5 +103195,144 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.33757,106.1874": {
+    "display_name": "Đường tỉnh 781, Xã Dương Minh Châu, Phường Ninh Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 781",
+      "town": "Xã Dương Minh Châu",
+      "county": "Phường Ninh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.456587,106.092": {
+    "display_name": "Xã Liêu Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Liêu Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96791,107.5667": {
+    "display_name": "Xã Ia O, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia O",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.33575,108.8941": {
+    "display_name": "Phước Diêm, Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Diêm",
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96789,107.5667": {
+    "display_name": "Xã Ia O, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia O",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.33573,108.8941": {
+    "display_name": "Phước Diêm, Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Diêm",
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67146,107.0351": {
+    "display_name": "Đường Phước Bình, Ấp 1A, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Phước Bình",
+      "village": "Ấp 1A",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73266,106.9202": {
+    "display_name": "Công ty TNHH Hwa Seung Vina, Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Hwa Seung Vina",
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67114,107.0352": {
+    "display_name": "Đường Phước Bình, Ấp 1A, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Phước Bình",
+      "village": "Ấp 1A",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7324,106.6248": {
+    "display_name": "Đường số 76, Phường Bình Phú, Thành phố Hồ Chí Minh, 71910, Việt Nam",
+    "address": {
+      "road": "Đường số 76",
+      "suburb": "Phường Bình Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71910",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.33579,108.8941": {
+    "display_name": "Phước Diêm, Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Diêm",
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92269,107.13": {
+    "display_name": "Khu công nghiệp Dầu Giây, Dầu Giây, Xã Dầu Giây, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Dầu Giây",
+      "town": "Dầu Giây",
+      "county": "Xã Dầu Giây",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
