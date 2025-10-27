@@ -103976,5 +103976,71 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.6984,105.4392": {
+    "display_name": "Xã Phú Thọ, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Phú Thọ",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96733,107.2133": {
+    "display_name": "Đường tỉnh 770, Phường Bình Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 770",
+      "county": "Phường Bình Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.55611,107.651": {
+    "display_name": "Đường Nguyễn Lữ, Thuận An, Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Lữ",
+      "town": "Thuận An",
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.29025,108.0294": {
+    "display_name": "Buốc, Xã Nam Ka, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Buốc",
+      "county": "Xã Nam Ka",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.9671,109.3456": {
+    "display_name": "Đông Hòa, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Đông Hòa",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.25693,106.6551": {
+    "display_name": "Đường tỉnh 741B, Phường Bến Cát, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 741B",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
