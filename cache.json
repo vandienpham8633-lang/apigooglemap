@@ -105127,5 +105127,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81673,106.5549": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25044,109.0375": {
+    "display_name": "Quốc lộ 27C, Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
