@@ -103673,5 +103673,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.62934,108.0035": {
+    "display_name": "Tổ dân phố 11, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 11",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78697,108.1199": {
+    "display_name": "Đường Cách Mạng, Xã Al Bá, Xã Bờ Ngoong, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Cách Mạng",
+      "town": "Xã Al Bá",
+      "county": "Xã Bờ Ngoong",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
