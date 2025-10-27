@@ -104880,5 +104880,87 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.88927,108.3301": {
+    "display_name": "Sincerity, Lê Đình Thám, Cẩm Châu, Phường Hội An Đông, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "tourism": "Sincerity",
+      "road": "Lê Đình Thám",
+      "suburb": "Cẩm Châu",
+      "city": "Phường Hội An Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.08896,108.2306": {
+    "display_name": "Аутентичное кафе, Đường Dương Văn Nga, Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "amenity": "Аутентичное кафе",
+      "road": "Đường Dương Văn Nga",
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.21037,105.2508": {
+    "display_name": "Sảng Tủng, Xã Sà Phìn, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "village": "Sảng Tủng",
+      "town": "Xã Sà Phìn",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.25489,106.1423": {
+    "display_name": "Chợ Lách, Xã Chợ Lách, Tỉnh Vĩnh Long, 86309, Việt Nam",
+    "address": {
+      "town": "Chợ Lách",
+      "county": "Xã Chợ Lách",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.02017,108.8679": {
+    "display_name": "Xã Long Phụng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Long Phụng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63382,106.5171": {
+    "display_name": "Quốc lộ 1, Gò Đen, Xã Bình Chánh, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "neighbourhood": "Gò Đen",
+      "village": "Xã Bình Chánh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.5442,107.8767": {
+    "display_name": "Đức Lập, Xã Nam Đà, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đức Lập",
+      "county": "Xã Nam Đà",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
