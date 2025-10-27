@@ -104558,5 +104558,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.35663,104.5021": {
+    "display_name": "Nguyễn Phúc Chu, Khu phố 3, Rạch Núi, Phường Tô Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Phúc Chu",
+      "quarter": "Khu phố 3",
+      "village": "Rạch Núi",
+      "county": "Phường Tô Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.80469,108.3704": {
+    "display_name": "Xã Thăng An, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng An",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
