@@ -103032,5 +103032,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.00951,109.2149": {
+    "display_name": "Ga Quốc tế Đến, Phường Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Ga Quốc tế Đến",
+      "suburb": "Phường Bắc Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54885,108.9661": {
+    "display_name": "Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
