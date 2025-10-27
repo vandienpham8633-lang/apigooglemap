@@ -103021,5 +103021,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.96723,109.3456": {
+    "display_name": "Đông Hòa, Phường Đông Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Đông Hòa",
+      "county": "Phường Đông Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
