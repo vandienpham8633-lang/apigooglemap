@@ -105532,5 +105532,100 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.72677,108.3704": {
+    "display_name": "Tổ dân phố 10, Liên Nghĩa, Xã Đức Trọng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 10",
+      "town": "Liên Nghĩa",
+      "county": "Xã Đức Trọng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.03448,105.7593": {
+    "display_name": "Trần Nam Phú, Phường Tân An, Thành phố Cần Thơ, 94108, Việt Nam",
+    "address": {
+      "road": "Trần Nam Phú",
+      "city_district": "Phường Tân An",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94108",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.71514,108.2359": {
+    "display_name": "Quốc lộ 26, Phước An, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "town": "Phước An",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.08766,106.636": {
+    "display_name": "Đường NK12, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường NK12",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63513,106.8311": {
+    "display_name": "Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98818,108.794": {
+    "display_name": "Quốc lộ 19, Thôn Thượng Sơn, Tây Thuận, Đồng Vắt, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Thượng Sơn, Tây Thuận",
+      "village": "Đồng Vắt",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.37786,105.9975": {
+    "display_name": "Xã Hoàng Vân, Thắng, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "suburb": "Xã Hoàng Vân",
+      "town": "Thắng",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90322,106.8085": {
+    "display_name": "Châu Thới, Bình Thung 2, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 76106, Việt Nam",
+    "address": {
+      "road": "Châu Thới",
+      "quarter": "Bình Thung 2",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
