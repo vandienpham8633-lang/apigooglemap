@@ -104181,5 +104181,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92612,106.4702": {
+    "display_name": "ĐT. 823B, Xã Đức Lập, Tỉnh Tây Ninh, 82719, Việt Nam",
+    "address": {
+      "road": "ĐT. 823B",
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82719",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.950109,105.1781": {
+    "display_name": "Đường tỉnh 990, Xã Đầm Dơi, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 990",
+      "county": "Xã Đầm Dơi",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.00955,109.2148": {
+    "display_name": "Ga Quốc tế Đến, Phường Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Ga Quốc tế Đến",
+      "suburb": "Phường Bắc Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
