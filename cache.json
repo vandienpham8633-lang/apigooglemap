@@ -103495,5 +103495,145 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.11545,109.2935": {
+    "display_name": "Phường Bình Kiến, Tỉnh Đắk Lắk, 56120, Việt Nam",
+    "address": {
+      "county": "Phường Bình Kiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "56120",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.60895,109.0074": {
+    "display_name": "khu phố Tuý Thạnh, phường Hoài  Nhơn Bắc, Phường Hoài Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Tuý Thạnh, phường Hoài  Nhơn Bắc",
+      "county": "Phường Hoài Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.26842,107.8829": {
+    "display_name": "Bạch Mã, Khu 9, Sách Chữ, Xã Phú Lộc, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Bạch Mã",
+      "quarter": "Khu 9",
+      "village": "Sách Chữ",
+      "town": "Xã Phú Lộc",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.839175,105.4045": {
+    "display_name": "Chín Ghì, Xã Hòa Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Chín Ghì",
+      "county": "Xã Hòa Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.75785,108.5307": {
+    "display_name": "Đường 412, Nam Hiệp 2, Xã Ka Đô, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường 412",
+      "village": "Nam Hiệp 2",
+      "county": "Xã Ka Đô",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.4729,109.033": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.967649,105.875": {
+    "display_name": "Xã Lục Sĩ Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Lục Sĩ Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.836,108.6903": {
+    "display_name": "Lâm Sơn, Xã Lâm Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Lâm Sơn",
+      "county": "Xã Lâm Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.99582,107.9902": {
+    "display_name": "Lý Thái Tổ, Phường Thống Nhất, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Lý Thái Tổ",
+      "county": "Phường Thống Nhất",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95291,105.0975": {
+    "display_name": "Long Bình, Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Long Bình",
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47302,109.0329": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55687,106.1523": {
+    "display_name": "Thạnh Quới, Tân Châu, Xã Tân Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Thạnh Quới",
+      "town": "Tân Châu",
+      "county": "Xã Tân Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
