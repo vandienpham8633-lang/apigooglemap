@@ -104692,5 +104692,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.93747,109.0092": {
+    "display_name": "Thôn Mỹ Đức, Tây An, Xã Bình Hiệp, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Mỹ Đức, Tây An",
+      "county": "Xã Bình Hiệp",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.97209,108.0144": {
+    "display_name": "Hùng Vương, Pleiku, Phường Pleiku, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "city": "Pleiku",
+      "county": "Phường Pleiku",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.63288,108.0075": {
+    "display_name": "Đường Nguyễn Khoa Đăng, Tổ dân phố 10, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Khoa Đăng",
+      "suburb": "Tổ dân phố 10",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.04779,107.0472": {
+    "display_name": "Xã Bàu Hàm, 76906, Việt Nam",
+    "address": {
+      "county": "Xã Bàu Hàm",
+      "postcode": "76906",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
