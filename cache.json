@@ -105359,5 +105359,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.53804,108.9514": {
+    "display_name": "Quốc lộ 1, Xã Ninh Phước, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Xã Ninh Phước",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92598,106.4698": {
+    "display_name": "ĐT. 823B, Xã Đức Lập, Tỉnh Tây Ninh, 82719, Việt Nam",
+    "address": {
+      "road": "ĐT. 823B",
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82719",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82943,106.5657": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
