@@ -103945,5 +103945,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.996695,106.608": {
+    "display_name": "Tiệm Tôm, Xã Tân Thủy, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiệm Tôm",
+      "county": "Xã Tân Thủy",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63783,105.3419": {
+    "display_name": "QL. 80B, Xã Phú An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "QL. 80B",
+      "county": "Xã Phú An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.37696,107.3591": {
+    "display_name": "Ấp 4, Xã Tà Lài, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã Tà Lài",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
