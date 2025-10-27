@@ -103172,5 +103172,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.10736,109.2481": {
+    "display_name": "Đường Đá Bàn, Xuân Hòa, Phường Bình Kiến, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Đá Bàn",
+      "village": "Xuân Hòa",
+      "county": "Phường Bình Kiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86889,106.3982": {
+    "display_name": "Xã Hòa Khánh, Tỉnh Tây Ninh, 82706, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Khánh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
