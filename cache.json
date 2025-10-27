@@ -103800,5 +103800,77 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.00954,109.2148": {
+    "display_name": "Ga Quốc tế Đến, Phường Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Ga Quốc tế Đến",
+      "suburb": "Phường Bắc Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.45276,106.6416": {
+    "display_name": "KCN Becamex Bình Phước, Phường Chơn Thành, Việt Nam",
+    "address": {
+      "industrial": "KCN Becamex Bình Phước",
+      "county": "Phường Chơn Thành",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54887,108.9661": {
+    "display_name": "Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.45269,106.6417": {
+    "display_name": "KCN Becamex Bình Phước, Phường Chơn Thành, Việt Nam",
+    "address": {
+      "industrial": "KCN Becamex Bình Phước",
+      "county": "Phường Chơn Thành",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.79024,108.1081": {
+    "display_name": "Quốc lộ 14H, Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14H",
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.59573,109.2076": {
+    "display_name": "Bình Thạnh, Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Bình Thạnh",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69092,106.7013": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
