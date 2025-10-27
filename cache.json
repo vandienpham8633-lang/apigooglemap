@@ -104679,5 +104679,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.63285,108.0074": {
+    "display_name": "Đường Nguyễn Khoa Đăng, Tổ dân phố 10, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Khoa Đăng",
+      "suburb": "Tổ dân phố 10",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
