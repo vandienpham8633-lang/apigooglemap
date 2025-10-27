@@ -102562,5 +102562,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.93642,105.0799": {
+    "display_name": "Long Bình, Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Long Bình",
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.69512,107.3162": {
+    "display_name": "Hội Điền, Xã Nam Hải Lăng, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Hội Điền",
+      "town": "Xã Nam Hải Lăng",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87541,108.1437": {
+    "display_name": "Xã Điện Bàn Tây, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Điện Bàn Tây",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54842,106.39": {
+    "display_name": "Nguyễn Thị Bảy, Tân An, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Bảy",
+      "city": "Tân An",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
