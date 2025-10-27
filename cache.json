@@ -104962,5 +104962,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.19672,105.6345": {
+    "display_name": "Xã Phong Hòa, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "village": "Xã Phong Hòa",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
