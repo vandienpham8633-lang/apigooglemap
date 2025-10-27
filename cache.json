@@ -104137,5 +104137,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63491,106.8312": {
+    "display_name": "Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.11578,106.6567": {
+    "display_name": "Đường DE6, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường DE6",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.45582,105.3403": {
+    "display_name": "CTy AN GIANG SAMHO, Quốc lộ 91, Xã Bình Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "office": "CTy AN GIANG SAMHO",
+      "road": "Quốc lộ 91",
+      "county": "Xã Bình Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82373,108.0671": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
