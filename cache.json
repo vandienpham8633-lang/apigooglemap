@@ -103697,5 +103697,98 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.22727,105.8879": {
+    "display_name": "Phú Hựu, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Phú Hựu",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47304,109.033": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.76337,106.4148": {
+    "display_name": "Phường Ba Đồn, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "city": "Phường Ba Đồn",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.96003,107.5987": {
+    "display_name": "Xã Ia O, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia O",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.8525,107.9307": {
+    "display_name": "plei La Puch, Xã Bàu Cạn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "plei La Puch",
+      "county": "Xã Bàu Cạn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.54865,108.9659": {
+    "display_name": "Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.24816,105.907": {
+    "display_name": "Phường Tân Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Tân Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.97292,107.0984": {
+    "display_name": "Đường tỉnh 760, Xã Phú Nghĩa, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 760",
+      "county": "Xã Phú Nghĩa",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.16659,106.2021": {
+    "display_name": "Xã Thạnh Đức, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Đức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
