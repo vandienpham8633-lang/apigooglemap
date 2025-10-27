@@ -105027,5 +105027,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.40834,105.3698": {
+    "display_name": "Xã An Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã An Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.83721,108.7203": {
+    "display_name": "Lâm Sơn, Xã Lâm Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Lâm Sơn",
+      "county": "Xã Lâm Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.04061,105.8241": {
+    "display_name": "Trường Tiểu học Ba Đình, 145, Đường Hoàng Hoa Thám, Phường Ngọc Hà, Hà Nội, 10287, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Ba Đình",
+      "house_number": "145",
+      "road": "Đường Hoàng Hoa Thám",
+      "suburb": "Phường Ngọc Hà",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10287",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
