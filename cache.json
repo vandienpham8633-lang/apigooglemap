@@ -103334,5 +103334,115 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.73244,106.6248": {
+    "display_name": "Đường số 76, Phường Bình Phú, Thành phố Hồ Chí Minh, 71910, Việt Nam",
+    "address": {
+      "road": "Đường số 76",
+      "suburb": "Phường Bình Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71910",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.33623,107.6144": {
+    "display_name": "Hương Thủy, Phường Phú Bài, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Hương Thủy",
+      "county": "Phường Phú Bài",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62257,105.0037": {
+    "display_name": "Trà Sư, Phường Thới Sơn, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Trà Sư",
+      "county": "Phường Thới Sơn",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47301,109.033": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.12489,108.8449": {
+    "display_name": "Quốc lộ 25, Độc Lập, Xã Suối Trai, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "village": "Độc Lập",
+      "county": "Xã Suối Trai",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.26844,107.8829": {
+    "display_name": "Bạch Mã, Khu 9, Sách Chữ, Xã Phú Lộc, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Bạch Mã",
+      "quarter": "Khu 9",
+      "village": "Sách Chữ",
+      "town": "Xã Phú Lộc",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86882,106.3981": {
+    "display_name": "Xã Hòa Khánh, Tỉnh Tây Ninh, 82706, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Khánh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73264,106.9202": {
+    "display_name": "Công ty TNHH Hwa Seung Vina, Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Hwa Seung Vina",
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.33627,107.6144": {
+    "display_name": "Hương Thủy, Phường Phú Bài, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Hương Thủy",
+      "county": "Phường Phú Bài",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
