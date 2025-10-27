@@ -105521,5 +105521,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.1691,107.885": {
+    "display_name": "R'Bút, Xã Quảng Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "R'Bút",
+      "county": "Xã Quảng Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
