@@ -105281,5 +105281,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.677966,106.3076": {
+    "display_name": "Xã Hàm Giang, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Giang",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82946,106.5657": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73173,106.9045": {
+    "display_name": "Đào Thị Phấn, Xóm Hố, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đào Thị Phấn",
+      "village": "Xóm Hố",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.87862,108.2111": {
+    "display_name": "Xã Điện Bàn Tây, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Điện Bàn Tây",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.02834,105.8893": {
+    "display_name": "Phố Trần Đăng Khoa, Phường Long Biên, Hà Nội, 08443, Việt Nam",
+    "address": {
+      "road": "Phố Trần Đăng Khoa",
+      "suburb": "Phường Long Biên",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "08443",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
