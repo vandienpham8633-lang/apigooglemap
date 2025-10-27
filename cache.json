@@ -105150,5 +105150,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.78992,108.1081": {
+    "display_name": "Quốc lộ 14H, Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14H",
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.17711,106.9686": {
+    "display_name": "Xã Sen Ngư, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Sen Ngư",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
