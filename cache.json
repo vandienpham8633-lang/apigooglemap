@@ -104836,5 +104836,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.44863,107.8318": {
+    "display_name": "Thôn 8B, Xã Bảo Lâm 3, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 8B",
+      "county": "Xã Bảo Lâm 3",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.66,107.18": {
+    "display_name": "Xã Kim Long, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "town": "Xã Kim Long",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.80826,108.4369": {
+    "display_name": "Đarahoa, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đarahoa",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
