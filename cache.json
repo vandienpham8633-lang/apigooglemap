@@ -102729,5 +102729,209 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.37529,105.6887": {
+    "display_name": "Tân Khánh Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "village": "Tân Khánh Trung",
+      "county": "Tân Khánh Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68788,108.3853": {
+    "display_name": "Tân Lập 1, Xã Ea Phê, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Lập 1",
+      "county": "Xã Ea Phê",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93487,108.0104": {
+    "display_name": "Phường Hội Phú, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "county": "Phường Hội Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64729,106.5442": {
+    "display_name": "Quốc lộ 1, Gò Đen, Xã Bình Chánh, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "neighbourhood": "Gò Đen",
+      "village": "Xã Bình Chánh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.59992,106.4846": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "village": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.41715,107.8067": {
+    "display_name": "Xã Phú Vinh, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vinh",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.36709,105.433": {
+    "display_name": "Trường Cao đẳng Y tế An Giang, Nam rạch Tầm Bót, Phường Long Xuyên, Tỉnh An Giang, 02963, Việt Nam",
+    "address": {
+      "amenity": "Trường Cao đẳng Y tế An Giang",
+      "road": "Nam rạch Tầm Bót",
+      "municipality": "Phường Long Xuyên",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "02963",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39305,106.3137": {
+    "display_name": "Bệnh viện Đa khoa tỉnh Tiền Giang, Quốc lộ 1, Phường Trung An, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa tỉnh Tiền Giang",
+      "road": "Quốc lộ 1",
+      "county": "Phường Trung An",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.375007,105.8911": {
+    "display_name": "ĐT. 936B, Xã Hòa Tú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 936B",
+      "city_district": "Xã Hòa Tú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.99973,105.4957": {
+    "display_name": "Xã Yên Thành, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Yên Thành",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.68168,109.0757": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.567971,106.0452": {
+    "display_name": "ĐT. 934B, Xã Tài Văn, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 934B",
+      "city_district": "Xã Tài Văn",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73262,106.9202": {
+    "display_name": "Công ty TNHH Hwa Seung Vina, Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Hwa Seung Vina",
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73267,106.9202": {
+    "display_name": "Công ty TNHH Hwa Seung Vina, Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Hwa Seung Vina",
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7326,106.9202": {
+    "display_name": "Công ty TNHH Hwa Seung Vina, Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Hwa Seung Vina",
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.32612,105.9174": {
+    "display_name": "Xã Mỹ Lợi, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Lợi",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87706,107.4771": {
+    "display_name": "Ấp 1, Xã Xuân Hòa, 76618, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "county": "Xã Xuân Hòa",
+      "postcode": "76618",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
