@@ -104268,5 +104268,54 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.77048,106.6938": {
+    "display_name": "Nguyễn Thị Nghĩa, Khu phố 4, Phường Bến Thành, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70200, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Nghĩa",
+      "quarter": "Khu phố 4",
+      "suburb": "Phường Bến Thành",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91868,106.3235": {
+    "display_name": "ĐT. 822, Hiệp Hòa, Xã Hiệp Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT. 822",
+      "town": "Hiệp Hòa",
+      "county": "Xã Hiệp Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.0127,106.8635": {
+    "display_name": "Công ty TNHH MTV NMSX Cồn Tùng Lâm, Bưng Mua, Ông Hường, Phường Trảng Dài, Tỉnh Đồng Nai, 76913, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH MTV NMSX Cồn Tùng Lâm",
+      "road": "Bưng Mua",
+      "village": "Ông Hường",
+      "county": "Phường Trảng Dài",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.57953,108.9983": {
+    "display_name": "Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
