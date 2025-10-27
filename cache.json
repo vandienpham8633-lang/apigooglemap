@@ -105706,5 +105706,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.62796,108.3019": {
+    "display_name": "Quốc lộ 28B, Ninh Hòa, Xã Ninh Gia, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28B",
+      "village": "Ninh Hòa",
+      "county": "Xã Ninh Gia",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
