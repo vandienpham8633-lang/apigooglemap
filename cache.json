@@ -105627,5 +105627,84 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.51178,108.9455": {
+    "display_name": "Đặc khu Phú Quý, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Đặc khu Phú Quý",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90679,107.3084": {
+    "display_name": "Bình Hoà, Xã Xuân Phú, 76615, Việt Nam",
+    "address": {
+      "village": "Bình Hoà",
+      "county": "Xã Xuân Phú",
+      "postcode": "76615",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.23675,106.6379": {
+    "display_name": "Xã Bàu Bàng, Thành phố Hồ Chí Minh, 75751, Việt Nam",
+    "address": {
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75751",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53809,108.9514": {
+    "display_name": "Quốc lộ 1, Xã Ninh Phước, Xã Phước Dinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Xã Ninh Phước",
+      "county": "Xã Phước Dinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.62794,108.3019": {
+    "display_name": "Quốc lộ 28B, Ninh Hòa, Xã Ninh Gia, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28B",
+      "village": "Ninh Hòa",
+      "county": "Xã Ninh Gia",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.0358,108.3523": {
+    "display_name": "Quốc lộ 19, De Kop, Xã Hra, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "village": "De Kop",
+      "county": "Xã Hra",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.62795,108.3019": {
+    "display_name": "Quốc lộ 28B, Ninh Hòa, Xã Ninh Gia, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28B",
+      "village": "Ninh Hòa",
+      "county": "Xã Ninh Gia",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
