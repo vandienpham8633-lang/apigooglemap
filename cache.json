@@ -102618,5 +102618,116 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.72706,106.8594": {
+    "display_name": "Xã Hướng Hiệp, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hướng Hiệp",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82657,106.7253": {
+    "display_name": "Khu phố 52, Phường Hiệp Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72309, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 52",
+      "suburb": "Phường Hiệp Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.52366,107.4416": {
+    "display_name": "Tỉnh lộ 11B, Phong Thái, Phường Phong Thái, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 11B",
+      "town": "Phong Thái",
+      "county": "Phường Phong Thái",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95165,107.4032": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72369,106.6222": {
+    "display_name": "Trường THPT Chuyên năng khiếu TDTT Nguyễn Thị Định, 215, Hẻm 146 An Dương Vương, Phường Phú Định, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "amenity": "Trường THPT Chuyên năng khiếu TDTT Nguyễn Thị Định",
+      "house_number": "215",
+      "road": "Hẻm 146 An Dương Vương",
+      "suburb": "Phường Phú Định",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73265,106.9202": {
+    "display_name": "Công ty TNHH Hwa Seung Vina, Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Hwa Seung Vina",
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73574,106.6068": {
+    "display_name": "Đường SINCO, Phường An Lạc, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Đường SINCO",
+      "suburb": "Phường An Lạc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54836,106.3901": {
+    "display_name": "Nguyễn Thị Bảy, Tân An, Phường Long An, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Bảy",
+      "city": "Tân An",
+      "county": "Phường Long An",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62295,107.9564": {
+    "display_name": "Mbrê, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Mbrê",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
