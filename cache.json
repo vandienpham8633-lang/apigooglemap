@@ -104581,5 +104581,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.24752,109.0445": {
+    "display_name": "Quốc lộ 27C, Xã Diên Lạc, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Diên Lạc",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
