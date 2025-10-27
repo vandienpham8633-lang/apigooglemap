@@ -102527,5 +102527,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.7192,107.1388": {
+    "display_name": "Quốc lộ 14, Thôn 5, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 5",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62765,106.7648": {
+    "display_name": "Khu công nghiệp Hiệp Phước, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hiệp Phước",
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82681,106.7526": {
+    "display_name": "Đường Số 1, Cảng Trường Thọ, Khu phố 22, Phường Thủ Đức, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71221, Việt Nam",
+    "address": {
+      "road": "Đường Số 1",
+      "industrial": "Cảng Trường Thọ",
+      "quarter": "Khu phố 22",
+      "suburb": "Phường Thủ Đức",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71221",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
