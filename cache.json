@@ -104418,5 +104418,145 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80062,107.8659": {
+    "display_name": "Nguyễn Minh Châu, Xã Hàm Thuận Nam, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Nguyễn Minh Châu",
+      "county": "Xã Hàm Thuận Nam",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78704,100.5129": {
+    "display_name": "ศรีย่าน, ถนนสามเสน, ชุมชนราชพัสดุ, แขวงถนนนครไชยศรี, เขตดุสิต, Băng Cốc, 10300, Thái Lan",
+    "address": {
+      "railway": "ศรีย่าน",
+      "road": "ถนนสามเสน",
+      "neighbourhood": "ชุมชนราชพัสดุ",
+      "quarter": "แขวงถนนนครไชยศรี",
+      "suburb": "เขตดุสิต",
+      "city": "Băng Cốc",
+      "ISO3166-2-lvl4": "TH-10",
+      "postcode": "10300",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "15.89084,108.298": {
+    "display_name": "Điện Biên Phủ, Thanh Hà, Phường Hội An Tây, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "road": "Điện Biên Phủ",
+      "suburb": "Thanh Hà",
+      "city": "Phường Hội An Tây",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.11073,108.7735": {
+    "display_name": "Quảng Phú, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Quảng Phú",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25331,109.1747": {
+    "display_name": "Phường Tây Nha Trang, Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "suburb": "Phường Tây Nha Trang",
+      "city": "Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.15191,104.8727": {
+    "display_name": "ជលគីរី, ខេត្តកំពង់ឆ្នាំង, Cao Miên",
+    "address": {
+      "town": "ជលគីរី",
+      "state": "ខេត្តកំពង់ឆ្នាំង",
+      "ISO3166-2-lvl4": "KH-4",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "10.79461,105.2799": {
+    "display_name": "Xã Long Khánh, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Khánh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.55469,107.6507": {
+    "display_name": "Đường Hoàng Quang, Phường Thuận An, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Hoàng Quang",
+      "city": "Phường Thuận An",
+      "county": "Phường Thuận An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79275,106.9504": {
+    "display_name": "Cao đẳng nghề Công nghệ cao Đồng Nai, Tôn Đức Thắng, Phước Long, Long Thành, Xã Long Thành, Tỉnh Đồng Nai, 76009, Việt Nam",
+    "address": {
+      "amenity": "Cao đẳng nghề Công nghệ cao Đồng Nai",
+      "road": "Tôn Đức Thắng",
+      "quarter": "Phước Long",
+      "town": "Long Thành",
+      "county": "Xã Long Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83011,106.5607": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14612,106.6944": {
+    "display_name": "VSIP II Mở Rộng, Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "industrial": "VSIP II Mở Rộng",
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06039,107.1336": {
+    "display_name": "Xã Thống Nhất, 76310, Việt Nam",
+    "address": {
+      "county": "Xã Thống Nhất",
+      "postcode": "76310",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
