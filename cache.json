@@ -102485,5 +102485,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.86102,105.2153": {
+    "display_name": "Bình Lợi, Xã Châu Thành, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Bình Lợi",
+      "county": "Xã Châu Thành",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.59574,109.2076": {
+    "display_name": "Bình Thạnh, Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Bình Thạnh",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.64767,107.0546": {
+    "display_name": "Đường tỉnh 755, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 755",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950606,106.0347": {
+    "display_name": "Quốc lộ 54, Xã Vĩnh Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 54",
+      "county": "Xã Vĩnh Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
