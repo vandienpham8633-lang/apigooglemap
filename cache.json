@@ -104339,5 +104339,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.12295,108.7091": {
+    "display_name": "Xã Trà Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Trà Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62127,106.7021": {
+    "display_name": "Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
