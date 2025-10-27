@@ -102606,5 +102606,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81568,106.8224": {
+    "display_name": "Đường N12, Phường Long Phước, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "road": "Đường N12",
+      "suburb": "Phường Long Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
