@@ -104995,5 +104995,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.19496,108.7098": {
+    "display_name": "Xã Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Tịnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.2549,106.1422": {
+    "display_name": "Chợ Lách, Xã Chợ Lách, Tỉnh Vĩnh Long, 86309, Việt Nam",
+    "address": {
+      "town": "Chợ Lách",
+      "county": "Xã Chợ Lách",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34527,106.2972": {
+    "display_name": "Xã Cầu Khởi, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Cầu Khởi",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
