@@ -102981,5 +102981,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.93486,108.0104": {
+    "display_name": "Phường Hội Phú, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "county": "Phường Hội Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73261,106.9202": {
+    "display_name": "Công ty TNHH Hwa Seung Vina, Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Hwa Seung Vina",
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47301,109.0329": {
+    "display_name": "Đường Quang Trung, Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam), khóm Giao Hội, Phường Hoài Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Quang Trung",
+      "quarter": "Khu phố Đệ Đức 3 (Phường Hoài Nhơn Nam)",
+      "village": "khóm Giao Hội",
+      "county": "Phường Hoài Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
