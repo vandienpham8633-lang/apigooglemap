@@ -104225,5 +104225,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.17259,105.5826": {
+    "display_name": "Phường Thới Long, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Phường Thới Long",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
