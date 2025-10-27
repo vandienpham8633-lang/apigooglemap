@@ -102933,5 +102933,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.98812,106.9491": {
+    "display_name": "Khu công nghiệp Sông Mây, Phường Hố Nai, Tỉnh Đồng Nai, 76000, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Sông Mây",
+      "county": "Phường Hố Nai",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
