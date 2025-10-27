@@ -105775,5 +105775,73 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.0477,108.4724": {
+    "display_name": "Quốc lộ 24B, Di Lăng, Xã Sơn Hà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 24B",
+      "town": "Di Lăng",
+      "county": "Xã Sơn Hà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07163,106.5597": {
+    "display_name": "Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90611,106.8494": {
+    "display_name": "Bình Dương, Phường Long Hưng, Tỉnh Đồng Nai, 76100, Việt Nam",
+    "address": {
+      "quarter": "Bình Dương",
+      "county": "Phường Long Hưng",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96447,107.225": {
+    "display_name": "Khu công nghiệp Long Khánh, Ấp 1, Phường Bình Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Long Khánh",
+      "village": "Ấp 1",
+      "county": "Phường Bình Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.8271,106.9655": {
+    "display_name": "Xã Hiếu Giang, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hiếu Giang",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82943,106.5658": {
+    "display_name": "Đường Nguyễn Thị Lê, Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Thị Lê",
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
