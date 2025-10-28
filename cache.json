@@ -108869,5 +108869,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.73207,108.2068": {
+    "display_name": "Briêng B, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Briêng B",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.96705,108.1525": {
+    "display_name": "Xã Hòa Tiến, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hòa Tiến",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.53267,108.48": {
+    "display_name": "Phường Hương Trà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Hương Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
