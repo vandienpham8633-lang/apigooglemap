@@ -106549,5 +106549,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.81828,108.9521": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.68161,109.0757": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
