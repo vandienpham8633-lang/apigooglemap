@@ -106619,5 +106619,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.07615,106.6972": {
+    "display_name": "Phú Trung, Phường Bình Dương, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "quarter": "Phú Trung",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93877,108.9975": {
+    "display_name": "Thôn Mỹ An, Tây Bình, Mỹ An, Xã Bình An, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Mỹ An, Tây Bình",
+      "village": "Mỹ An",
+      "county": "Xã Bình An",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.68165,109.0757": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07616,106.6972": {
+    "display_name": "Phú Trung, Phường Bình Dương, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "quarter": "Phú Trung",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.81829,108.9521": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
