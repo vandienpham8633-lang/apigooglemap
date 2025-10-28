@@ -106516,5 +106516,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.22968,105.9794": {
+    "display_name": "Phường Phước Hậu, Tỉnh Vĩnh Long, 85108, Việt Nam",
+    "address": {
+      "county": "Phường Phước Hậu",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85108",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.81827,108.9521": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.933082,105.3726": {
+    "display_name": "Ngọc Lợi, Xã Ngọc Chúc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Ngọc Lợi",
+      "county": "Xã Ngọc Chúc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
