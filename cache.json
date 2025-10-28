@@ -107436,5 +107436,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.76869,109.2231": {
+    "display_name": "Phạm Ngọc Thạch, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "road": "Phạm Ngọc Thạch",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
