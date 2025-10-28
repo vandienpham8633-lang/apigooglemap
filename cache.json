@@ -106881,5 +106881,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.5411,108.9522": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.65853,107.786": {
+    "display_name": "Thôn 2, Tân Cảnh, Xã Đăk Tô, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Thôn 2",
+      "village": "Tân Cảnh",
+      "county": "Xã Đăk Tô",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
