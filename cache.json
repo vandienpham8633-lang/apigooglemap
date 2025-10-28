@@ -107598,5 +107598,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.79509,105.5001": {
+    "display_name": "អូររាំងឪ, ខេត្តត្បូងឃ្មុំ, Cao Miên",
+    "address": {
+      "town": "អូររាំងឪ",
+      "county": "អូររាំងឪ",
+      "state": "ខេត្តត្បូងឃ្មុំ",
+      "ISO3166-2-lvl4": "KH-25",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
   }
 }
