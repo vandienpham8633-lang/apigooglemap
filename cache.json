@@ -108617,5 +108617,58 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.33762,108.877": {
+    "display_name": "Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.57239,107.3551": {
+    "display_name": "Thôn 4, Xã Cát Tiên 2, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 4",
+      "county": "Xã Cát Tiên 2",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.63153,108.0037": {
+    "display_name": "Tổ dân phố 11, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 11",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.92733,106.7203": {
+    "display_name": "Xã Tân Tiến, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tiến",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12356,106.7038": {
+    "display_name": "Khu phố 4, Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 4",
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
