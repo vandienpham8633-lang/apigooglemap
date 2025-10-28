@@ -108003,5 +108003,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.28999,108.0297": {
+    "display_name": "Buốc, Xã Nam Ka, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Buốc",
+      "county": "Xã Nam Ka",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
