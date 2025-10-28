@@ -108836,5 +108836,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.75436,109.2137": {
+    "display_name": "Bùi Tư Toàn, Khu vực, Nguyễn Văn Cừ, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "road": "Bùi Tư Toàn",
+      "quarter": "Khu vực",
+      "suburb": "Nguyễn Văn Cừ",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
