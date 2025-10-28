@@ -107707,5 +107707,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.06533,106.6972": {
+    "display_name": "Chánh Long, Phường Bình Dương, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Chánh Long",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64076,107.0473": {
+    "display_name": "Phường Phú Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
