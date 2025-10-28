@@ -107728,5 +107728,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.64087,107.0477": {
+    "display_name": "Trường Mẫu giáo Mỹ Xuân, Lê Hồng Phong, Phường Phú Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "amenity": "Trường Mẫu giáo Mỹ Xuân",
+      "road": "Lê Hồng Phong",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
