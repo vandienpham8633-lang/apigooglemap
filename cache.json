@@ -108822,5 +108822,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.75462,109.2139": {
+    "display_name": "Trương Văn Của, Khu vực, Nguyễn Văn Cừ, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "road": "Trương Văn Của",
+      "quarter": "Khu vực",
+      "suburb": "Nguyễn Văn Cừ",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
