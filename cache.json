@@ -106173,5 +106173,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.62307,107.9566": {
+    "display_name": "Mbrê, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Mbrê",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.6329,108.0074": {
+    "display_name": "Đường Nguyễn Khoa Đăng, Tổ dân phố 10, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Khoa Đăng",
+      "suburb": "Tổ dân phố 10",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87059,106.9579": {
+    "display_name": "Long Đức 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Long Đức 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63954,106.4782": {
+    "display_name": "Huỳnh Châu Sổ, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Huỳnh Châu Sổ",
+      "town": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
