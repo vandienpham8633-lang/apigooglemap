@@ -106483,5 +106483,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.22973,105.9793": {
+    "display_name": "Phường Phước Hậu, Tỉnh Vĩnh Long, 85108, Việt Nam",
+    "address": {
+      "county": "Phường Phước Hậu",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85108",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
