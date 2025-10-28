@@ -106494,5 +106494,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.12116,106.8173": {
+    "display_name": "Xã Trường Phú, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Trường Phú",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07613,106.6973": {
+    "display_name": "Phú Trung, Phường Bình Dương, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "quarter": "Phú Trung",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
