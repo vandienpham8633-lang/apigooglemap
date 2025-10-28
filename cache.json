@@ -106384,5 +106384,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.12114,106.8173": {
+    "display_name": "Xã Trường Phú, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Trường Phú",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87057,106.9579": {
+    "display_name": "Long Đức 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Long Đức 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.04287,108.2555": {
+    "display_name": "Quốc lộ 19, Kon Dơng, Xã Mang Yang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "town": "Kon Dơng",
+      "county": "Xã Mang Yang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
