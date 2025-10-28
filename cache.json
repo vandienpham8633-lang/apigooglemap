@@ -106723,5 +106723,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.85255,109.1023": {
+    "display_name": "KV.Tân Hòa, P.Nhơn Hòa, Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KV.Tân Hòa, P.Nhơn Hòa",
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.68169,109.0757": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.09157,108.2479": {
+    "display_name": "28, Đường Võ Duy Ninh, Phường Sơn Trà, Thành phố Đà Nẵng, 50207, Việt Nam",
+    "address": {
+      "house_number": "28",
+      "road": "Đường Võ Duy Ninh",
+      "city": "Phường Sơn Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "50207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
