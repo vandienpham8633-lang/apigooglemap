@@ -106757,5 +106757,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.25851,109.1897": {
+    "display_name": "Nguyễn Thái Học, Phường Nha Trang, Khánh Hòa, 57100, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thái Học",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.45314,108.6548": {
+    "display_name": "Xã Núi Thành, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Núi Thành",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.81833,108.9522": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
