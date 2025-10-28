@@ -106349,5 +106349,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.0312,106.3031": {
+    "display_name": "Khu công nghiệp Thành Thành Công, Phường Trảng Bàng, Tỉnh Tây Ninh, 89150, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Thành Thành Công",
+      "county": "Phường Trảng Bàng",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "89150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.92636,95.56163": {
+    "display_name": "ဆတ်သွား, တောင်တွင်းကြီး, မကွေးခရိုင်, မကွေးတိုင်းဒေသကြီး, Myanma",
+    "address": {
+      "town": "ဆတ်သွား",
+      "municipality": "တောင်တွင်းကြီး",
+      "county": "မကွေးခရိုင်",
+      "state": "မကွေးတိုင်းဒေသကြီး",
+      "ISO3166-2-lvl4": "MM-03",
+      "country": "Myanma",
+      "country_code": "mm"
+    }
   }
 }
