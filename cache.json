@@ -107380,5 +107380,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.75501,109.2116": {
+    "display_name": "Ngô Gia Tự, Khu vực, Nguyễn Văn Cừ, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "road": "Ngô Gia Tự",
+      "quarter": "Khu vực",
+      "suburb": "Nguyễn Văn Cừ",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
