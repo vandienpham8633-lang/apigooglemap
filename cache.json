@@ -107298,5 +107298,71 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06357,108.2443": {
+    "display_name": "Kova Diamond, 27, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Kova Diamond",
+      "house_number": "27",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85041,106.6239": {
+    "display_name": "Khu phố 11, Phường Trung Mỹ Tây, Thuận An, Thành phố Hồ Chí Minh, 71507, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 11",
+      "suburb": "Phường Trung Mỹ Tây",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.98826,108.794": {
+    "display_name": "Quốc lộ 19, Thôn Thượng Sơn, Tây Thuận, Đồng Vắt, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Thượng Sơn, Tây Thuận",
+      "village": "Đồng Vắt",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.62789,108.302": {
+    "display_name": "Quốc lộ 28B, Ninh Hòa, Xã Ninh Gia, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28B",
+      "village": "Ninh Hòa",
+      "county": "Xã Ninh Gia",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68753,108.0328": {
+    "display_name": "Trường Tiểu Học Trần Phú, 83, Nguyễn Tri Phương, Tổ dân phố 9, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "office": "Trường Tiểu Học Trần Phú",
+      "house_number": "83",
+      "road": "Nguyễn Tri Phương",
+      "suburb": "Tổ dân phố 9",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
