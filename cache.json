@@ -106279,5 +106279,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.9643,107.2253": {
+    "display_name": "Khu công nghiệp Long Khánh, Ấp 1, Phường Bình Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Long Khánh",
+      "village": "Ấp 1",
+      "county": "Phường Bình Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87063,106.9579": {
+    "display_name": "Long Đức 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Long Đức 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
