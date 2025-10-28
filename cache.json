@@ -108670,5 +108670,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.03548,109.1736": {
+    "display_name": "Quốc lộ 1, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74511,106.6376": {
+    "display_name": "Hẻm 240/127 Nguyễn Văn Luông, Phường Bình Phú, Thành phố Hồ Chí Minh, 71910, Việt Nam",
+    "address": {
+      "road": "Hẻm 240/127 Nguyễn Văn Luông",
+      "suburb": "Phường Bình Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71910",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70575,106.821": {
+    "display_name": "Bến Đình, Xã Đại Phước, Tỉnh Đồng Nai, 76260, Việt Nam",
+    "address": {
+      "village": "Bến Đình",
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
