@@ -106266,5 +106266,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.20627,107.8373": {
+    "display_name": "Đường Hùng Vương, plei Mũn, Ia Ly, Xã Ia Ly, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Hùng Vương",
+      "hamlet": "plei Mũn",
+      "town": "Ia Ly",
+      "county": "Xã Ia Ly",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
