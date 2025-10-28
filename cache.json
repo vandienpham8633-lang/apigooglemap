@@ -107464,5 +107464,44 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.81087,108.0398": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.76891,109.2229": {
+    "display_name": "Đô Đốc Bảo, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "road": "Đô Đốc Bảo",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.75483,109.2115": {
+    "display_name": "Cần Vương, Khu vực, Nguyễn Văn Cừ, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "road": "Cần Vương",
+      "quarter": "Khu vực",
+      "suburb": "Nguyễn Văn Cừ",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
