@@ -107503,5 +107503,89 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75139,106.6711": {
+    "display_name": "35, Đường Nguyễn Văn Đừng, Khu phố 10, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "house_number": "35",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 10",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93888,105.1119": {
+    "display_name": "Long Bình, Xã Khánh Bình, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Long Bình",
+      "county": "Xã Khánh Bình",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92663,106.8937": {
+    "display_name": "Đường số 5, Khu công nghiệp Loteco, Phường Long Bình, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "road": "Đường số 5",
+      "industrial": "Khu công nghiệp Loteco",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8109,108.0397": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8742,106.764": {
+    "display_name": "Đỗ Mười, Khu phố 18, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "road": "Đỗ Mười",
+      "quarter": "Khu phố 18",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.1979,92.13075": {
+    "display_name": "Satkania, চট্টগ্রাম জেলা, চট্টগ্রাম বিভাগ, Băng-la-đét",
+    "address": {
+      "county": "Satkania",
+      "state_district": "চট্টগ্রাম জেলা",
+      "ISO3166-2-lvl5": "BD-10",
+      "state": "চট্টগ্রাম বিভাগ",
+      "ISO3166-2-lvl4": "BD-B",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
+  },
+  "11.50406,106.1385": {
+    "display_name": "Tân Châu, Xã Tân Phú, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Châu",
+      "county": "Xã Tân Phú",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
