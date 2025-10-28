@@ -106438,5 +106438,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.6714,107.0351": {
+    "display_name": "Đường Phước Bình, Ấp 1A, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường Phước Bình",
+      "village": "Ấp 1A",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
