@@ -107014,5 +107014,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.455122,105.8035": {
+    "display_name": "Xã Gia Hòa, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Gia Hòa",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
