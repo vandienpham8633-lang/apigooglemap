@@ -107364,5 +107364,21 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.68752,108.0328": {
+    "display_name": "Trường Tiểu Học Trần Phú, 83, Nguyễn Tri Phương, Tổ dân phố 9, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "office": "Trường Tiểu Học Trần Phú",
+      "house_number": "83",
+      "road": "Nguyễn Tri Phương",
+      "suburb": "Tổ dân phố 9",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
