@@ -107740,5 +107740,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.46812,105.5022": {
+    "display_name": "Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64086,107.0476": {
+    "display_name": "Trường Mẫu giáo Mỹ Xuân, Lê Hồng Phong, Phường Phú Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "amenity": "Trường Mẫu giáo Mỹ Xuân",
+      "road": "Lê Hồng Phong",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
