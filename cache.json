@@ -108707,5 +108707,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03832,106.7651": {
+    "display_name": "Khánh Lộc, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Lộc",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.56461,106.1647": {
+    "display_name": "Thạnh Hòa, Tân Châu, Xã Tân Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Thạnh Hòa",
+      "town": "Tân Châu",
+      "county": "Xã Tân Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79041,109.1344": {
+    "display_name": "Đường Số 11, Khu vực, Trần Quang Diệu, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Đường Số 11",
+      "quarter": "Khu vực",
+      "suburb": "Trần Quang Diệu",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
