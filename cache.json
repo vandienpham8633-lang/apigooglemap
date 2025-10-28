@@ -107170,5 +107170,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06323,108.2442": {
+    "display_name": "Pavilion Hotel, 32, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Pavilion Hotel",
+      "house_number": "32",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06336,108.2443": {
+    "display_name": "Pavilion Hotel, 32, Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "Pavilion Hotel",
+      "house_number": "32",
+      "road": "Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
