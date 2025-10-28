@@ -107861,5 +107861,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.51017,107.6005": {
+    "display_name": "Phường Dương Nỗ, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Dương Nỗ",
+      "county": "Phường Dương Nỗ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
