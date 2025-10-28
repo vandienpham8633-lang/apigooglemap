@@ -107160,5 +107160,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.81436,107.0399": {
+    "display_name": "Xã Hiếu Giang, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Hiếu Giang",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
