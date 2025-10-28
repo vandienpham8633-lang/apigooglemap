@@ -106373,5 +106373,16 @@
       "country": "Myanma",
       "country_code": "mm"
     }
+  },
+  "14.00115,108.1909": {
+    "display_name": "Quốc lộ 19, Xã KDang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "county": "Xã KDang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
