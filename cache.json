@@ -107425,5 +107425,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.06313,108.2442": {
+    "display_name": "Kiệt 39 Võ Văn Kiệt, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Kiệt 39 Võ Văn Kiệt",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
