@@ -106903,5 +106903,104 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.25402,106.1344": {
+    "display_name": "Đường Số 25, Phường Hòa Thành, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "road": "Đường Số 25",
+      "county": "Phường Hòa Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75135,106.6716": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "24.01967,90.92351": {
+    "display_name": "Pirij Kandi High School, আলগী-নীলকুঠি, আলগী, রায়পুরা উপজেলা, নরসিংদী জেলা, ঢাকা বিভাগ, Băng-la-đét",
+    "address": {
+      "amenity": "Pirij Kandi High School",
+      "road": "আলগী-নীলকুঠি",
+      "village": "আলগী",
+      "county": "রায়পুরা উপজেলা",
+      "state_district": "নরসিংদী জেলা",
+      "ISO3166-2-lvl5": "BD-42",
+      "state": "ঢাকা বিভাগ",
+      "ISO3166-2-lvl4": "BD-C",
+      "country": "Băng-la-đét",
+      "country_code": "bd"
+    }
+  },
+  "11.11218,105.0574": {
+    "display_name": "ស្រុកកោះធំ, ខេត្តកណ្ដាល, Cao Miên",
+    "address": {
+      "town": "ស្រុកកោះធំ",
+      "state": "ខេត្តកណ្ដាល",
+      "ISO3166-2-lvl4": "KH-8",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "10.83835,106.6632": {
+    "display_name": "Hẻm 33 Đường số 8, Phường Thông Tây Hội, Thuận An, Thành phố Hồ Chí Minh, 72100, Việt Nam",
+    "address": {
+      "road": "Hẻm 33 Đường số 8",
+      "suburb": "Phường Thông Tây Hội",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.35667,109.2693": {
+    "display_name": "Phú Hội, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Hội",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.48051,109.0444": {
+    "display_name": "KP.An Dinh 2, P.Hoài Thanh, khu phố Tài Lương, Phường Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.An Dinh 2, P.Hoài Thanh",
+      "village": "khu phố Tài Lương",
+      "county": "Phường Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.07434,108.1487": {
+    "display_name": "Kiệt 85 Nguyễn Lương Bằng, Hòa Khánh Bắc, Phường Liên Chiểu, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Kiệt 85 Nguyễn Lương Bằng",
+      "quarter": "Hòa Khánh Bắc",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
