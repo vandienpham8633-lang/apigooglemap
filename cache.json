@@ -107394,5 +107394,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.75492,109.2115": {
+    "display_name": "Cần Vương, Khu vực, Nguyễn Văn Cừ, Phường Quy Nhơn Nam, Tỉnh Gia Lai, 55113, Việt Nam",
+    "address": {
+      "road": "Cần Vương",
+      "quarter": "Khu vực",
+      "suburb": "Nguyễn Văn Cừ",
+      "county": "Phường Quy Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55113",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.76884,109.2231": {
+    "display_name": "Núc Níc House, 45, Hoàng Diệu, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "amenity": "Núc Níc House",
+      "house_number": "45",
+      "road": "Hoàng Diệu",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
