@@ -108993,5 +108993,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.79623,108.0731": {
+    "display_name": "Đường tỉnh 688, Toàn Thắng, Ea Pôk, Xã Quảng Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 688",
+      "suburb": "Toàn Thắng",
+      "town": "Ea Pôk",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.38636,108.0368": {
+    "display_name": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.5331,108.4801": {
+    "display_name": "Phường Hương Trà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Hương Trà",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.77649,104.6191": {
+    "display_name": "Xã Bản Máy, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Bản Máy",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
