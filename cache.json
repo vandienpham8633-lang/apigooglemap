@@ -110174,5 +110174,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.2288,105.0924": {
+    "display_name": "Xã Thắng Mố, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Thắng Mố",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
