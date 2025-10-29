@@ -109434,5 +109434,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.93516,108.3088": {
+    "display_name": "Đường Võ Nguyên Giáp, Hà Quảng Đông, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Võ Nguyên Giáp",
+      "hamlet": "Hà Quảng Đông",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.93517,108.3088": {
+    "display_name": "Đường Võ Nguyên Giáp, Hà Quảng Đông, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Võ Nguyên Giáp",
+      "hamlet": "Hà Quảng Đông",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
