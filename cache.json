@@ -110344,5 +110344,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.3863,108.0369": {
+    "display_name": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
