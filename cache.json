@@ -109294,5 +109294,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.85583,106.5984": {
+    "display_name": "Xã Bà Điểm, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
