@@ -109145,5 +109145,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.31496,105.2866": {
+    "display_name": "Xã Định Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Định Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
