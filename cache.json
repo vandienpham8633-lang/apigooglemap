@@ -109248,5 +109248,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.80959,108.0216": {
+    "display_name": "Pôk B, Xã Quảng Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Pôk B",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
