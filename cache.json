@@ -109456,5 +109456,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.25453,105.1391": {
+    "display_name": "Xã Óc Eo, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Xã Óc Eo",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.6762,107.1505": {
+    "display_name": "Phường Tân Thành, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tân Thành",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.89087,108.2979": {
+    "display_name": "Điện Biên Phủ, Thanh Hà, Phường Hội An Tây, Thành phố Đà Nẵng, 51309, Việt Nam",
+    "address": {
+      "road": "Điện Biên Phủ",
+      "suburb": "Thanh Hà",
+      "city": "Phường Hội An Tây",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
