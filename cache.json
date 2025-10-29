@@ -109991,5 +109991,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.08788,109.1879": {
+    "display_name": "Nguyễn Tất Thành, Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.12947,105.1778": {
+    "display_name": "Kinh 3B, Tân An, Xã Tân Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Kinh 3B",
+      "village": "Tân An",
+      "county": "Xã Tân Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76835,106.7931": {
+    "display_name": "Đường Số 57 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 76260, Việt Nam",
+    "address": {
+      "road": "Đường Số 57 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76260",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
