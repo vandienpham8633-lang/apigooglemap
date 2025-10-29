@@ -110398,5 +110398,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.62772,106.7648": {
+    "display_name": "Khu công nghiệp Hiệp Phước, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hiệp Phước",
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.49863,108.4581": {
+    "display_name": "Ma Lin, Xã Ia Pa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Ma Lin",
+      "county": "Xã Ia Pa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
