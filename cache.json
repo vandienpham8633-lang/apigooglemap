@@ -109657,5 +109657,179 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.735862,105.0577": {
+    "display_name": "Phú Lâm, Xã Đông Thái, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Phú Lâm",
+      "county": "Xã Đông Thái",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78933,106.7674": {
+    "display_name": "LA2, 383, Hẻm 353 Nguyễn Duy Trinh, Khu phố 19, Phường Bình Trưng, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "building": "LA2",
+      "house_number": "383",
+      "road": "Hẻm 353 Nguyễn Duy Trinh",
+      "quarter": "Khu phố 19",
+      "suburb": "Phường Bình Trưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.044,109.2063": {
+    "display_name": "Nguyễn Tất Thành, Phường Bắc Cam Ranh, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "suburb": "Phường Bắc Cam Ranh",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.20991,108.3004": {
+    "display_name": "Hiao 2, Xã Ea Hiao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hiao 2",
+      "county": "Xã Ea Hiao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97575,106.7539": {
+    "display_name": "Khu phố Mỹ Hiệp, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Mỹ Hiệp",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.28428,108.2884": {
+    "display_name": "Ta Ly, Xã Ea Hiao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ta Ly",
+      "county": "Xã Ea Hiao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.05619,107.5738": {
+    "display_name": "Xã Trà Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Trà Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.7071,108.7619": {
+    "display_name": "Tân Lập, Hòa Sơn, Xã Anh Dũng, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Tân Lập",
+      "village": "Hòa Sơn",
+      "county": "Xã Anh Dũng",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.65486,108.0262": {
+    "display_name": "Lê Duẩn, Alê B, Phường Ea Kao, Tỉnh Đắk Lắk, 63107, Việt Nam",
+    "address": {
+      "road": "Lê Duẩn",
+      "village": "Alê B",
+      "county": "Phường Ea Kao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93379,106.879": {
+    "display_name": "Đường Hoàng Tam Kỳ, Khu phố 33, Phường Long Bình, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "road": "Đường Hoàng Tam Kỳ",
+      "quarter": "Khu phố 33",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.94402,108.4382": {
+    "display_name": "HongKong Quán, 77, Phan Bội Châu, Khu Golf Valley, Đà Lạt, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, 66100, Việt Nam",
+    "address": {
+      "amenity": "HongKong Quán",
+      "house_number": "77",
+      "road": "Phan Bội Châu",
+      "neighbourhood": "Khu Golf Valley",
+      "city": "Đà Lạt",
+      "county": "Phường Xuân Hương - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78256,106.6701": {
+    "display_name": "Hẻm 102/17 Tô Hiến Thành, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70150, Việt Nam",
+    "address": {
+      "road": "Hẻm 102/17 Tô Hiến Thành",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79832,106.4916": {
+    "display_name": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM, Đường Tỉnh 825, Khu Công nghiệp Liên Minh, Xã Đức Hòa, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "office": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM",
+      "road": "Đường Tỉnh 825",
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "town": "Xã Đức Hòa",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85395,106.7541": {
+    "display_name": "Nguyễn Văn Lịch, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71221, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Lịch",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71221",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
