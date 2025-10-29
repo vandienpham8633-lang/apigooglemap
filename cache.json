@@ -109091,5 +109091,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92692,106.8937": {
+    "display_name": "Đường số 5, Khu công nghiệp Loteco, Phường Long Bình, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "road": "Đường số 5",
+      "industrial": "Khu công nghiệp Loteco",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.52179,106.7067": {
+    "display_name": "Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.91649,108.8991": {
+    "display_name": "Quang Trung, Thôn Hòa Sơn, Bình Tường, Hòa Sơn, Xã Bình Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quang Trung",
+      "hamlet": "Thôn Hòa Sơn, Bình Tường",
+      "village": "Hòa Sơn",
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.98683,105.5747": {
+    "display_name": "Xã Minh Châu, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Minh Châu",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.49381,107.0229": {
+    "display_name": "Xã Tân Lợi, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lợi",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
