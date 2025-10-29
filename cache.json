@@ -110108,5 +110108,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.95568,105.8288": {
+    "display_name": "Ngõ 46 Phố Bằng B, Phường Hoàng Liệt, Văn Điển, Hà Nội, 12506, Việt Nam",
+    "address": {
+      "road": "Ngõ 46 Phố Bằng B",
+      "suburb": "Phường Hoàng Liệt",
+      "town": "Văn Điển",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12506",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.81824,108.952": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
