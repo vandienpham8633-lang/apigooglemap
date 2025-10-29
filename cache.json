@@ -109906,5 +109906,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.06623,106.6976": {
+    "display_name": "ĐT.742, Chánh Long, Phường Bình Dương, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "ĐT.742",
+      "quarter": "Chánh Long",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
