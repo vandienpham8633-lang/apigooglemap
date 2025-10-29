@@ -110389,5 +110389,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.09316,107.217": {
+    "display_name": "Đồn Điền 1, Xã La Ngà, Việt Nam",
+    "address": {
+      "village": "Đồn Điền 1",
+      "county": "Xã La Ngà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
