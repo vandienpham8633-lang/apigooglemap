@@ -108934,5 +108934,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.04769,108.4727": {
+    "display_name": "Quốc lộ 24B, Di Lăng, Xã Sơn Hà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 24B",
+      "town": "Di Lăng",
+      "county": "Xã Sơn Hà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
