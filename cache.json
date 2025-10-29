@@ -109079,5 +109079,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.42078,105.7734": {
+    "display_name": "Nhà máy Giày Annora, Bình Minh, Phường Tĩnh Gia, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "industrial": "Nhà máy Giày Annora",
+      "suburb": "Bình Minh",
+      "city": "Phường Tĩnh Gia",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
