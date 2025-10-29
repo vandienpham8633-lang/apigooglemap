@@ -109831,5 +109831,46 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.28833,106.787": {
+    "display_name": "Xã Phước Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Phước Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.8298,108.8879": {
+    "display_name": "Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00615,106.3886": {
+    "display_name": "Khu chế xuất Linh Trung 3, Phường An Tịnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu chế xuất Linh Trung 3",
+      "county": "Phường An Tịnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.99432,108.7925": {
+    "display_name": "Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
