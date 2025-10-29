@@ -110258,5 +110258,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.6043,108.0892": {
+    "display_name": "Êbung, Xã Ea Ktur, Tỉnh Đắk Lắk, 02623, Việt Nam",
+    "address": {
+      "village": "Êbung",
+      "county": "Xã Ea Ktur",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "02623",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
