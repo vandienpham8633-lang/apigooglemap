@@ -109271,5 +109271,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.43161,105.4049": {
+    "display_name": "Xã Ngọc Sơn, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Ngọc Sơn",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63705,106.5162": {
+    "display_name": "Đường VL 4, Khu công nghiệp Vĩnh Lộc 2, Xã Mỹ Yên, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Đường VL 4",
+      "industrial": "Khu công nghiệp Vĩnh Lộc 2",
+      "village": "Xã Mỹ Yên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
