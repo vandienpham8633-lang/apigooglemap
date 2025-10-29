@@ -110184,5 +110184,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.22879,105.0923": {
+    "display_name": "Xã Thắng Mố, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Thắng Mố",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.81827,108.952": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
