@@ -110314,5 +110314,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87779,107.4769": {
+    "display_name": "Ấp 1, Xã Xuân Hòa, 76618, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "county": "Xã Xuân Hòa",
+      "postcode": "76618",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.38628,108.0368": {
+    "display_name": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
