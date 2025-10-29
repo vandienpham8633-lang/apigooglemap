@@ -109918,5 +109918,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.22537,106.6661": {
+    "display_name": "Xã Lệ Ninh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Lệ Ninh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
