@@ -109928,5 +109928,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.68161,109.0758": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
