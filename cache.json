@@ -109872,5 +109872,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.06594,106.6975": {
+    "display_name": "ĐT.742, Chánh Long, Phường Bình Dương, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "ĐT.742",
+      "quarter": "Chánh Long",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06606,106.6974": {
+    "display_name": "Chánh Long, Phường Bình Dương, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Chánh Long",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06608,106.6974": {
+    "display_name": "Chánh Long, Phường Bình Dương, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Chánh Long",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
