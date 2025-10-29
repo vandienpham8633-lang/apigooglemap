@@ -109305,5 +109305,113 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.45573,105.34": {
+    "display_name": "CTy AN GIANG SAMHO, Quốc lộ 91, Xã Bình Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "office": "CTy AN GIANG SAMHO",
+      "road": "Quốc lộ 91",
+      "county": "Xã Bình Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8376,107.5897": {
+    "display_name": "Quốc lộ 1, Xã Tân Minh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Tân Minh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.55929,109.042": {
+    "display_name": "Lý Tự Trọng, KP.7, P.Tam Quan, Tam Quan, Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Lý Tự Trọng",
+      "quarter": "KP.7, P.Tam Quan",
+      "suburb": "Tam Quan",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07881,109.1898": {
+    "display_name": "Nguyễn Tất Thành, Phường Bắc Cam Ranh, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "suburb": "Phường Bắc Cam Ranh",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.51999,106.1128": {
+    "display_name": "Xã Thạnh Bình, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Bình",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.14926,109.0637": {
+    "display_name": "Khu công nghiệp Suối Dầu, Đồng Cau, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Suối Dầu",
+      "hamlet": "Đồng Cau",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82979,108.888": {
+    "display_name": "Quốc lộ 27B, Trà Co 1, Phước Thắng, Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "hamlet": "Trà Co 1",
+      "village": "Phước Thắng",
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.06763,108.2443": {
+    "display_name": "travidat, 20, Đường Hà Bổng, Phường An Hải, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "tourism": "travidat",
+      "house_number": "20",
+      "road": "Đường Hà Bổng",
+      "city": "Phường An Hải",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71731,106.5985": {
+    "display_name": "Ấp 35, Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "village": "Ấp 35",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
