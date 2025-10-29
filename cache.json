@@ -110270,5 +110270,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.16931,107.8851": {
+    "display_name": "Quốc lộ 28, Phú Hưng, Xã Quảng Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 28",
+      "village": "Phú Hưng",
+      "county": "Xã Quảng Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
