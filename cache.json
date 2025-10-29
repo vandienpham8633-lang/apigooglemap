@@ -110026,5 +110026,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.81826,108.9521": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79233,105.263": {
+    "display_name": "Xã Long Phú Thuận, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Phú Thuận",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
