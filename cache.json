@@ -109592,5 +109592,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.85258,106.9611": {
+    "display_name": "Khu công nghiệp Long Đức, Ấp 8, Xã An Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Long Đức",
+      "village": "Ấp 8",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.96713,108.1524": {
+    "display_name": "Xã Hòa Tiến, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Hòa Tiến",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.97026,108.0215": {
+    "display_name": "Lê Duẩn, Phường Hội Phú, Tỉnh Gia Lai, 61111, Việt Nam",
+    "address": {
+      "road": "Lê Duẩn",
+      "county": "Phường Hội Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "61111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
