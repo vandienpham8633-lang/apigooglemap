@@ -109939,5 +109939,57 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.68167,109.0757": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75135,106.6712": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.12303,109.2107": {
+    "display_name": "Đèo Cù Hin, Phường Nam Nha Trang, Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "road": "Đèo Cù Hin",
+      "suburb": "Phường Nam Nha Trang",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.1192,109.1939": {
+    "display_name": "Đèo Cù Hin, Phường Nam Nha Trang, Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "road": "Đèo Cù Hin",
+      "suburb": "Phường Nam Nha Trang",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
