@@ -110132,5 +110132,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.54622,105.5582": {
+    "display_name": "Quốc lộ 15, Xã Đức Minh, Hà Tĩnh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 15",
+      "town": "Xã Đức Minh",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.81828,108.952": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
