@@ -110378,5 +110378,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.88888,106.5712": {
+    "display_name": "Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "city_district": "Xã Xuân Thới Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
