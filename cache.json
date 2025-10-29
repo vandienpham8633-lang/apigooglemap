@@ -109237,5 +109237,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8682,106.3989": {
+    "display_name": "Xã Hòa Khánh, Tỉnh Tây Ninh, 82706, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Khánh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
