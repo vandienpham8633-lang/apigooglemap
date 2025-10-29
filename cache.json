@@ -109636,5 +109636,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.37957,106.6226": {
+    "display_name": "Phường Chơn Thành, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Phường Chơn Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.71983,107.2204": {
+    "display_name": "Thượng Xá, Xã Hải Lăng, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "village": "Thượng Xá",
+      "town": "Xã Hải Lăng",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
