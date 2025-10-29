@@ -110205,5 +110205,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.65829,107.1467": {
+    "display_name": "Phường Tân Thành, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tân Thành",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
