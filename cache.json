@@ -110736,5 +110736,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.04237,108.165": {
+    "display_name": "Quốc lộ 1, Xã Hàm Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Hàm Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.04588,108.1645": {
+    "display_name": "Quốc lộ 1, Xã Hàm Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Hàm Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
