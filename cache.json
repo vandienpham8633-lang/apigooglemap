@@ -112061,5 +112061,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.77664,104.6191": {
+    "display_name": "Xã Bản Máy, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Bản Máy",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.93989,106.048": {
+    "display_name": "Bần Yên Nhân, Yên Tập, Phường Mỹ Hào, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "suburb": "Bần Yên Nhân",
+      "village": "Yên Tập",
+      "city": "Phường Mỹ Hào",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
