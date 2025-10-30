@@ -111686,5 +111686,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.14274,107.5039": {
+    "display_name": "Đường số 1, Khu phố 10, Thôn 3, Xã Hoài Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường số 1",
+      "quarter": "Khu phố 10",
+      "village": "Thôn 3",
+      "county": "Xã Hoài Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.92742,106.7206": {
+    "display_name": "Xã Tân Tiến, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tiến",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.69516,106.7267": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, 72915, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72915",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
