@@ -110432,5 +110432,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.38309,107.8946": {
+    "display_name": "ĐT.675, Xã Ngọk Bay, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "ĐT.675",
+      "county": "Xã Ngọk Bay",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
