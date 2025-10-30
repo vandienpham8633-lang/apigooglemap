@@ -111251,5 +111251,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79709,106.6155": {
+    "display_name": "Khu phố 18, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 18",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81378,106.6698": {
+    "display_name": "Khách Sạn Mai Lan, Bạch Đằng, Đoàn bay 919, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, 72100, Việt Nam",
+    "address": {
+      "tourism": "Khách Sạn Mai Lan",
+      "road": "Bạch Đằng",
+      "commercial": "Đoàn bay 919",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01009,108.1599": {
+    "display_name": "Quốc lộ 1, Xã Hàm Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Hàm Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97593,108.1457": {
+    "display_name": "Mỹ Linh, 192, Quốc lộ 1, Phường Hàm Thắng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "shop": "Mỹ Linh",
+      "house_number": "192",
+      "road": "Quốc lộ 1",
+      "county": "Phường Hàm Thắng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
