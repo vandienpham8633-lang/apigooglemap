@@ -111795,5 +111795,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.24323,106.6397": {
+    "display_name": "Xã Bàu Bàng, Thành phố Hồ Chí Minh, 75751, Việt Nam",
+    "address": {
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75751",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.7036,107.2377": {
+    "display_name": "Đường tỉnh 755, Thôn 5, Xã Phước Sơn, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 755",
+      "village": "Thôn 5",
+      "county": "Xã Phước Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75138,106.6713": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
