@@ -110689,5 +110689,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89861,106.787": {
+    "display_name": "Đông A, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Đông A",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.02125,100.3836": {
+    "display_name": "ปท.3020, บ้านคลองส่งน้ำสายใหม่, ตำบลลาดหลุมแก้ว, องค์การบริหารส่วนตำบลลาดหลุมแก้ว, อำเภอลาดหลุมแก้ว, Pathum Thani, Thái Lan",
+    "address": {
+      "road": "ปท.3020",
+      "village": "บ้านคลองส่งน้ำสายใหม่",
+      "city": "ตำบลลาดหลุมแก้ว",
+      "county": "องค์การบริหารส่วนตำบลลาดหลุมแก้ว",
+      "province": "Pathum Thani",
+      "ISO3166-2-lvl4": "TH-13",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "14.81833,108.9523": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.6778,107.0768": {
+    "display_name": "Ấp 5, Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
