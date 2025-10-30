@@ -111431,5 +111431,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.563948,105.6088": {
+    "display_name": "Đường Quản Lộ – Phụng Hiệp, Phường Ngã Năm, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Đường Quản Lộ – Phụng Hiệp",
+      "city_district": "Phường Ngã Năm",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.30621,107.9925": {
+    "display_name": "Phường Đăk Bla, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Phường Đăk Bla",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
