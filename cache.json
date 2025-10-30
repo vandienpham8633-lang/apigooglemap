@@ -110830,5 +110830,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.11719,106.6273": {
+    "display_name": "887, Xã Tân Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "887",
+      "county": "Xã Tân Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.836986,104.9151": {
+    "display_name": "Xẻo Quao, Xã Tân Thạnh, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Xẻo Quao",
+      "county": "Xã Tân Thạnh",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
