@@ -112016,5 +112016,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95166,106.7152": {
+    "display_name": "Hoà Lân 2, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Hoà Lân 2",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.63155,108.0036": {
+    "display_name": "Tổ dân phố 11, Ea Rang, Phường Thành Nhất, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 11",
+      "village": "Ea Rang",
+      "county": "Phường Thành Nhất",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.552468,105.8829": {
+    "display_name": "Xã Mỹ Hương, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Mỹ Hương",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.77662,104.6188": {
+    "display_name": "Xã Bản Máy, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Bản Máy",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
