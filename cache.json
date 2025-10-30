@@ -111929,5 +111929,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.99349,108.1034": {
+    "display_name": "Đoàn Kết, Xã Ea Kiết, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đoàn Kết",
+      "county": "Xã Ea Kiết",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.24612,104.5858": {
+    "display_name": "Ba Hòn, Xã Kiên Lương, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "quarter": "Ba Hòn",
+      "county": "Xã Kiên Lương",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
