@@ -110811,5 +110811,24 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.54877,108.4099": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.64771,107.0544": {
+    "display_name": "Đường tỉnh 755, Xã Nghĩa Trung, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 755",
+      "county": "Xã Nghĩa Trung",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
