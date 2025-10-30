@@ -111105,5 +111105,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.51181,108.9454": {
+    "display_name": "Đặc khu Phú Quý, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Đặc khu Phú Quý",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
