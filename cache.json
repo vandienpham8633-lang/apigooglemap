@@ -110497,5 +110497,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.75014,107.8379": {
+    "display_name": "Xã Thạnh Mỹ, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thạnh Mỹ",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
