@@ -111831,5 +111831,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.70361,107.2378": {
+    "display_name": "Đường tỉnh 755, Thôn 5, Xã Phước Sơn, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 755",
+      "village": "Thôn 5",
+      "county": "Xã Phước Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.8184,108.9523": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
