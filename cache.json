@@ -111726,5 +111726,13 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.92739,106.7207": {
+    "display_name": "Xã Tân Tiến, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tiến",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
