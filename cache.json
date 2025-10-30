@@ -111319,5 +111319,97 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "8.657652,106.6073": {
+    "display_name": "Hải đăng Đá Trắng, 30 Tháng 4, Bến Đầm, Đặc khu Côn Đảo, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "man_made": "Hải đăng Đá Trắng",
+      "road": "30 Tháng 4",
+      "quarter": "Bến Đầm",
+      "town": "Đặc khu Côn Đảo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77503,106.9576": {
+    "display_name": "Đường Trường Chinh, Cầu Xéo, Long Thành, Xã Long Thành, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "road": "Đường Trường Chinh",
+      "quarter": "Cầu Xéo",
+      "town": "Long Thành",
+      "county": "Xã Long Thành",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61329,105.9938": {
+    "display_name": "Xã Tân Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62776,106.7652": {
+    "display_name": "Khu công nghiệp Hiệp Phước, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hiệp Phước",
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68179,109.2175": {
+    "display_name": "Vạn Giã, Xã Vạn Ninh, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Vạn Giã",
+      "county": "Xã Vạn Ninh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88014,109.0414": {
+    "display_name": "Thôn Đông Lâm, Nhơn Lộc, Xã An Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Đông Lâm, Nhơn Lộc",
+      "county": "Xã An Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12398,106.3334": {
+    "display_name": "Đương Nông Trường, Khu công nghiệp Phước Đông, Phường Gia Lộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đương Nông Trường",
+      "industrial": "Khu công nghiệp Phước Đông",
+      "county": "Phường Gia Lộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.6134,105.9939": {
+    "display_name": "Xã Tân Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
