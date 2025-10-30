@@ -110443,5 +110443,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.21893,109.1603": {
+    "display_name": "Thôn Chánh Trực, Mỹ Thọ, Chánh Trực, Xã Phù Mỹ Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Chánh Trực, Mỹ Thọ",
+      "village": "Chánh Trực",
+      "county": "Xã Phù Mỹ Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.84892,105.3964": {
+    "display_name": "Hòa Bình, Xã Hòa Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa Bình",
+      "county": "Xã Hòa Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.40961,108.8836": {
+    "display_name": "Xã Thuận Nam, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Xã Thuận Nam",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
