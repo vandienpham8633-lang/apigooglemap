@@ -110620,5 +110620,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.58635,108.4658": {
+    "display_name": "Quốc lộ 1, Phường Bàn Thạch, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "city": "Phường Bàn Thạch",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
