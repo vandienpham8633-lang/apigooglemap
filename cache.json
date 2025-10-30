@@ -111594,5 +111594,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "23.2291,105.0886": {
+    "display_name": "Xã Thắng Mố, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Thắng Mố",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91837,106.5662": {
+    "display_name": "Cầu An Hạ, Lê Quang Đạo, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "highway": "Cầu An Hạ",
+      "road": "Lê Quang Đạo",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
