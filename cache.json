@@ -111452,5 +111452,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.74237,106.6362": {
+    "display_name": "Lò Gốm, Phường Bình Tiên, Thành phố Hồ Chí Minh, 71910, Việt Nam",
+    "address": {
+      "road": "Lò Gốm",
+      "suburb": "Phường Bình Tiên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71910",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
