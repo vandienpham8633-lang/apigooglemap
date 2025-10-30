@@ -112093,5 +112093,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.1956,104.1046": {
+    "display_name": "Phố Hà Văn Ắng, Hát Lót, Xã Mai Sơn, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "road": "Phố Hà Văn Ắng",
+      "town": "Hát Lót",
+      "county": "Xã Mai Sơn",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.00117,105.8589": {
+    "display_name": "Ngõ 14 Phố Quỳnh Lôi, Phường Bạch Mai, Hà Nội, 11617, Việt Nam",
+    "address": {
+      "road": "Ngõ 14 Phố Quỳnh Lôi",
+      "suburb": "Phường Bạch Mai",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "11617",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
