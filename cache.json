@@ -111115,5 +111115,78 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.54862,108.4102": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.81828,108.9522": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.61333,105.9939": {
+    "display_name": "Xã Tân Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73154,106.9037": {
+    "display_name": "Đất Mới, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Đất Mới",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.54895,108.41": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.81829,108.9522": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.54897,108.41": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
