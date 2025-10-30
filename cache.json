@@ -111660,5 +111660,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79715,106.6157": {
+    "display_name": "Hẻm 549 Tân Kỳ Tân Quý, Khu phố 18, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 549 Tân Kỳ Tân Quý",
+      "quarter": "Khu phố 18",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.44014,109.0191": {
+    "display_name": "Đường Đô Đốc Bảo, KP.2, P.Bồng Sơn, Phường Bồng Sơn, Thị xã Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Đô Đốc Bảo",
+      "quarter": "KP.2, P.Bồng Sơn",
+      "suburb": "Phường Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
