@@ -111301,5 +111301,13 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.38814,106.9873": {
+    "display_name": "Xã Tân Lợi, Việt Nam",
+    "address": {
+      "county": "Xã Tân Lợi",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
