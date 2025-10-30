@@ -110518,5 +110518,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92613,106.4702": {
+    "display_name": "ĐT. 823B, Xã Đức Lập, Tỉnh Tây Ninh, 82719, Việt Nam",
+    "address": {
+      "road": "ĐT. 823B",
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "82719",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
