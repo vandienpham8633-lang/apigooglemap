@@ -111907,5 +111907,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.68433,106.2339": {
+    "display_name": "Đông Hiệp, Xã Tân Đông, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Đông Hiệp",
+      "county": "Xã Tân Đông",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38451,104.9559": {
+    "display_name": "Xã Cô Tô, Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Xã Cô Tô",
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
