@@ -112083,5 +112083,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.77662,104.6192": {
+    "display_name": "Xã Bản Máy, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Bản Máy",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
