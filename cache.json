@@ -111550,5 +111550,49 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.47484,105.4604": {
+    "display_name": "ĐT. 946, Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 946",
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70207,106.9509": {
+    "display_name": "KCN Nhơn Trạch, Ấp 4, Xã Phước An, Việt Nam",
+    "address": {
+      "industrial": "KCN Nhơn Trạch",
+      "village": "Ấp 4",
+      "county": "Xã Phước An",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.22902,105.0886": {
+    "display_name": "Xã Thắng Mố, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Thắng Mố",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07951,106.6896": {
+    "display_name": "Đường số 1, Hoà Phú 1, Phường Bình Dương, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường số 1",
+      "quarter": "Hoà Phú 1",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
