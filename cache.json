@@ -111485,5 +111485,44 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.07954,106.6895": {
+    "display_name": "Đường số 1, Hoà Phú 1, Phường Bình Dương, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường số 1",
+      "quarter": "Hoà Phú 1",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07955,106.6896": {
+    "display_name": "Đường số 1, Hoà Phú 1, Phường Bình Dương, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường số 1",
+      "quarter": "Hoà Phú 1",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07954,106.6896": {
+    "display_name": "Đường số 1, Hoà Phú 1, Phường Bình Dương, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường số 1",
+      "quarter": "Hoà Phú 1",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
