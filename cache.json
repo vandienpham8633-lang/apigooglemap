@@ -111852,5 +111852,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.7036,107.2378": {
+    "display_name": "Đường tỉnh 755, Thôn 5, Xã Phước Sơn, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 755",
+      "village": "Thôn 5",
+      "county": "Xã Phước Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53433,107.409": {
+    "display_name": "27 Tháng 4, Phước Tiến, Xã Hồ Tràm, Thành phố Hồ Chí Minh, 78500, Việt Nam",
+    "address": {
+      "road": "27 Tháng 4",
+      "neighbourhood": "Phước Tiến",
+      "city_district": "Xã Hồ Tràm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
