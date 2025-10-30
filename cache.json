@@ -110476,5 +110476,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57185,108.9857": {
+    "display_name": "Yết Kiêu, Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Yết Kiêu",
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
