@@ -110488,5 +110488,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94797,106.954": {
+    "display_name": "Tân Thành, Xã Bình Minh, Việt Nam",
+    "address": {
+      "village": "Tân Thành",
+      "county": "Xã Bình Minh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
