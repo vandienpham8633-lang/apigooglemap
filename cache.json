@@ -111641,5 +111641,24 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.92741,106.7206": {
+    "display_name": "Xã Tân Tiến, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tiến",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.90944,109.1478": {
+    "display_name": "Phường Cam Linh, Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Cam Linh",
+      "city": "Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
