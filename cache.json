@@ -112893,5 +112893,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.62561,106.492": {
+    "display_name": "Nguyễn Trung Trực, Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "town": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.8894,100.3599": {
+    "display_name": "Chum Saeng, Nakhon Sawan, Thái Lan",
+    "address": {
+      "county": "Chum Saeng",
+      "province": "Nakhon Sawan",
+      "ISO3166-2-lvl4": "TH-60",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "10.28293,106.4323": {
+    "display_name": "Xã Giao Long, Tỉnh Vĩnh Long, 86200, Việt Nam",
+    "address": {
+      "county": "Xã Giao Long",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.4719,105.3866": {
+    "display_name": "Xã Nhơn Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Nhơn Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
