@@ -112257,5 +112257,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.10021,106.7852": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.57633,105.255": {
+    "display_name": "ĐT. 951, Xã Bình Thạnh Đông, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 951",
+      "county": "Xã Bình Thạnh Đông",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
