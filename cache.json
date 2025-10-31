@@ -113148,5 +113148,77 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.91712,108.931": {
+    "display_name": "KP.Thuận Nghĩa, TT.Phú Phong, Phú Phong, Xã Tây Sơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Thuận Nghĩa, TT.Phú Phong",
+      "town": "Phú Phong",
+      "county": "Xã Tây Sơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94625,108.8548": {
+    "display_name": "Bình Liên, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Bình Liên",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83077,106.7183": {
+    "display_name": "Hẻm 86 Đường số 6, Khu phố 42, Phường Hiệp Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72309, Việt Nam",
+    "address": {
+      "road": "Hẻm 86 Đường số 6",
+      "quarter": "Khu phố 42",
+      "suburb": "Phường Hiệp Bình",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5685,106.1656": {
+    "display_name": "Khu phố 2, Thạnh Hòa, Tân Châu, Xã Tân Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 2",
+      "hamlet": "Thạnh Hòa",
+      "town": "Tân Châu",
+      "county": "Xã Tân Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.33985,109.2401": {
+    "display_name": "Đường Hội Phú, Hội Tín, Xã Tuy An Đông, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường Hội Phú",
+      "village": "Hội Tín",
+      "county": "Xã Tuy An Đông",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94622,108.8548": {
+    "display_name": "Bình Liên, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Bình Liên",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
