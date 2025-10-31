@@ -112491,5 +112491,61 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90021,106.5808": {
+    "display_name": "Chùa Hoằng Pháp, Tân Hiệp 8, Xã Hóc Môn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "amenity": "Chùa Hoằng Pháp",
+      "road": "Tân Hiệp 8",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.79341,109.1462": {
+    "display_name": "Khu vực, Trần Quang Diệu, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "quarter": "Khu vực",
+      "suburb": "Trần Quang Diệu",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.47295,106.8804": {
+    "display_name": "Tân Phú, Xã Đồng Phú, Việt Nam",
+    "address": {
+      "town": "Tân Phú",
+      "county": "Xã Đồng Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82158,107.7196": {
+    "display_name": "Tân Nghĩa, Xã Hàm Tân, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Tân Nghĩa",
+      "county": "Xã Hàm Tân",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96841,108.0037": {
+    "display_name": "Xã Hàm Kiệm, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Kiệm",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
