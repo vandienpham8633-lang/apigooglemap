@@ -112794,5 +112794,30 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "10.98057,106.6959": {
+    "display_name": "Khu phố 9, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 9",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.91665,108.8987": {
+    "display_name": "Quang Trung, Thôn Hòa Sơn, Bình Tường, Hòa Sơn, Xã Bình Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quang Trung",
+      "hamlet": "Thôn Hòa Sơn, Bình Tường",
+      "village": "Hòa Sơn",
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
