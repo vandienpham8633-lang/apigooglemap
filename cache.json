@@ -112280,5 +112280,33 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75142,106.6712": {
+    "display_name": "Trường Tiểu học Huỳnh Kiến Hoa, 16, Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Huỳnh Kiến Hoa",
+      "house_number": "16",
+      "road": "Đường Nguyễn Văn Đừng",
+      "quarter": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.45883,109.0723": {
+    "display_name": "hương lộ 8 (Bình Chương - Hoài Hải), khu phố Xuân Khánh, Phường Hoài Nhơn Đông, Khánh Trạch, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "hương lộ 8 (Bình Chương - Hoài Hải)",
+      "hamlet": "khu phố Xuân Khánh, Phường Hoài Nhơn Đông",
+      "village": "Khánh Trạch",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
