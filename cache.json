@@ -112872,5 +112872,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.55485,105.2407": {
+    "display_name": "Xã Chân Mộng, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Chân Mộng",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47485,105.4605": {
+    "display_name": "ĐT. 946, Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 946",
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
