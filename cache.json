@@ -113118,5 +113118,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.00496,106.2993": {
+    "display_name": "Xã Nhị Long, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Nhị Long",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
