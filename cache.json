@@ -113016,5 +113016,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.9173,108.8982": {
+    "display_name": "Quang Trung, Thôn Hòa Sơn, Bình Tường, Hòa Sơn, Xã Bình Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quang Trung",
+      "hamlet": "Thôn Hòa Sơn, Bình Tường",
+      "village": "Hòa Sơn",
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
