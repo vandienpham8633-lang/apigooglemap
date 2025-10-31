@@ -112773,5 +112773,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76721,106.4759": {
+    "display_name": "Khu CN Hải Sơn, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu CN Hải Sơn",
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88876,100.3591": {
+    "display_name": "Chum Saeng, Nakhon Sawan, Thái Lan",
+    "address": {
+      "county": "Chum Saeng",
+      "province": "Nakhon Sawan",
+      "ISO3166-2-lvl4": "TH-60",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
   }
 }
