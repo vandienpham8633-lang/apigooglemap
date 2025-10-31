@@ -113231,5 +113231,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.77718,109.2364": {
+    "display_name": "Nấm Bakery Cake & Pastry, 38, Lê Đức Thọ, Khu vực, Thị Nại, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55114, Việt Nam",
+    "address": {
+      "shop": "Nấm Bakery Cake & Pastry",
+      "house_number": "38",
+      "road": "Lê Đức Thọ",
+      "quarter": "Khu vực",
+      "suburb": "Thị Nại",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55114",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18436,107.5532": {
+    "display_name": "Công ty Nước Võ Xu – Đức Tài, Đường tỉnh 766, Khu phố 1, Thôn 10, Xã Đức Linh, Tỉnh Lâm Đồng, 77556, Việt Nam",
+    "address": {
+      "office": "Công ty Nước Võ Xu – Đức Tài",
+      "road": "Đường tỉnh 766",
+      "quarter": "Khu phố 1",
+      "village": "Thôn 10",
+      "county": "Xã Đức Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77556",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
