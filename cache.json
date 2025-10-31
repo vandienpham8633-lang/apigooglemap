@@ -113263,5 +113263,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.62659,106.7372": {
+    "display_name": "Nguyễn Văn Tạo, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Tạo",
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
