@@ -112982,5 +112982,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.11613,105.1576": {
+    "display_name": "Đập Đá, Xã Tân Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Đập Đá",
+      "county": "Xã Tân Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
