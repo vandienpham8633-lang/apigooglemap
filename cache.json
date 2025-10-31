@@ -112860,5 +112860,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.23786,108.9032": {
+    "display_name": "Đường Châu Ổ – Sa Kỳ, Bình Châu, Xã Đông Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Châu Ổ – Sa Kỳ",
+      "village": "Bình Châu",
+      "county": "Xã Đông Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
