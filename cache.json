@@ -112164,5 +112164,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "8.961879,104.9694": {
+    "display_name": "Cái Nước, Xã Cái Nước, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Cái Nước",
+      "county": "Xã Cái Nước",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76481,106.6994": {
+    "display_name": "Đường Võ Văn Kiệt, Khu phố 14, Phường Bến Thành, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71010, Việt Nam",
+    "address": {
+      "road": "Đường Võ Văn Kiệt",
+      "quarter": "Khu phố 14",
+      "suburb": "Phường Bến Thành",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71010",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
