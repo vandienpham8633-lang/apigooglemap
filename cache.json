@@ -112547,5 +112547,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90022,106.5807": {
+    "display_name": "Tân Hiệp 8, Xã Hóc Môn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "road": "Tân Hiệp 8",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39616,106.4134": {
+    "display_name": "Xã Lương Hòa Lạc, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Lương Hòa Lạc",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
