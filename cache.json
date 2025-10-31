@@ -112245,5 +112245,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.42132,109.1146": {
+    "display_name": "khu phố Lộ Diêu, phường Hoài Nhơn Đông, KP. Lộ Diêu, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Lộ Diêu, phường Hoài Nhơn Đông",
+      "village": "KP. Lộ Diêu",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
