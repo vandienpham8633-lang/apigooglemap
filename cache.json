@@ -112971,5 +112971,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.10981,108.7883": {
+    "display_name": "Nghĩa Lộ, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Nghĩa Lộ",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
