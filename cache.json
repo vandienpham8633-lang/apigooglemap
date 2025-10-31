@@ -113274,5 +113274,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.10147,105.8535": {
+    "display_name": "Đường Trường Sa, Xã Đông Anh, Hà Nội, 12323, Việt Nam",
+    "address": {
+      "road": "Đường Trường Sa",
+      "city_district": "Xã Đông Anh",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "12323",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.92189,106.1127": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.02621,105.6441": {
+    "display_name": "Xã Quốc Oai, Hà Nội, 01234, Việt Nam",
+    "address": {
+      "city_district": "Xã Quốc Oai",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "01234",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
