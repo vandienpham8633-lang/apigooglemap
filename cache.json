@@ -113029,5 +113029,94 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.09832,108.8161": {
+    "display_name": "Trường Chinh, Nghĩa Chánh, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Trường Chinh",
+      "suburb": "Nghĩa Chánh",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.929923,106.3102": {
+    "display_name": "Phường Nguyệt Hóa, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Nguyệt Hóa",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.37558,107.8082": {
+    "display_name": "Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Vang",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.23787,108.9032": {
+    "display_name": "Đường Châu Ổ – Sa Kỳ, Bình Châu, Xã Đông Sơn, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Châu Ổ – Sa Kỳ",
+      "village": "Bình Châu",
+      "county": "Xã Đông Sơn",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.69866,108.3808": {
+    "display_name": "Xã Thăng Điền, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Điền",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.21851,103.9664": {
+    "display_name": "Đặc khu Phú Quốc, Tỉnh An Giang, 92500, Việt Nam",
+    "address": {
+      "city": "Đặc khu Phú Quốc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "92500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.46483,108.9123": {
+    "display_name": "Thôn  Vạn Trung, Ân Hảo Tây, KP Phước Bình, Xã Ân Hảo, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn  Vạn Trung, Ân Hảo Tây",
+      "village": "KP Phước Bình",
+      "county": "Xã Ân Hảo",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.20384,107.3641": {
+    "display_name": "Ấp 4, Xã Phú Hòa, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "county": "Xã Phú Hòa",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
