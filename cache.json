@@ -112234,5 +112234,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.848828,105.3964": {
+    "display_name": "Hòa Bình, Xã Hòa Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa Bình",
+      "county": "Xã Hòa Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
