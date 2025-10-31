@@ -112590,5 +112590,66 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86072,106.7747": {
+    "display_name": "Linh Trung, Khu phố 15, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "road": "Linh Trung",
+      "quarter": "Khu phố 15",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.89316,100.358": {
+    "display_name": "บ้านดงขุย, Chum Saeng, Nakhon Sawan, Thái Lan",
+    "address": {
+      "hamlet": "บ้านดงขุย",
+      "county": "Chum Saeng",
+      "province": "Nakhon Sawan",
+      "ISO3166-2-lvl4": "TH-60",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
+  },
+  "9.899285,105.2636": {
+    "display_name": "Láng Sơn, Xã Giồng Riềng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Láng Sơn",
+      "county": "Xã Giồng Riềng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89864,106.7871": {
+    "display_name": "Đông A, Phường Đông Hòa, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Đông A",
+      "suburb": "Phường Đông Hòa",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79722,106.4915": {
+    "display_name": "Euvipharm Pharmaceutical J.S.C, Đường Tỉnh 825, Khu Công nghiệp Liên Minh, Xã Đức Hòa, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "tourism": "Euvipharm Pharmaceutical J.S.C",
+      "road": "Đường Tỉnh 825",
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "town": "Xã Đức Hòa",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
