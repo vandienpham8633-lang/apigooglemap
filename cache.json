@@ -112479,5 +112479,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.25399,106.1343": {
+    "display_name": "Đường Số 25, Phường Hòa Thành, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "road": "Đường Số 25",
+      "county": "Phường Hòa Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
