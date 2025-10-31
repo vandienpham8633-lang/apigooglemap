@@ -112993,5 +112993,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.1097,108.7883": {
+    "display_name": "Nghĩa Lộ, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Nghĩa Lộ",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9969,106.6543": {
+    "display_name": "Khu phố 5, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 5",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
