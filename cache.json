@@ -112308,5 +112308,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.00113,105.8589": {
+    "display_name": "Ngõ 14 Phố Quỳnh Lôi, Phường Bạch Mai, Hà Nội, 11617, Việt Nam",
+    "address": {
+      "road": "Ngõ 14 Phố Quỳnh Lôi",
+      "suburb": "Phường Bạch Mai",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "11617",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.62437,106.0698": {
+    "display_name": "Quảng Châu, Phường Hồng Châu, Tỉnh Hưng Yên, Việt Nam",
+    "address": {
+      "village": "Quảng Châu",
+      "city": "Phường Hồng Châu",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98808,106.672": {
+    "display_name": "Khu phố 8, Khu phố 2, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 8",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
