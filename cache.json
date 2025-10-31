@@ -112445,5 +112445,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.36942,108.1635": {
+    "display_name": "Mih Triêk, Xã Đắk Phơi, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Mih Triêk",
+      "county": "Xã Đắk Phơi",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
