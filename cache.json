@@ -112569,5 +112569,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.6094,105.6009": {
+    "display_name": "Xã Bình Thành, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Bình Thành",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.908742,105.2606": {
+    "display_name": "Trần Tác Chiến, Xã Giồng Riềng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Trần Tác Chiến",
+      "county": "Xã Giồng Riềng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
