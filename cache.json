@@ -112402,5 +112402,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.42128,109.1147": {
+    "display_name": "khu phố Lộ Diêu, phường Hoài Nhơn Đông, KP. Lộ Diêu, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Lộ Diêu, phường Hoài Nhơn Đông",
+      "village": "KP. Lộ Diêu",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.00978,106.4683": {
+    "display_name": "Xã Nhuận Đức, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhuận Đức",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
