@@ -113597,5 +113597,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.14781,105.6654": {
+    "display_name": "QL.3B, Xã Bạch Thông, Tỉnh Thái Nguyên, Việt Nam",
+    "address": {
+      "road": "QL.3B",
+      "town": "Xã Bạch Thông",
+      "state": "Tỉnh Thái Nguyên",
+      "ISO3166-2-lvl4": "VN-69",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77615,106.6826": {
+    "display_name": "Nguyễn Thượng Hiền, Khu phố 33, Phường Vườn Lài, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 70001, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thượng Hiền",
+      "quarter": "Khu phố 33",
+      "suburb": "Phường Vườn Lài",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70001",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
