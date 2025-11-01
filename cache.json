@@ -115826,5 +115826,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.07427,108.1356": {
+    "display_name": "Đường Số 4, Khu công nghiệp Hòa Khánh, Phường Liên Chiểu, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "road": "Đường Số 4",
+      "industrial": "Khu công nghiệp Hòa Khánh",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
