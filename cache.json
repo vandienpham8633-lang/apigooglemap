@@ -113654,5 +113654,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.94807,106.9539": {
+    "display_name": "Tân Thành, Xã Bình Minh, Việt Nam",
+    "address": {
+      "village": "Tân Thành",
+      "county": "Xã Bình Minh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.2952,106.7905": {
+    "display_name": "CF-Ấn Tượng - -Phước Vĩnh- phú giáo-Bình Dương, Đường Trần Quang Diệu, Khu phố 7, Xã Phú Giáo, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "amenity": "CF-Ấn Tượng - -Phước Vĩnh- phú giáo-Bình Dương",
+      "road": "Đường Trần Quang Diệu",
+      "quarter": "Khu phố 7",
+      "city_district": "Xã Phú Giáo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.34597,108.0006": {
+    "display_name": "Khách sạn Dakbla, Vòng Xoay Đăk Bla, Quyết Thắng, Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "tourism": "Khách sạn Dakbla",
+      "road": "Vòng Xoay Đăk Bla",
+      "suburb": "Quyết Thắng",
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.82371,108.0671": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
