@@ -114848,5 +114848,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89881,106.7412": {
+    "display_name": "Đường tỉnh 743B, Thống Nhất 2, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743B",
+      "quarter": "Thống Nhất 2",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96097,106.7362": {
+    "display_name": "Khu phố 1A, An Phú, Phường An Phú, Thành phố Hồ Chí Minh, 75256, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1A",
+      "suburb": "An Phú",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75256",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
