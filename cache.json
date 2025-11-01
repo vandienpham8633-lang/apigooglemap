@@ -113886,5 +113886,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.09314,108.1084": {
+    "display_name": "Đường Hòa Liên 3, Phường Liên Chiểu, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "road": "Đường Hòa Liên 3",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.09312,108.1082": {
+    "display_name": "Đường Hòa Liên 3, Phường Liên Chiểu, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "road": "Đường Hòa Liên 3",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.09313,108.1082": {
+    "display_name": "Đường Hòa Liên 3, Phường Liên Chiểu, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "road": "Đường Hòa Liên 3",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
