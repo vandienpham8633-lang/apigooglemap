@@ -113445,5 +113445,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.89096,100.3603": {
+    "display_name": "225, บ้านวังโพรง, หนองบัว, Chum Saeng, Nakhon Sawan, Thái Lan",
+    "address": {
+      "road": "225",
+      "hamlet": "บ้านวังโพรง",
+      "town": "หนองบัว",
+      "county": "Chum Saeng",
+      "province": "Nakhon Sawan",
+      "ISO3166-2-lvl4": "TH-60",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
   }
 }
