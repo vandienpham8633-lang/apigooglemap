@@ -113423,5 +113423,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.38308,107.8947": {
+    "display_name": "ĐT.675, Xã Ngọk Bay, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "ĐT.675",
+      "county": "Xã Ngọk Bay",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88892,108.1746": {
+    "display_name": "Đường tỉnh 609, Xã Điện Bàn Tây, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 609",
+      "town": "Xã Điện Bàn Tây",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
