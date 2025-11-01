@@ -114570,5 +114570,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59933,106.485": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "village": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.82791,108.0829": {
+    "display_name": "Nguyễn Thị Minh Khai, Tổ dân phố 6, Quảng Phú, Xã Quảng Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh Khai",
+      "suburb": "Tổ dân phố 6",
+      "town": "Quảng Phú",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93558,106.7131": {
+    "display_name": "Đại lộ Tự Do, Khu công nghiệp Việt Nam - Singapore (VSIP I), Phường Bình Hòa, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Đại lộ Tự Do",
+      "industrial": "Khu công nghiệp Việt Nam - Singapore (VSIP I)",
+      "suburb": "Phường Bình Hòa",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.01902,109.0526": {
+    "display_name": "Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
