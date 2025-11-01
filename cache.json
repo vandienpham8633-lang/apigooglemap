@@ -115063,5 +115063,16 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "16.07404,108.1357": {
+    "display_name": "Đường Âu Cơ, Phường Liên Chiểu, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Âu Cơ",
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
