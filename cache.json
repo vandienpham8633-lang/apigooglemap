@@ -115838,5 +115838,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.22433,107.6766": {
+    "display_name": "Đường tỉnh 717, Thôn 7, Xã Nghị Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 717",
+      "village": "Thôn 7",
+      "county": "Xã Nghị Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.21705,107.6826": {
+    "display_name": "Đường tỉnh 717, Thôn 8, Xã Bắc Ruộng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 717",
+      "village": "Thôn 8",
+      "county": "Xã Bắc Ruộng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
