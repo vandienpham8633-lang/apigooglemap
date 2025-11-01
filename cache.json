@@ -114620,5 +114620,98 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.00986,106.4685": {
+    "display_name": "Xã Nhuận Đức, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhuận Đức",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.01955,109.0528": {
+    "display_name": "Quốc lộ 1, Thôn Hòa Hội, Hòa Hội, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "hamlet": "Thôn Hòa Hội",
+      "village": "Hòa Hội",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.56941,105.7958": {
+    "display_name": "Đường Lê Thái Tông, Hải Ninh, Phường Ngọc Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thái Tông",
+      "suburb": "Hải Ninh",
+      "city": "Phường Ngọc Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.17439,108.8399": {
+    "display_name": "Xã Tịnh Khê, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tịnh Khê",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.27856,107.992": {
+    "display_name": "Thừa Lưu, Phước An, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "hamlet": "Thừa Lưu",
+      "village": "Phước An",
+      "town": "Xã Chân Mây - Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.17438,108.8399": {
+    "display_name": "Xã Tịnh Khê, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tịnh Khê",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74903,106.6462": {
+    "display_name": "Hẻm 52 Bửu Đình, Khu phố 12, Phường Bình Tây, Thành phố Hồ Chí Minh, 71910, Việt Nam",
+    "address": {
+      "road": "Hẻm 52 Bửu Đình",
+      "quarter": "Khu phố 12",
+      "suburb": "Phường Bình Tây",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71910",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.74898,106.6463": {
+    "display_name": "Hẻm 121A Đường Hậu Giang, Khu phố 12, Phường Bình Tây, Thành phố Hồ Chí Minh, 73000, Việt Nam",
+    "address": {
+      "road": "Hẻm 121A Đường Hậu Giang",
+      "quarter": "Khu phố 12",
+      "suburb": "Phường Bình Tây",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
