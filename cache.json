@@ -113710,5 +113710,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.73114,106.7001": {
+    "display_name": "Nguyễn Hữu Thọ, Phường Tân Hưng, Thành phố Hồ Chí Minh, 72910, Việt Nam",
+    "address": {
+      "road": "Nguyễn Hữu Thọ",
+      "suburb": "Phường Tân Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72910",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
