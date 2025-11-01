@@ -115274,5 +115274,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.63367,106.4649": {
+    "display_name": "Quốc lộ 1, Xã Bình Đức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Bình Đức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
