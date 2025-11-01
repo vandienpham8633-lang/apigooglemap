@@ -114995,7 +114995,29 @@
       "country_code": "vn"
     }
   },
-  "11.53316,108.9485": {
+  "10.47486,105.4606": {
+    "display_name": "ĐT. 946, Xã Long Kiến, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "ĐT. 946",
+      "county": "Xã Long Kiến",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.00531,105.5486": {
+    "display_name": "Khu Công nghệ cao Hòa Lạc, Xã Hòa Lạc, Hà Nội, Việt Nam",
+    "address": {
+      "industrial": "Khu Công nghệ cao Hòa Lạc",
+      "city_district": "Xã Hòa Lạc",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53304,108.9487": {
     "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
     "address": {
       "town": "Xã Ninh Phước",
@@ -115005,14 +115027,41 @@
       "country_code": "vn"
     }
   },
-  "11.53305,108.9486": {
-    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+  "12.54747,108.1695": {
+    "display_name": "Quốc lộ 27, Thôn 10, Xã Dray Bhăng, Tỉnh Đắk Lắk, Việt Nam",
     "address": {
-      "town": "Xã Ninh Phước",
-      "state": "Khánh Hòa",
-      "ISO3166-2-lvl4": "VN-34",
+      "road": "Quốc lộ 27",
+      "village": "Thôn 10",
+      "county": "Xã Dray Bhăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
       "country": "Việt Nam",
       "country_code": "vn"
+    }
+  },
+  "10.59944,106.4849": {
+    "display_name": "Nguyễn Trung Trực, Xã Long Cang, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "village": "Xã Long Cang",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.89098,100.3602": {
+    "display_name": "225, บ้านวังโพรง, หนองบัว, Chum Saeng, Nakhon Sawan, Thái Lan",
+    "address": {
+      "road": "225",
+      "hamlet": "บ้านวังโพรง",
+      "town": "หนองบัว",
+      "county": "Chum Saeng",
+      "province": "Nakhon Sawan",
+      "ISO3166-2-lvl4": "TH-60",
+      "country": "Thái Lan",
+      "country_code": "th"
     }
   }
 }
