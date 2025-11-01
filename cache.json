@@ -115074,5 +115074,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.79619,108.073": {
+    "display_name": "Đường tỉnh 688, Toàn Thắng, Ea Pôk, Xã Quảng Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 688",
+      "suburb": "Toàn Thắng",
+      "town": "Ea Pôk",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25299,109.0961": {
+    "display_name": "Đường Nguyễn Thái Học, Diên Khánh, Xã Diên Khánh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Đường Nguyễn Thái Học",
+      "town": "Diên Khánh",
+      "county": "Xã Diên Khánh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
