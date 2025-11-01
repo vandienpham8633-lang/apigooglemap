@@ -115623,5 +115623,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.57359,109.1545": {
+    "display_name": "Đường tỉnh 651D, Xã Bắc Ninh Hòa, Khánh Hòa, 57000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 651D",
+      "county": "Xã Bắc Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
