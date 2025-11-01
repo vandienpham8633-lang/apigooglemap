@@ -114994,5 +114994,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.53316,108.9485": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.53305,108.9486": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
