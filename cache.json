@@ -114814,5 +114814,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.56919,105.796": {
+    "display_name": "Đường Lê Thái Tông, Hải Ninh, Phường Ngọc Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thái Tông",
+      "suburb": "Hải Ninh",
+      "city": "Phường Ngọc Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74194,108.2464": {
+    "display_name": "Tân Đức, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Đức",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74192,108.2465": {
+    "display_name": "Tân Đức, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Đức",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
