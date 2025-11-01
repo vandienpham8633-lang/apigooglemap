@@ -115099,5 +115099,103 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.44596,104.5697": {
+    "display_name": "Trà Phô, Xã Giang Thành, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Trà Phô",
+      "county": "Xã Giang Thành",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.06832,106.6627": {
+    "display_name": "Võ Nguyên Giáp, Hoà Phú 3, Phường Hòa Lợi, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Võ Nguyên Giáp",
+      "quarter": "Hoà Phú 3",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.753487,105.1519": {
+    "display_name": "Xã Tân Ân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Tân Ân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.264413,105.5198": {
+    "display_name": "Phường Láng Tròn, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường Láng Tròn",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74183,108.2464": {
+    "display_name": "Tân Đức, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Đức",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.57168,107.7706": {
+    "display_name": "Xã Ia Mơ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Mơ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77334,106.7923": {
+    "display_name": "Đường Số 39 - CL, Phường Cát Lái, Thành phố Hồ Chí Minh, 08408, Việt Nam",
+    "address": {
+      "road": "Đường Số 39 - CL",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "08408",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87452,106.9456": {
+    "display_name": "Khu công nghiệp Tam Phước, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Tam Phước",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.68158,109.0754": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
