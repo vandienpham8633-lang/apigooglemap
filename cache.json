@@ -115197,5 +115197,82 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.39859,103.9849": {
+    "display_name": "Xã Hợp Thành, Tỉnh Lào Cai, 31000, Việt Nam",
+    "address": {
+      "county": "Xã Hợp Thành",
+      "state": "Tỉnh Lào Cai",
+      "ISO3166-2-lvl4": "VN-02",
+      "postcode": "31000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.03561,109.1737": {
+    "display_name": "Quốc lộ 1, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39661,105.659": {
+    "display_name": "Mỹ An Hưng, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Mỹ An Hưng",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.22242,108.6378": {
+    "display_name": "Đường Tịnh Phong – Trà Bình, Xã Ba Gia, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Tịnh Phong – Trà Bình",
+      "county": "Xã Ba Gia",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7172,106.6228": {
+    "display_name": "Phường Phú Định, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "suburb": "Phường Phú Định",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64044,106.4885": {
+    "display_name": "Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "town": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.38369,106.2379": {
+    "display_name": "Xã Dương Minh Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Dương Minh Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
