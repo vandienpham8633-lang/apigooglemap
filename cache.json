@@ -113548,5 +113548,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.12519,106.5904": {
+    "display_name": "Đường N5, KCN Mỹ Phước 1, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường N5",
+      "industrial": "KCN Mỹ Phước 1",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.67521,105.0698": {
+    "display_name": "Phường Vĩnh Tế, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Phường Vĩnh Tế",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
