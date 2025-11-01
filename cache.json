@@ -113989,5 +113989,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.81309,105.4922": {
+    "display_name": "Xã Văn Kiều, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Văn Kiều",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
