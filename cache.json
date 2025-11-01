@@ -114791,5 +114791,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.7419,108.2464": {
+    "display_name": "Tân Đức, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Đức",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.09542,109.3129": {
+    "display_name": "Điện Biên Phủ, Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Điện Biên Phủ",
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
