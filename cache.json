@@ -114926,5 +114926,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.74183,108.2465": {
+    "display_name": "Tân Đức, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Đức",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.15646,106.2315": {
+    "display_name": "Đồng Sài, Xã Phù Lãng, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "hamlet": "Đồng Sài",
+      "suburb": "Xã Phù Lãng",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.96934,105.7781": {
+    "display_name": "BIDV, 17, Phố Lê Hồng Phong, Phường Hà Đông, Hà Nội, 10189, Việt Nam",
+    "address": {
+      "amenity": "BIDV",
+      "house_number": "17",
+      "road": "Phố Lê Hồng Phong",
+      "suburb": "Phường Hà Đông",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10189",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.264413,105.5199": {
+    "display_name": "Phường Láng Tròn, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường Láng Tròn",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
