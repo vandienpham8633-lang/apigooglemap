@@ -113506,5 +113506,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.60311,106.5867": {
+    "display_name": "Đường Thạch Hãn, Xã Lao Bảo, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường Thạch Hãn",
+      "town": "Xã Lao Bảo",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
