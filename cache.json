@@ -114972,5 +114972,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.54926,108.1044": {
+    "display_name": "Kơ Nệt, Xã Bảo Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Kơ Nệt",
+      "county": "Xã Bảo Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74178,108.2464": {
+    "display_name": "Tân Đức, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Đức",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
