@@ -113621,5 +113621,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.52721,107.8584": {
+    "display_name": "Nausri, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Nausri",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "8.84656,104.7922": {
+    "display_name": "Cái Đôi Vàm, Xã Cái Đôi Vàm, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "town": "Cái Đôi Vàm",
+      "county": "Xã Cái Đôi Vàm",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
