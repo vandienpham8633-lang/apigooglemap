@@ -115597,5 +115597,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.57161,105.3045": {
+    "display_name": "Xã Phú Tân, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Phú Tân",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86901,106.7623": {
+    "display_name": "Block A, 18, Kha Vạn Cân, Bình Đường 2, Phường Linh Xuân, Phường Dĩ An, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "building": "Block A",
+      "house_number": "18",
+      "road": "Kha Vạn Cân",
+      "quarter": "Bình Đường 2",
+      "suburb": "Phường Linh Xuân",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
