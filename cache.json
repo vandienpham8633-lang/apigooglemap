@@ -114713,5 +114713,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.03511,107.9006": {
+    "display_name": "Rơ Sông, Xã Tà Đùng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Rơ Sông",
+      "county": "Xã Tà Đùng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9011,106.7411": {
+    "display_name": "Đường tỉnh 743B, Thống Nhất 2, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 743B",
+      "quarter": "Thống Nhất 2",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
