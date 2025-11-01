@@ -113954,5 +113954,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "-6.589573,108.3957": {
+    "display_name": "Prajawinangun Kulon, Kabupaten Cirebon, Tỉnh Tây Java, Jawa, Indonesia",
+    "address": {
+      "village": "Prajawinangun Kulon",
+      "county": "Kabupaten Cirebon",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
+  },
+  "12.61733,108.1513": {
+    "display_name": "Thôn 12, Xã Ea Ktur, Tỉnh Đắk Lắk, 02623, Việt Nam",
+    "address": {
+      "village": "Thôn 12",
+      "county": "Xã Ea Ktur",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "02623",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34817,104.9921": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
