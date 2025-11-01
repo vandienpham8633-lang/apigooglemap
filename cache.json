@@ -114373,5 +114373,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.30579,108.9598": {
+    "display_name": "Thôn Tân Thịnh, Ân Tường Tây, Ân Tường, Xã Ân Tường, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tân Thịnh, Ân Tường Tây",
+      "village": "Ân Tường",
+      "county": "Xã Ân Tường",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.70526,108.0645": {
+    "display_name": "Hà Huy Tập, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "road": "Hà Huy Tập",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
