@@ -113517,5 +113517,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.67517,105.0698": {
+    "display_name": "Phường Vĩnh Tế, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Phường Vĩnh Tế",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.39485,106.984": {
+    "display_name": "Xã Tà Rụt, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Tà Rụt",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74456,108.1289": {
+    "display_name": "Kroa A, Xã Cuôr Đăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Kroa A",
+      "county": "Xã Cuôr Đăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
