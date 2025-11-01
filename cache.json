@@ -114407,5 +114407,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.81825,108.952": {
+    "display_name": "Đường Lê Thánh Tôn, Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thánh Tôn",
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39301,106.3143": {
+    "display_name": "Bệnh viện Đa khoa tỉnh Tiền Giang, Quốc lộ 1, Phường Trung An, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa tỉnh Tiền Giang",
+      "road": "Quốc lộ 1",
+      "county": "Phường Trung An",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.06368,106.8121": {
+    "display_name": "Xã Hưng Phước, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.22672,108.7844": {
+    "display_name": "Xã Thọ Phong, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Thọ Phong",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53317,109.2277": {
+    "display_name": "Phường Đông Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đông Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
