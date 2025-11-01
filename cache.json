@@ -114737,5 +114737,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.74846,105.879": {
+    "display_name": "Quảng Châu, Phường Sầm Sơn, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Quảng Châu",
+      "city": "Phường Sầm Sơn",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74195,108.2465": {
+    "display_name": "Tân Đức, Xã Ea Knuếc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Đức",
+      "county": "Xã Ea Knuếc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.57152,107.7703": {
+    "display_name": "Xã Ia Mơ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Mơ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.27857,107.992": {
+    "display_name": "Thừa Lưu, Phước An, Xã Chân Mây - Lăng Cô, Thành phố Huế, Việt Nam",
+    "address": {
+      "hamlet": "Thừa Lưu",
+      "village": "Phước An",
+      "town": "Xã Chân Mây - Lăng Cô",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.17435,108.8398": {
+    "display_name": "Xã Tịnh Khê, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Tịnh Khê",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
