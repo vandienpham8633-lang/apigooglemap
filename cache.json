@@ -116759,5 +116759,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.96361,106.7519": {
+    "display_name": "Khu phố 1B, An Phú, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1B",
+      "suburb": "An Phú",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
