@@ -116319,15 +116319,35 @@
       "country_code": "vn"
     }
   },
-  "10.89853,106.7406": {
-    "display_name": "Đường tỉnh 743B, Thống Nhất 2, Phường Dĩ An, Thành phố Hồ Chí Minh, 75207, Việt Nam",
+  "11.02917,106.7606": {
+    "display_name": "Đường Lê Quang Định, Khánh Lộc, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
     "address": {
-      "road": "Đường tỉnh 743B",
-      "quarter": "Thống Nhất 2",
-      "city_district": "Phường Dĩ An",
+      "road": "Đường Lê Quang Định",
+      "quarter": "Khánh Lộc",
+      "city_district": "Phường Tân Hiệp",
       "city": "Thành phố Hồ Chí Minh",
       "ISO3166-2-lvl4": "VN-SG",
-      "postcode": "75207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.60573,108.1119": {
+    "display_name": "Duệ, Xã Bảo Thuận, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Duệ",
+      "county": "Xã Bảo Thuận",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90904,107.3125": {
+    "display_name": "Bình Hoà, Xã Xuân Phú, 76615, Việt Nam",
+    "address": {
+      "village": "Bình Hoà",
+      "county": "Xã Xuân Phú",
+      "postcode": "76615",
       "country": "Việt Nam",
       "country_code": "vn"
     }
