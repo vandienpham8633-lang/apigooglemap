@@ -116215,5 +116215,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.76274,108.4015": {
+    "display_name": "Trà Đóa 2, Xã Thăng An, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "hamlet": "Trà Đóa 2",
+      "town": "Xã Thăng An",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.05381,105.8197": {
+    "display_name": "Bình Minh, Phường Cái Vồn, Tỉnh Vĩnh Long, 94111, Việt Nam",
+    "address": {
+      "town": "Bình Minh",
+      "county": "Phường Cái Vồn",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "94111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71725,106.6227": {
+    "display_name": "Phường Phú Định, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "suburb": "Phường Phú Định",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02926,106.7605": {
+    "display_name": "Đường Lê Quang Định, Khánh Lộc, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Lê Quang Định",
+      "quarter": "Khánh Lộc",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
