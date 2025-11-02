@@ -116664,5 +116664,51 @@
       "country": "Indonesia",
       "country_code": "id"
     }
+  },
+  "10.79836,106.6052": {
+    "display_name": "Hẻm 246 đường 26/3, Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 246 đường 26/3",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.16942,108.3626": {
+    "display_name": "Trà Phong, Xã Tây Trà, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Trà Phong",
+      "county": "Xã Tây Trà",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.53353,109.0564": {
+    "display_name": "TL644, Đa Lộc, Xã Xuân Lãnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "TL644",
+      "village": "Đa Lộc",
+      "county": "Xã Xuân Lãnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86425,106.9173": {
+    "display_name": "Long Khánh 1, Phường Tam Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Long Khánh 1",
+      "county": "Phường Tam Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
