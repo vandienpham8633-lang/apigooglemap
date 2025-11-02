@@ -116191,5 +116191,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.70621,108.0271": {
+    "display_name": "Đường B4, Ea Bông, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "road": "Đường B4",
+      "village": "Ea Bông",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.76273,108.4014": {
+    "display_name": "Trà Đóa 2, Xã Thăng An, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "hamlet": "Trà Đóa 2",
+      "town": "Xã Thăng An",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
