@@ -116261,5 +116261,62 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.34575,106.1001": {
+    "display_name": "ĐT.785 - Giồng Cà, Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT.785 - Giồng Cà",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.72001,108.3641": {
+    "display_name": "Tổ dân phố 31, Liên Nghĩa, Xã Đức Trọng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tổ dân phố 31",
+      "town": "Liên Nghĩa",
+      "county": "Xã Đức Trọng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.47685,106.307": {
+    "display_name": "Xã Tân Phước 3, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Phước 3",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14098,106.6354": {
+    "display_name": "NF4, Khu phố 5, Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "NF4",
+      "quarter": "Khu phố 5",
+      "city_district": "Phường Chánh Phú Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.6112,107.9319": {
+    "display_name": "Thôn 12, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 12",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
