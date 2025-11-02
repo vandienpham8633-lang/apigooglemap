@@ -116860,5 +116860,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.93308,108.8701": {
+    "display_name": "Hòa Sơn, Xã Bình Phú, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Hòa Sơn",
+      "county": "Xã Bình Phú",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
