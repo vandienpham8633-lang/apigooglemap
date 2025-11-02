@@ -116637,5 +116637,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.56321,107.0543": {
+    "display_name": "Đường Số 1B, Khu công nghiệp Phú Mỹ 1, Phường Tân Phước, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "road": "Đường Số 1B",
+      "industrial": "Khu công nghiệp Phú Mỹ 1",
+      "city_district": "Phường Tân Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "-6.699558,108.4782": {
+    "display_name": "Karangmulya, Kabupaten Cirebon, Tỉnh Tây Java, Jawa, 45155, Indonesia",
+    "address": {
+      "village": "Karangmulya",
+      "county": "Kabupaten Cirebon",
+      "state": "Tỉnh Tây Java",
+      "ISO3166-2-lvl4": "ID-JB",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "postcode": "45155",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
   }
 }
