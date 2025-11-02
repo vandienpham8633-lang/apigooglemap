@@ -117096,5 +117096,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.34527,106.2971": {
+    "display_name": "Xã Cầu Khởi, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Cầu Khởi",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.81097,106.6059": {
+    "display_name": "Hẻm 72 đường số 16, Phường Bình Hưng Hòa, Thuận An, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 72 đường số 16",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
