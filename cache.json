@@ -116603,5 +116603,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.25815,106.5079": {
+    "display_name": "Thất Khê, Xã Thất Khê, Tỉnh Lạng Sơn, Việt Nam",
+    "address": {
+      "town": "Thất Khê",
+      "county": "Xã Thất Khê",
+      "state": "Tỉnh Lạng Sơn",
+      "ISO3166-2-lvl4": "VN-09",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.70584,105.4037": {
+    "display_name": "Xã Yên Cường, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Yên Cường",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83171,106.6186": {
+    "display_name": "Hẻm Số 33 Tân Thới Nhất 12, Khu phố 29, Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Hẻm Số 33 Tân Thới Nhất 12",
+      "quarter": "Khu phố 29",
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
