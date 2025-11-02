@@ -116817,5 +116817,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.16907,107.8851": {
+    "display_name": "R'Bút, Xã Quảng Sơn, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "R'Bút",
+      "county": "Xã Quảng Sơn",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.89714,106.6413": {
+    "display_name": "Sú 1, Phường Thiên Hương, Thành phố Hải Phòng, Việt Nam",
+    "address": {
+      "quarter": "Sú 1",
+      "city": "Phường Thiên Hương",
+      "ISO3166-2-lvl4": "VN-HP",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
