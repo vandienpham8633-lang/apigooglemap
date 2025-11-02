@@ -115955,5 +115955,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.80835,108.4371": {
+    "display_name": "Đarahoa, Xã Hiệp Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Đarahoa",
+      "county": "Xã Hiệp Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
