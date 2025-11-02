@@ -117076,5 +117076,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.9757,106.9594": {
+    "display_name": "Xã Vĩnh Thủy, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Vĩnh Thủy",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63984,106.6179": {
+    "display_name": "Xã Phước Lý, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Phước Lý",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
