@@ -116351,5 +116351,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.08021,106.6628": {
+    "display_name": "Phú Nghị, Phường Hòa Lợi, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "quarter": "Phú Nghị",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.3647,108.564": {
+    "display_name": "Thôn 6, Xã Sơn Lang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Thôn 6",
+      "county": "Xã Sơn Lang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
