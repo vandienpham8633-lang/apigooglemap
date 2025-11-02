@@ -117039,5 +117039,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.92663,106.746": {
+    "display_name": "Chiêu Liêu A, Phường Dĩ An, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "quarter": "Chiêu Liêu A",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.18402,107.5548": {
+    "display_name": "Đường tỉnh 766, Khu phố 1, Thôn 10, Xã Đức Linh, Tỉnh Lâm Đồng, 77556, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "quarter": "Khu phố 1",
+      "village": "Thôn 10",
+      "county": "Xã Đức Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77556",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72379,106.6053": {
+    "display_name": "Phường An Lạc, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "suburb": "Phường An Lạc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
