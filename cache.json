@@ -116772,5 +116772,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.96595,106.9348": {
+    "display_name": "Thái Hoà, Phường Hố Nai, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Thái Hoà",
+      "county": "Phường Hố Nai",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.99666,106.608": {
+    "display_name": "Tiệm Tôm, Xã Tân Thủy, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiệm Tôm",
+      "county": "Xã Tân Thủy",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.28997,108.0296": {
+    "display_name": "Buốc, Xã Nam Ka, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Buốc",
+      "county": "Xã Nam Ka",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21905,109.1603": {
+    "display_name": "Thôn Chánh Trực, Mỹ Thọ, Chánh Trực, Xã Phù Mỹ Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Chánh Trực, Mỹ Thọ",
+      "village": "Chánh Trực",
+      "county": "Xã Phù Mỹ Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
