@@ -116582,5 +116582,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.40658,106.8299": {
+    "display_name": "Xã Đồng Phú, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Phú",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.30784,108.7823": {
+    "display_name": "Đường Châu Ổ – Sa Kỳ, Xã Vạn Tường, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Châu Ổ – Sa Kỳ",
+      "county": "Xã Vạn Tường",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
