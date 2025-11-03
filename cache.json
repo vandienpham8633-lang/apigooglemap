@@ -117163,5 +117163,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.01498,109.0676": {
+    "display_name": "Thôn Phú Kim, Cát Trinh, Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Phú Kim, Cát Trinh",
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
