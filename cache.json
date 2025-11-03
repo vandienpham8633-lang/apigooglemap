@@ -117734,5 +117734,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82998,108.8879": {
+    "display_name": "Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.88353,107.6421": {
+    "display_name": "Xã Ia Chia, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Chia",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
