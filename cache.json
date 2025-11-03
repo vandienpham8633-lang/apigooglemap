@@ -117269,5 +117269,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.30581,108.9598": {
+    "display_name": "Thôn Tân Thịnh, Ân Tường Tây, Ân Tường, Xã Ân Tường, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Tân Thịnh, Ân Tường Tây",
+      "village": "Ân Tường",
+      "county": "Xã Ân Tường",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71523,106.6017": {
+    "display_name": "Ấp 41, Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "village": "Ấp 41",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.26038,106.1134": {
+    "display_name": "Xã Phú Phụng, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Phú Phụng",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
