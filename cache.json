@@ -117185,5 +117185,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.06633,106.3037": {
+    "display_name": "Bình Nguyên, Phường Gò Dầu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "quarter": "Bình Nguyên",
+      "town": "Phường Gò Dầu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
