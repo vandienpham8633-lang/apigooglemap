@@ -118732,5 +118732,104 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91884,106.5657": {
+    "display_name": "Cầu An Hạ 1, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Cầu An Hạ 1",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.38859,105.8891": {
+    "display_name": "Phường Trần Phú, Hà Tĩnh, 45100, Việt Nam",
+    "address": {
+      "city": "Phường Trần Phú",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "postcode": "45100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.28965,107.3008": {
+    "display_name": "Xã Thanh Sơn, Việt Nam",
+    "address": {
+      "county": "Xã Thanh Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.23709,105.5315": {
+    "display_name": "Vĩnh Tường, Xã Vĩnh Tường, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "town": "Vĩnh Tường",
+      "county": "Xã Vĩnh Tường",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.82023,104.9851": {
+    "display_name": "Bệnh viện Đa khoa Hà Giang, Đường Lý Nhân Tông, Minh Khai, Phường Hà Giang 2, Tỉnh Tuyên Quang, 20152, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa Hà Giang",
+      "road": "Đường Lý Nhân Tông",
+      "suburb": "Minh Khai",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "postcode": "20152",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34868,105.1439": {
+    "display_name": "Xã Tây Phú, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Tây Phú",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92913,105.0516": {
+    "display_name": "ស្រុកកោះធំ, ខេត្តកណ្ដាល, Cao Miên",
+    "address": {
+      "town": "ស្រុកកោះធំ",
+      "state": "ខេត្តកណ្ដាល",
+      "ISO3166-2-lvl4": "KH-8",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "11.32178,106.1042": {
+    "display_name": "Dương Minh Châu, Thành phố Tây Ninh, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Dương Minh Châu",
+      "city": "Thành phố Tây Ninh",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.21073,105.9469": {
+    "display_name": "Đường Đinh Tiên Hoàng, Phường Tân Hạnh, Tỉnh Vĩnh Long, 85112, Việt Nam",
+    "address": {
+      "road": "Đường Đinh Tiên Hoàng",
+      "county": "Phường Tân Hạnh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85112",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
