@@ -117196,5 +117196,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.97264,108.8882": {
+    "display_name": "Khu phố 6, Lê Diêm, Xã Sông Hinh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Khu phố 6",
+      "village": "Lê Diêm",
+      "county": "Xã Sông Hinh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
