@@ -118831,5 +118831,85 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.90524,107.343": {
+    "display_name": "Sơn Lang, Xã Thọ Sơn, Việt Nam",
+    "address": {
+      "village": "Sơn Lang",
+      "county": "Xã Thọ Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85172,106.7841": {
+    "display_name": "42-42A, Đường Tân Hoà 2, Khu phố 6, Phường Tăng Nhơn Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71300, Việt Nam",
+    "address": {
+      "house_number": "42-42A",
+      "road": "Đường Tân Hoà 2",
+      "quarter": "Khu phố 6",
+      "suburb": "Phường Tăng Nhơn Phú",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71300",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91883,106.5656": {
+    "display_name": "Cầu An Hạ 1, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Cầu An Hạ 1",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.59729,109.2439": {
+    "display_name": "Tuy Phong 4, Xã Xuân Lộc, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tuy Phong 4",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.091369,105.1069": {
+    "display_name": "Xã Lương Thế Trân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Lương Thế Trân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.43077,106.8571": {
+    "display_name": "Tân Phú, Xã Đồng Phú, Việt Nam",
+    "address": {
+      "town": "Tân Phú",
+      "county": "Xã Đồng Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.94043,108.4351": {
+    "display_name": "Khải Duy, 8/1, Nam Kỳ Khởi Nghĩa, Đồi Petrus Ký, Đà Lạt, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, 02633, Việt Nam",
+    "address": {
+      "tourism": "Khải Duy",
+      "house_number": "8/1",
+      "road": "Nam Kỳ Khởi Nghĩa",
+      "neighbourhood": "Đồi Petrus Ký",
+      "city": "Đà Lạt",
+      "county": "Phường Xuân Hương - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "02633",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
