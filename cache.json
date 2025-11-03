@@ -117473,5 +117473,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.81098,106.6059": {
+    "display_name": "Hẻm 72 đường số 16, Phường Bình Hưng Hòa, Thuận An, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Hẻm 72 đường số 16",
+      "suburb": "Phường Bình Hưng Hòa",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.853,109.1103": {
+    "display_name": "Phường An Nhơn Nam, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Phường An Nhơn Nam",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
