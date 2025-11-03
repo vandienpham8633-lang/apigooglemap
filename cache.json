@@ -117382,5 +117382,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.48412,107.7066": {
+    "display_name": "Xã Phú Hồ, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Phú Hồ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.26163,104.9796": {
+    "display_name": "Hòa Thuận, Xã Hòn Đất, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa Thuận",
+      "county": "Xã Hòn Đất",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01364,106.7657": {
+    "display_name": "Cây Chàm, Phường Tân Khánh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Cây Chàm",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
