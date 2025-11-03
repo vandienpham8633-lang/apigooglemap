@@ -117586,5 +117586,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.76242,106.6541": {
+    "display_name": "Lãnh Binh Thăng, Khu phố 9, Phường Phú Thọ, Thành phố Hồ Chí Minh, 72415, Việt Nam",
+    "address": {
+      "road": "Lãnh Binh Thăng",
+      "quarter": "Khu phố 9",
+      "suburb": "Phường Phú Thọ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72415",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
