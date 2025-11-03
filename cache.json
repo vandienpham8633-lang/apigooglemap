@@ -117324,5 +117324,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.26157,104.9797": {
+    "display_name": "Hòa Thuận, Xã Hòn Đất, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa Thuận",
+      "county": "Xã Hòn Đất",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
