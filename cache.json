@@ -117631,5 +117631,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89542,106.6998": {
+    "display_name": "Đường Lái Thiêu 101, Long Thới, Phường Lái Thiêu, Thuận An, Thành phố Hồ Chí Minh, 70000, Việt Nam",
+    "address": {
+      "road": "Đường Lái Thiêu 101",
+      "quarter": "Long Thới",
+      "suburb": "Phường Lái Thiêu",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82991,108.8879": {
+    "display_name": "Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
