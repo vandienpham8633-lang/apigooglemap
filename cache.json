@@ -118954,5 +118954,86 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.94044,108.435": {
+    "display_name": "Khải Duy, 8/1, Nam Kỳ Khởi Nghĩa, Đồi Petrus Ký, Đà Lạt, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, 02633, Việt Nam",
+    "address": {
+      "tourism": "Khải Duy",
+      "house_number": "8/1",
+      "road": "Nam Kỳ Khởi Nghĩa",
+      "neighbourhood": "Đồi Petrus Ký",
+      "city": "Đà Lạt",
+      "county": "Phường Xuân Hương - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "02633",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.86274,105.8899": {
+    "display_name": "Xã Hoằng Hóa, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Hoằng Hóa",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91886,106.5658": {
+    "display_name": "Cầu An Hạ 1, Xã Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Cầu An Hạ 1",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.56391,108.2913": {
+    "display_name": "Thôn 4, Xã Dang Kang, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 4",
+      "county": "Xã Dang Kang",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58885,106.6204": {
+    "display_name": "Xã Mỹ Lộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Mỹ Lộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.008,109.221": {
+    "display_name": "Phú Thứ, Xã Tây Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "town": "Phú Thứ",
+      "county": "Xã Tây Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9694,106.5063": {
+    "display_name": "Liêu Bình Hương, Xã Củ Chi, Thành phố Hồ Chí Minh, 75500, Việt Nam",
+    "address": {
+      "road": "Liêu Bình Hương",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
