@@ -118722,5 +118722,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.88146,105.6158": {
+    "display_name": "Xã Vĩnh Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
