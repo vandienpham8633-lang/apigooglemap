@@ -117654,5 +117654,85 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79054,106.4821": {
+    "display_name": "Khu Công nghiệp Hải Sơn, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "industrial": "Khu Công nghiệp Hải Sơn",
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72423,106.9219": {
+    "display_name": "KCN Nhơn Trạch, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "industrial": "KCN Nhơn Trạch",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.86277,105.8899": {
+    "display_name": "Xã Hoằng Hóa, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Hoằng Hóa",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.24813,105.907": {
+    "display_name": "Phường Tân Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Tân Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.40941,105.2566": {
+    "display_name": "Xã Vĩnh Hanh, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Hanh",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78189,106.7506": {
+    "display_name": "Đường 52 - BTT, Khu phố 23, Phường Bình Trưng, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Đường 52 - BTT",
+      "quarter": "Khu phố 23",
+      "suburb": "Phường Bình Trưng",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.69211,108.0534": {
+    "display_name": "Cao Xuân Huy, Tổ dân phố 7, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "road": "Cao Xuân Huy",
+      "suburb": "Tổ dân phố 7",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
