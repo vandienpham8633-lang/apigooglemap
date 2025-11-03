@@ -117142,5 +117142,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.971622,105.3267": {
+    "display_name": "Trương Văn Vững, Xã Thạnh Hưng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Trương Văn Vững",
+      "county": "Xã Thạnh Hưng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87788,107.477": {
+    "display_name": "Ấp 1, Xã Xuân Hòa, 76618, Việt Nam",
+    "address": {
+      "village": "Ấp 1",
+      "county": "Xã Xuân Hòa",
+      "postcode": "76618",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
