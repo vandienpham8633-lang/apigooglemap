@@ -118943,5 +118943,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.80133,105.7813": {
+    "display_name": "Xã Dân Hòa, Hà Nội, 13524, Việt Nam",
+    "address": {
+      "city_district": "Xã Dân Hòa",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "13524",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
