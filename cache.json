@@ -119035,5 +119035,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.17436,104.1917": {
+    "display_name": "Xã Mai Sơn, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "county": "Xã Mai Sơn",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34487,106.1148": {
+    "display_name": "Đường số 4 Trần Phú, Phường Bình Minh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Đường số 4 Trần Phú",
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72353,106.6733": {
+    "display_name": "Xã Bình Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "city_district": "Xã Bình Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
