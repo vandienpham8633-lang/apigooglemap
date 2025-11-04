@@ -119445,5 +119445,149 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.23484,105.1105": {
+    "display_name": "Hiệp Thành, Xã Mỹ Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hiệp Thành",
+      "county": "Xã Mỹ Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.28313,105.9447": {
+    "display_name": "Tân Hưng, Cẩm Thành, Xã Cẩm Bình, Hà Tĩnh, Việt Nam",
+    "address": {
+      "hamlet": "Tân Hưng",
+      "village": "Cẩm Thành",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.38579,108.0371": {
+    "display_name": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Đăk Rơ Wa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.72411,106.9223": {
+    "display_name": "KCN Nhơn Trạch, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "industrial": "KCN Nhơn Trạch",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.47964,106.8811": {
+    "display_name": "Ấp 3, Xã Đồng Phú, Việt Nam",
+    "address": {
+      "village": "Ấp 3",
+      "county": "Xã Đồng Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85626,107.3695": {
+    "display_name": "Đông Minh, Xã Xuân Phú, Việt Nam",
+    "address": {
+      "village": "Đông Minh",
+      "county": "Xã Xuân Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.82574,109.1649": {
+    "display_name": "KP.Trung Tín 1, TT.Tuy Phước, Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "quarter": "KP.Trung Tín 1, TT.Tuy Phước",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.68288,106.747": {
+    "display_name": "Xã Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Nhà Bè",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.82654,105.8645": {
+    "display_name": "Xã Hoằng Châu, Tỉnh Thanh Hóa, 43000, Việt Nam",
+    "address": {
+      "town": "Xã Hoằng Châu",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "postcode": "43000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.33975,109.1042": {
+    "display_name": "Thôn An Giang Đông, Mỹ Đức, Xã Phù Mỹ Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn An Giang Đông, Mỹ Đức",
+      "county": "Xã Phù Mỹ Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.86311,105.8897": {
+    "display_name": "Xã Hoằng Hóa, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Hoằng Hóa",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.94044,108.4351": {
+    "display_name": "Khải Duy, 8/1, Nam Kỳ Khởi Nghĩa, Đồi Petrus Ký, Đà Lạt, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, 02633, Việt Nam",
+    "address": {
+      "tourism": "Khải Duy",
+      "house_number": "8/1",
+      "road": "Nam Kỳ Khởi Nghĩa",
+      "neighbourhood": "Đồi Petrus Ký",
+      "city": "Đà Lạt",
+      "county": "Phường Xuân Hương - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "02633",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.05515,108.3638": {
+    "display_name": "Yuk, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Yuk",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
