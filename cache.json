@@ -119989,5 +119989,103 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.8236,108.067": {
+    "display_name": "Xã Phú Thuận, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Phú Thuận",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87029,106.7628": {
+    "display_name": "Dương Đình Nghệ, Bình Đường 2, Phường Linh Xuân, Phường Dĩ An, Thành phố Hồ Chí Minh, 75350, Việt Nam",
+    "address": {
+      "road": "Dương Đình Nghệ",
+      "quarter": "Bình Đường 2",
+      "suburb": "Phường Linh Xuân",
+      "city_district": "Phường Dĩ An",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75350",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.62734,107.966": {
+    "display_name": "Quốc lộ 14, Thôn 8, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 8",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.60412,106.6537": {
+    "display_name": "Xã Cần Giuộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Cần Giuộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.69867,108.3809": {
+    "display_name": "Xã Thăng Điền, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Điền",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.0168,108.1144": {
+    "display_name": "Xã Bà Nà, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Bà Nà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.93566,106.8547": {
+    "display_name": "Đường tỉnh 759, Xã Đa Kia, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 759",
+      "county": "Xã Đa Kia",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.733548,105.478": {
+    "display_name": "Xã Vĩnh Thuận Đông, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Vĩnh Thuận Đông",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79392,106.6625": {
+    "display_name": "Cà Phê Cây bàng, Đường Nguyễn Bặc, Phường Tân Sơn Hòa, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72106, Việt Nam",
+    "address": {
+      "amenity": "Cà Phê Cây bàng",
+      "road": "Đường Nguyễn Bặc",
+      "suburb": "Phường Tân Sơn Hòa",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
