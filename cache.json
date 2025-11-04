@@ -120196,5 +120196,99 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.58161,106.2247": {
+    "display_name": "Đường Cặp Kệnh 24, Xã Tân Tây, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Cặp Kệnh 24",
+      "county": "Xã Tân Tây",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.27108,108.098": {
+    "display_name": "Kon Sơ Lăng, Xã Ia Khươl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Kon Sơ Lăng",
+      "county": "Xã Ia Khươl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14111,106.5556": {
+    "display_name": "Tân Lập, Phường Long Nguyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Tân Lập",
+      "city_district": "Phường Long Nguyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.80093,108.2112": {
+    "display_name": "Gram A1, Phường Cư Bao, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Gram A1",
+      "county": "Phường Cư Bao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94357,105.6445": {
+    "display_name": "Xã Hưng Điền, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Điền",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.80389,109.0913": {
+    "display_name": "Suối Giếng, Xã Công Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Suối Giếng",
+      "county": "Xã Công Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.66832,106.8196": {
+    "display_name": "Xã Long Hà, Việt Nam",
+    "address": {
+      "county": "Xã Long Hà",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79985,105.2467": {
+    "display_name": "Nguyễn Chí Thanh, Phường Tân Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Nguyễn Chí Thanh",
+      "county": "Phường Tân Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.48203,106.6231": {
+    "display_name": "Phường Đồng Hới, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "city": "Phường Đồng Hới",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
