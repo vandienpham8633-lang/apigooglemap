@@ -119622,5 +119622,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.82186,108.7668": {
+    "display_name": "Quốc lộ 24, Xã Ba Động, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 24",
+      "county": "Xã Ba Động",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
