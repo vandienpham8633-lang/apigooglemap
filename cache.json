@@ -120087,5 +120087,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.56691,109.0144": {
+    "display_name": "khu phố Tân Trung (phường Tam Quan), Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Tân Trung (phường Tam Quan)",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
