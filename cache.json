@@ -119236,5 +119236,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.18456,105.4796": {
+    "display_name": "Đường Tây Sơn, Xã Cẩm Thủy, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "road": "Đường Tây Sơn",
+      "town": "Xã Cẩm Thủy",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
