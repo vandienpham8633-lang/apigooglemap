@@ -119815,5 +119815,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.88364,108.1205": {
+    "display_name": "Đường tỉnh 609B, Xã Đại Lộc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 609B",
+      "town": "Xã Đại Lộc",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.40181,107.8166": {
+    "display_name": "Nghĩa Dũng, Sa Nghĩa, Xã Sa Bình, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Nghĩa Dũng",
+      "village": "Sa Nghĩa",
+      "county": "Xã Sa Bình",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
