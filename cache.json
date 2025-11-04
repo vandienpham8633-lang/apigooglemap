@@ -119670,5 +119670,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.54906,108.411": {
+    "display_name": "Xã Chiên Đàn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Chiên Đàn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.7036,107.2374": {
+    "display_name": "Đường tỉnh 755, Thôn 5, Xã Phước Sơn, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 755",
+      "village": "Thôn 5",
+      "county": "Xã Phước Sơn",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13527,106.5267": {
+    "display_name": "Rạch Bắp, Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Rạch Bắp",
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
