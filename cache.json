@@ -119735,5 +119735,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.26031,107.6109": {
+    "display_name": "Quốc lộ 14, Tổ dân phố 3, Đức An, Xã Đức An, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "quarter": "Tổ dân phố 3",
+      "town": "Đức An",
+      "county": "Xã Đức An",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.0007,107.5238": {
+    "display_name": "Xuân Hậu, Quốc lộ 14, Tổ dân phố 5, Kiến Đức, Xã Kiến Đức, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "shop": "Xuân Hậu",
+      "road": "Quốc lộ 14",
+      "quarter": "Tổ dân phố 5",
+      "town": "Kiến Đức",
+      "county": "Xã Kiến Đức",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
