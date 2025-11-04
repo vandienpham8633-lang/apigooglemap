@@ -119423,5 +119423,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.16993,105.9352": {
+    "display_name": "Khu công nghiệp Hoà Phú, Xã Phú Quới, Tỉnh Vĩnh Long, 85217, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hoà Phú",
+      "county": "Xã Phú Quới",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85217",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
