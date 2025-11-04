@@ -119363,5 +119363,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79764,106.4913": {
+    "display_name": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM, Đường Tỉnh 825, Khu Công nghiệp Liên Minh, Xã Đức Hòa, Xã Mỹ Hạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "office": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM",
+      "road": "Đường Tỉnh 825",
+      "industrial": "Khu Công nghiệp Liên Minh",
+      "town": "Xã Đức Hòa",
+      "county": "Xã Mỹ Hạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.88515,108.1177": {
+    "display_name": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam, Đường tỉnh 609B, Xã Đại Lộc, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa khu vực miền núi phía Bắc Quảng Nam",
+      "road": "Đường tỉnh 609B",
+      "town": "Xã Đại Lộc",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
