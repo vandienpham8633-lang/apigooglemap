@@ -120290,5 +120290,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.12256,108.3443": {
+    "display_name": "Hải Hà, Xã Dliê Ya, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Hải Hà",
+      "county": "Xã Dliê Ya",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.68696,105.6679": {
+    "display_name": "Xã Cao Dương, Tỉnh Phú Thọ, Việt Nam",
+    "address": {
+      "county": "Xã Cao Dương",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
