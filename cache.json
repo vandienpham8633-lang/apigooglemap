@@ -119937,5 +119937,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.15941,106.1421": {
+    "display_name": "Xã Quới An, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Quới An",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
