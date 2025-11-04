@@ -119774,5 +119774,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.16584,107.4043": {
+    "display_name": "Ấp 5, Xã Định Quán, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Định Quán",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34815,104.992": {
+    "display_name": "Xã Ô Lâm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Ô Lâm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86032,106.7816": {
+    "display_name": "Khu phố 15, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 15",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
