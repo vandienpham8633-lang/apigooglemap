@@ -119762,5 +119762,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.3017,107.5938": {
+    "display_name": "Quốc lộ 14, Thôn 8, Xã Đức An, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "Thôn 8",
+      "county": "Xã Đức An",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
