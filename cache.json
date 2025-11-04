@@ -119912,5 +119912,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75429,106.7287": {
+    "display_name": "Đường Huỳnh Tấn Phát, Phường Tân Thuận, Thành phố Hồ Chí Minh, 71800, Việt Nam",
+    "address": {
+      "road": "Đường Huỳnh Tấn Phát",
+      "suburb": "Phường Tân Thuận",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71800",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.09603,109.3123": {
+    "display_name": "Hiep Yen Coffee, Hùng Vương, Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "amenity": "Hiep Yen Coffee",
+      "road": "Hùng Vương",
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
