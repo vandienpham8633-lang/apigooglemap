@@ -120155,5 +120155,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.79967,106.5784": {
+    "display_name": "Xã Lộc Hưng, Việt Nam",
+    "address": {
+      "county": "Xã Lộc Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96063,106.7027": {
+    "display_name": "Khu phố Hòa Lân 1, Hoà Lân 1, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Khu phố Hòa Lân 1",
+      "quarter": "Hoà Lân 1",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
