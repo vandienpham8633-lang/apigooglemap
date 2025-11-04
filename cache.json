@@ -119223,5 +119223,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.69632,108.13": {
+    "display_name": "Quốc lộ 26, Ko Tam, Phường Tân An, Tỉnh Đắk Lắk, 63000, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 26",
+      "village": "Ko Tam",
+      "county": "Phường Tân An",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
