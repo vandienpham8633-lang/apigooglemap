@@ -119838,5 +119838,56 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.71308,107.9968": {
+    "display_name": "Thôn 2, Xã Đinh Trang Thượng, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 2",
+      "county": "Xã Đinh Trang Thượng",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68524,108.0331": {
+    "display_name": "Nguyễn Trung Trực, Tổ dân phố 9, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trung Trực",
+      "suburb": "Tổ dân phố 9",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.11094,106.5819": {
+    "display_name": "Đường tỉnh 748, An Mỹ, Phường Long Nguyên, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 748",
+      "quarter": "An Mỹ",
+      "city_district": "Phường Long Nguyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.07155,106.7072": {
+    "display_name": "KCN Phú Chánh, Phú Trung, Phường Bình Dương, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "industrial": "KCN Phú Chánh",
+      "quarter": "Phú Trung",
+      "city_district": "Phường Bình Dương",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
