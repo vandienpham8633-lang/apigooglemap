@@ -119889,5 +119889,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89289,106.5253": {
+    "display_name": "Đường Số 3, KCN Xuyên Á, Xã Đức Lập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Số 3",
+      "industrial": "KCN Xuyên Á",
+      "county": "Xã Đức Lập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
