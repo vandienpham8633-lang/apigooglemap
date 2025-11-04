@@ -119340,5 +119340,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.48359,107.5194": {
+    "display_name": "Phường Kim Trà, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Kim Trà",
+      "county": "Phường Kim Trà",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07887,109.1896": {
+    "display_name": "Nguyễn Tất Thành, Phường Bắc Cam Ranh, Xã Cam Lâm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Tất Thành",
+      "suburb": "Phường Bắc Cam Ranh",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
