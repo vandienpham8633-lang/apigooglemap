@@ -120109,5 +120109,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.7233,105.3393": {
+    "display_name": "Xã Bình Ca, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Bình Ca",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.52179,106.8156": {
+    "display_name": "Đường tỉnh 586, Ba Tầng, Xã A Dơi, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 586",
+      "village": "Ba Tầng",
+      "town": "Xã A Dơi",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.41589,109.115": {
+    "display_name": "khu phố Lộ Diêu, phường Hoài Nhơn Đông, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Lộ Diêu, phường Hoài Nhơn Đông",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.04675,105.8403": {
+    "display_name": "168A, Phố Trấn Vũ, Phường Ba Đình, Hà Nội, 11117, Việt Nam",
+    "address": {
+      "house_number": "168A",
+      "road": "Phố Trấn Vũ",
+      "suburb": "Phường Ba Đình",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "11117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
