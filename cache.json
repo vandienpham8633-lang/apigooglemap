@@ -119139,5 +119139,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.47504,109.104": {
+    "display_name": "KP. Kim Giao Bắc, phường Hoài Nhơn Đông, khu phố Kim Giao Nam, Phường Hoài Nhơn Đông, Khóm Thạnh Xuân, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "neighbourhood": "KP. Kim Giao Bắc, phường Hoài Nhơn Đông",
+      "hamlet": "khu phố Kim Giao Nam, Phường Hoài Nhơn Đông",
+      "village": "Khóm Thạnh Xuân",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73264,106.9203": {
+    "display_name": "Công ty TNHH Hwa Seung Vina, Nâng cấp mở rộng Đường Tôn Đức Thắng, KCN Nhơn Trạch, Phước Kiểng, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "man_made": "Công ty TNHH Hwa Seung Vina",
+      "road": "Nâng cấp mở rộng Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "quarter": "Phước Kiểng",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.47505,109.104": {
+    "display_name": "KP. Kim Giao Bắc, phường Hoài Nhơn Đông, khu phố Kim Giao Nam, Phường Hoài Nhơn Đông, Khóm Thạnh Xuân, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "neighbourhood": "KP. Kim Giao Bắc, phường Hoài Nhơn Đông",
+      "hamlet": "khu phố Kim Giao Nam, Phường Hoài Nhơn Đông",
+      "village": "Khóm Thạnh Xuân",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
