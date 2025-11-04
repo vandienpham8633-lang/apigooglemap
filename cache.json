@@ -119947,5 +119947,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.85043,106.6239": {
+    "display_name": "Khu phố 11, Phường Trung Mỹ Tây, Thuận An, Thành phố Hồ Chí Minh, 71507, Việt Nam",
+    "address": {
+      "neighbourhood": "Khu phố 11",
+      "suburb": "Phường Trung Mỹ Tây",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71507",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.1906,108.7118": {
+    "display_name": "Xã Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Sơn Tịnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3526,106.3593": {
+    "display_name": "Phường Đạo Thạnh, Tỉnh Đồng Tháp, 86000, Việt Nam",
+    "address": {
+      "county": "Phường Đạo Thạnh",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "86000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.80297,106.9597": {
+    "display_name": "Phước Long, Phường Phước Bình, Việt Nam",
+    "address": {
+      "town": "Phước Long",
+      "county": "Phường Phước Bình",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
