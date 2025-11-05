@@ -120411,5 +120411,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.52043,108.0343": {
+    "display_name": "Ea Kruế, Xã Ea Na, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Ea Kruế",
+      "county": "Xã Ea Na",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91008,107.307": {
+    "display_name": "Bình Hoà, Xã Xuân Phú, 76615, Việt Nam",
+    "address": {
+      "village": "Bình Hoà",
+      "county": "Xã Xuân Phú",
+      "postcode": "76615",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
