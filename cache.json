@@ -121447,5 +121447,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.56103,109.0213": {
+    "display_name": "Yên Ninh, Phường Đông Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Yên Ninh",
+      "suburb": "Phường Đông Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.48151,109.0332": {
+    "display_name": "Quốc lộ 19C, Soi Nga, Xã Xuân Lãnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19C",
+      "village": "Soi Nga",
+      "county": "Xã Xuân Lãnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.73185,106.9046": {
+    "display_name": "Đào Thị Phấn, Xóm Hố, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đào Thị Phấn",
+      "village": "Xóm Hố",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
