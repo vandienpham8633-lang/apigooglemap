@@ -121536,5 +121536,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.97088,108.3731": {
+    "display_name": "Xã Krông Năng, Tỉnh Đắk Lắk, 63406, Việt Nam",
+    "address": {
+      "county": "Xã Krông Năng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63406",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
