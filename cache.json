@@ -120913,5 +120913,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87923,106.6488": {
+    "display_name": "Lê Văn Khương, Khu phố 17, Phường Thới An, Thuận An, Thành phố Hồ Chí Minh, 71514, Việt Nam",
+    "address": {
+      "road": "Lê Văn Khương",
+      "neighbourhood": "Khu phố 17",
+      "suburb": "Phường Thới An",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71514",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.909652,105.3173": {
+    "display_name": "Hùng Vương, Khu phố 4, Giồng Riềng, Xã Giồng Riềng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "quarter": "Khu phố 4",
+      "town": "Giồng Riềng",
+      "county": "Xã Giồng Riềng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.60152,106.3793": {
+    "display_name": "Quốc lộ 53, Long Thành, Xã Long Vĩnh, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 53",
+      "town": "Long Thành",
+      "county": "Xã Long Vĩnh",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.59798,108.4795": {
+    "display_name": "Bệnh viện Phạm Ngọc Thạch Quảng Nam, Nguyễn Văn Trỗi, Phường Quảng Phú, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Phạm Ngọc Thạch Quảng Nam",
+      "road": "Nguyễn Văn Trỗi",
+      "city_district": "Phường Quảng Phú",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
