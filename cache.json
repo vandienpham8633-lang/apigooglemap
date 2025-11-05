@@ -120558,5 +120558,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57772,109.1293": {
+    "display_name": "Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.11021,106.5785": {
+    "display_name": "Phường Long Nguyên, Thành phố Hồ Chí Minh, 75911, Việt Nam",
+    "address": {
+      "city_district": "Phường Long Nguyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75911",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.57774,109.1293": {
+    "display_name": "Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
