@@ -120485,5 +120485,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.17949,108.6168": {
+    "display_name": "Hà Thuỷ, Xã Phan Rí Cửa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "neighbourhood": "Hà Thuỷ",
+      "county": "Xã Phan Rí Cửa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
