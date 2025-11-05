@@ -120442,5 +120442,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.39242,107.8304": {
+    "display_name": "Nghĩa Dũng, Sa Nghĩa, Xã Sa Bình, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Nghĩa Dũng",
+      "village": "Sa Nghĩa",
+      "county": "Xã Sa Bình",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
