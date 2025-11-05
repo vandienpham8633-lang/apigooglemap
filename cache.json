@@ -120589,5 +120589,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.500302,105.5012": {
+    "display_name": "Xã Ninh Quới, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Ninh Quới",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.13856,108.7763": {
+    "display_name": "Tịnh Hà, Xã Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Tịnh Hà",
+      "county": "Xã Sơn Tịnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
