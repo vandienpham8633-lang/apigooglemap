@@ -120853,5 +120853,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.82587,105.3535": {
+    "display_name": "Bệnh viện Đa khoa Hòa Bình, Nguyễn Tri Phương, Hòa Bình, Phường Hòa Bình, Tỉnh Phú Thọ, 36107, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa Hòa Bình",
+      "road": "Nguyễn Tri Phương",
+      "city": "Hòa Bình",
+      "county": "Phường Hòa Bình",
+      "state": "Tỉnh Phú Thọ",
+      "ISO3166-2-lvl4": "VN-68",
+      "postcode": "36107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
