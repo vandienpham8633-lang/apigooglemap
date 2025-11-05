@@ -120867,5 +120867,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.78992,109.1461": {
+    "display_name": "Đường Số 15, Khu vực, Trần Quang Diệu, Phường Quy Nhơn Bắc, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "road": "Đường Số 15",
+      "quarter": "Khu vực",
+      "suburb": "Trần Quang Diệu",
+      "county": "Phường Quy Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
