@@ -120472,5 +120472,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.75152,106.6713": {
+    "display_name": "Hẻm 22 Đường Nguyễn Văn Đừng, Khu phố 8, Phường An Đông, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "road": "Hẻm 22 Đường Nguyễn Văn Đừng",
+      "neighbourhood": "Khu phố 8",
+      "suburb": "Phường An Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
