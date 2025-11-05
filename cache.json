@@ -121389,5 +121389,63 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99888,106.7077": {
+    "display_name": "Bình Hoà 2, Tân Khánh, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "quarter": "Bình Hoà 2",
+      "suburb": "Tân Khánh",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65591,106.5515": {
+    "display_name": "Xã Bình Chánh, Thành phố Hồ Chí Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Bình Chánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-37",
+      "state": "Tỉnh Tây Ninh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21716,109.1772": {
+    "display_name": "Đường Tỉnh 639, Thôn Chánh Trạch 2, Mỹ Thọ, Chánh Trực, Xã Phù Mỹ Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Tỉnh 639",
+      "hamlet": "Thôn Chánh Trạch 2, Mỹ Thọ",
+      "village": "Chánh Trực",
+      "county": "Xã Phù Mỹ Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34575,106.615": {
+    "display_name": "Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64057,106.4885": {
+    "display_name": "Xã Bến Lức, Tỉnh Tây Ninh, 85000, Việt Nam",
+    "address": {
+      "town": "Xã Bến Lức",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "85000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
