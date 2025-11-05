@@ -120820,5 +120820,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.02859,105.1452": {
+    "display_name": "Thạnh Hòa, Xã Thạnh Lộc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Thạnh Hòa",
+      "county": "Xã Thạnh Lộc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.63665,108.1904": {
+    "display_name": "Pu Huê, Xã Ea Ktur, Tỉnh Đắk Lắk, 02623, Việt Nam",
+    "address": {
+      "village": "Pu Huê",
+      "county": "Xã Ea Ktur",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "02623",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
