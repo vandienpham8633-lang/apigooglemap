@@ -120683,5 +120683,55 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.1667,105.9388": {
+    "display_name": "Khu công nghiệp Hoà Phú, Xã Phú Quới, Tỉnh Vĩnh Long, 85217, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hoà Phú",
+      "county": "Xã Phú Quới",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "85217",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.40634,103.04": {
+    "display_name": "Him Lam, Điện Biên Phủ, Phường Điện Biên Phủ, Tỉnh Điện Biên, 32000, Việt Nam",
+    "address": {
+      "suburb": "Him Lam",
+      "city": "Điện Biên Phủ",
+      "county": "Phường Điện Biên Phủ",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "postcode": "32000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.59797,108.4792": {
+    "display_name": "Bệnh viện Phạm Ngọc Thạch Quảng Nam, Nguyễn Văn Trỗi, Phường Quảng Phú, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Phạm Ngọc Thạch Quảng Nam",
+      "road": "Nguyễn Văn Trỗi",
+      "city_district": "Phường Quảng Phú",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.92747,106.8929": {
+    "display_name": "Đường số 5, Khu công nghiệp Loteco, Phường Long Bình, Tỉnh Đồng Nai, 76111, Việt Nam",
+    "address": {
+      "road": "Đường số 5",
+      "industrial": "Khu công nghiệp Loteco",
+      "county": "Phường Long Bình",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
