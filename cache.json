@@ -120733,5 +120733,59 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.59003,106.3715": {
+    "display_name": "Xã Mỹ Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.84421,106.8167": {
+    "display_name": "Phường Long Bình, Thành phố Hồ Chí Minh, 71216, Việt Nam",
+    "address": {
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71216",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.58837,107.9712": {
+    "display_name": "Đồng Tâm, Xã Ea Na, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Đồng Tâm",
+      "county": "Xã Ea Na",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7103,107.0975": {
+    "display_name": "Xã Phước Thái, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Phước Thái",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.87142,108.2554": {
+    "display_name": "Hùng Vương, Buôn Hồ, Phường Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Hùng Vương",
+      "town": "Buôn Hồ",
+      "county": "Phường Buôn Hồ",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
