@@ -121379,5 +121379,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.68918,108.6856": {
+    "display_name": "Xã SRó, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã SRó",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
