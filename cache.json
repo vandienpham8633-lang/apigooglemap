@@ -120454,5 +120454,14 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.16723,107.3983": {
+    "display_name": "Ấp 5, Xã Định Quán, Việt Nam",
+    "address": {
+      "village": "Ấp 5",
+      "county": "Xã Định Quán",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
