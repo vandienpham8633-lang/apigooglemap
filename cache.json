@@ -120881,5 +120881,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.85273,105.0585": {
+    "display_name": "Đường tỉnh 957, Xã Nhơn Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 957",
+      "county": "Xã Nhơn Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
