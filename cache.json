@@ -121492,5 +121492,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.97792,106.6199": {
+    "display_name": "Tỉnh lộ 8, Xã Bình Mỹ, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 8",
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
