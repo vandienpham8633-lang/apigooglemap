@@ -120963,5 +120963,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.55324,106.08": {
+    "display_name": "Xã Thạnh Bình, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Bình",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
