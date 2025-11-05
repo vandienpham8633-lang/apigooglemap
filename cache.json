@@ -120366,5 +120366,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.19046,106.6421": {
+    "display_name": "Đường Mỹ Phước - Bàu Bàng, Phường Bến Cát, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Mỹ Phước - Bàu Bàng",
+      "city_district": "Phường Bến Cát",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
