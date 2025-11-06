@@ -122128,5 +122128,32 @@
       "country": "Malaysia",
       "country_code": "my"
     }
+  },
+  "10.82148,106.5964": {
+    "display_name": "Khu công nghiệp Vĩnh Lộc, Phường Bình Tân, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Vĩnh Lộc",
+      "suburb": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86943,106.776": {
+    "display_name": "Co.op Xtra, 934, Đường số 14, Khu chế xuất Linh Trung I, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "shop": "Co.op Xtra",
+      "house_number": "934",
+      "road": "Đường số 14",
+      "industrial": "Khu chế xuất Linh Trung I",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
