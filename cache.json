@@ -122008,5 +122008,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.78316,107.7948": {
+    "display_name": "Xã Ia Krêl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Krêl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.27588,109.2483": {
+    "display_name": "Quốc lộ 1, Phong Phú, Xã Ô Loan, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "village": "Phong Phú",
+      "county": "Xã Ô Loan",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
