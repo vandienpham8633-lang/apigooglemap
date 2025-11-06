@@ -122264,5 +122264,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.25538,108.8152": {
+    "display_name": "Bên Lôi Quán, Quốc lộ 27C, Xã Nam Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "amenity": "Bên Lôi Quán",
+      "road": "Quốc lộ 27C",
+      "county": "Xã Nam Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
