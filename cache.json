@@ -122493,5 +122493,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.03869,108.2231": {
+    "display_name": "23, Đường Lưu Quý Kỳ, Phường Hòa Cường, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "house_number": "23",
+      "road": "Đường Lưu Quý Kỳ",
+      "city": "Phường Hòa Cường",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.63059,107.7712": {
+    "display_name": "Xã Bảo Lâm 1, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Bảo Lâm 1",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
