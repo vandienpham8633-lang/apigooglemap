@@ -122042,5 +122042,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.29864,106.112": {
+    "display_name": "Nguyễn Văn Rốp, Thành phố Tây Ninh, Phường Tân Ninh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Rốp",
+      "city": "Thành phố Tây Ninh",
+      "county": "Phường Tân Ninh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
