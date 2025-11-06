@@ -122318,5 +122318,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91884,107.1353": {
+    "display_name": "Đường tỉnh 769, Khu công nghiệp Dầu Giây, Ấp 1, Xã Dầu Giây, Tỉnh Đồng Nai, 71000, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 769",
+      "industrial": "Khu công nghiệp Dầu Giây",
+      "village": "Ấp 1",
+      "county": "Xã Dầu Giây",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "71000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.25527,108.8151": {
+    "display_name": "Quốc lộ 27C, Xã Nam Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Nam Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
