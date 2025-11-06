@@ -121547,5 +121547,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.46524,109.0246": {
+    "display_name": "Xã Xuân Lãnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lãnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.26052,106.114": {
+    "display_name": "Xã Phú Phụng, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Phú Phụng",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
