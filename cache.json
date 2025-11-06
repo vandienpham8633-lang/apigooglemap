@@ -121811,5 +121811,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.18447,105.4789": {
+    "display_name": "Đường Tây Sơn, Xã Cẩm Thủy, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "road": "Đường Tây Sơn",
+      "town": "Xã Cẩm Thủy",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17888,108.5696": {
+    "display_name": "Phan Rí Cửa, Xã Phan Rí Cửa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "town": "Phan Rí Cửa",
+      "county": "Xã Phan Rí Cửa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
