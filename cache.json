@@ -122549,5 +122549,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.954668,106.1312": {
+    "display_name": "Xã An Trường, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã An Trường",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.04878,106.7524": {
+    "display_name": "Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
