@@ -122438,5 +122438,60 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.77672,104.6192": {
+    "display_name": "Xã Bản Máy, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Bản Máy",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.50162,109.0661": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14115,106.5557": {
+    "display_name": "Tân Lập, Phường Long Nguyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Tân Lập",
+      "city_district": "Phường Long Nguyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.92609,109.2441": {
+    "display_name": "Mỹ Điền, Xã Hòa Thịnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Mỹ Điền",
+      "county": "Xã Hòa Thịnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96462,106.7074": {
+    "display_name": "Bình Thuận 1, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Bình Thuận 1",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
