@@ -121746,5 +121746,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.43978,109.0117": {
+    "display_name": "Mai Dương, KP.2, P.Bồng Sơn, Phường Bồng Sơn, Thị xã Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Mai Dương",
+      "quarter": "KP.2, P.Bồng Sơn",
+      "suburb": "Phường Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.896553,106.66": {
+    "display_name": "Xã Thạnh Hải, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Hải",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.80337,103.6946": {
+    "display_name": "Xã Mường Giôn, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "county": "Xã Mường Giôn",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94262,109.2407": {
+    "display_name": "KP.Cát Tiến, TT.Cát Tiến, Cát Tiến, Xã Cát Tiến, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Cát Tiến, TT.Cát Tiến",
+      "town": "Cát Tiến",
+      "county": "Xã Cát Tiến",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
