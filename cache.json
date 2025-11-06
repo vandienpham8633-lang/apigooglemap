@@ -122055,5 +122055,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.86552,106.5834": {
+    "display_name": "Võ Thị Hồi, Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "road": "Võ Thị Hồi",
+      "city_district": "Xã Xuân Thới Sơn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
