@@ -122369,5 +122369,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.47786,105.8016": {
+    "display_name": "Ninh Hải, Phường Hải Lĩnh, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "suburb": "Ninh Hải",
+      "city": "Phường Hải Lĩnh",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
