@@ -122343,5 +122343,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8223,106.5899": {
+    "display_name": "Khu công nghiệp Vĩnh Lộc, Phường Bình Tân, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Vĩnh Lộc",
+      "suburb": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
