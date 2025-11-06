@@ -122102,5 +122102,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.94255,109.2406": {
+    "display_name": "KP.Cát Tiến, TT.Cát Tiến, Cát Tiến, Xã Cát Tiến, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Cát Tiến, TT.Cát Tiến",
+      "town": "Cát Tiến",
+      "county": "Xã Cát Tiến",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "3.12722,101.6782": {
+    "display_name": "Blok B, Jalan Bangsar Utama 1, Bangsar, Kuala Lumpur, 59000, Malaysia",
+    "address": {
+      "building": "Blok B",
+      "road": "Jalan Bangsar Utama 1",
+      "suburb": "Bangsar",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "ISO3166-2-lvl4": "MY-14",
+      "postcode": "59000",
+      "country": "Malaysia",
+      "country_code": "my"
+    }
   }
 }
