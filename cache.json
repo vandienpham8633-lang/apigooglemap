@@ -121912,5 +121912,101 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.73383,106.9292": {
+    "display_name": "Bến xe Khu công nghiệp Nhơn Trạch, Đường Tôn Đức Thắng, KCN Nhơn Trạch, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "amenity": "Bến xe Khu công nghiệp Nhơn Trạch",
+      "road": "Đường Tôn Đức Thắng",
+      "industrial": "KCN Nhơn Trạch",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.52421,109.1105": {
+    "display_name": "Ninh Thân, Xã Hòa Trí, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Ninh Thân",
+      "county": "Xã Hòa Trí",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.58075,109.1304": {
+    "display_name": "Xã Vĩnh Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Vĩnh Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.76875,109.2232": {
+    "display_name": "Núc Níc House, 45, Hoàng Diệu, Khu vực, Trần Phú, Quy Nhơn, Phường Quy Nhơn, Tỉnh Gia Lai, 55106, Việt Nam",
+    "address": {
+      "amenity": "Núc Níc House",
+      "house_number": "45",
+      "road": "Hoàng Diệu",
+      "quarter": "Khu vực",
+      "suburb": "Trần Phú",
+      "city": "Quy Nhơn",
+      "county": "Phường Quy Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.96739,106.591": {
+    "display_name": "Xã Phú Hòa Đông, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Phú Hòa Đông",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.98414,108.2087": {
+    "display_name": "Đường Phạm Công Trứ, Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Phạm Công Trứ",
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.21898,109.1602": {
+    "display_name": "Thôn Chánh Trực, Mỹ Thọ, Chánh Trực, Xã Phù Mỹ Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "Thôn Chánh Trực, Mỹ Thọ",
+      "village": "Chánh Trực",
+      "county": "Xã Phù Mỹ Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.13712,106.6874": {
+    "display_name": "Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
