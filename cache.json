@@ -122625,5 +122625,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.26702,106.1673": {
+    "display_name": "Phường Đa Mai, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "suburb": "Phường Đa Mai",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
