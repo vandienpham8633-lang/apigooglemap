@@ -121833,5 +121833,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.43981,109.0117": {
+    "display_name": "Mai Dương, KP.2, P.Bồng Sơn, Phường Bồng Sơn, Thị xã Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Mai Dương",
+      "quarter": "KP.2, P.Bồng Sơn",
+      "suburb": "Phường Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
