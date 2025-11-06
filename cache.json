@@ -122515,5 +122515,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.77398,108.6389": {
+    "display_name": "Xã Ba Dinh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Ba Dinh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
