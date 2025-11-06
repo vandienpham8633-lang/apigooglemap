@@ -122636,5 +122636,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.62076,107.776": {
+    "display_name": "Xã Bảo Lâm 1, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Bảo Lâm 1",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.24814,105.907": {
+    "display_name": "Phường Tân Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Tân Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91919,105.0848": {
+    "display_name": "Quốc lộ 91C, Xã Nhơn Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 91C",
+      "county": "Xã Nhơn Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.33839,108.8821": {
+    "display_name": "Phước Diêm, Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Diêm",
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
