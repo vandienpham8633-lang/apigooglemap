@@ -122155,5 +122155,79 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.87908,106.8146": {
+    "display_name": "Bến xe Miền Đông Mới, Xa lộ Hà Nội, Tân Lập, Phường Long Bình, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Bến xe Miền Đông Mới",
+      "road": "Xa lộ Hà Nội",
+      "quarter": "Tân Lập",
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.46334,109.2858": {
+    "display_name": "Phú Mỹ, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phú Mỹ",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.3187,105.6684": {
+    "display_name": "Ấp Hưng Lợi Tây, Hòa Long, Tân Khánh Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "hamlet": "Ấp Hưng Lợi Tây",
+      "village": "Hòa Long",
+      "county": "Tân Khánh Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85458,106.6034": {
+    "display_name": "Đường Hẻm Đắt, Xã Bà Điểm, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "road": "Đường Hẻm Đắt",
+      "village": "Xã Bà Điểm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.52369,108.9248": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76801,106.685": {
+    "display_name": "Bệnh viện Từ Dũ (khu M), 227, Cống Quỳnh, Khu phố 26, Phường Cầu Ông Lãnh, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72406, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Từ Dũ (khu M)",
+      "house_number": "227",
+      "road": "Cống Quỳnh",
+      "neighbourhood": "Khu phố 26",
+      "suburb": "Phường Cầu Ông Lãnh",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72406",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
