@@ -122355,5 +122355,19 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.09702,109.153": {
+    "display_name": "Quốc lộ 1, Cam Lâm, Cam Đức, Xã Cam Lâm, Khánh Hòa, 57600, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "suburb": "Cam Lâm",
+      "town": "Cam Đức",
+      "county": "Xã Cam Lâm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57600",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
