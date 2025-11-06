@@ -122614,5 +122614,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91443,107.5827": {
+    "display_name": "Thôn 4, Xã Suối Kiết, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 4",
+      "county": "Xã Suối Kiết",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
