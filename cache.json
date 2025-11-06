@@ -122525,5 +122525,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.11896,106.5869": {
+    "display_name": "76, ស្នួល, ខេត្តក្រចេះ, Cao Miên",
+    "address": {
+      "road": "76",
+      "county": "ស្នួល",
+      "state": "ខេត្តក្រចេះ",
+      "ISO3166-2-lvl4": "KH-10",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "19.42316,105.7925": {
+    "display_name": "Đường Lê Văn An, Bình Minh, Nghi Sơn, Phường Tĩnh Gia, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "road": "Đường Lê Văn An",
+      "suburb": "Bình Minh",
+      "town": "Nghi Sơn",
+      "city": "Phường Tĩnh Gia",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
