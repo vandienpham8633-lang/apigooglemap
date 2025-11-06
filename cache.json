@@ -121867,5 +121867,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.49599,108.1517": {
+    "display_name": "Cuê, Xã Dur Kmăl, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Cuê",
+      "county": "Xã Dur Kmăl",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
