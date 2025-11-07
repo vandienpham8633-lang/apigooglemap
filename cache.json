@@ -123683,5 +123683,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.78312,107.7948": {
+    "display_name": "Xã Ia Krêl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Krêl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
