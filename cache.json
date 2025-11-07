@@ -123150,5 +123150,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.35413,107.7403": {
+    "display_name": "Xã Hưng Lộc, Thành phố Huế, Việt Nam",
+    "address": {
+      "town": "Xã Hưng Lộc",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
