@@ -124148,5 +124148,50 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.71801,106.8591": {
+    "display_name": "Tôn Đức Thắng (Mở rộng), Ấp 3, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Tôn Đức Thắng (Mở rộng)",
+      "village": "Ấp 3",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.90339,108.2845": {
+    "display_name": "Đường Trần Thủ Độ, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Trần Thủ Độ",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.52359,109.0337": {
+    "display_name": "KP.Phụng Du 1, P.Hoài Hảo, Phường Hoài Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Phụng Du 1, P.Hoài Hảo",
+      "county": "Phường Hoài Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71794,106.8588": {
+    "display_name": "Tôn Đức Thắng (Mở rộng), Ấp 3, Xã Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Tôn Đức Thắng (Mở rộng)",
+      "village": "Ấp 3",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
