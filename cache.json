@@ -123347,5 +123347,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.56652,108.9939": {
+    "display_name": "Hẻm 22 Hồ Xuân Hương, Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Hẻm 22 Hồ Xuân Hương",
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
