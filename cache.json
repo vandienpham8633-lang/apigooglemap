@@ -123337,5 +123337,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.48723,109.2748": {
+    "display_name": "Phường Đông Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đông Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
