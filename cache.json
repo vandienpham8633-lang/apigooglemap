@@ -124235,5 +124235,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.64355,106.8176": {
+    "display_name": "Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65739,106.8129": {
+    "display_name": "Ấp 3, Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 3",
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77916,106.5752": {
+    "display_name": "Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "village": "Xã Tân Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64337,106.8177": {
+    "display_name": "Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
