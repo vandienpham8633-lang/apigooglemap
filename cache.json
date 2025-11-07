@@ -124122,5 +124122,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.20317,109.2165": {
+    "display_name": "Trần Phú, Phường Nam Nha Trang, Phường Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "suburb": "Phường Nam Nha Trang",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
