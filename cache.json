@@ -123160,5 +123160,135 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.48725,109.2748": {
+    "display_name": "Phường Đông Ninh Hòa, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Phường Đông Ninh Hòa",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79238,105.2631": {
+    "display_name": "Xã Long Phú Thuận, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Long Phú Thuận",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.72403,109.1257": {
+    "display_name": "Phước Mỹ, Phường Quy Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Phước Mỹ",
+      "county": "Phường Quy Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.73492,105.3019": {
+    "display_name": "Xã Thắng Lộc, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Thắng Lộc",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.14237,108.8081": {
+    "display_name": "Đường Võ Văn Kiệt, Phường Trương Quang Trọng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Võ Văn Kiệt",
+      "county": "Phường Trương Quang Trọng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.944919,105.321": {
+    "display_name": "Thạnh Bình, Xã Giồng Riềng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Thạnh Bình",
+      "county": "Xã Giồng Riềng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34535,108.8877": {
+    "display_name": "Phước Diêm, Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Diêm",
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.80144,108.1115": {
+    "display_name": "Quốc lộ 14H, Xã Thu Bồn, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14H",
+      "town": "Xã Thu Bồn",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95145,107.403": {
+    "display_name": "Đường tỉnh 766, Tân Hợp, Xã Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 766",
+      "village": "Tân Hợp",
+      "county": "Xã Xuân Lộc",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97791,106.62": {
+    "display_name": "Tỉnh lộ 8, Xã Bình Mỹ, Thành phố Hồ Chí Minh, 75106, Việt Nam",
+    "address": {
+      "road": "Tỉnh lộ 8",
+      "city_district": "Xã Bình Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.94789,106.9353": {
+    "display_name": "Khu công nghiệp Hố Nai 3, Thanh Hoá, Phường Hố Nai, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Hố Nai 3",
+      "village": "Thanh Hoá",
+      "county": "Phường Hố Nai",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.17944,108.6168": {
+    "display_name": "Hà Thuỷ, Xã Phan Rí Cửa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "neighbourhood": "Hà Thuỷ",
+      "county": "Xã Phan Rí Cửa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
