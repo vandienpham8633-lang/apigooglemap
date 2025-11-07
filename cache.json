@@ -125538,5 +125538,23 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.921021,103.9474": {
+    "display_name": "Tỉnh An Giang, Việt Nam",
+    "address": {
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.00492,104.3371": {
+    "display_name": "Tỉnh An Giang, Việt Nam",
+    "address": {
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
