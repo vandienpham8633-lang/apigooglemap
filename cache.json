@@ -123567,5 +123567,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "-8.018492,110.9382": {
+    "display_name": "Giriwoyo, Wonogiri, Tỉnh Trung Java, Jawa, 57673, Indonesia",
+    "address": {
+      "town": "Giriwoyo",
+      "county": "Wonogiri",
+      "state": "Tỉnh Trung Java",
+      "ISO3166-2-lvl4": "ID-JT",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "postcode": "57673",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
+  },
+  "15.88964,100.3601": {
+    "display_name": "Chum Saeng, Nakhon Sawan, Thái Lan",
+    "address": {
+      "county": "Chum Saeng",
+      "province": "Nakhon Sawan",
+      "ISO3166-2-lvl4": "TH-60",
+      "country": "Thái Lan",
+      "country_code": "th"
+    }
   }
 }
