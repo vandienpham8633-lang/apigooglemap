@@ -123515,5 +123515,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99014,106.7038": {
+    "display_name": "Khu phố Bình Quới A, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Khu phố Bình Quới A",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
