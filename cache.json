@@ -123103,5 +123103,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.93287,108.273": {
+    "display_name": "Đường số 8, Khu công nghiệp Điện Nam – Điện Ngọc, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường số 8",
+      "industrial": "Khu công nghiệp Điện Nam – Điện Ngọc",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.93286,108.273": {
+    "display_name": "Đường số 8, Khu công nghiệp Điện Nam – Điện Ngọc, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường số 8",
+      "industrial": "Khu công nghiệp Điện Nam – Điện Ngọc",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
