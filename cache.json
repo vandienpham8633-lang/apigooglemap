@@ -124308,5 +124308,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.03057,106.7411": {
+    "display_name": "Khánh Tân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Tân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83044,106.7705": {
+    "display_name": "Hẻm 73 Trần Thị Điệu, Phường Phước Long, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71211, Việt Nam",
+    "address": {
+      "road": "Hẻm 73 Trần Thị Điệu",
+      "suburb": "Phường Phước Long",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71211",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71048,107.8287": {
+    "display_name": "Lý Thái Tổ, Xã Tân Hải, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Lý Thái Tổ",
+      "county": "Xã Tân Hải",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
