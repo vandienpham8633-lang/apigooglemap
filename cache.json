@@ -123031,5 +123031,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8321,106.6204": {
+    "display_name": "Tân Thới Nhất 13B, Khu phố 29, Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Tân Thới Nhất 13B",
+      "neighbourhood": "Khu phố 29",
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
