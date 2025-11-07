@@ -123458,5 +123458,41 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.50208,107.1737": {
+    "display_name": "minh tâm, 35, Hùng Vương, Phường Bà Rịa, Thành phố Hồ Chí Minh, 78106, Việt Nam",
+    "address": {
+      "shop": "minh tâm",
+      "house_number": "35",
+      "road": "Hùng Vương",
+      "city_district": "Phường Bà Rịa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.76352,108.7235": {
+    "display_name": "Tổ dân phố 9, Ea Lai, Xã M'Drắk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 9",
+      "village": "Ea Lai",
+      "county": "Xã M'Drắk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.8181,108.9522": {
+    "display_name": "Phường Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Phường Đức Phổ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
