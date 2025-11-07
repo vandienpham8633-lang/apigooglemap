@@ -125344,5 +125344,48 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.50389,104.9331": {
+    "display_name": "Xã Ba Chúc, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "town": "Xã Ba Chúc",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82217,106.56": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44134,107.7835": {
+    "display_name": "Vĩnh Thanh, Xã Phú Vinh, Thành phố Huế, Việt Nam",
+    "address": {
+      "hamlet": "Vĩnh Thanh",
+      "town": "Xã Phú Vinh",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.65591,106.5514": {
+    "display_name": "Xã Bình Chánh, Thành phố Hồ Chí Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "village": "Xã Bình Chánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-37",
+      "state": "Tỉnh Tây Ninh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
