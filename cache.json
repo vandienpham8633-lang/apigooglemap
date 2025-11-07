@@ -123782,5 +123782,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.55517,105.27": {
+    "display_name": "Quốc lộ 91, Xã Bình Mỹ, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 91",
+      "county": "Xã Bình Mỹ",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90888,107.3123": {
+    "display_name": "Bình Hoà, Xã Xuân Phú, 76615, Việt Nam",
+    "address": {
+      "village": "Bình Hoà",
+      "county": "Xã Xuân Phú",
+      "postcode": "76615",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.43396,108.6503": {
+    "display_name": "Xã Núi Thành, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Núi Thành",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
