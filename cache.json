@@ -124052,5 +124052,75 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.97754,108.1286": {
+    "display_name": "Đak Đoa, Xã Đak Đoa, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Đak Đoa",
+      "county": "Xã Đak Đoa",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.20316,109.2164": {
+    "display_name": "Trần Phú, Phường Nam Nha Trang, Phường Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "suburb": "Phường Nam Nha Trang",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.20319,109.2164": {
+    "display_name": "Trần Phú, Phường Nam Nha Trang, Phường Nha Trang, Khánh Hòa, 57131, Việt Nam",
+    "address": {
+      "road": "Trần Phú",
+      "suburb": "Phường Nam Nha Trang",
+      "city": "Phường Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57131",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.53803,105.7906": {
+    "display_name": "Đường Đặng Quang, Hải An, Phường Tân Dân, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "road": "Đường Đặng Quang",
+      "suburb": "Hải An",
+      "city": "Phường Tân Dân",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.61593,103.4506": {
+    "display_name": "Xã Tuần Giáo, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Tuần Giáo",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.0197,108.0378": {
+    "display_name": "Pleiku, Phường Pleiku, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "city": "Pleiku",
+      "county": "Phường Pleiku",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
