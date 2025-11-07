@@ -124277,5 +124277,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.61595,103.4506": {
+    "display_name": "Xã Tuần Giáo, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Tuần Giáo",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
