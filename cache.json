@@ -123603,5 +123603,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57955,108.988": {
+    "display_name": "Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.5515,103.3381": {
+    "display_name": "Bản Huổi Phặc, Khổng Lào, Xã Khổng Lào, Tỉnh Lai Châu, Việt Nam",
+    "address": {
+      "hamlet": "Bản Huổi Phặc",
+      "village": "Khổng Lào",
+      "county": "Xã Khổng Lào",
+      "state": "Tỉnh Lai Châu",
+      "ISO3166-2-lvl4": "VN-01",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
