@@ -123125,5 +123125,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.11695,105.9748": {
+    "display_name": "Dương Lôi, Phường Từ Sơn, Từ Sơn, Tỉnh Bắc Ninh, 16300, Việt Nam",
+    "address": {
+      "quarter": "Dương Lôi",
+      "suburb": "Phường Từ Sơn",
+      "city": "Từ Sơn",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "postcode": "16300",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.71532,106.6016": {
+    "display_name": "Ấp 41, Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "village": "Ấp 41",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
