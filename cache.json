@@ -123324,5 +123324,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.74535,106.6849": {
+    "display_name": "Hẻm 181B Âu Dương Lân, Khu phố 19, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 72900, Việt Nam",
+    "address": {
+      "road": "Hẻm 181B Âu Dương Lân",
+      "neighbourhood": "Khu phố 19",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
