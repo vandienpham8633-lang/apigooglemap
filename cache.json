@@ -123591,5 +123591,17 @@
       "country": "Thái Lan",
       "country_code": "th"
     }
+  },
+  "11.71807,109.0497": {
+    "display_name": "Bà Râu, Xã Thuận Bắc, Lợi Hải, Khánh Hòa, Việt Nam",
+    "address": {
+      "neighbourhood": "Bà Râu",
+      "suburb": "Xã Thuận Bắc",
+      "village": "Lợi Hải",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
