@@ -124462,5 +124462,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.65454,106.8149": {
+    "display_name": "Ấp 3, Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "village": "Ấp 3",
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
