@@ -123371,5 +123371,70 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.26581,109.0161": {
+    "display_name": "Xã Diên Thọ, Khánh Hòa, 59000, Việt Nam",
+    "address": {
+      "county": "Xã Diên Thọ",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "59000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58891,107.0484": {
+    "display_name": "Quảng Phú, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "neighbourhood": "Quảng Phú",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.77804,106.4819": {
+    "display_name": "Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.71877,105.5566": {
+    "display_name": "Xã Đại Huệ, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "town": "Xã Đại Huệ",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68789,108.3853": {
+    "display_name": "Tân Lập 1, Xã Ea Phê, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tân Lập 1",
+      "county": "Xã Ea Phê",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.67363,108.3436": {
+    "display_name": "Thôn 2, Xã Tân Tiến, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 2",
+      "county": "Xã Tân Tiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
