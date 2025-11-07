@@ -123813,5 +123813,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.83049,106.7705": {
+    "display_name": "Hẻm 73 Trần Thị Điệu, Phường Phước Long, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71211, Việt Nam",
+    "address": {
+      "road": "Hẻm 73 Trần Thị Điệu",
+      "suburb": "Phường Phước Long",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71211",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "-8.018485,110.9386": {
+    "display_name": "Giriwoyo, Wonogiri, Tỉnh Trung Java, Jawa, 57673, Indonesia",
+    "address": {
+      "town": "Giriwoyo",
+      "county": "Wonogiri",
+      "state": "Tỉnh Trung Java",
+      "ISO3166-2-lvl4": "ID-JT",
+      "region": "Jawa",
+      "ISO3166-2-lvl3": "ID-JW",
+      "postcode": "57673",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
   }
 }
