@@ -124351,5 +124351,95 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.09801,106.7822": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Khu phố 1, Phường Bình Cơ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Bình Cơ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7424,106.6732": {
+    "display_name": "Bùi Điền, Khu phố 53, Phường Chánh Hưng, Thành phố Hồ Chí Minh, 73009, Việt Nam",
+    "address": {
+      "road": "Bùi Điền",
+      "neighbourhood": "Khu phố 53",
+      "suburb": "Phường Chánh Hưng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73009",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.03963,108.8441": {
+    "display_name": "Sông Vệ, Xã Vệ Giang, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "Sông Vệ",
+      "county": "Xã Vệ Giang",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.39269,105.4637": {
+    "display_name": "Xã Hội An, Tỉnh An Giang, 90016, Việt Nam",
+    "address": {
+      "county": "Xã Hội An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "postcode": "90016",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.65092,108.4339": {
+    "display_name": "Xã Thăng Điền, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Điền",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54289,106.1019": {
+    "display_name": "Xã Tân Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "town": "Xã Tân Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.5836,104.8157": {
+    "display_name": "Mlop Por Thmey Community, សង្កាត់គោករកា, ខណ្ឌព្រែកព្នៅ, Phnôm Pênh, 121104, Cao Miên",
+    "address": {
+      "neighbourhood": "Mlop Por Thmey Community",
+      "village": "សង្កាត់គោករកា",
+      "town": "ខណ្ឌព្រែកព្នៅ",
+      "state": "Phnôm Pênh",
+      "ISO3166-2-lvl4": "KH-12",
+      "postcode": "121104",
+      "country": "Cao Miên",
+      "country_code": "kh"
+    }
+  },
+  "14.05395,108.7008": {
+    "display_name": "Xã Cửu An, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Cửu An",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
