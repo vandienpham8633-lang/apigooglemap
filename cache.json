@@ -123839,5 +123839,27 @@
       "country": "Indonesia",
       "country_code": "id"
     }
+  },
+  "10.83046,106.7706": {
+    "display_name": "Hẻm 73 Trần Thị Điệu, Phường Phước Long, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 71211, Việt Nam",
+    "address": {
+      "road": "Hẻm 73 Trần Thị Điệu",
+      "suburb": "Phường Phước Long",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71211",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.578428,105.7307": {
+    "display_name": "Xã Mỹ Phước, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Mỹ Phước",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
