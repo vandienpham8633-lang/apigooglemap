@@ -124557,5 +124557,528 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.054702,105.0759": {
+    "display_name": "Xã Lương Thế Trân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Lương Thế Trân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.99549,108.1925": {
+    "display_name": "Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89561,106.5858": {
+    "display_name": "139 Lê lợi - hóc môn, 139, Tân Hiệp 28, Xã Hóc Môn, Thành phố Hồ Chí Minh, 71717, Việt Nam",
+    "address": {
+      "tourism": "139 Lê lợi - hóc môn",
+      "house_number": "139",
+      "road": "Tân Hiệp 28",
+      "town": "Xã Hóc Môn",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71717",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.46862,105.752": {
+    "display_name": "Phường Tĩnh Gia, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "city": "Phường Tĩnh Gia",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83358,106.6222": {
+    "display_name": "Hẻm 320 Đường Trường Chinh, Khu phố 47, Phường Đông Hưng Thuận, Thuận An, Thành phố Hồ Chí Minh, 71509, Việt Nam",
+    "address": {
+      "road": "Hẻm 320 Đường Trường Chinh",
+      "neighbourhood": "Khu phố 47",
+      "suburb": "Phường Đông Hưng Thuận",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71509",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.07715,108.8373": {
+    "display_name": "La Hà, Xã Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "town": "La Hà",
+      "county": "Xã Tư Nghĩa",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.12462,106.3319": {
+    "display_name": "Đương Nông Trường, Khu công nghiệp Phước Đông, Phường Gia Lộc, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đương Nông Trường",
+      "industrial": "Khu công nghiệp Phước Đông",
+      "county": "Phường Gia Lộc",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.53915,108.1653": {
+    "display_name": "Mới, Xã Dray Bhăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Mới",
+      "county": "Xã Dray Bhăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75723,106.6371": {
+    "display_name": "Hẻm 151/1 Lạc Long Quân, Khu phố 36, Phường Minh Phụng, Thành phố Hồ Chí Minh, 72015, Việt Nam",
+    "address": {
+      "road": "Hẻm 151/1 Lạc Long Quân",
+      "neighbourhood": "Khu phố 36",
+      "suburb": "Phường Minh Phụng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72015",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78303,106.9919": {
+    "display_name": "KCN Lộc An - Bình Sơn (quy hoạch), Bưng Môn, Xã Long Thành, 76206, Việt Nam",
+    "address": {
+      "industrial": "KCN Lộc An - Bình Sơn (quy hoạch)",
+      "village": "Bưng Môn",
+      "county": "Xã Long Thành",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.8781,109.0877": {
+    "display_name": "Xã Nam Cam Ranh, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Xã Nam Cam Ranh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9195,106.785": {
+    "display_name": "Đường D4, Khu phố Đông An, Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh, 76106, Việt Nam",
+    "address": {
+      "road": "Đường D4",
+      "quarter": "Khu phố Đông An",
+      "city_district": "Phường Tân Đông Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "76106",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.48525,109.0193": {
+    "display_name": "Xã Xuân Lãnh, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Lãnh",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.34939,107.0809": {
+    "display_name": "Hẻm 108 Đường Đồ Chiểu, Khóm Bàu Sen, Phường Vũng Tàu, Thành phố Hồ Chí Minh, 78207, Việt Nam",
+    "address": {
+      "road": "Hẻm 108 Đường Đồ Chiểu",
+      "neighbourhood": "Khóm Bàu Sen",
+      "city_district": "Phường Vũng Tàu",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78207",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.83468,106.9996": {
+    "display_name": "Phường Phước Long, Việt Nam",
+    "address": {
+      "county": "Phường Phước Long",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93241,108.103": {
+    "display_name": "Hẻm 25 Thủ Khoa Huân, Phường Phú Thủy, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Hẻm 25 Thủ Khoa Huân",
+      "county": "Phường Phú Thủy",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.738335,105.0564": {
+    "display_name": "Phú Lâm, Xã Đông Thái, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Phú Lâm",
+      "county": "Xã Đông Thái",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70804,106.5757": {
+    "display_name": "Kênh 10, Ấp 17, Xã Tân Nhựt, Thành phố Hồ Chí Minh, 71959, Việt Nam",
+    "address": {
+      "road": "Kênh 10",
+      "village": "Ấp 17",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71959",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.40156,107.8139": {
+    "display_name": "Nghĩa Dũng, Sa Nghĩa, Xã Sa Bình, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Nghĩa Dũng",
+      "village": "Sa Nghĩa",
+      "county": "Xã Sa Bình",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.98144,106.7411": {
+    "display_name": "Khánh Long, Phường Tân Khánh, Thành phố Hồ Chí Minh, 75256, Việt Nam",
+    "address": {
+      "quarter": "Khánh Long",
+      "city_district": "Phường Tân Khánh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75256",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.25249,108.5737": {
+    "display_name": "Đường Quốc lộ 1 – Trà Phong, Xã Đông Trà Bồng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "road": "Đường Quốc lộ 1 – Trà Phong",
+      "county": "Xã Đông Trà Bồng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.47922,109.123": {
+    "display_name": "Xã Tân Định, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Tân Định",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.42031,106.0315": {
+    "display_name": "Xã Trà Vong, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Trà Vong",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.23567,109.2582": {
+    "display_name": "Phong Phú, Xã Ô Loan, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Phong Phú",
+      "county": "Xã Ô Loan",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.00026,108.1775": {
+    "display_name": "Xã KDang, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã KDang",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.81841,105.6898": {
+    "display_name": "Xã Yên Trạch, Tỉnh Thái Nguyên, Việt Nam",
+    "address": {
+      "town": "Xã Yên Trạch",
+      "state": "Tỉnh Thái Nguyên",
+      "ISO3166-2-lvl4": "VN-69",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.03125,108.2186": {
+    "display_name": "Đường Lê Thanh Nghị, Phường Hòa Cường, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thanh Nghị",
+      "city": "Phường Hòa Cường",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.94508,109.0821": {
+    "display_name": "Đướng Trương Vãn Đa, KV.Châu Thành, P.Nhơn Thành, Bắc Thượng, Phường An Nhơn Bắc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đướng Trương Vãn Đa",
+      "quarter": "KV.Châu Thành, P.Nhơn Thành",
+      "village": "Bắc Thượng",
+      "county": "Phường An Nhơn Bắc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79406,106.6195": {
+    "display_name": "Nguyễn Lộ Trạch, Khu phố 3, Phường Phú Thọ Hòa, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Nguyễn Lộ Trạch",
+      "neighbourhood": "Khu phố 3",
+      "suburb": "Phường Phú Thọ Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.24972,109.1834": {
+    "display_name": "Thống Nhất, Phường Tây Nha Trang, Khánh Hòa, 57124, Việt Nam",
+    "address": {
+      "road": "Thống Nhất",
+      "suburb": "Phường Tây Nha Trang",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "postcode": "57124",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.17188,105.9302": {
+    "display_name": "Văn Môn, Xã Văn Môn, Từ Sơn, Tỉnh Bắc Ninh, 16000, Việt Nam",
+    "address": {
+      "residential": "Văn Môn",
+      "suburb": "Xã Văn Môn",
+      "city": "Từ Sơn",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "postcode": "16000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75838,106.644": {
+    "display_name": "Đường Hàn Hải Nguyên, Khu phố 27, Phường Minh Phụng, Thành phố Hồ Chí Minh, 72415, Việt Nam",
+    "address": {
+      "road": "Đường Hàn Hải Nguyên",
+      "neighbourhood": "Khu phố 27",
+      "suburb": "Phường Minh Phụng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72415",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.3251,106.0035": {
+    "display_name": "Xã Hảo Đước, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Hảo Đước",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.90393,107.3082": {
+    "display_name": "Bình Hoà, Xã Xuân Phú, 76615, Việt Nam",
+    "address": {
+      "village": "Bình Hoà",
+      "county": "Xã Xuân Phú",
+      "postcode": "76615",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.85941,107.9224": {
+    "display_name": "Xã Thượng Đức, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thượng Đức",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.62721,106.7369": {
+    "display_name": "Nguyễn Văn Tạo, Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Nguyễn Văn Tạo",
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9978,107.3939": {
+    "display_name": "Phượng Vỹ, Xã Xuân Thành, Việt Nam",
+    "address": {
+      "village": "Phượng Vỹ",
+      "county": "Xã Xuân Thành",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.64942,108.0346": {
+    "display_name": "Hẻm 41 Nguyễn Trường Tộ, Alê B, Phường Ea Kao, Tỉnh Đắk Lắk, 63107, Việt Nam",
+    "address": {
+      "road": "Hẻm 41 Nguyễn Trường Tộ",
+      "village": "Alê B",
+      "county": "Phường Ea Kao",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89003,106.8842": {
+    "display_name": "Khu phố 3, Phường Long Hưng, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 3",
+      "county": "Phường Long Hưng",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.32235,105.9877": {
+    "display_name": "Yên Phong, Xã Ý Yên, Tỉnh Ninh Bình, Việt Nam",
+    "address": {
+      "village": "Yên Phong",
+      "town": "Xã Ý Yên",
+      "state": "Tỉnh Ninh Bình",
+      "ISO3166-2-lvl4": "VN-18",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44148,107.6215": {
+    "display_name": "Kiệt 237 Nguyễn Tất Thành, Thủy Dương, Phường Thanh Thủy, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Kiệt 237 Nguyễn Tất Thành",
+      "quarter": "Thủy Dương",
+      "city": "Phường Thanh Thủy",
+      "county": "Phường Thanh Thủy",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.49846,107.5668": {
+    "display_name": "Hương Sơ, Phường Hương An, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "quarter": "Hương Sơ",
+      "city": "Phường Hương An",
+      "county": "Phường Hương An",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.49545,109.2273": {
+    "display_name": "Lệ Uyên, Phường Sông Cầu, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Lệ Uyên",
+      "county": "Phường Sông Cầu",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.94381,108.4382": {
+    "display_name": "Nguyễn Thị Minh Khai, Đồi Petrus Ký, Đà Lạt, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, 02633, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thị Minh Khai",
+      "neighbourhood": "Đồi Petrus Ký",
+      "city": "Đà Lạt",
+      "county": "Phường Xuân Hương - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "02633",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.3854,106.2384": {
+    "display_name": "Đường Số 41, Xã Dương Minh Châu, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Số 41",
+      "town": "Xã Dương Minh Châu",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.08999,106.7789": {
+    "display_name": "Khu công nghiệp Nam Tân Uyên mở rộng, Phường Tân Uyên, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "industrial": "Khu công nghiệp Nam Tân Uyên mở rộng",
+      "city_district": "Phường Tân Uyên",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
