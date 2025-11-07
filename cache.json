@@ -124193,5 +124193,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.52354,109.0337": {
+    "display_name": "KP.Phụng Du 1, P.Hoài Hảo, Phường Hoài Nhơn Tây, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Phụng Du 1, P.Hoài Hảo",
+      "county": "Phường Hoài Nhơn Tây",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.22924,104.0036": {
+    "display_name": "Đường Bản Xum, Xã Chiềng Mung, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "road": "Đường Bản Xum",
+      "county": "Xã Chiềng Mung",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
