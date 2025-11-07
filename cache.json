@@ -125456,5 +125456,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.27068,108.8176": {
+    "display_name": "Xã Nam Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Nam Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
