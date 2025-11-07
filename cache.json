@@ -125525,5 +125525,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8111,106.6112": {
+    "display_name": "Lê Trọng Tấn, Khu phố 1, Phường Tây Thạnh, Thuận An, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "road": "Lê Trọng Tấn",
+      "neighbourhood": "Khu phố 1",
+      "suburb": "Phường Tây Thạnh",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
