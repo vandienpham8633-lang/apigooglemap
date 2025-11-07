@@ -123546,5 +123546,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.90923,107.3123": {
+    "display_name": "Bình Hoà, Xã Xuân Phú, 76615, Việt Nam",
+    "address": {
+      "village": "Bình Hoà",
+      "county": "Xã Xuân Phú",
+      "postcode": "76615",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.50253,107.8316": {
+    "display_name": "Kơ Tol, Xã Sa Bình, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "hamlet": "Kơ Tol",
+      "county": "Xã Sa Bình",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
