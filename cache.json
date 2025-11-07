@@ -123703,5 +123703,84 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.82589,109.1649": {
+    "display_name": "KP.Trung Tín 1, TT.Tuy Phước, Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "quarter": "KP.Trung Tín 1, TT.Tuy Phước",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58206,107.0678": {
+    "display_name": "Nguyễn Trọng Quản, Tân Hạnh, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "road": "Nguyễn Trọng Quản",
+      "quarter": "Tân Hạnh",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.95494,109.3532": {
+    "display_name": "Xã Hòa Xuân, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "county": "Xã Hòa Xuân",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93494,107.9474": {
+    "display_name": "Diêu Phú, Phường Diên Hồng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Diêu Phú",
+      "county": "Phường Diên Hồng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.20706,105.4984": {
+    "display_name": "ĐT. 921, Phường Trung Nhứt, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "ĐT. 921",
+      "city_district": "Phường Trung Nhứt",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.20083,108.5461": {
+    "display_name": "Xã Bắc Bình, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Bắc Bình",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.93492,107.9474": {
+    "display_name": "Diêu Phú, Phường Diên Hồng, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "village": "Diêu Phú",
+      "county": "Phường Diên Hồng",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
