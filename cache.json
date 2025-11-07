@@ -122958,5 +122958,68 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.65262,121.0359": {
+    "display_name": "Ayala Malls Vertis North, Luna Drive, Vertis North, Bagong Pag-asa, Diliman, 1st District, Thành phố Quezon, Eastern Manila District, Metro Manila, 1100, Philippines",
+    "address": {
+      "shop": "Ayala Malls Vertis North",
+      "road": "Luna Drive",
+      "commercial": "Vertis North",
+      "quarter": "Bagong Pag-asa",
+      "suburb": "Diliman",
+      "city_district": "1st District",
+      "city": "Thành phố Quezon",
+      "state_district": "Eastern Manila District",
+      "region": "Metro Manila",
+      "ISO3166-2-lvl3": "PH-00",
+      "postcode": "1100",
+      "country": "Philippines",
+      "country_code": "ph"
+    }
+  },
+  "10.83886,106.6625": {
+    "display_name": "Hẻm 102/166 Lê Văn Thọ, Phường Thông Tây Hội, Thuận An, Thành phố Hồ Chí Minh, 71500, Việt Nam",
+    "address": {
+      "road": "Hẻm 102/166 Lê Văn Thọ",
+      "suburb": "Phường Thông Tây Hội",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80128,105.5742": {
+    "display_name": "Xã Tràm Chim, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tràm Chim",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.9329,108.2728": {
+    "display_name": "Đường số 8, Khu công nghiệp Điện Nam – Điện Ngọc, Phường Điện Bàn Đông, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường số 8",
+      "industrial": "Khu công nghiệp Điện Nam – Điện Ngọc",
+      "city": "Phường Điện Bàn Đông",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.77759,108.7954": {
+    "display_name": "Quốc lộ 27B, Tân Sơn, Xã Ninh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "town": "Tân Sơn",
+      "county": "Xã Ninh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
