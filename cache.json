@@ -125466,5 +125466,54 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.79462,106.5907": {
+    "display_name": "Trường Tiểu học Hoàng Văn Thụ, Đường Số 6, Phường Bình Tân, Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh, 71913, Việt Nam",
+    "address": {
+      "amenity": "Trường Tiểu học Hoàng Văn Thụ",
+      "road": "Đường Số 6",
+      "suburb": "Phường Bình Tân",
+      "village": "Xã Tân Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71913",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58892,107.0484": {
+    "display_name": "Quảng Phú, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "neighbourhood": "Quảng Phú",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82226,106.56": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.03548,105.8277": {
+    "display_name": "Ngách 135/31 Phố Đội Cấn, Phường Ngọc Hà, Hà Nội, 11112, Việt Nam",
+    "address": {
+      "road": "Ngách 135/31 Phố Đội Cấn",
+      "suburb": "Phường Ngọc Hà",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "11112",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
