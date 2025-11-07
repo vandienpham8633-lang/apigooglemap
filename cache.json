@@ -123056,5 +123056,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.57645,108.9892": {
+    "display_name": "Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.1023,108.1312": {
+    "display_name": "Đường Võ Duy Dương, Hòa Hiệp Nam, Phường Hải Vân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "road": "Đường Võ Duy Dương",
+      "quarter": "Hòa Hiệp Nam",
+      "city": "Phường Hải Vân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.57654,108.9892": {
+    "display_name": "Phường Phan Rang, Phan Rang – Tháp Chàm, Khánh Hòa, Việt Nam",
+    "address": {
+      "suburb": "Phường Phan Rang",
+      "city": "Phan Rang – Tháp Chàm",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
