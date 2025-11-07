@@ -125400,5 +125400,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.82221,106.56": {
+    "display_name": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh, 71821, Việt Nam",
+    "address": {
+      "village": "Xã Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71821",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.98738,108.4172": {
+    "display_name": "Dankia, Ấp Tùng Lâm, Lạc Dương, Phường Lang Biang - Đà Lạt, Tỉnh Lâm Đồng, 66200, Việt Nam",
+    "address": {
+      "road": "Dankia",
+      "neighbourhood": "Ấp Tùng Lâm",
+      "town": "Lạc Dương",
+      "county": "Phường Lang Biang - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
