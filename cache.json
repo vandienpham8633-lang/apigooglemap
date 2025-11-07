@@ -125425,5 +125425,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.8828,105.6096": {
+    "display_name": "Xã Vĩnh Thạnh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Vĩnh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.58879,107.0484": {
+    "display_name": "Quảng Phú, Phường Phú Mỹ, Thành phố Hồ Chí Minh, 78706, Việt Nam",
+    "address": {
+      "neighbourhood": "Quảng Phú",
+      "city_district": "Phường Phú Mỹ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78706",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.4746,106.8511": {
+    "display_name": "Ấp 7, Phường Bình Phước, Việt Nam",
+    "address": {
+      "village": "Ấp 7",
+      "county": "Phường Bình Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
