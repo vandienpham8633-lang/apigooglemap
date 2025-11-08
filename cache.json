@@ -126312,5 +126312,20 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.82452,109.1692": {
+    "display_name": "Ngọc Lan, Nguyễn Nhạc, KP.Trung Tín 2, TT.Tuy Phước, Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "amenity": "Ngọc Lan",
+      "road": "Nguyễn Nhạc",
+      "quarter": "KP.Trung Tín 2, TT.Tuy Phước",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
