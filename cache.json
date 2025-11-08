@@ -127125,5 +127125,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.63187,108.466": {
+    "display_name": "Xã Thăng Trường, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thăng Trường",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.34572,106.6151": {
+    "display_name": "Xã Trừ Văn Thố, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Trừ Văn Thố",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.64241,106.817": {
+    "display_name": "Xã Đại Phước, Tỉnh Đồng Nai, Việt Nam",
+    "address": {
+      "county": "Xã Đại Phước",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15929,106.7172": {
+    "display_name": "Đường tỉnh 742, Cổng Xanh, Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 742",
+      "quarter": "Cổng Xanh",
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.3904,104.5997": {
+    "display_name": "DT.183, Yên Bình, Xã Quang Bình, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "DT.183",
+      "town": "Yên Bình",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.09291,109.3119": {
+    "display_name": "Sân Vận Động Lê Trung Kiên, Nguyễn Huệ, Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "leisure": "Sân Vận Động Lê Trung Kiên",
+      "road": "Nguyễn Huệ",
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
