@@ -128111,5 +128111,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.26221,105.934": {
+    "display_name": "Thương Ly, Xã Cẩm Duệ, Hà Tĩnh, Việt Nam",
+    "address": {
+      "hamlet": "Thương Ly",
+      "town": "Xã Cẩm Duệ",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
