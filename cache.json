@@ -126069,5 +126069,44 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.95871,106.7042": {
+    "display_name": "Hoà Lân 1, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Hoà Lân 1",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7407,106.6196": {
+    "display_name": "Bến xe Miền Tây, Đường Kinh Dương Vương, Phường An Lạc, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "amenity": "Bến xe Miền Tây",
+      "road": "Đường Kinh Dương Vương",
+      "suburb": "Phường An Lạc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95868,106.7043": {
+    "display_name": "Hoà Lân 1, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "quarter": "Hoà Lân 1",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
