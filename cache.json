@@ -126213,5 +126213,31 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.69393,108.0579": {
+    "display_name": "22, Lý Tự Trọng, Phường Tân An, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "house_number": "22",
+      "road": "Lý Tự Trọng",
+      "county": "Phường Tân An",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.69397,108.0579": {
+    "display_name": "22, Lý Tự Trọng, Phường Tân An, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "house_number": "22",
+      "road": "Lý Tự Trọng",
+      "county": "Phường Tân An",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
