@@ -126440,5 +126440,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80582,106.6237": {
+    "display_name": "Hẻm 18 Đỗ Nhuận, Khu phố 2, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 18 Đỗ Nhuận",
+      "neighbourhood": "Khu phố 2",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.95884,106.7042": {
+    "display_name": "Thuận Giao 11, Hoà Lân 1, Thuận Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75000, Việt Nam",
+    "address": {
+      "road": "Thuận Giao 11",
+      "quarter": "Hoà Lân 1",
+      "suburb": "Thuận Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.68748,108.0567": {
+    "display_name": "Ama Khê, Kô Siêr, Phường Tân Lập, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "road": "Ama Khê",
+      "village": "Kô Siêr",
+      "county": "Phường Tân Lập",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
