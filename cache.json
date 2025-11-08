@@ -127417,5 +127417,84 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "8.679978,104.9318": {
+    "display_name": "Xã Phan Ngọc Hiển, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Phan Ngọc Hiển",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.02589,105.8426": {
+    "display_name": "Phường Đông Thành, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Phường Đông Thành",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.76241,106.5987": {
+    "display_name": "Hẻm 184 Lê Đình Cẩn, Phường Tân Tạo, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "road": "Hẻm 184 Lê Đình Cẩn",
+      "suburb": "Phường Tân Tạo",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.03071,106.7412": {
+    "display_name": "Khánh Tân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Tân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.70731,106.5608": {
+    "display_name": "Ấp 4, Xã Tân Nhựt, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "village": "Ấp 4",
+      "city_district": "Xã Tân Nhựt",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.835,106.6764": {
+    "display_name": "Hẻm 192 Nguyễn Oanh, Phường Gò Vấp, Thuận An, Thành phố Hồ Chí Minh, 71400, Việt Nam",
+    "address": {
+      "road": "Hẻm 192 Nguyễn Oanh",
+      "suburb": "Phường Gò Vấp",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71400",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93552,106.745": {
+    "display_name": "Đường N3, Khu phố 2, Phường An Phú, Thành phố Hồ Chí Minh, 75209, Việt Nam",
+    "address": {
+      "road": "Đường N3",
+      "quarter": "Khu phố 2",
+      "city_district": "Phường An Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75209",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
