@@ -126891,5 +126891,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.39052,104.5995": {
+    "display_name": "Yên Bình, Xã Quang Bình, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Yên Bình",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.09288,109.3119": {
+    "display_name": "Sân Vận Động Lê Trung Kiên, Nguyễn Huệ, Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "leisure": "Sân Vận Động Lê Trung Kiên",
+      "road": "Nguyễn Huệ",
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.39061,104.5994": {
+    "display_name": "Yên Bình, Xã Quang Bình, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Yên Bình",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
