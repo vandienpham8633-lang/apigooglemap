@@ -126338,5 +126338,32 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.68521,108.0555": {
+    "display_name": "Trung tâm Hội nghị - Tiệc cưới Đại Hùng, Bùi Thị Xuân, Tổ dân phố 7, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "amenity": "Trung tâm Hội nghị - Tiệc cưới Đại Hùng",
+      "road": "Bùi Thị Xuân",
+      "suburb": "Tổ dân phố 7",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.2512,106.1474": {
+    "display_name": "Chợ Lách, Xã Chợ Lách, Tỉnh Vĩnh Long, 86309, Việt Nam",
+    "address": {
+      "town": "Chợ Lách",
+      "county": "Xã Chợ Lách",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
