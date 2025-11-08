@@ -126056,5 +126056,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.27289,106.6346": {
+    "display_name": "Quốc lộ 13, Xà Mách, Khu phố Bàu Lòng, Xã Bàu Bàng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 13",
+      "quarter": "Xà Mách",
+      "suburb": "Khu phố Bàu Lòng",
+      "city_district": "Xã Bàu Bàng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
