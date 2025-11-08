@@ -126239,5 +126239,66 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82278,108.8581": {
+    "display_name": "Quốc lộ 27B, Trà Co 1, Phước Thắng, Xã Bác Ái, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "hamlet": "Trà Co 1",
+      "village": "Phước Thắng",
+      "county": "Xã Bác Ái",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.42131,109.1146": {
+    "display_name": "khu phố Lộ Diêu, phường Hoài Nhơn Đông, KP. Lộ Diêu, Phường Hoài Nhơn Đông, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Lộ Diêu, phường Hoài Nhơn Đông",
+      "village": "KP. Lộ Diêu",
+      "county": "Phường Hoài Nhơn Đông",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.82307,105.529": {
+    "display_name": "ĐT. 842, Xã An Phước, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "road": "ĐT. 842",
+      "county": "Xã An Phước",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.02016,108.868": {
+    "display_name": "Xã Long Phụng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Long Phụng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.82453,109.1692": {
+    "display_name": "Ngọc Lan, Nguyễn Nhạc, KP.Trung Tín 2, TT.Tuy Phước, Tuy Phước, Xã Tuy Phước, Tỉnh Gia Lai, 55200, Việt Nam",
+    "address": {
+      "amenity": "Ngọc Lan",
+      "road": "Nguyễn Nhạc",
+      "quarter": "KP.Trung Tín 2, TT.Tuy Phước",
+      "town": "Tuy Phước",
+      "county": "Xã Tuy Phước",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "postcode": "55200",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
