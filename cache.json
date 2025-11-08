@@ -126132,5 +126132,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.198,108.6862": {
+    "display_name": "Quốc lộ 25, Phú Túc, Xã Phú Túc, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 25",
+      "town": "Phú Túc",
+      "county": "Xã Phú Túc",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.56679,109.0145": {
+    "display_name": "khu phố Tân Trung (phường Tam Quan), Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Tân Trung (phường Tam Quan)",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
