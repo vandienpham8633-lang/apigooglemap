@@ -127598,5 +127598,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.904846,105.1381": {
+    "display_name": "Vĩnh Đằng, Xã Bình An, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Vĩnh Đằng",
+      "county": "Xã Bình An",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
