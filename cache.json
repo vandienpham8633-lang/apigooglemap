@@ -128133,5 +128133,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.04373,107.2649": {
+    "display_name": "Dương Huy, Tỉnh Quảng Ninh, Việt Nam",
+    "address": {
+      "village": "Dương Huy",
+      "state": "Tỉnh Quảng Ninh",
+      "ISO3166-2-lvl4": "VN-13",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
