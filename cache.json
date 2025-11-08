@@ -127576,5 +127576,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.04573,105.7703": {
+    "display_name": "Phường Phú Diễn, Hà Nội, 10065, Việt Nam",
+    "address": {
+      "suburb": "Phường Phú Diễn",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10065",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.19277,107.8885": {
+    "display_name": "Thôn 14, Xã Ea Rốk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 14",
+      "county": "Xã Ea Rốk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
