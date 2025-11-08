@@ -126824,5 +126824,72 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.04738,106.6438": {
+    "display_name": "Khu phố 1, Phường Hòa Lợi, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "quarter": "Khu phố 1",
+      "city_district": "Phường Hòa Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.39043,104.5995": {
+    "display_name": "Yên Bình, Xã Quang Bình, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Yên Bình",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.07308,106.8206": {
+    "display_name": "Xã Hưng Phước, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15932,106.7172": {
+    "display_name": "Đường tỉnh 742, Cổng Xanh, Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 742",
+      "quarter": "Cổng Xanh",
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.92288,109.1487": {
+    "display_name": "Nguyễn Thái Học, Phường Cam Ranh, Phường Ba Ngòi, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Nguyễn Thái Học",
+      "suburb": "Phường Cam Ranh",
+      "county": "Phường Ba Ngòi",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.36443,107.9946": {
+    "display_name": "Quang Trung, Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Quang Trung",
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
