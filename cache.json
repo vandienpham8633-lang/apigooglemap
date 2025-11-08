@@ -125615,5 +125615,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.31743,106.164": {
+    "display_name": "Phường Ninh Thạnh, Tỉnh Tây Ninh, 80606, Việt Nam",
+    "address": {
+      "county": "Phường Ninh Thạnh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "80606",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
