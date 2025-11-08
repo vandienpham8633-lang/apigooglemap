@@ -128216,5 +128216,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.59006,106.6916": {
+    "display_name": "Xã Tân Sơn, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "suburb": "Xã Tân Sơn",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
