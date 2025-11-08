@@ -128122,5 +128122,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.84399,106.0113": {
+    "display_name": "Xã Việt Tiến, Tỉnh Hưng Yên, 17700, Việt Nam",
+    "address": {
+      "town": "Xã Việt Tiến",
+      "state": "Tỉnh Hưng Yên",
+      "ISO3166-2-lvl4": "VN-66",
+      "postcode": "17700",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
