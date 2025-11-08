@@ -127347,5 +127347,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.80285,106.6361": {
+    "display_name": "Trường Chinh, Khu phố 44, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 70500, Việt Nam",
+    "address": {
+      "road": "Trường Chinh",
+      "neighbourhood": "Khu phố 44",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "70500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
