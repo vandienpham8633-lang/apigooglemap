@@ -125914,5 +125914,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.69572,108.0326": {
+    "display_name": "Tổ dân phố 5, Đung, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "suburb": "Tổ dân phố 5",
+      "village": "Đung",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.06249,106.8539": {
+    "display_name": "Xã Hưng Phước, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
