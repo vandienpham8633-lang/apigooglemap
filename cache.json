@@ -127541,5 +127541,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.36181,105.5182": {
+    "display_name": "Khóm Bình Thạnh 1, Lấp Vò, Xã Lấp Vò, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "hamlet": "Khóm Bình Thạnh 1",
+      "town": "Lấp Vò",
+      "county": "Xã Lấp Vò",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.45335,106.3355": {
+    "display_name": "Xã Tân Hương, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Tân Hương",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.16587,106.0515": {
+    "display_name": "Đường Lê Thái Tổ, Khả Lễ, Phường Võ Cường, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Lê Thái Tổ",
+      "quarter": "Khả Lễ",
+      "suburb": "Phường Võ Cường",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
