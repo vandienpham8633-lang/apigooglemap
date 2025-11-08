@@ -125844,5 +125844,45 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.2705,107.2343": {
+    "display_name": "Quốc lộ 14, A Ngo, Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "A Ngo",
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.06248,106.8539": {
+    "display_name": "Xã Hưng Phước, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.27052,107.2343": {
+    "display_name": "Quốc lộ 14, A Ngo, Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 14",
+      "village": "A Ngo",
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.0625,106.8539": {
+    "display_name": "Xã Hưng Phước, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
