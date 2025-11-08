@@ -125953,5 +125953,96 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.66632,108.0496": {
+    "display_name": "Hẻm 127 Đường Trần Quý Cáp, Tổ dân phố 4, Buôn Ma Thuột, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63107, Việt Nam",
+    "address": {
+      "road": "Hẻm 127 Đường Trần Quý Cáp",
+      "suburb": "Tổ dân phố 4",
+      "city": "Buôn Ma Thuột",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63107",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.06773,105.9007": {
+    "display_name": "Khu đô thị Việt Hưng, Phường Việt Hưng, Yên Viên, Hà Nội, 11810, Việt Nam",
+    "address": {
+      "residential": "Khu đô thị Việt Hưng",
+      "suburb": "Phường Việt Hưng",
+      "town": "Yên Viên",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "11810",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.00663,106.5779": {
+    "display_name": "Tiệm Tôm, Xã Tân Thủy, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "town": "Tiệm Tôm",
+      "county": "Xã Tân Thủy",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.01025,108.86": {
+    "display_name": "Xã Long Phụng, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Long Phụng",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "18.09492,106.1449": {
+    "display_name": "Xã Kỳ Văn, Hà Tĩnh, 46000, Việt Nam",
+    "address": {
+      "town": "Xã Kỳ Văn",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "postcode": "46000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.6895,108.0728": {
+    "display_name": "Păn Lăm, Phường Tân Lập, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "village": "Păn Lăm",
+      "county": "Phường Tân Lập",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.87263,105.2723": {
+    "display_name": "Xã Vạn Xuân, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Vạn Xuân",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.67039,107.7541": {
+    "display_name": "Cà Dy, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "village": "Cà Dy",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
