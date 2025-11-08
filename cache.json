@@ -126402,5 +126402,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.98969,106.6685": {
+    "display_name": "Phạm Thị Tân, Khu phố 8, Phường Phú Lợi, Thành phố Hồ Chí Minh, 75111, Việt Nam",
+    "address": {
+      "road": "Phạm Thị Tân",
+      "quarter": "Khu phố 8",
+      "city_district": "Phường Phú Lợi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75111",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
