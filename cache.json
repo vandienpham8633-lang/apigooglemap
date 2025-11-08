@@ -125638,5 +125638,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.03483,107.6714": {
+    "display_name": "Tân Tiến, Gia Nghĩa, Phường Bắc Gia Nghĩa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tân Tiến",
+      "city": "Gia Nghĩa",
+      "county": "Phường Bắc Gia Nghĩa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
