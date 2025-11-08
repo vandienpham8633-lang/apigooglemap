@@ -128179,5 +128179,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.94616,108.8548": {
+    "display_name": "Quốc lộ 19, Thôn Tả Giang 1, Tây Giang, Bình Liên, Xã Bình Khê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 19",
+      "hamlet": "Thôn Tả Giang 1, Tây Giang",
+      "village": "Bình Liên",
+      "county": "Xã Bình Khê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.77765,108.7954": {
+    "display_name": "Quốc lộ 27B, Tân Sơn, Xã Ninh Sơn, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "town": "Tân Sơn",
+      "county": "Xã Ninh Sơn",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
