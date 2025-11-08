@@ -127394,5 +127394,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.08408,108.0853": {
+    "display_name": "Phường Liên Chiểu, Thành phố Đà Nẵng, 51000, Việt Nam",
+    "address": {
+      "city": "Phường Liên Chiểu",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "51000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
