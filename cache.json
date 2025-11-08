@@ -126924,5 +126924,144 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "22.39075,104.5996": {
+    "display_name": "Yên Bình, Xã Quang Bình, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Yên Bình",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.09289,109.3119": {
+    "display_name": "Sân Vận Động Lê Trung Kiên, Nguyễn Huệ, Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "leisure": "Sân Vận Động Lê Trung Kiên",
+      "road": "Nguyễn Huệ",
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.63935,106.742": {
+    "display_name": "Xã Hiệp Phước, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Hiệp Phước",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.790818,105.2687": {
+    "display_name": "Hòa Mỹ, Xã Định Hòa, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Hòa Mỹ",
+      "county": "Xã Định Hòa",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.51923,107.8596": {
+    "display_name": "Nausri, Phường B'Lao, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Nausri",
+      "county": "Phường B'Lao",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.25158,106.1448": {
+    "display_name": "Đường số 20 Ngô Quyền, Phường Long Hoa, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "road": "Đường số 20 Ngô Quyền",
+      "county": "Phường Long Hoa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.85944,107.9225": {
+    "display_name": "Xã Thượng Đức, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Thượng Đức",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.76964,108.1037": {
+    "display_name": "Lang, Xã Quảng Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Lang",
+      "county": "Xã Quảng Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.94373,108.4384": {
+    "display_name": "DALAT BUS TICKET AND OPEN TOUR, 109, Phan Bội Châu, Khu Golf Valley, Đà Lạt, Phường Xuân Hương - Đà Lạt, Tỉnh Lâm Đồng, 66100, Việt Nam",
+    "address": {
+      "shop": "DALAT BUS TICKET AND OPEN TOUR",
+      "house_number": "109",
+      "road": "Phan Bội Châu",
+      "neighbourhood": "Khu Golf Valley",
+      "city": "Đà Lạt",
+      "county": "Phường Xuân Hương - Đà Lạt",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "66100",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.93404,106.7063": {
+    "display_name": "Bình Giao, Phường Thuận Giao, Thành phố Hồ Chí Minh, 75214, Việt Nam",
+    "address": {
+      "quarter": "Bình Giao",
+      "city_district": "Phường Thuận Giao",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75214",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.60312,105.9819": {
+    "display_name": "Xã Tân Biên, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Tân Biên",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.0555,105.7605": {
+    "display_name": "Phạm Hữu Lầu, Bình Thủy, Phường Bình Thủy, Thành phố Cần Thơ, 94108, Việt Nam",
+    "address": {
+      "road": "Phạm Hữu Lầu",
+      "suburb": "Bình Thủy",
+      "city_district": "Phường Bình Thủy",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "postcode": "94108",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
