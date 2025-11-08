@@ -128030,5 +128030,86 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.53052,106.7347": {
+    "display_name": "Đường tỉnh 830, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 830",
+      "village": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.48464,107.6412": {
+    "display_name": "Phường Mỹ Thượng, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Mỹ Thượng",
+      "county": "Phường Mỹ Thượng",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.42184,106.8528": {
+    "display_name": "Xã Đồng Phú, Việt Nam",
+    "address": {
+      "county": "Xã Đồng Phú",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.36047,106.0941": {
+    "display_name": "Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.01615,105.5393": {
+    "display_name": "Xã Trường Xuân, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trường Xuân",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.35679,107.9956": {
+    "display_name": "Quang Trung, Kon Tum, Phường Kon Tum, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Quang Trung",
+      "city": "Kon Tum",
+      "county": "Phường Kon Tum",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53053,106.7347": {
+    "display_name": "Đường tỉnh 830, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 830",
+      "village": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.47659,106.6126": {
+    "display_name": "Phường Minh Hưng, Việt Nam",
+    "address": {
+      "county": "Phường Minh Hưng",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
