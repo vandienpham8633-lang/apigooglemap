@@ -125796,5 +125796,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.48538,105.0244": {
+    "display_name": "Xã Núi Cấm, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Núi Cấm",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
