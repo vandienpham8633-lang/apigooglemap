@@ -125806,5 +125806,43 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89527,106.6998": {
+    "display_name": "Đường Lái Thiêu 101, Long Thới, Phường Lái Thiêu, Thuận An, Thành phố Hồ Chí Minh, 75206, Việt Nam",
+    "address": {
+      "road": "Đường Lái Thiêu 101",
+      "quarter": "Long Thới",
+      "suburb": "Phường Lái Thiêu",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.88019,106.7756": {
+    "display_name": "Hẻm 63 Đường Số 8, Khu phố 4, Phường Linh Xuân, Thành phố Dĩ An, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "road": "Hẻm 63 Đường Số 8",
+      "neighbourhood": "Khu phố 4",
+      "suburb": "Phường Linh Xuân",
+      "city": "Thành phố Dĩ An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78206,106.7507": {
+    "display_name": "Đường 52 - BTT, Phường Bình Trưng, Phường Cát Lái, Thành phố Hồ Chí Minh, 71150, Việt Nam",
+    "address": {
+      "road": "Đường 52 - BTT",
+      "suburb": "Phường Bình Trưng",
+      "city": "Phường Cát Lái",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71150",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
