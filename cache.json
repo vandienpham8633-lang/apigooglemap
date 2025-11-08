@@ -128143,5 +128143,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.02776,105.8342": {
+    "display_name": "Phố Cát Linh, Phường Ô Chợ Dừa, Hà Nội, 10081, Việt Nam",
+    "address": {
+      "road": "Phố Cát Linh",
+      "suburb": "Phường Ô Chợ Dừa",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "10081",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75485,106.648": {
+    "display_name": "Hẻm 25-41 Lò Siêu, Khu phố 21, Phường Minh Phụng, Thành phố Hồ Chí Minh, 72415, Việt Nam",
+    "address": {
+      "road": "Hẻm 25-41 Lò Siêu",
+      "neighbourhood": "Khu phố 21",
+      "suburb": "Phường Minh Phụng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72415",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
