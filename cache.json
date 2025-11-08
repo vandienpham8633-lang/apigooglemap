@@ -127830,5 +127830,205 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99959,107.993": {
+    "display_name": "Xã Hàm Thạnh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Hàm Thạnh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85183,107.0488": {
+    "display_name": "An Viễng, Xã Bình An, 77000, Việt Nam",
+    "address": {
+      "village": "An Viễng",
+      "county": "Xã Bình An",
+      "postcode": "77000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.78052,106.6378": {
+    "display_name": "Hẻm 31 Huỳnh Thiện Lộc, Khu phố 8, Phường Tân Phú, Thành phố Hồ Chí Minh, 72000, Việt Nam",
+    "address": {
+      "road": "Hẻm 31 Huỳnh Thiện Lộc",
+      "neighbourhood": "Khu phố 8",
+      "suburb": "Phường Tân Phú",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.61633,103.451": {
+    "display_name": "Xã Tuần Giáo, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Tuần Giáo",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.75875,106.5849": {
+    "display_name": "Phường Bình Tân, Thành phố Hồ Chí Minh, 73118, Việt Nam",
+    "address": {
+      "suburb": "Phường Bình Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "73118",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04578,108.1752": {
+    "display_name": "Đường Phan Khoang, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Phan Khoang",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53063,106.7347": {
+    "display_name": "Đường tỉnh 830, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 830",
+      "village": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.979049,105.6649": {
+    "display_name": "Nhơn Ái, Xã Nhơn Ái, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Nhơn Ái",
+      "city_district": "Xã Nhơn Ái",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.43695,106.2146": {
+    "display_name": "ĐT.292, Xã Tiên Lục, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "road": "ĐT.292",
+      "suburb": "Xã Tiên Lục",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.11787,109.2885": {
+    "display_name": "Phường Bình Kiến, Tỉnh Đắk Lắk, 56120, Việt Nam",
+    "address": {
+      "county": "Phường Bình Kiến",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "56120",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04582,108.1751": {
+    "display_name": "275, Đường Lê Thạch, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "275",
+      "road": "Đường Lê Thạch",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04575,108.1752": {
+    "display_name": "Đường Phan Khoang, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "road": "Đường Phan Khoang",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04576,108.1751": {
+    "display_name": "275, Đường Lê Thạch, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "275",
+      "road": "Đường Lê Thạch",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04575,108.175": {
+    "display_name": "275, Đường Lê Thạch, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "275",
+      "road": "Đường Lê Thạch",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04572,108.175": {
+    "display_name": "275, Đường Lê Thạch, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "275",
+      "road": "Đường Lê Thạch",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04571,108.175": {
+    "display_name": "275, Đường Lê Thạch, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "275",
+      "road": "Đường Lê Thạch",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04573,108.175": {
+    "display_name": "275, Đường Lê Thạch, Hòa An, Phường An Khê, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "house_number": "275",
+      "road": "Đường Lê Thạch",
+      "quarter": "Hòa An",
+      "city": "Phường An Khê",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
