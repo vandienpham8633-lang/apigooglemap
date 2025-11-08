@@ -125884,5 +125884,35 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.06252,106.8539": {
+    "display_name": "Xã Hưng Phước, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.12653,108.7987": {
+    "display_name": "Trần Hưng Đạo, Quảng Ngãi, Phường Cẩm Thành, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Trần Hưng Đạo",
+      "city": "Quảng Ngãi",
+      "county": "Phường Cẩm Thành",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.896593,106.6599": {
+    "display_name": "Xã Thạnh Hải, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Thạnh Hải",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
