@@ -127226,5 +127226,67 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.15924,106.7171": {
+    "display_name": "Đường tỉnh 742, Cổng Xanh, Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 742",
+      "quarter": "Cổng Xanh",
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.84712,108.8128": {
+    "display_name": "Phước Tân, Xã Bác Ái Tây, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Tân",
+      "county": "Xã Bác Ái Tây",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.40761,107.5479": {
+    "display_name": "Phường Kim Long, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "city": "Phường Kim Long",
+      "county": "Phường Kim Long",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.0929,109.3119": {
+    "display_name": "Sân Vận Động Lê Trung Kiên, Nguyễn Huệ, Tuy Hòa, Phường Tuy Hòa, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "leisure": "Sân Vận Động Lê Trung Kiên",
+      "road": "Nguyễn Huệ",
+      "city": "Tuy Hòa",
+      "county": "Phường Tuy Hòa",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.15928,106.7172": {
+    "display_name": "Đường tỉnh 742, Cổng Xanh, Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 742",
+      "quarter": "Cổng Xanh",
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
