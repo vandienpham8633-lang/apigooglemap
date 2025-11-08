@@ -127517,5 +127517,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.7826,106.4934": {
+    "display_name": "Đường Số 11, Khu dân cư Tân Đô, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường Số 11",
+      "residential": "Khu dân cư Tân Đô",
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.74433,108.1868": {
+    "display_name": "Đường tránh Buôn Ma Thuột, Ko H'Neh, Xã Cuôr Đăng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường tránh Buôn Ma Thuột",
+      "village": "Ko H'Neh",
+      "county": "Xã Cuôr Đăng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
