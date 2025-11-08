@@ -127496,5 +127496,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.36613,105.3654": {
+    "display_name": "Xã An Châu, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã An Châu",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
