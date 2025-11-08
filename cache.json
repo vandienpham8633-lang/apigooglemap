@@ -125935,5 +125935,23 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.06251,106.8539": {
+    "display_name": "Xã Hưng Phước, Việt Nam",
+    "address": {
+      "county": "Xã Hưng Phước",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.39726,107.8315": {
+    "display_name": "Xã Sa Bình, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Sa Bình",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
