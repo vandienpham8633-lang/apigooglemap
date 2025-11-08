@@ -125580,5 +125580,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.16711,107.5202": {
+    "display_name": "Thôn 7, Xã Đức Linh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Thôn 7",
+      "county": "Xã Đức Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.42373,109.0001": {
+    "display_name": "Đường Ngọc Hân Công Chúa, KP.Thiết Đính Nam, P.Bồng Sơn, Phường Bồng Sơn, Thị xã Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Đường Ngọc Hân Công Chúa",
+      "quarter": "KP.Thiết Đính Nam, P.Bồng Sơn",
+      "suburb": "Phường Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.04144,108.2228": {
+    "display_name": "Quảng trường 29 Tháng 3, Phường Hòa Cường, Thành phố Đà Nẵng, 02363, Việt Nam",
+    "address": {
+      "road": "Quảng trường 29 Tháng 3",
+      "city": "Phường Hòa Cường",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "02363",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
