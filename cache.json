@@ -129589,5 +129589,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.91922,105.0848": {
+    "display_name": "Quốc lộ 91C, Xã Nhơn Hội, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 91C",
+      "county": "Xã Nhơn Hội",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
