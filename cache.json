@@ -130132,5 +130132,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.82664,105.2041": {
+    "display_name": "Phố Trần Vỹ, Phường Minh Xuân, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "road": "Phố Trần Vỹ",
+      "suburb": "Phường Minh Xuân",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
