@@ -130026,5 +130026,17 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.7203,105.7355": {
+    "display_name": "Xóm Chợ, Thôn Đoài, Xã Hồng Sơn, Hà Nội, Việt Nam",
+    "address": {
+      "neighbourhood": "Xóm Chợ",
+      "quarter": "Thôn Đoài",
+      "city_district": "Xã Hồng Sơn",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
