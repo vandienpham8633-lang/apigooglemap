@@ -129666,5 +129666,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.27019,107.8888": {
+    "display_name": "Xã Ia Phí, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Phí",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
