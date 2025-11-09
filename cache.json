@@ -128236,5 +128236,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.6145,108.9239": {
+    "display_name": "Đắc Nhơn, Phường Đô Vinh, Khánh Hòa, Việt Nam",
+    "address": {
+      "hamlet": "Đắc Nhơn",
+      "county": "Phường Đô Vinh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.950675,106.4798": {
+    "display_name": "Xã Quới Điền, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Quới Điền",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.960615,105.2822": {
+    "display_name": "Trần Văn Nghĩa, Xã Giồng Riềng, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Trần Văn Nghĩa",
+      "county": "Xã Giồng Riềng",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
