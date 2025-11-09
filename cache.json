@@ -129269,5 +129269,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.10077,106.6225": {
+    "display_name": "Xã Tân Xuân, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Xuân",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
