@@ -129600,5 +129600,24 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.99767,107.3938": {
+    "display_name": "Phượng Vỹ, Xã Xuân Thành, Việt Nam",
+    "address": {
+      "village": "Phượng Vỹ",
+      "county": "Xã Xuân Thành",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.47729,106.0786": {
+    "display_name": "Xã Trà Vong, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Xã Trà Vong",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
