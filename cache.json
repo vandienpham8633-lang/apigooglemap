@@ -128988,5 +128988,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.54622,107.9476": {
+    "display_name": "Ka Long Riverside City, Phường Móng Cái 3, Tỉnh Quảng Ninh, 01508, Việt Nam",
+    "address": {
+      "neighbourhood": "Ka Long Riverside City",
+      "county": "Phường Móng Cái 3",
+      "state": "Tỉnh Quảng Ninh",
+      "ISO3166-2-lvl4": "VN-13",
+      "postcode": "01508",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.7361,103.3929": {
+    "display_name": "Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
