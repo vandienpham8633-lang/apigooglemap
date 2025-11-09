@@ -130080,5 +130080,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.26812,108.8164": {
+    "display_name": "Quốc lộ 27C, Xã Nam Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Nam Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.905419,106.1146": {
+    "display_name": "Xã Tam Ngãi, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tam Ngãi",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
