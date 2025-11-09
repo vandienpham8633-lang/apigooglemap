@@ -128700,5 +128700,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "18.26215,105.9339": {
+    "display_name": "Thương Ly, Xã Cẩm Duệ, Hà Tĩnh, Việt Nam",
+    "address": {
+      "hamlet": "Thương Ly",
+      "town": "Xã Cẩm Duệ",
+      "state": "Hà Tĩnh",
+      "ISO3166-2-lvl4": "VN-23",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.071787,105.0176": {
+    "display_name": "Xã Lương Thế Trân, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Xã Lương Thế Trân",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.51014,107.6005": {
+    "display_name": "Phường Dương Nỗ, Thành phố Huế, Việt Nam",
+    "address": {
+      "city": "Phường Dương Nỗ",
+      "county": "Phường Dương Nỗ",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78317,107.7948": {
+    "display_name": "Xã Ia Krêl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Krêl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
