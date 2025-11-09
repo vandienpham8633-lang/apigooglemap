@@ -128900,5 +128900,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.26158,105.6855": {
+    "display_name": "Hòa Long, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "village": "Hòa Long",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
