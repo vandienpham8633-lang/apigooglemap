@@ -128391,5 +128391,98 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.88279,105.2825": {
+    "display_name": "Xã Thường Xuân, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Thường Xuân",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.87913,106.8146": {
+    "display_name": "Bến xe Miền Đông Mới, Xa lộ Hà Nội, Tân Lập, Phường Long Bình, Thành phố Hồ Chí Minh, 00084, Việt Nam",
+    "address": {
+      "amenity": "Bến xe Miền Đông Mới",
+      "road": "Xa lộ Hà Nội",
+      "quarter": "Tân Lập",
+      "suburb": "Phường Long Bình",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "00084",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.91684,106.5416": {
+    "display_name": "Tam Tán, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Tam Tán",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "20.87822,105.9119": {
+    "display_name": "Xã Hồng Vân, Hà Nội, Việt Nam",
+    "address": {
+      "city_district": "Xã Hồng Vân",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.6843,109.0757": {
+    "display_name": "Thạnh Đức, Phường Sa Huỳnh, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "village": "Thạnh Đức",
+      "county": "Phường Sa Huỳnh",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.79764,106.4915": {
+    "display_name": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM, Đường tỉnh 825, Xã Đức Hòa, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "office": "CTY SUẤT ĂN CÔNG NGHIỆP NGÂN HƯƠNG NAM",
+      "road": "Đường tỉnh 825",
+      "town": "Xã Đức Hòa",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.83663,108.8996": {
+    "display_name": "Phước Đại, Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Đại",
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.69546,108.0274": {
+    "display_name": "Đường D, Thôn 2, Phường Buôn Ma Thuột, Tỉnh Đắk Lắk, 63119, Việt Nam",
+    "address": {
+      "road": "Đường D",
+      "village": "Thôn 2",
+      "county": "Phường Buôn Ma Thuột",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "postcode": "63119",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
