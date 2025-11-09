@@ -130186,5 +130186,38 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.19187,107.8894": {
+    "display_name": "Thôn 14, Xã Ea Rốk, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 14",
+      "county": "Xã Ea Rốk",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.500074,105.1586": {
+    "display_name": "Kinh 14, Xã Vĩnh Thuận, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "village": "Kinh 14",
+      "county": "Xã Vĩnh Thuận",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.54325,106.7337": {
+    "display_name": "Phạm Văn Tài, Xã Tân Tập, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Phạm Văn Tài",
+      "village": "Xã Tân Tập",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
