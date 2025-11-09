@@ -128301,5 +128301,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.58336,107.2086": {
+    "display_name": "Đường số 6, Xã Nghĩa Thành, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường số 6",
+      "city_district": "Xã Nghĩa Thành",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
