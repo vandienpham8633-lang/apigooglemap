@@ -130175,5 +130175,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.99308,108.1943": {
+    "display_name": "Hòa Hiệp, Quốc lộ 1, Phường Hòa Xuân, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Hòa Hiệp",
+      "road": "Quốc lộ 1",
+      "city": "Phường Hòa Xuân",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
