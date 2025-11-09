@@ -128312,5 +128312,84 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.358611,106.0611": {
+    "display_name": "HL29, Phường Vĩnh Châu, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "HL29",
+      "city_district": "Phường Vĩnh Châu",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.44941,107.7385": {
+    "display_name": "Đường Đỗ Đăng Tuyển, Xã Phú Vang, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Đỗ Đăng Tuyển",
+      "town": "Xã Phú Vang",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.44662,106.391": {
+    "display_name": "Xã Minh Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Xã Minh Thạnh",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.68706,108.0792": {
+    "display_name": "Phan Chu Trinh, Chư Sê, Xã Chư Sê, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "road": "Phan Chu Trinh",
+      "town": "Chư Sê",
+      "county": "Xã Chư Sê",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.28064,106.3695": {
+    "display_name": "Đường Cách Mạng Tháng Tám, Khu phố 4B, Xã Dầu Tiếng, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "road": "Đường Cách Mạng Tháng Tám",
+      "quarter": "Khu phố 4B",
+      "city_district": "Xã Dầu Tiếng",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.59395,107.9409": {
+    "display_name": "Đường CN 10, Khu công nghiệp Hòa Phú, Thôn 11, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "road": "Đường CN 10",
+      "industrial": "Khu công nghiệp Hòa Phú",
+      "village": "Thôn 11",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.14674,106.5049": {
+    "display_name": "Phường Tây Nam, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "city_district": "Phường Tây Nam",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
