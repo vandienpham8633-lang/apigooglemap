@@ -128689,5 +128689,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.11928,105.6089": {
+    "display_name": "Quốc lộ 1, Xã Quỳnh Lưu, Tỉnh Nghệ An, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "town": "Xã Quỳnh Lưu",
+      "state": "Tỉnh Nghệ An",
+      "ISO3166-2-lvl4": "VN-22",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
