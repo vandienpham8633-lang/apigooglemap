@@ -128921,5 +128921,30 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.99918,109.054": {
+    "display_name": "KP.An Hoà, TT.Ngô Mây, Ngô Mây, Xã Phù Cát, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.An Hoà, TT.Ngô Mây",
+      "town": "Ngô Mây",
+      "county": "Xã Phù Cát",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.80578,106.6237": {
+    "display_name": "Hẻm 18 Đỗ Nhuận, Khu phố 2, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh, 72011, Việt Nam",
+    "address": {
+      "road": "Hẻm 18 Đỗ Nhuận",
+      "neighbourhood": "Khu phố 2",
+      "suburb": "Phường Tân Sơn Nhì",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72011",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
