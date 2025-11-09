@@ -128776,5 +128776,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "14.56688,109.0145": {
+    "display_name": "khu phố Tân Trung (phường Tam Quan), Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Tân Trung (phường Tam Quan)",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.73576,103.3931": {
+    "display_name": "Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
