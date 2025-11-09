@@ -128226,5 +128226,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.57378,105.2556": {
+    "display_name": "Xã Bình Thạnh Đông, Tỉnh An Giang, Việt Nam",
+    "address": {
+      "county": "Xã Bình Thạnh Đông",
+      "state": "Tỉnh An Giang",
+      "ISO3166-2-lvl4": "VN-44",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
