@@ -128978,5 +128978,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.64144,108.2423": {
+    "display_name": "Xã Đồng Dương, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Đồng Dương",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
