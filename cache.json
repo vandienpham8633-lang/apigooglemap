@@ -130038,5 +130038,47 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.93367,106.7154": {
+    "display_name": "Xã Tân Tiến, Việt Nam",
+    "address": {
+      "county": "Xã Tân Tiến",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.26811,108.8164": {
+    "display_name": "Quốc lộ 27C, Xã Nam Khánh Vĩnh, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27C",
+      "county": "Xã Nam Khánh Vĩnh",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.42319,109.0023": {
+    "display_name": "KP.Phụ Đức, P.Bồng Sơn, Phường Bồng Sơn, Thị xã Hoài Nhơn, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "quarter": "KP.Phụ Đức, P.Bồng Sơn",
+      "suburb": "Phường Bồng Sơn",
+      "town": "Thị xã Hoài Nhơn",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "14.5668,109.0146": {
+    "display_name": "khu phố Tân Trung (phường Tam Quan), Phường Tam Quan, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "hamlet": "khu phố Tân Trung (phường Tam Quan)",
+      "county": "Phường Tam Quan",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
