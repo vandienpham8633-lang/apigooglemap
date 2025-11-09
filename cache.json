@@ -128889,5 +128889,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "20.66876,105.8999": {
+    "display_name": "Xã Ứng Hòa, Hà Nội, 03513, Việt Nam",
+    "address": {
+      "city_district": "Xã Ứng Hòa",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "03513",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
