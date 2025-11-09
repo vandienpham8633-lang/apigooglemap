@@ -129959,5 +129959,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "19.69208,105.2113": {
+    "display_name": "Xã Thanh Quân, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Thanh Quân",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
