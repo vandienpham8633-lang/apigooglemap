@@ -128797,5 +128797,87 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.34891,106.099": {
+    "display_name": "Phường Bình Minh, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "county": "Phường Bình Minh",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78314,107.7947": {
+    "display_name": "Xã Ia Krêl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Krêl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.580116,106.0998": {
+    "display_name": "Xã Long Phú, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Long Phú",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.97744,107.1087": {
+    "display_name": "Tân Việt, Xã Bàu Hàm, Việt Nam",
+    "address": {
+      "village": "Tân Việt",
+      "county": "Xã Bàu Hàm",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.24221,107.2631": {
+    "display_name": "Quảng Lộc, Sơn Thuỷ, Xã A Lưới 3, Thành phố Huế, Việt Nam",
+    "address": {
+      "neighbourhood": "Quảng Lộc",
+      "village": "Sơn Thuỷ",
+      "town": "Xã A Lưới 3",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9232,108.0537": {
+    "display_name": "Xã Tuyên Quang, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "county": "Xã Tuyên Quang",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.85096,107.0501": {
+    "display_name": "An Viễng, Xã Bình An, 77000, Việt Nam",
+    "address": {
+      "village": "An Viễng",
+      "county": "Xã Bình An",
+      "postcode": "77000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.71971,108.2949": {
+    "display_name": "Tân An, Xã Tân Hội, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "village": "Tân An",
+      "county": "Xã Tân Hội",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
