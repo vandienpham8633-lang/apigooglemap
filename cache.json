@@ -129619,5 +129619,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.62117,107.9476": {
+    "display_name": "Thôn 7, Xã Hòa Phú, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Thôn 7",
+      "county": "Xã Hòa Phú",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.83761,107.5897": {
+    "display_name": "Quốc lộ 1, Xã Tân Minh, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 1",
+      "county": "Xã Tân Minh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.08768,106.636": {
+    "display_name": "Đường NK12, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường NK12",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "16.36722,107.7045": {
+    "display_name": "An Nông, Phường Phú Bài, Thành phố Huế, 52000, Việt Nam",
+    "address": {
+      "hamlet": "An Nông",
+      "city": "Phường Phú Bài",
+      "county": "Phường Phú Bài",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "52000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
