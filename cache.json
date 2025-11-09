@@ -130006,5 +130006,25 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.950952,106.4791": {
+    "display_name": "Xã Quới Điền, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Quới Điền",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.18471,103.9957": {
+    "display_name": "Xã Chiềng Mai, Tỉnh Sơn La, Việt Nam",
+    "address": {
+      "county": "Xã Chiềng Mai",
+      "state": "Tỉnh Sơn La",
+      "ISO3166-2-lvl4": "VN-05",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
