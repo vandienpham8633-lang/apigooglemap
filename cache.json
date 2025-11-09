@@ -130143,5 +130143,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.8556,108.3781": {
+    "display_name": "Xã Duy Nghĩa, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "town": "Xã Duy Nghĩa",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
