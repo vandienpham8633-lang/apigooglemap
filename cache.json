@@ -128667,5 +128667,27 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "12.03469,107.6714": {
+    "display_name": "Tân Tiến, Gia Nghĩa, Phường Bắc Gia Nghĩa, Tỉnh Lâm Đồng, Việt Nam",
+    "address": {
+      "quarter": "Tân Tiến",
+      "city": "Gia Nghĩa",
+      "county": "Phường Bắc Gia Nghĩa",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.78304,107.7948": {
+    "display_name": "Xã Ia Krêl, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "county": "Xã Ia Krêl",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
