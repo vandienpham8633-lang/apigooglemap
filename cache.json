@@ -128268,5 +128268,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "15.22634,108.7845": {
+    "display_name": "Xã Thọ Phong, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Thọ Phong",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
