@@ -128946,5 +128946,37 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "17.76465,42.33215": {
+    "display_name": "الكدرة, محافظة الدرب, Jizan, Ả Rập Saudi",
+    "address": {
+      "town": "الكدرة",
+      "province": "محافظة الدرب",
+      "state": "Jizan",
+      "ISO3166-2-lvl4": "SA-09",
+      "country": "Ả Rập Saudi",
+      "country_code": "sa"
+    }
+  },
+  "10.81337,106.5845": {
+    "display_name": "Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh, 71914, Việt Nam",
+    "address": {
+      "village": "Xã Tân Vĩnh Lộc",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71914",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.73577,103.3932": {
+    "display_name": "Xã Mường Mùn, Tỉnh Điện Biên, Việt Nam",
+    "address": {
+      "county": "Xã Mường Mùn",
+      "state": "Tỉnh Điện Biên",
+      "ISO3166-2-lvl4": "VN-71",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
