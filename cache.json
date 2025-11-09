@@ -129676,5 +129676,171 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.17989,107.5324": {
+    "display_name": "Thôn 10, Xã Đức Linh, Tỉnh Lâm Đồng, 77556, Việt Nam",
+    "address": {
+      "village": "Thôn 10",
+      "county": "Xã Đức Linh",
+      "state": "Tỉnh Lâm Đồng",
+      "ISO3166-2-lvl4": "VN-35",
+      "postcode": "77556",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "22.01402,106.6821": {
+    "display_name": "Tân Thanh, Xã Hoàng Văn Thụ, Tỉnh Lạng Sơn, Việt Nam",
+    "address": {
+      "village": "Tân Thanh",
+      "county": "Xã Hoàng Văn Thụ",
+      "state": "Tỉnh Lạng Sơn",
+      "ISO3166-2-lvl4": "VN-09",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.02399,106.2216": {
+    "display_name": "Đường tỉnh 786, Xã Bến Cầu, Xã Phước Chỉ, Tỉnh Tây Ninh, Việt Nam",
+    "address": {
+      "road": "Đường tỉnh 786",
+      "town": "Xã Bến Cầu",
+      "county": "Xã Phước Chỉ",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "13.01131,108.1586": {
+    "display_name": "Adrơng Prong, Xã Cư Pơng, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Adrơng Prong",
+      "county": "Xã Cư Pơng",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.8178,106.7185": {
+    "display_name": "Đường Lô 9, Phường Bình Quới, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72309, Việt Nam",
+    "address": {
+      "road": "Đường Lô 9",
+      "suburb": "Phường Bình Quới",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.86699,107.1633": {
+    "display_name": "Xã Xuân Quế, Việt Nam",
+    "address": {
+      "county": "Xã Xuân Quế",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.09748,108.7973": {
+    "display_name": "Nghĩa Lộ, Phường Nghĩa Lộ, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "suburb": "Nghĩa Lộ",
+      "county": "Phường Nghĩa Lộ",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.06969,105.8641": {
+    "display_name": "Xã Đông Anh, Hà Nội, 11810, Việt Nam",
+    "address": {
+      "city_district": "Xã Đông Anh",
+      "city": "Hà Nội",
+      "ISO3166-2-lvl4": "VN-HN",
+      "postcode": "11810",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.01986,106.7508": {
+    "display_name": "Khánh Vân, Phường Tân Hiệp, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "quarter": "Khánh Vân",
+      "city_district": "Phường Tân Hiệp",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "17.28386,106.6525": {
+    "display_name": "Xã Trường Ninh, Tỉnh Quảng Trị, Việt Nam",
+    "address": {
+      "town": "Xã Trường Ninh",
+      "state": "Tỉnh Quảng Trị",
+      "ISO3166-2-lvl4": "VN-25",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "12.91169,108.063": {
+    "display_name": "Tar, Xã Cư M'gar, Tỉnh Đắk Lắk, Việt Nam",
+    "address": {
+      "village": "Tar",
+      "county": "Xã Cư M'gar",
+      "state": "Tỉnh Đắk Lắk",
+      "ISO3166-2-lvl4": "VN-33",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.172,106.2916": {
+    "display_name": "Xã Tân Thành Bình, Tỉnh Vĩnh Long, Việt Nam",
+    "address": {
+      "county": "Xã Tân Thành Bình",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.38274,106.8796": {
+    "display_name": "Cảng  cá Đồng Hoà, Đường Duyên Hải, Xã Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam",
+    "address": {
+      "leisure": "Cảng  cá Đồng Hoà",
+      "road": "Đường Duyên Hải",
+      "town": "Xã Cần Giờ",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.53667,107.4081": {
+    "display_name": "Công An huyện Xuyên Mộc, 284, Quốc lộ 55, Thạnh Sơn, Xã Hồ Tràm, Thành phố Hồ Chí Minh, 78500, Việt Nam",
+    "address": {
+      "amenity": "Công An huyện Xuyên Mộc",
+      "house_number": "284",
+      "road": "Quốc lộ 55",
+      "neighbourhood": "Thạnh Sơn",
+      "city_district": "Xã Hồ Tràm",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "78500",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.9505,107.0555": {
+    "display_name": "Bàu Cá, Xã Hưng Thịnh, Việt Nam",
+    "address": {
+      "village": "Bàu Cá",
+      "county": "Xã Hưng Thịnh",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
