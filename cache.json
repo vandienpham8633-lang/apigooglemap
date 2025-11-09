@@ -129842,5 +129842,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "13.7951,107.6992": {
+    "display_name": "Chư Ty, Xã Đức Cơ, Tỉnh Gia Lai, Việt Nam",
+    "address": {
+      "town": "Chư Ty",
+      "county": "Xã Đức Cơ",
+      "state": "Tỉnh Gia Lai",
+      "ISO3166-2-lvl4": "VN-30",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
