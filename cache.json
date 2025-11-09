@@ -130111,5 +130111,15 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.44702,105.7796": {
+    "display_name": "Xã Bình Hàng Trung, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Xã Bình Hàng Trung",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
