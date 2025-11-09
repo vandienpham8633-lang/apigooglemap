@@ -129011,6 +129011,18 @@
       "country_code": "vn"
     }
   },
+  "10.92932,106.5333": {
+    "display_name": "Đường Đào Thị Kiểm, Xã Củ Chi, Thành phố Hồ Chí Minh, 71608, Việt Nam",
+    "address": {
+      "road": "Đường Đào Thị Kiểm",
+      "city_district": "Xã Củ Chi",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "71608",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
   "9.896627,106.66": {
     "display_name": "Xã Thạnh Hải, Tỉnh Vĩnh Long, Việt Nam",
     "address": {
