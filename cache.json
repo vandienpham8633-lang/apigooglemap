@@ -129566,5 +129566,28 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.82988,108.8881": {
+    "display_name": "Quốc lộ 27B, Trà Co 1, Phước Thắng, Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 27B",
+      "hamlet": "Trà Co 1",
+      "village": "Phước Thắng",
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.82992,108.888": {
+    "display_name": "Xã Bác Ái Đông, Khánh Hòa, Việt Nam",
+    "address": {
+      "county": "Xã Bác Ái Đông",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
