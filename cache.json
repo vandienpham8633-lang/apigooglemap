@@ -128540,5 +128540,29 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "21.2097,106.0337": {
+    "display_name": "Đại Lâm, Xã Tam Đa, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "quarter": "Đại Lâm",
+      "suburb": "Xã Tam Đa",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "21.20966,106.0338": {
+    "display_name": "Đại Lâm, Xã Tam Đa, Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",
+    "address": {
+      "quarter": "Đại Lâm",
+      "suburb": "Xã Tam Đa",
+      "city": "Bắc Ninh",
+      "state": "Tỉnh Bắc Ninh",
+      "ISO3166-2-lvl4": "VN-56",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
