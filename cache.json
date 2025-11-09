@@ -129969,5 +129969,42 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "0.5836983,111.302": {
+    "display_name": "Panggi Agung, Ketungau Tengah, Sintang, Kalimantan Barat, Kalimantan, Indonesia",
+    "address": {
+      "village": "Panggi Agung",
+      "municipality": "Ketungau Tengah",
+      "county": "Sintang",
+      "state": "Kalimantan Barat",
+      "ISO3166-2-lvl4": "ID-KB",
+      "region": "Kalimantan",
+      "ISO3166-2-lvl3": "ID-KA",
+      "country": "Indonesia",
+      "country_code": "id"
+    }
+  },
+  "11.34535,108.8872": {
+    "display_name": "Phước Diêm, Xã Cà Ná, Khánh Hòa, Việt Nam",
+    "address": {
+      "village": "Phước Diêm",
+      "county": "Xã Cà Ná",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.08777,106.636": {
+    "display_name": "Đường NK12, Phường Thới Hòa, Thành phố Hồ Chí Minh, 75900, Việt Nam",
+    "address": {
+      "road": "Đường NK12",
+      "city_district": "Phường Thới Hòa",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75900",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
