@@ -130470,5 +130470,36 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.43529,106.6215": {
+    "display_name": "Phường Bình Xuân, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "county": "Phường Bình Xuân",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.543622,106.1719": {
+    "display_name": "Xã Trần Đề, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "city_district": "Xã Trần Đề",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.589542,105.5962": {
+    "display_name": "Quốc lộ 61B, Phường Ngã Năm, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Quốc lộ 61B",
+      "city_district": "Phường Ngã Năm",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
