@@ -130617,5 +130617,40 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.89543,106.6999": {
+    "display_name": "Đường Lái Thiêu 101, Long Thới, Phường Lái Thiêu, Thuận An, Thành phố Hồ Chí Minh, 75206, Việt Nam",
+    "address": {
+      "road": "Đường Lái Thiêu 101",
+      "quarter": "Long Thới",
+      "suburb": "Phường Lái Thiêu",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.36178,105.5179": {
+    "display_name": "Khóm Bình Thạnh 1, Lấp Vò, Xã Lấp Vò, Tỉnh Đồng Tháp, Việt Nam",
+    "address": {
+      "hamlet": "Khóm Bình Thạnh 1",
+      "town": "Lấp Vò",
+      "county": "Xã Lấp Vò",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "23.03171,105.2841": {
+    "display_name": "Xã Mậu Duệ, Tỉnh Tuyên Quang, Việt Nam",
+    "address": {
+      "town": "Xã Mậu Duệ",
+      "yes": "Tỉnh Tuyên Quang",
+      "ISO3166-2-lvl4": "VN-07",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
