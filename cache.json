@@ -130686,5 +130686,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.14502,106.6892": {
+    "display_name": "Phường Vĩnh Tân, Thành phố Hồ Chí Minh, 75409, Việt Nam",
+    "address": {
+      "city_district": "Phường Vĩnh Tân",
+      "city": "Thành phố Hồ Chí Minh",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75409",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.89549,106.6998": {
+    "display_name": "Lái Thiêu 100, Long Thới, Phường Lái Thiêu, Thuận An, Thành phố Hồ Chí Minh, 75206, Việt Nam",
+    "address": {
+      "road": "Lái Thiêu 100",
+      "quarter": "Long Thới",
+      "suburb": "Phường Lái Thiêu",
+      "city": "Thuận An",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "75206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.00496,108.8781": {
+    "display_name": "Xã Mỏ Cày, Tỉnh Quảng Ngãi, Việt Nam",
+    "address": {
+      "county": "Xã Mỏ Cày",
+      "state": "Tỉnh Quảng Ngãi",
+      "ISO3166-2-lvl4": "VN-29",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
