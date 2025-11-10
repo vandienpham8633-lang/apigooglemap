@@ -130583,5 +130583,39 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.72884,106.9475": {
+    "display_name": "Phước Lai, Hiệp Phước, Xã Nhơn Trạch, Tỉnh Đồng Nai, 76206, Việt Nam",
+    "address": {
+      "quarter": "Phước Lai",
+      "town": "Hiệp Phước",
+      "county": "Xã Nhơn Trạch",
+      "state": "Tỉnh Đồng Nai",
+      "ISO3166-2-lvl4": "VN-39",
+      "postcode": "76206",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.69298,105.2134": {
+    "display_name": "Xã Thanh Quân, Tỉnh Thanh Hóa, Việt Nam",
+    "address": {
+      "town": "Xã Thanh Quân",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.324415,105.7781": {
+    "display_name": "ĐT. 976, Xã Hưng Hội, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "road": "ĐT. 976",
+      "county": "Xã Hưng Hội",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
