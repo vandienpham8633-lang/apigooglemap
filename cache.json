@@ -130385,5 +130385,52 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "11.25395,106.1345": {
+    "display_name": "Nguyễn Chí Thanh, Phường Hòa Thành, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "road": "Nguyễn Chí Thanh",
+      "county": "Phường Hòa Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55412,108.9547": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "19.77513,105.7711": {
+    "display_name": "Bệnh viện Đa khoa tỉnh Thanh Hoá, Đường Trịnh Kiểm, Đông Sơn, Phường Hạc Thành, Tỉnh Thanh Hóa, 45000, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Đa khoa tỉnh Thanh Hoá",
+      "road": "Đường Trịnh Kiểm",
+      "suburb": "Đông Sơn",
+      "city": "Phường Hạc Thành",
+      "state": "Tỉnh Thanh Hóa",
+      "ISO3166-2-lvl4": "VN-21",
+      "postcode": "45000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.35038,105.7888": {
+    "display_name": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp, 81000, Việt Nam",
+    "address": {
+      "county": "Xã Mỹ Hiệp",
+      "state": "Tỉnh Đồng Tháp",
+      "ISO3166-2-lvl4": "VN-45",
+      "postcode": "81000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
