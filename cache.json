@@ -130445,5 +130445,30 @@
       "country": "Lào",
       "country_code": "la"
     }
+  },
+  "16.49325,107.5781": {
+    "display_name": "Tăng Bạt Hổ, Phường Phú Xuân, Thành phố Huế, 54000, Việt Nam",
+    "address": {
+      "road": "Tăng Bạt Hổ",
+      "city": "Phường Phú Xuân",
+      "county": "Phường Phú Xuân",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "postcode": "54000",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "15.59794,108.4794": {
+    "display_name": "Bệnh viện Phạm Ngọc Thạch Quảng Nam, Nguyễn Văn Trỗi, Phường Quảng Phú, Thành phố Đà Nẵng, Việt Nam",
+    "address": {
+      "amenity": "Bệnh viện Phạm Ngọc Thạch Quảng Nam",
+      "road": "Nguyễn Văn Trỗi",
+      "city_district": "Phường Quảng Phú",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
