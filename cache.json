@@ -130302,5 +130302,51 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.27063,107.2347": {
+    "display_name": "Đường Đinh Núp, A Ngo, Xã A Lưới 2, Thành phố Huế, Việt Nam",
+    "address": {
+      "road": "Đường Đinh Núp",
+      "village": "A Ngo",
+      "town": "Xã A Lưới 2",
+      "state": "Thành phố Huế",
+      "ISO3166-2-lvl4": "VN-26",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.55418,108.9546": {
+    "display_name": "Xã Ninh Phước, Khánh Hòa, Việt Nam",
+    "address": {
+      "town": "Xã Ninh Phước",
+      "state": "Khánh Hòa",
+      "ISO3166-2-lvl4": "VN-34",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "11.25397,106.1345": {
+    "display_name": "Nguyễn Chí Thanh, Phường Hòa Thành, Tỉnh Tây Ninh, 84060, Việt Nam",
+    "address": {
+      "road": "Nguyễn Chí Thanh",
+      "county": "Phường Hòa Thành",
+      "state": "Tỉnh Tây Ninh",
+      "ISO3166-2-lvl4": "VN-37",
+      "postcode": "84060",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "10.7789,106.6642": {
+    "display_name": "Hẻm 58 Đồng Nai, Phường Hòa Hưng, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, 72117, Việt Nam",
+    "address": {
+      "road": "Hẻm 58 Đồng Nai",
+      "suburb": "Phường Hòa Hưng",
+      "city": "Thành phố Thủ Đức",
+      "ISO3166-2-lvl4": "VN-SG",
+      "postcode": "72117",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
