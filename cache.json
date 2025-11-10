@@ -130291,5 +130291,16 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "16.01195,108.1649": {
+    "display_name": "Xã Bà Nà, Thành phố Đà Nẵng, 84236, Việt Nam",
+    "address": {
+      "town": "Xã Bà Nà",
+      "city": "Thành phố Đà Nẵng",
+      "ISO3166-2-lvl4": "VN-DN",
+      "postcode": "84236",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
