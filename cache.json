@@ -130665,5 +130665,26 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "9.255698,105.8017": {
+    "display_name": "Phường Hiệp Thành, Tỉnh Cà Mau, Việt Nam",
+    "address": {
+      "county": "Phường Hiệp Thành",
+      "state": "Tỉnh Cà Mau",
+      "ISO3166-2-lvl4": "VN-59",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
+  },
+  "9.500422,105.85": {
+    "display_name": "Trưng Nhị, Xã Nhu Gia, Thành phố Cần Thơ, Việt Nam",
+    "address": {
+      "road": "Trưng Nhị",
+      "city_district": "Xã Nhu Gia",
+      "city": "Thành phố Cần Thơ",
+      "ISO3166-2-lvl4": "VN-CT",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
