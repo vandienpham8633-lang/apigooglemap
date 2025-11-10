@@ -130359,5 +130359,18 @@
       "country": "Việt Nam",
       "country_code": "vn"
     }
+  },
+  "10.2539,106.1449": {
+    "display_name": "Công Ty Trách Nhiệm Hữu Hạn Xuất Nhập Khẩu Trái Cây Chánh Thu, Chợ Lách, Xã Chợ Lách, Tỉnh Vĩnh Long, 86309, Việt Nam",
+    "address": {
+      "industrial": "Công Ty Trách Nhiệm Hữu Hạn Xuất Nhập Khẩu Trái Cây Chánh Thu",
+      "town": "Chợ Lách",
+      "county": "Xã Chợ Lách",
+      "state": "Tỉnh Vĩnh Long",
+      "ISO3166-2-lvl4": "VN-49",
+      "postcode": "86309",
+      "country": "Việt Nam",
+      "country_code": "vn"
+    }
   }
 }
