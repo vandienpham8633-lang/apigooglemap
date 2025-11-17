@@ -8,15 +8,36 @@ import { Redis } from "@upstash/redis";
 const PORT = process.env.PORT || 10000;
 
 const redis = new Redis({
-  url: process.env.REDIS_URL,      // đặt trong Render Dashboard
-  token: process.env.REDIS_TOKEN   // đặt trong Render Dashboard
+  url: process.env.REDIS_URL,
+  token: process.env.REDIS_TOKEN
 });
+
+// ==== RAM CACHE (Layer 1 – giảm 90–99% Redis GET) ====
+const memoryCache = {};
+const MEMORY_TTL = 24 * 60 * 60 * 1000; // RAM lưu 24 giờ
+
+const memorySet = (key, data) => {
+  memoryCache[key] = {
+    data,
+    expires: Date.now() + MEMORY_TTL
+  };
+};
+
+const memoryGet = (key) => {
+  const item = memoryCache[key];
+  if (!item) return null;
+  if (Date.now() > item.expires) {
+    delete memoryCache[key];
+    return null;
+  }
+  return item.data;
+};
 
 // ==== Express ====
 const app = express();
 app.use(compression());
 
-// ==== Queue (1 request/s đúng chuẩn Nominatim) ====
+// ==== Queue 1 request/s chuẩn Nominatim ====
 const queue = new PQueue({ concurrency: 1, interval: 1000, intervalCap: 1 });
 
 // ==== Gọi Nominatim ====
@@ -26,7 +47,7 @@ async function callNominatim(lat, lon) {
 
     const res = await fetch(url, {
       headers: {
-        "User-Agent": "MyApp/1.0 (contact: youremail@gmail.com)"
+        "User-Agent": "Bao-OSM-Proxy/1.0 (contact: baobao@gmail.com)"
       },
       timeout: 7000
     });
@@ -38,31 +59,38 @@ async function callNominatim(lat, lon) {
     }
 
     if (!res.ok) throw new Error(`Nominatim error ${res.status}`);
-
     return res.json();
   });
 }
 
 // ==== ROUTES ====
 app.get("/", (req, res) => {
-  res.send("🚀 Redis OSM API running! Use /address?lat=10.7&lng=106.6");
+  res.send("🚀 Bao OSM Reverse API running • /address?lat=10.7&lng=106.6");
 });
 
 // ==== API LẤY ĐỊA CHỈ ====
 app.get("/address", async (req, res) => {
   const { lat, lng } = req.query;
 
-  if (!lat || !lng) return res.status(400).json({ error: "Missing lat or lng" });
+  if (!lat || !lng)
+    return res.status(400).json({ error: "Missing lat or lng" });
 
   const key = `${lat},${lng}`;
 
-  // 1. KIỂM TRA CACHE REDIS
+  // 🔥 1) CHECK RAM CACHE (0 request Redis)
+  const ram = memoryGet(key);
+  if (ram) {
+    return res.json({ source: "ram", ...ram });
+  }
+
+  // 🔥 2) CHECK REDIS (Layer 2)
   const cached = await redis.get(key);
   if (cached) {
+    memorySet(key, cached); // đẩy lên RAM
     return res.json({ source: "redis", ...cached });
   }
 
-  // 2. GỌI NOMINATIM
+  // 🔥 3) GỌI NOMINATIM (Layer 3)
   try {
     const data = await callNominatim(lat, lng);
 
@@ -71,8 +99,8 @@ app.get("/address", async (req, res) => {
       address: data.address || {}
     };
 
-    // 3. LƯU CACHE VÀO REDIS (TTL: 60 ngày)
-    await redis.set(key, result, { ex: 5184000 });
+    memorySet(key, result); // → RAM
+    await redis.set(key, result, { ex: 15552000 }); // → Redis, TTL 180 ngày
 
     res.json({ source: "nominatim", ...result });
 
@@ -94,5 +122,5 @@ app.get("/redis-test", async (req, res) => {
 
 // ==== START SERVER ====
 app.listen(PORT, () => {
-  console.log(`🚀 Server running on port ${PORT}`);
+  console.log(`🚀 Bao OSM API running on port ${PORT}`);
 });
