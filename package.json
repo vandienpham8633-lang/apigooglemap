@@ -11,7 +11,8 @@
     "node-fetch": "^3.3.2",
     "better-sqlite3": "^9.4.0",
     "p-queue": "^8.0.1",
-    "open-location-code": "^1.0.3"
+    "open-location-code": "^1.0.3",
+    "compression": "^1.7.4",
+    "@upstash/redis": "^1.22.0"
   }
 }
-
